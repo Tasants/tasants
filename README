@@ -1,1 +1,1 @@
-Tasants event parser.
+Tasants event parser and unittest. To run unittest install phpunit and give command "phpunit phpunit tests/unit/lib/parsers/EventImportTurkuFiTest.php".
