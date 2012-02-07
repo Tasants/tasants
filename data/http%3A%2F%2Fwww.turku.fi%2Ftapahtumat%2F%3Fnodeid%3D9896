@@ -1,0 +1,703 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><link rel="stylesheet" type="text/css" media="screen" href="theme/screen3.css" /><link rel="stylesheet" type="text/css" media="print" href="theme/print.css" /><link rel="stylesheet" type="text/css" media="braille" href="theme/braille.css" /><title>
+	turku.fi &raquo; Tapahtumakalenteri&raquo; Musiikki&raquo; Klassinen
+</title></head>
+<body>
+    <form name="form1" method="post" action="?nodeid=9896" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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NB8KZR8IAoAQZBYCZg8VAQtUdXJ1biBzZXV0dWQCAw8PFgQfBQUVfi9kZWZhdWx0LmFzcHg/YXBwPTIwHwMFGUlsbW9pdGEgb21hIHRhcGFodHVtYXNpICBkZAIFD2QWAgIBDw8WAh8DBQ1LaXJqYXVkdSB1bG9zZGQCCQ8PFgQfBQUefi9kZWZhdWx0LmFzcHg/Q29udGVudElEPTI5NDU0HwMFGFRhcGFodHVtYWthbGVudGVyaW4gb2hqZWRkAg0PDxYCHwMFVlR1cnVuIGthdXB1bmtpIGVpIHZhc3RhYSB0YXBhaHR1bWFrYWxlbnRlcmlpbiBpbG1vaXRldHR1amVuIHRpZXRvamVuIG9pa2VlbGxpc3V1ZGVzdGEuZGQCDw8PFgIfAwUEMjAxMmRkAhEPDxYCHwMFDlR1cnVuIGthdXB1bmtpZGQCEw8PFgIfAwUfWWxpb3Bpc3RvbmthdHUgMjdhLCAyMDEwMCBUdXJrdWRkAhUPDxYCHwMFEXB1aC4gKDAyKSAzMzAgMDAwZGQCFw8PFgIfAwUTZmFrc2kgKDAyKSAyNjIgNzI5OWRkAhkPDxYCHwMFE3RhcGFodHVtYXRAdHVya3UuZmlkZAIbDw8WAh8FBRRodHRwOi8vd3d3LnR1cmt1LmZpL2RkAgUPZBYEZg8WAh4HY29sc3BhbgUBMRYCAgEPDxYCHg9Vc2VyQ29udHJvbFBhdGgFKS90YXBhaHR1bWF0L1VzZXJDb250cm9scy9Ob2RlQ29udGVudC5hc2N4ZBYCZg8PFgIeDUN1cnJlbnROb2RlSWQCqE1kFgxmD2QWAmYPFgIfBGZkAgIPZBYCZg8WAh8EAgEWAgIBD2QWBmYPFQEeS29uc2VydHRlaWhpbiBvbiB2YXBhYSBww6TDpHN5ZAIBDw8WBB8FBR9+L0RlZmF1bHQuYXNweD9Db250ZW50SUQ9MzE0MzgzHwMFHldBTS1rb25zZXJ0aXQga2V2w6TDpGxsw6QgMjAxMmRkAgIPFQJqS2V2w6TDpG4gMjAxMiB2aWlkZXNzw6R0b2lzdGEga29uc2VydGlzc2Ega3V1bGxhYW4gbW9uaXB1b2xpc3RhIG11c2lpa2tpYSBrZXNraWFqYXN0YSB0w6Row6RuIHDDpGl2w6TDpG4uIHI8aW1nIHNyYz0nZG93bmxvYWQuYXNweD9JRD0xMDk1MjMmR1VJRD17NUEyQTEzMkUtOUNBRi00M0MwLUIzQjQtNjUwNTU4Mzg4QUJDfScgYWxpZ249JycgYWx0PSdTb2l0aW4nIGJvcmRlcj0nMCcgLz5kAgQPZBYCAgEPZBYEZg8PFgIfDWVkZAIED2QWAgIBDw8WAh8DBS5UdXJ1biBrYXVwdW5naW4gdGFwYWh0dW1ha2FsZW50ZXJpbiBldHVzaXZ1bGxlZGQCBg8PFgIfAwUJS2xhc3NpbmVuZGQCCA8PFggeEUN1cnJlbnREYXRlRXZlbnRzMtwHAAEAAAD/////AQAAAAAAAAAMAgAAAG5GdWppdHN1Lk5ldENvbW11bml0eS5XZWIuVHVydW5UYXBhaHR1bWFrYWxlbnRlcmksIFZlcnNpb249MS4wLjQzMDkuMjMzMTUsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAUBAAAAS05DLldlYi5UdXJ1blRhcGFodHVtYWthbGVudGVyaS5Vc2VyQ29udHJvbHMuTGlzdENvbnRlbnQrRGF0ZUV2ZW50Q29sbGVjdGlvbgMAAAANTGlzdGAxK19pdGVtcwxMaXN0YDErX3NpemUPTGlzdGAxK192ZXJzaW9uBAAAQ05DLldlYi5UdXJ1blRhcGFodHVtYWthbGVudGVyaS5Vc2VyQ29udHJvbHMuTGlzdENvbnRlbnQrRGF0ZUV2ZW50W10CAAAACAgCAAAACQMAAAAPAAAAEAAAAAcDAAAAAAEAAAAQAAAABEFOQy5XZWIuVHVydW5UYXBhaHR1bWFrYWxlbnRlcmkuVXNlckNvbnRyb2xzLkxpc3RDb250ZW50K0RhdGVFdmVudAIAAAAJBAAAAAkFAAAACQYAAAAJBwAAAAkIAAAACQkAAAAJCgAAAAkLAAAACQwAAAAJDQAAAAkOAAAACQ8AAAAJEAAAAAkRAAAACRIAAAAKBQQAAABBTkMuV2ViLlR1cnVuVGFwYWh0dW1ha2FsZW50ZXJpLlVzZXJDb250cm9scy5MaXN0Q29udGVudCtEYXRlRXZlbnQDAAAAAklkBERhdGULUHVibGlzaGVkSWQAAAAIDQgCAAAAAQAAAAAAJbwLtM4IOL8cAAEFAAAABAAAAAIAAAAAQAnli7nOCDm/HAABBgAAAAQAAAAD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" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+function OpenNCPopup(path) {
+child = window.open(path,'','toolbar=no,width=700,height=500,directories=no,status=no,scrollbars=yes,menubar=no');
+child.creator = self;
+}
+var printPossible = (window.print) ? 1 : 0;
+function printPage() {
+   if (printPossible)
+       window.print()
+   else // other browsers
+       alert("Selaimesi ei tue t‰t‰ toimintoa, valitse menusta File -> Print tulostaaksesi sivun");
+}//]]>
+</script>
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBwLxt5bKBALf4a68BwKxmZfyDwKU382bDAKU39mbDAKU3+GbDAKU3+mbDPhVbZEzPCrBiwEMvaz56VrJKMM8VjWyoFxQ5Zfx4Uy5" />
+        <div>
+            
+<!-- hiddenHeader BEGIN -->
+<p class="forBraille">
+    <a href="#contentbegin">siirry suoraan sis&auml;lt&ouml;&ouml;n</a></p>
+<h1 class="forBraille">
+    Kielivalinta</h1>
+<span class="forBraille">Valitse kieli: <a href="#">suomeksi</a> <a href="#">p&aring;
+    svenska</a> </span>
+<!-- hiddenHeader END -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+        <td colspan="3" id="topstripe">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="3">
+            
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tr>
+        <td valign="middle" id="logo">
+            <a id="Default1_Top1_hlGotoFrontPage" href="./"><img id="Default1_Top1_imgLogo" src="theme/1_logo.gif" border="0" /></a>
+        </td>
+        <td valign="top" id="pageingress" class="Lan_1">
+            &nbsp;</td>
+        <td width="250" valign="middle" id="haku">
+            
+<h1 class="forBraille">
+    Haku</h1>
+<div id="Default1_Top1_QuickSearch1_EmptyPanel1">
+	
+    <p>
+        <strong>
+            <span id="Default1_Top1_QuickSearch1_lblSearchEvents">Hae tapahtumista</span>:</strong>
+        <br />
+        <input name="Default1$Top1$QuickSearch1$tbSearchTerms" type="text" id="Default1_Top1_QuickSearch1_tbSearchTerms" />
+        &nbsp;<input type="submit" name="Default1$Top1$QuickSearch1$btnSearchQuick" value="Hae" id="Default1_Top1_QuickSearch1_btnSearchQuick" />
+        <br />
+        <a id="Default1_Top1_QuickSearch1_lbAdvancedSearch" href="./?app=4">Tarkennettu haku</a>
+    </p>
+
+</div>
+
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" id="languagestripe">
+            
+<p>
+    
+            <a href="default.aspx?culture=sv-FI&amp;contentLan=3">pÂ svenska</a>
+        |
+            <a href="default.aspx?culture=en-US&amp;contentLan=2">in English</a>
+        
+</p>
+
+        </td>
+        <td valign="top" id="navistripe">
+            <!-- navipath BEGIN -->
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td>
+                        <h1 class="forBraille">
+                            Murupolku</h1>
+                        <p>
+                            <a id="Default1_Top1_hlGotoMainSite" href="http://www.turku.fi">turku.fi</a>
+                            &raquo;
+                            <a id="Default1_Top1_hlGotoEventCalendarFrontPage" href="./">Tapahtumakalenterin etusivu</a>
+                            <span id="Default1_Top1_lblCrumbPathSeparator"> ª </span>
+                            
+                                    <a id="Default1_Top1_rptBreadCrumb_ctl00_hlNode" href="Default.aspx?nodeid=9885">Musiikki</a>
+                                    &raquo;
+                                
+                                    <a id="Default1_Top1_rptBreadCrumb_ctl02_hlNode" href="Default.aspx?nodeid=9896">Klassinen</a>
+                        </p>
+                    </td>
+                </tr>
+            </table>
+            <!-- navipath END -->
+        </td>
+        <td valign="top" id="textsizestripe">
+            <p>
+                <span id="Default1_Top1_lblTextSize">Tekstin koko</span>:
+                <a id="Default1_Top1_lbSize11" href="javascript:__doPostBack(&#39;Default1$Top1$lbSize11&#39;,&#39;&#39;)"><u>a</u></a>&nbsp;
+                <a id="Default1_Top1_lbSize12" href="javascript:__doPostBack(&#39;Default1$Top1$lbSize12&#39;,&#39;&#39;)"><u>a</u></a>&nbsp;
+                <a id="Default1_Top1_lbSize14" href="javascript:__doPostBack(&#39;Default1$Top1$lbSize14&#39;,&#39;&#39;)">a</a>&nbsp;
+                <a id="Default1_Top1_lbSize16" href="javascript:__doPostBack(&#39;Default1$Top1$lbSize16&#39;,&#39;&#39;)"><u>a</u></a>&nbsp;
+            </p>
+        </td>
+    </tr>
+</table>
+
+        </td>
+    </tr>
+    <tr>
+        <td width="250" valign="top" id="navibar">
+            
+<!-- navi BEGIN -->
+<table width="250" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td>
+            
+<h1 class="forBraille">
+    Navigointi</h1>
+<p class="Pnavi">
+    <a id="Default1_Left1_Navigation1_hlGotoEventCalendarFrontPage" href="./">Tapahtumakalenterin etusivu</a>
+</p>
+<h2 class="Pnavi">
+    <span id="Default1_Left1_Navigation1_lblEventClassesHeader">Tapahtumaluokat:</span>
+</h2>
+
+        <p class="PnaviSelected">
+            <a id="Default1_Left1_Navigation1_rptEventClassesHeader_ctl00_hlHeaderNode" href="/tapahtumat/?nodeid=9885">Musiikki</a>
+        </p>
+    
+
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl00_hlNode" href="/tapahtumat/?nodeid=9895">Kirkkokonsertit</a>
+        </p>
+    
+        <p class="Pnavi">
+            <span id="Default1_Left1_Navigation1_rptEventClasses_ctl01_lblSelectedArrows"><b></b></span>
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl01_hlNode" href="/tapahtumat/?nodeid=9896"><b>Klassinen</b></a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl02_hlNode" href="/tapahtumat/?nodeid=9897">Pop / rock / jazz / dj:t</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl03_hlNode" href="/tapahtumat/?nodeid=9898">Tanssit</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl04_hlNode" href="/tapahtumat/?nodeid=9899">Viihdemusiikki</a>
+        </p>
+    
+<h2 class="Pnavi">
+    <span id="Default1_Left1_Navigation1_lblTargetAudienceHeader">Kohderyhm‰t:</span>
+</h2>
+
+
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptTargetAudiences_ctl00_hlNode" href="/tapahtumat/?nodeid=9892">Lapset ja perheet</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptTargetAudiences_ctl01_hlNode" href="/tapahtumat/?nodeid=9893">Nuoret</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptTargetAudiences_ctl02_hlNode" href="/tapahtumat/?nodeid=9894">Seniorit</a>
+        </p>
+    
+
+<h2 class="Pnavi">
+    <span id="Default1_Left1_Navigation1_lblRegionHeader">Alueet:</span>
+</h2>
+
+
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptRegions_ctl00_hlNode" href="/tapahtumat/?nodeid=16604">Turku</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptRegions_ctl01_hlNode" href="/tapahtumat/?nodeid=16614">Turun seutu</a>
+        </p>
+    
+            <div id="reportOwn">
+                <p>
+                    <a id="Default1_Left1_hlCreateOwnEvent" href="default.aspx?app=20">Ilmoita oma tapahtumasi  </a>
+                    <br />
+                    
+                    
+                    <a id="Default1_Left1_hlEventCalendarHelp" href="default.aspx?ContentID=29454">Tapahtumakalenterin ohje</a>
+                </p>
+            </div>
+            <div id="copyright">
+                <h1 class="forBraille">
+                    <span id="Default1_Left1_lblBrailleContactInfo">Yhteystiedot</span></h1>
+                <p>
+                    <span id="Default1_Left1_lblResponsibilityClause">Turun kaupunki ei vastaa tapahtumakalenteriin ilmoitettujen tietojen oikeellisuudesta.</span>
+                </p>
+                <p>
+                    <strong>&copy;
+                        <span id="Default1_Left1_lblYear">2012</span>
+                        <span id="Default1_Left1_lblTurkuCity">Turun kaupunki</span></strong><br />
+                    <span id="Default1_Left1_lblTurkuCityAddress">Yliopistonkatu 27a, 20100 Turku</span><br />
+                    <span id="Default1_Left1_lblTurkuCityPhone">puh. (02) 330 000</span><br />
+                    <span id="Default1_Left1_lblTurkuCityFax">faksi (02) 262 7299</span><br />
+                    <a id="Default1_Left1_hlTurkuCityEmailAddress" href="mailto:tapahtumat@turku.fi">tapahtumat@turku.fi</a><br />
+                    <a id="Default1_Left1_hlLinkToTurkuFi" href="http://www.turku.fi/">www.turku.fi</a></p>
+            </div>
+        </td>
+    </tr>
+</table>
+
+        </td>
+        <td id="Default1_Main1_tdMain" width="100%" valign="top" colspan="1">
+    <span id="content"><a name="contentbegin"></a>
+        <!-- content BEGIN -->
+        <h1 class="forBraille">
+            Sis&auml;lt&ouml;</h1>
+        
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" id="lift">
+    
+        </table>
+
+
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" id="lift">
+    
+        <tr>
+            <td valign="top" class="TDreuna">
+                <p class="Pdate">
+                    Konsertteihin on vapaa p‰‰sy
+                </p>
+                <h1>
+                    <a id="Default1_Main1_uchMain_ctl00_ucLiftsListing_rptLifts_ctl01_hlContentSelection" href="Default.aspx?ContentID=314383">WAM-konsertit kev‰‰ll‰ 2012</a>
+                </h1>
+                <p>
+                    Kev‰‰n 2012 viidess‰toista konsertissa kuullaan monipuolista musiikkia keskiajasta t‰h‰n p‰iv‰‰n. 
+                </p>
+            </td>
+            <td align="right" valign="top" class="TDreuna">
+                &nbsp;<img src='download.aspx?ID=109523&GUID={5A2A132E-9CAF-43C0-B3B4-650558388ABC}' align='' alt='Soitin' border='0' />
+            </td>
+        </tr>
+    
+        </table>
+
+
+<h1 class="noDate">
+    <span id="Default1_Main1_uchMain_ctl00_lblPageHeader">Klassinen</span>
+</h1>
+
+<div id="lists">
+    
+            <h2>
+                8.2.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl00_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=314307&amp;NodeID=9896">Sibelius-museon kev‰‰n 2012 konserttisarja</a>
+                            (Klassinen)
+                            
+                            
+                            <br />
+                            8.2.2012 klo: 19:00
+                            Sibelius-museo
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                15.2.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl01_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=314308&amp;NodeID=9896">Sibelius-museon kev‰‰n 2012 konserttisarja</a>
+                            (Klassinen)
+                            
+                            
+                            <br />
+                            15.2.2012 klo: 19:00
+                            Sibelius-museo
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                22.2.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl02_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=314311&amp;NodeID=9896">Sibelius-museon kev‰‰n 2012 konserttisarja</a>
+                            (Klassinen)
+                            
+                            
+                            <br />
+                            22.2.2012 klo: 19:00
+                            Sibelius-museo
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                25.2.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl03_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=330130&amp;NodeID=9896">Klavikordikonsertti</a>
+                            (Klassinen)
+                            
+                            
+                            <br />
+                            25.2.2012 klo: 19:00
+                            Turun Tuomiokirkko, Tarkk'ampujan kappeli
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                29.2.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl04_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=314314&amp;NodeID=9896">Sibelius-museon kev‰‰n 2012 konserttisarja</a>
+                            (Klassinen)
+                            
+                            
+                            <br />
+                            29.2.2012 klo: 19:00
+                            Sibelius-museo
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                7.3.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl05_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=314319&amp;NodeID=9896">Sibelius-museon kev‰‰n 2012 konserttisarja</a>
+                            (Klassinen)
+                            
+                            
+                            <br />
+                            7.3.2012 klo: 19:00
+                            Sibelius-museo
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                8.3.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl06_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=321359&amp;NodeID=9896">Merellinen kirkkokonsertti</a>
+                            (Kirkkokonsertit)
+                            
+                            
+                            <br />
+                            8.3.2012 klo: 19:00
+                            Mikaelinkirkko
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                14.3.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl07_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=314318&amp;NodeID=9896">Sibelius-museon kev‰‰n 2012 konserttisarja</a>
+                            (Klassinen)
+                            
+                            
+                            <br />
+                            14.3.2012 klo: 19:00
+                            Sibelius-museo
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                21.3.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl08_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=314309&amp;NodeID=9896">Sibelius-museon kev‰‰n 2012 konserttisarja</a>
+                            (Klassinen)
+                            
+                            
+                            <br />
+                            21.3.2012 klo: 19:00
+                            Sibelius-museo
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                23.3.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl09_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=322775&amp;NodeID=9896">Kuoroilta katedraalissa</a>
+                            (Kirkkokonsertit)
+                            
+                            
+                            <br />
+                            23.3.2012 klo: 19:00
+                            Turun tuomiokirkko
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                28.3.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl10_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=314312&amp;NodeID=9896">Sibelius-museon kev‰‰n 2012 konserttisarja</a>
+                            (Klassinen)
+                            
+                            
+                            <br />
+                            28.3.2012 klo: 19:00
+                            Sibelius-museo
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                4.4.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl11_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=314313&amp;NodeID=9896">Sibelius-museon kev‰‰n 2012 konserttisarja</a>
+                            (Klassinen)
+                            
+                            
+                            <br />
+                            4.4.2012 klo: 19:00
+                            Sibelius-museo
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                11.4.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl12_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=314310&amp;NodeID=9896">Sibelius-museon kev‰‰n 2012 konserttisarja</a>
+                            (Klassinen)
+                            
+                            
+                            <br />
+                            11.4.2012 klo: 19:00
+                            Sibelius-museo
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                18.4.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl13_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=314317&amp;NodeID=9896">Sibelius-museon kev‰‰n 2012 konserttisarja</a>
+                            (Klassinen)
+                            
+                            
+                            <br />
+                            18.4.2012 klo: 19:00
+                            Sibelius-museo
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                25.4.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl14_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=314316&amp;NodeID=9896">Sibelius-museon kev‰‰n 2012 konserttisarja</a>
+                            (Klassinen)
+                            
+                            
+                            <br />
+                            25.4.2012 klo: 19:00
+                            Sibelius-museo
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+</div>
+<p class="getmore">
+    
+    </p>
+
+<p>
+    </p>
+
+    </span>
+    <!-- content END -->
+</td>
+
+
+    <td valign="top" id="navibarRight">
+        
+<!-- rightSidebar BEGIN -->
+<h1 class="forBraille">
+    Muut nostot</h1>
+<table width="250" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td width="250" valign="top">
+            <span id="eventCalendar">
+                <table cellspacing="1" id="Default1_Main1_ucRight_ncCal" width="250">
+	<tr>
+		<td class="header1" colspan="8" align="Center"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;MonthChanged-1&#39;)">&laquo;</a> <a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DateRangeSelected1.2.2012_29.2.2012&#39;)">helmikuu 2012</a> <a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;MonthChanged+1&#39;)">&raquo;</a></td>
+	</tr><tr>
+		<td class="header2"></td><td class="header2">ma</td><td class="header2">ti</td><td class="header2">ke</td><td class="header2">to</td><td class="header2">pe</td><td class="header2">la</td><td class="header2">su</td>
+	</tr><tr>
+		<td class="header2"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DateRangeSelected30.1.2012_5.2.2012&#39;)">5</a></td><td class="inactiveday"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected30.1.2012&#39;)"></a></td><td class="inactiveday"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected31.1.2012&#39;)"></a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected1.2.2012&#39;)">1</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected2.2.2012&#39;)">2</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected3.2.2012&#39;)">3</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected4.2.2012&#39;)">4</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected5.2.2012&#39;)">5</a></td>
+	</tr><tr>
+		<td class="header2"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DateRangeSelected6.2.2012_12.2.2012&#39;)">6</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected6.2.2012&#39;)">6</a></td><td class="today hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected7.2.2012&#39;)">7</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected8.2.2012&#39;)">8</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected9.2.2012&#39;)">9</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected10.2.2012&#39;)">10</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected11.2.2012&#39;)">11</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected12.2.2012&#39;)">12</a></td>
+	</tr><tr>
+		<td class="header2"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DateRangeSelected13.2.2012_19.2.2012&#39;)">7</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected13.2.2012&#39;)">13</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected14.2.2012&#39;)">14</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected15.2.2012&#39;)">15</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected16.2.2012&#39;)">16</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected17.2.2012&#39;)">17</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected18.2.2012&#39;)">18</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected19.2.2012&#39;)">19</a></td>
+	</tr><tr>
+		<td class="header2"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DateRangeSelected20.2.2012_26.2.2012&#39;)">8</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected20.2.2012&#39;)">20</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected21.2.2012&#39;)">21</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected22.2.2012&#39;)">22</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected23.2.2012&#39;)">23</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected24.2.2012&#39;)">24</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected25.2.2012&#39;)">25</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected26.2.2012&#39;)">26</a></td>
+	</tr><tr>
+		<td class="header2"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DateRangeSelected27.2.2012_4.3.2012&#39;)">9</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected27.2.2012&#39;)">27</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected28.2.2012&#39;)">28</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected29.2.2012&#39;)">29</a></td><td class="inactiveday"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected1.3.2012&#39;)"></a></td><td class="inactiveday"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected2.3.2012&#39;)"></a></td><td class="inactiveday"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected3.3.2012&#39;)"></a></td><td class="inactiveday"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected4.3.2012&#39;)"></a></td>
+	</tr>
+</table>
+            </span>
+            
+            
+<div id="banner">
+
+</div>
+        </td>
+    </tr>
+</table>
+<!-- rightSidebar END -->
+
+    </td>
+
+
+    </tr>
+    <tr valign="top">
+        <td colspan="3" id="bottomstripe">
+            
+<h1 class="forBraille">
+    Lis&auml;toiminnot</h1>
+<p>
+    <a id="Default1_Bottom1_hlHelp" href="http://www.turku.fi/Public/default.aspx?nodeid=7453">Verkkopalvelun opaste</a>
+    |
+    <a id="Default1_Bottom1_hlSiteMap" href="./?app=2">Sivukartta</a>
+    | <a href="#" onclick="javascript:printPage();">
+        <span id="Default1_Bottom1_lblPrint">Tulosta sivu</span></a>
+</p>
+
+<script language="javascript" type="text/javascript">
+    <!-- // Hide from older browsers.
+    var da = (document.all) ? 1 : 0;
+    var pr = (window.print) ? 1 : 0;
+    var mac = (navigator.userAgent.indexOf("Mac") != -1); 
+
+    function printPage() 
+    {
+        if (pr) // NS4, IE5
+            window.print()
+        else if (da && !mac) // IE4 (Windows)
+            vbPrintPage()
+        else // other browsers
+            alert("Selaimesi ei tue t‰t‰ toimintoa, valitse menusta File -> Print tulostaaksesi sivun");
+            //  return false;
+    }
+ 
+    if (da && !pr && !mac) 
+    {
+        with (document) {
+        writeln('<OBJECT ID="WB" WIDTH="0" HEIGHT="0" CLASSID="clsid:8856F961-340A-11D0-A96B-00C04FD705A2"><\/OBJECT>');
+        writeln('<' + 'SCRIPT LANGUAGE="VBScript">');
+        writeln('Sub window_onunload');
+        writeln('  On Error Resume Next');
+        writeln('  Set WB = nothing');
+        writeln('End Sub');
+        writeln('Sub vbPrintPage');
+        writeln('  OLECMDID_PRINT = 6');
+        writeln('  OLECMDEXECOPT_DONTPROMPTUSER = 2');
+        writeln('  OLECMDEXECOPT_PROMPTUSER = 1');
+        writeln('  On Error Resume Next');
+        writeln('  WB.ExecWB OLECMDID_PRINT, OLECMDEXECOPT_DONTPROMPTUSER');
+        writeln('End Sub');
+        writeln('<' + '/SCRIPT>');
+     }
+  }
+ //-->
+</script>
+
+
+        </td>
+    </tr>
+</table>
+
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,834 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><link rel="stylesheet" type="text/css" media="screen" href="theme/screen3.css" /><link rel="stylesheet" type="text/css" media="print" href="theme/print.css" /><link rel="stylesheet" type="text/css" media="braille" href="theme/braille.css" /><title>
+	turku.fi &raquo; Tapahtumakalenteri&raquo; Festivaalit ja suurtapahtumat
+</title></head>
+<body>
+    <form name="form1" method="post" action="?nodeid=9874" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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FX4vZGVmYXVsdC5hc3B4P2FwcD0yMB8DBRlJbG1vaXRhIG9tYSB0YXBhaHR1bWFzaSAgZGQCBQ9kFgICAQ8PFgIfAwUNS2lyamF1ZHUgdWxvc2RkAgkPDxYEHwUFHn4vZGVmYXVsdC5hc3B4P0NvbnRlbnRJRD0yOTQ1NB8DBRhUYXBhaHR1bWFrYWxlbnRlcmluIG9oamVkZAINDw8WAh8DBVZUdXJ1biBrYXVwdW5raSBlaSB2YXN0YWEgdGFwYWh0dW1ha2FsZW50ZXJpaW4gaWxtb2l0ZXR0dWplbiB0aWV0b2plbiBvaWtlZWxsaXN1dWRlc3RhLmRkAg8PDxYCHwMFBDIwMTJkZAIRDw8WAh8DBQ5UdXJ1biBrYXVwdW5raWRkAhMPDxYCHwMFH1lsaW9waXN0b25rYXR1IDI3YSwgMjAxMDAgVHVya3VkZAIVDw8WAh8DBRFwdWguICgwMikgMzMwIDAwMGRkAhcPDxYCHwMFE2Zha3NpICgwMikgMjYyIDcyOTlkZAIZDw8WAh8DBRN0YXBhaHR1bWF0QHR1cmt1LmZpZGQCGw8PFgIfBQUUaHR0cDovL3d3dy50dXJrdS5maS9kZAIFD2QWBGYPFgIeB2NvbHNwYW4FATEWAgIBDw8WAh4PVXNlckNvbnRyb2xQYXRoBSkvdGFwYWh0dW1hdC9Vc2VyQ29udHJvbHMvTm9kZUNvbnRlbnQuYXNjeGQWAmYPDxYCHg1DdXJyZW50Tm9kZUlkApJNZBYMZg9kFgJmDxYCHwRmZAICD2QWAmYPFgIfBGZkAgQPZBYCAgEPZBYEZg8PFgIfDWVkZAIED2QWAgIBDw8WAh8DBS5UdXJ1biBrYXVwdW5naW4gdGFwYWh0dW1ha2FsZW50ZXJpbiBldHVzaXZ1bGxlZGQCBg8PFgIfAwUdRmVzdGl2YWFsaXQgamEgc3V1cnRhcGFodHVtYXRkZAIIDw8WCB4RQ3VycmVudERhdGVFdmVudHMy8wgAAQAAAP////8BAAAAAAAAAAwCAAAAbkZ1aml0c3UuTmV0Q29tbXVuaXR5LldlYi5UdXJ1blRhcGFodHVtYWthbGVudGVyaSwgVmVyc2lvbj0xLjAuNDMwOS4yMzMxNSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBQEAAABL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" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+function OpenNCPopup(path) {
+child = window.open(path,'','toolbar=no,width=700,height=500,directories=no,status=no,scrollbars=yes,menubar=no');
+child.creator = self;
+}
+var printPossible = (window.print) ? 1 : 0;
+function printPage() {
+   if (printPossible)
+       window.print()
+   else // other browsers
+       alert("Selaimesi ei tue tätä toimintoa, valitse menusta File -> Print tulostaaksesi sivun");
+}//]]>
+</script>
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBwLqu+PSDALf4a68BwKxmZfyDwKU382bDAKU39mbDAKU3+GbDAKU3+mbDALuhQT8tUkHSFMZ4STtqOdzpvELmsheIwtK5azohqv8" />
+        <div>
+            
+<!-- hiddenHeader BEGIN -->
+<p class="forBraille">
+    <a href="#contentbegin">siirry suoraan sis&auml;lt&ouml;&ouml;n</a></p>
+<h1 class="forBraille">
+    Kielivalinta</h1>
+<span class="forBraille">Valitse kieli: <a href="#">suomeksi</a> <a href="#">p&aring;
+    svenska</a> </span>
+<!-- hiddenHeader END -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+        <td colspan="3" id="topstripe">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="3">
+            
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tr>
+        <td valign="middle" id="logo">
+            <a id="Default1_Top1_hlGotoFrontPage" href="./"><img id="Default1_Top1_imgLogo" src="theme/1_logo.gif" border="0" /></a>
+        </td>
+        <td valign="top" id="pageingress" class="Lan_1">
+            &nbsp;</td>
+        <td width="250" valign="middle" id="haku">
+            
+<h1 class="forBraille">
+    Haku</h1>
+<div id="Default1_Top1_QuickSearch1_EmptyPanel1">
+	
+    <p>
+        <strong>
+            <span id="Default1_Top1_QuickSearch1_lblSearchEvents">Hae tapahtumista</span>:</strong>
+        <br />
+        <input name="Default1$Top1$QuickSearch1$tbSearchTerms" type="text" id="Default1_Top1_QuickSearch1_tbSearchTerms" />
+        &nbsp;<input type="submit" name="Default1$Top1$QuickSearch1$btnSearchQuick" value="Hae" id="Default1_Top1_QuickSearch1_btnSearchQuick" />
+        <br />
+        <a id="Default1_Top1_QuickSearch1_lbAdvancedSearch" href="./?app=4">Tarkennettu haku</a>
+    </p>
+
+</div>
+
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" id="languagestripe">
+            
+<p>
+    
+            <a href="default.aspx?culture=sv-FI&amp;contentLan=3">på svenska</a>
+        |
+            <a href="default.aspx?culture=en-US&amp;contentLan=2">in English</a>
+        
+</p>
+
+        </td>
+        <td valign="top" id="navistripe">
+            <!-- navipath BEGIN -->
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td>
+                        <h1 class="forBraille">
+                            Murupolku</h1>
+                        <p>
+                            <a id="Default1_Top1_hlGotoMainSite" href="http://www.turku.fi">turku.fi</a>
+                            &raquo;
+                            <a id="Default1_Top1_hlGotoEventCalendarFrontPage" href="./">Tapahtumakalenterin etusivu</a>
+                            <span id="Default1_Top1_lblCrumbPathSeparator"> » </span>
+                            
+                                    <a id="Default1_Top1_rptBreadCrumb_ctl00_hlNode" href="Default.aspx?nodeid=9874">Festivaalit ja suurtapahtumat</a>
+                        </p>
+                    </td>
+                </tr>
+            </table>
+            <!-- navipath END -->
+        </td>
+        <td valign="top" id="textsizestripe">
+            <p>
+                <span id="Default1_Top1_lblTextSize">Tekstin koko</span>:
+                <a id="Default1_Top1_lbSize11" href="javascript:__doPostBack(&#39;Default1$Top1$lbSize11&#39;,&#39;&#39;)"><u>a</u></a>&nbsp;
+                <a id="Default1_Top1_lbSize12" href="javascript:__doPostBack(&#39;Default1$Top1$lbSize12&#39;,&#39;&#39;)"><u>a</u></a>&nbsp;
+                <a id="Default1_Top1_lbSize14" href="javascript:__doPostBack(&#39;Default1$Top1$lbSize14&#39;,&#39;&#39;)">a</a>&nbsp;
+                <a id="Default1_Top1_lbSize16" href="javascript:__doPostBack(&#39;Default1$Top1$lbSize16&#39;,&#39;&#39;)"><u>a</u></a>&nbsp;
+            </p>
+        </td>
+    </tr>
+</table>
+
+        </td>
+    </tr>
+    <tr>
+        <td width="250" valign="top" id="navibar">
+            
+<!-- navi BEGIN -->
+<table width="250" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td>
+            
+<h1 class="forBraille">
+    Navigointi</h1>
+<p class="Pnavi">
+    <a id="Default1_Left1_Navigation1_hlGotoEventCalendarFrontPage" href="./">Tapahtumakalenterin etusivu</a>
+</p>
+<h2 class="Pnavi">
+    <span id="Default1_Left1_Navigation1_lblEventClassesHeader">Tapahtumaluokat:</span>
+</h2>
+
+
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl00_hlNode" href="/tapahtumat/?nodeid=9873">Elokuvat</a>
+        </p>
+    
+        <p class="Pnavi">
+            <span id="Default1_Left1_Navigation1_rptEventClasses_ctl01_lblSelectedArrows"><b></b></span>
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl01_hlNode" href="/tapahtumat/?nodeid=9874"><b>Festivaalit ja suurtapahtumat</b></a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl02_hlNode" href="/tapahtumat/?nodeid=10569">Joulutapahtumat</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl03_hlNode" href="/tapahtumat/?nodeid=9875">Kokoukset ja kongressit</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl04_hlNode" href="/tapahtumat/?nodeid=9876">Kurssit ja luennot</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl05_hlNode" href="/tapahtumat/?nodeid=9877">Liikunta ja urheilu</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl06_hlNode" href="/tapahtumat/?nodeid=9878">Markkinat, myyjäiset ja kirpputorit</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl07_hlNode" href="/tapahtumat/?nodeid=9883">Messut</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl08_hlNode" href="/tapahtumat/?nodeid=9884">Museot, näyttelyt</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl09_hlNode" href="/tapahtumat/?nodeid=9885">Musiikki</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl10_hlNode" href="/tapahtumat/?nodeid=9886">Opastetut kierrokset ja kiertoajelut</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl11_hlNode" href="/tapahtumat/?nodeid=9889">Päätöksenteko ja osallistuminen</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl12_hlNode" href="/tapahtumat/?nodeid=9887">Retket ja risteilyt</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl13_hlNode" href="/tapahtumat/?nodeid=9888">Teatteri ja muu esittävä taide</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl14_hlNode" href="/tapahtumat/?nodeid=9890">Muut tapahtumat</a>
+        </p>
+    
+<h2 class="Pnavi">
+    <span id="Default1_Left1_Navigation1_lblTargetAudienceHeader">Kohderyhmät:</span>
+</h2>
+
+
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptTargetAudiences_ctl00_hlNode" href="/tapahtumat/?nodeid=9892">Lapset ja perheet</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptTargetAudiences_ctl01_hlNode" href="/tapahtumat/?nodeid=9893">Nuoret</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptTargetAudiences_ctl02_hlNode" href="/tapahtumat/?nodeid=9894">Seniorit</a>
+        </p>
+    
+
+<h2 class="Pnavi">
+    <span id="Default1_Left1_Navigation1_lblRegionHeader">Alueet:</span>
+</h2>
+
+
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptRegions_ctl00_hlNode" href="/tapahtumat/?nodeid=16604">Turku</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptRegions_ctl01_hlNode" href="/tapahtumat/?nodeid=16614">Turun seutu</a>
+        </p>
+    
+            <div id="reportOwn">
+                <p>
+                    <a id="Default1_Left1_hlCreateOwnEvent" href="default.aspx?app=20">Ilmoita oma tapahtumasi  </a>
+                    <br />
+                    
+                    
+                    <a id="Default1_Left1_hlEventCalendarHelp" href="default.aspx?ContentID=29454">Tapahtumakalenterin ohje</a>
+                </p>
+            </div>
+            <div id="copyright">
+                <h1 class="forBraille">
+                    <span id="Default1_Left1_lblBrailleContactInfo">Yhteystiedot</span></h1>
+                <p>
+                    <span id="Default1_Left1_lblResponsibilityClause">Turun kaupunki ei vastaa tapahtumakalenteriin ilmoitettujen tietojen oikeellisuudesta.</span>
+                </p>
+                <p>
+                    <strong>&copy;
+                        <span id="Default1_Left1_lblYear">2012</span>
+                        <span id="Default1_Left1_lblTurkuCity">Turun kaupunki</span></strong><br />
+                    <span id="Default1_Left1_lblTurkuCityAddress">Yliopistonkatu 27a, 20100 Turku</span><br />
+                    <span id="Default1_Left1_lblTurkuCityPhone">puh. (02) 330 000</span><br />
+                    <span id="Default1_Left1_lblTurkuCityFax">faksi (02) 262 7299</span><br />
+                    <a id="Default1_Left1_hlTurkuCityEmailAddress" href="mailto:tapahtumat@turku.fi">tapahtumat@turku.fi</a><br />
+                    <a id="Default1_Left1_hlLinkToTurkuFi" href="http://www.turku.fi/">www.turku.fi</a></p>
+            </div>
+        </td>
+    </tr>
+</table>
+
+        </td>
+        <td id="Default1_Main1_tdMain" width="100%" valign="top" colspan="1">
+    <span id="content"><a name="contentbegin"></a>
+        <!-- content BEGIN -->
+        <h1 class="forBraille">
+            Sis&auml;lt&ouml;</h1>
+        
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" id="lift">
+    
+        </table>
+
+
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" id="lift">
+    
+        </table>
+
+
+<h1 class="noDate">
+    <span id="Default1_Main1_uchMain_ctl00_lblPageHeader">Festivaalit ja suurtapahtumat</span>
+</h1>
+
+<div id="lists">
+    
+            <h2>
+                11.4.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl00_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=322829&amp;NodeID=9874">Suomalaisen elokuvan festivaali</a>
+                            (Festivaalit ja suurtapahtumat)
+                            
+                            
+                            <br />
+                            11.4.2012 klo: 12:00 - 15.4.2012
+                            Puutarhakatu 1:n auditorio
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                12.4.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl01_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=322829&amp;NodeID=9874">Suomalaisen elokuvan festivaali</a>
+                            (Festivaalit ja suurtapahtumat)
+                            
+                            
+                            <br />
+                            11.4.2012 klo: 12:00 - 15.4.2012
+                            Puutarhakatu 1:n auditorio
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                13.4.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl02_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=322829&amp;NodeID=9874">Suomalaisen elokuvan festivaali</a>
+                            (Festivaalit ja suurtapahtumat)
+                            
+                            
+                            <br />
+                            11.4.2012 klo: 12:00 - 15.4.2012
+                            Puutarhakatu 1:n auditorio
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                14.4.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl03_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=322829&amp;NodeID=9874">Suomalaisen elokuvan festivaali</a>
+                            (Festivaalit ja suurtapahtumat)
+                            
+                            
+                            <br />
+                            11.4.2012 klo: 12:00 - 15.4.2012
+                            Puutarhakatu 1:n auditorio
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                15.4.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl04_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=322829&amp;NodeID=9874">Suomalaisen elokuvan festivaali</a>
+                            (Festivaalit ja suurtapahtumat)
+                            
+                            
+                            <br />
+                            11.4.2012 klo: 12:00 - 15.4.2012
+                            Puutarhakatu 1:n auditorio
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                4.5.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl05_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=330236&amp;NodeID=9874">Kansainvälinen taidekilpailufestivaali "Bravo Turku 2012!"</a>
+                            (Festivaalit ja suurtapahtumat)
+                            
+                            
+                            <br />
+                            4.5.2012 klo: 15:00
+                            Työväenopiston juhlasali
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                5.5.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl06_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=330237&amp;NodeID=9874">Kansainvälinen taidekilpailufestivaali "Bravo Turku 2012!"</a>
+                            (Festivaalit ja suurtapahtumat)
+                            
+                            
+                            <br />
+                            5.5.2012 klo: 13:00
+                            Työväenopiston juhlasali
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                6.5.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl07_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=330238&amp;NodeID=9874">Kansainvälinen taidekilpailufestivaali "Bravo Turku 2012!"</a>
+                            (Festivaalit ja suurtapahtumat)
+                            
+                            
+                            <br />
+                            6.5.2012 klo: 13:00
+                            Työväenopiston juhlasali
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                7.6.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl08_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=304535&amp;NodeID=9874">Turku Power Cup 2012</a>
+                            (Liikunta ja urheilu)
+                            
+                            
+                            <br />
+                            7.6.2012 klo: 9:00 - 10.6.2012
+                            Kupittaa
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                8.6.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl09_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=304535&amp;NodeID=9874">Turku Power Cup 2012</a>
+                            (Liikunta ja urheilu)
+                            
+                            
+                            <br />
+                            7.6.2012 klo: 9:00 - 10.6.2012
+                            Kupittaa
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                9.6.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl10_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=304535&amp;NodeID=9874">Turku Power Cup 2012</a>
+                            (Liikunta ja urheilu)
+                            
+                            
+                            <br />
+                            7.6.2012 klo: 9:00 - 10.6.2012
+                            Kupittaa
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                10.6.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl11_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=304535&amp;NodeID=9874">Turku Power Cup 2012</a>
+                            (Liikunta ja urheilu)
+                            
+                            
+                            <br />
+                            7.6.2012 klo: 9:00 - 10.6.2012
+                            Kupittaa
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                28.6.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl12_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=323585&amp;NodeID=9874">Keskiaikaiset markkinat</a>
+                            (Festivaalit ja suurtapahtumat)
+                            
+                            
+                            <br />
+                            28.6.2012 klo: 12:00 - 20:00
+                            Turun Vanha Suurtori
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                29.6.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl13_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=323587&amp;NodeID=9874">Keskiaikaiset markkinat</a>
+                            (Festivaalit ja suurtapahtumat)
+                            
+                            
+                            <br />
+                            29.6.2012 klo: 12:00 - 20:00
+                            Turun Vanha Suurtori
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                30.6.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl14_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=323586&amp;NodeID=9874">Keskiaikaiset markkinat</a>
+                            (Festivaalit ja suurtapahtumat)
+                            
+                            
+                            <br />
+                            30.6.2012 klo: 12:00 - 18:00
+                            Turun Vanha Suurtori
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                1.7.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl15_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=323584&amp;NodeID=9874">Keskiaikaiset markkinat</a>
+                            (Festivaalit ja suurtapahtumat)
+                            
+                            
+                            <br />
+                            1.7.2012 klo: 12:00 - 18:00
+                            Turun Vanha Suurtori
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                20.7.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl16_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=331187&amp;NodeID=9874">Hammer Open Air 2012 Metallifestivaali</a>
+                            (Festivaalit ja suurtapahtumat)
+                            
+                            
+                            <br />
+                            20.7.2012 klo: 14:00 - 21.7.2012 klo: 1:00
+                            Mannin Navetta Lieto
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                21.7.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl17_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=331187&amp;NodeID=9874">Hammer Open Air 2012 Metallifestivaali</a>
+                            (Festivaalit ja suurtapahtumat)
+                            
+                            
+                            <br />
+                            20.7.2012 klo: 14:00 - 21.7.2012 klo: 1:00
+                            Mannin Navetta Lieto
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                7.6.2014
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl18_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=273611&amp;NodeID=9874">Suomen Punaisen Ristin yleiskokous 2014</a>
+                            (Kokoukset ja kongressit)
+                            
+                            
+                            <br />
+                            7.6.2014 klo: 9:00 - 8.6.2014
+                            Turku
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                8.6.2014
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl19_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=273611&amp;NodeID=9874">Suomen Punaisen Ristin yleiskokous 2014</a>
+                            (Kokoukset ja kongressit)
+                            
+                            
+                            <br />
+                            7.6.2014 klo: 9:00 - 8.6.2014
+                            Turku
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+</div>
+<p class="getmore">
+    
+    </p>
+
+<p>
+    </p>
+
+    </span>
+    <!-- content END -->
+</td>
+
+
+    <td valign="top" id="navibarRight">
+        
+<!-- rightSidebar BEGIN -->
+<h1 class="forBraille">
+    Muut nostot</h1>
+<table width="250" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td width="250" valign="top">
+            <span id="eventCalendar">
+                <table cellspacing="1" id="Default1_Main1_ucRight_ncCal" width="250">
+	<tr>
+		<td class="header1" colspan="8" align="Center"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;MonthChanged-1&#39;)">&laquo;</a> <a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DateRangeSelected1.2.2012_29.2.2012&#39;)">helmikuu 2012</a> <a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;MonthChanged+1&#39;)">&raquo;</a></td>
+	</tr><tr>
+		<td class="header2"></td><td class="header2">ma</td><td class="header2">ti</td><td class="header2">ke</td><td class="header2">to</td><td class="header2">pe</td><td class="header2">la</td><td class="header2">su</td>
+	</tr><tr>
+		<td class="header2"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DateRangeSelected30.1.2012_5.2.2012&#39;)">5</a></td><td class="inactiveday"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected30.1.2012&#39;)"></a></td><td class="inactiveday"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected31.1.2012&#39;)"></a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected1.2.2012&#39;)">1</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected2.2.2012&#39;)">2</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected3.2.2012&#39;)">3</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected4.2.2012&#39;)">4</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected5.2.2012&#39;)">5</a></td>
+	</tr><tr>
+		<td class="header2"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DateRangeSelected6.2.2012_12.2.2012&#39;)">6</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected6.2.2012&#39;)">6</a></td><td class="today hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected7.2.2012&#39;)">7</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected8.2.2012&#39;)">8</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected9.2.2012&#39;)">9</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected10.2.2012&#39;)">10</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected11.2.2012&#39;)">11</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected12.2.2012&#39;)">12</a></td>
+	</tr><tr>
+		<td class="header2"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DateRangeSelected13.2.2012_19.2.2012&#39;)">7</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected13.2.2012&#39;)">13</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected14.2.2012&#39;)">14</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected15.2.2012&#39;)">15</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected16.2.2012&#39;)">16</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected17.2.2012&#39;)">17</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected18.2.2012&#39;)">18</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected19.2.2012&#39;)">19</a></td>
+	</tr><tr>
+		<td class="header2"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DateRangeSelected20.2.2012_26.2.2012&#39;)">8</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected20.2.2012&#39;)">20</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected21.2.2012&#39;)">21</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected22.2.2012&#39;)">22</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected23.2.2012&#39;)">23</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected24.2.2012&#39;)">24</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected25.2.2012&#39;)">25</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected26.2.2012&#39;)">26</a></td>
+	</tr><tr>
+		<td class="header2"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DateRangeSelected27.2.2012_4.3.2012&#39;)">9</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected27.2.2012&#39;)">27</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected28.2.2012&#39;)">28</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected29.2.2012&#39;)">29</a></td><td class="inactiveday"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected1.3.2012&#39;)"></a></td><td class="inactiveday"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected2.3.2012&#39;)"></a></td><td class="inactiveday"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected3.3.2012&#39;)"></a></td><td class="inactiveday"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected4.3.2012&#39;)"></a></td>
+	</tr>
+</table>
+            </span>
+            
+            
+<div id="banner">
+
+</div>
+        </td>
+    </tr>
+</table>
+<!-- rightSidebar END -->
+
+    </td>
+
+
+    </tr>
+    <tr valign="top">
+        <td colspan="3" id="bottomstripe">
+            
+<h1 class="forBraille">
+    Lis&auml;toiminnot</h1>
+<p>
+    <a id="Default1_Bottom1_hlHelp" href="http://www.turku.fi/Public/default.aspx?nodeid=7453">Verkkopalvelun opaste</a>
+    |
+    <a id="Default1_Bottom1_hlSiteMap" href="./?app=2">Sivukartta</a>
+    | <a href="#" onclick="javascript:printPage();">
+        <span id="Default1_Bottom1_lblPrint">Tulosta sivu</span></a>
+</p>
+
+<script language="javascript" type="text/javascript">
+    <!-- // Hide from older browsers.
+    var da = (document.all) ? 1 : 0;
+    var pr = (window.print) ? 1 : 0;
+    var mac = (navigator.userAgent.indexOf("Mac") != -1); 
+
+    function printPage() 
+    {
+        if (pr) // NS4, IE5
+            window.print()
+        else if (da && !mac) // IE4 (Windows)
+            vbPrintPage()
+        else // other browsers
+            alert("Selaimesi ei tue tätä toimintoa, valitse menusta File -> Print tulostaaksesi sivun");
+            //  return false;
+    }
+ 
+    if (da && !pr && !mac) 
+    {
+        with (document) {
+        writeln('<OBJECT ID="WB" WIDTH="0" HEIGHT="0" CLASSID="clsid:8856F961-340A-11D0-A96B-00C04FD705A2"><\/OBJECT>');
+        writeln('<' + 'SCRIPT LANGUAGE="VBScript">');
+        writeln('Sub window_onunload');
+        writeln('  On Error Resume Next');
+        writeln('  Set WB = nothing');
+        writeln('End Sub');
+        writeln('Sub vbPrintPage');
+        writeln('  OLECMDID_PRINT = 6');
+        writeln('  OLECMDEXECOPT_DONTPROMPTUSER = 2');
+        writeln('  OLECMDEXECOPT_PROMPTUSER = 1');
+        writeln('  On Error Resume Next');
+        writeln('  WB.ExecWB OLECMDID_PRINT, OLECMDEXECOPT_DONTPROMPTUSER');
+        writeln('End Sub');
+        writeln('<' + '/SCRIPT>');
+     }
+  }
+ //-->
+</script>
+
+
+        </td>
+    </tr>
+</table>
+
+        </div>
+    </form>
+</body>
+</html>

@@ -28,5 +28,6 @@ class EventImportService implements ICache {
                 echo "Error saving:" . $ex->getMessage();
             }
         }
+        return $events;
     }
 }

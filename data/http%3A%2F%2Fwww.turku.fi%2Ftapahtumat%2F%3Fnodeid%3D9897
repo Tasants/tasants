@@ -1,0 +1,759 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><link rel="stylesheet" type="text/css" media="screen" href="theme/screen3.css" /><link rel="stylesheet" type="text/css" media="print" href="theme/print.css" /><link rel="stylesheet" type="text/css" media="braille" href="theme/braille.css" /><title>
+	turku.fi &raquo; Tapahtumakalenteri&raquo; Musiikki&raquo; Pop / rock / jazz / dj:t
+</title></head>
+<body>
+    <form name="form1" method="post" action="?nodeid=9897" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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C2gfBQUZL3RhcGFodHVtYXQvP25vZGVpZD0xNjYxNB8KZR8IAoAQZBYCZg8VAQtUdXJ1biBzZXV0dWQCAw8PFgQfBQUVfi9kZWZhdWx0LmFzcHg/YXBwPTIwHwMFGUlsbW9pdGEgb21hIHRhcGFodHVtYXNpICBkZAIFD2QWAgIBDw8WAh8DBQ1LaXJqYXVkdSB1bG9zZGQCCQ8PFgQfBQUefi9kZWZhdWx0LmFzcHg/Q29udGVudElEPTI5NDU0HwMFGFRhcGFodHVtYWthbGVudGVyaW4gb2hqZWRkAg0PDxYCHwMFVlR1cnVuIGthdXB1bmtpIGVpIHZhc3RhYSB0YXBhaHR1bWFrYWxlbnRlcmlpbiBpbG1vaXRldHR1amVuIHRpZXRvamVuIG9pa2VlbGxpc3V1ZGVzdGEuZGQCDw8PFgIfAwUEMjAxMmRkAhEPDxYCHwMFDlR1cnVuIGthdXB1bmtpZGQCEw8PFgIfAwUfWWxpb3Bpc3RvbmthdHUgMjdhLCAyMDEwMCBUdXJrdWRkAhUPDxYCHwMFEXB1aC4gKDAyKSAzMzAgMDAwZGQCFw8PFgIfAwUTZmFrc2kgKDAyKSAyNjIgNzI5OWRkAhkPDxYCHwMFE3RhcGFodHVtYXRAdHVya3UuZmlkZAIbDw8WAh8FBRRodHRwOi8vd3d3LnR1cmt1LmZpL2RkAgUPZBYEZg8WAh4HY29sc3BhbgUBMRYCAgEPDxYCHg9Vc2VyQ29udHJvbFBhdGgFKS90YXBhaHR1bWF0L1VzZXJDb250cm9scy9Ob2RlQ29udGVudC5hc2N4ZBYCZg8PFgIeDUN1cnJlbnROb2RlSWQCqU1kFgxmD2QWAmYPFgIfBGZkAgIPZBYCZg8WAh8EAgEWAgIBD2QWBmYPFQEaSGVsdGVlc3TDpCBlaSBow6RpcmnDtml0w6RkAgEPDxYEHwUFH34vRGVmYXVsdC5hc3B4P0NvbnRlbnRJRD0xOTExNjMfAwU3UnVpc3JvY2tpbiBqdWhsYXZ1b3NpIGtlcsOkc2kgNzEgMDAwIGZlc3RpdmFhbGl2aWVyYXN0YWRkAgIPFQKVAUVubsOkdHlrc2VsbGlzZXNzw6QgaGVsdGVlc3PDpCB2aWV0ZXR0eSBSdWlzcm9ja2luIDQwLXZ1b3Rpc2p1aGxhIGtlcsOkc2kgVHVydW4gUnVpc3NhbG9vbiB5bGVpc8O2bcOkw6Ryw6RuLCBqb2thIG9uIGtva28gMjAwMC1sdXZ1biB0b2lzZWtzaSBzdXVyaW4udDxpbWcgc3JjPSdkb3dubG9hZC5hc3B4P0lEPTExMTEzOCZHVUlEPXsyNEE0RDM5NC04NTdDLTQ0OTktOTZDOS01OUQ4RUVBRjFCODJ9JyBhbGlnbj0nJyBhbHQ9J0Ftb3JwaGlzJyBib3JkZXI9JzAnIC8+ZAIED2QWAgIBD2QWBGYPDxYCHw1lZGQCBA9kFgICAQ8PFgIfAwUuVHVydW4ga2F1cHVuZ2luIHRhcGFodHVtYWthbGVudGVyaW4gZXR1c2l2dWxsZWRkAgYPDxYCHwMFGFBvcCAvIHJvY2sgLyBqYXp6IC8gZGo6dGRkAggPDxYIHhFDdXJyZW50RGF0ZUV2ZW50czLREAABAAAA/////wEAAAAAAAAADAIAAABuRnVqaXRzdS5OZXRDb21tdW5pdHkuV2ViLlR1cnVuVGFwYWh0dW1ha2FsZW50ZXJpLCBWZXJzaW9uPTEuMC40MzA5LjIzMzE1LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwFAQAAAEtOQy5XZWIuVHVydW5UYXBhaHR1bWFrYWxlbnRlcmkuVXNlckNvbnRyb2xzLkxpc3RDb250ZW50K0RhdGVFdmVudENvbGxlY3Rpb24DAAAADUxpc3RgMStfaXRlbXMMTGlzdGAxK19zaXplD0xpc3RgMStfdmVyc2lvbgQAAENOQy5XZWIuVHVydW5UYXBhaHR1bWFrYWxlbnRlcmkuVXNlckNvbnRyb2xzLkxpc3RDb250ZW50K0RhdGVFdmVudFtdAgAAAAgIAgAAAAkDAAAANQAAADYAAAAHAwAAAAABAAAAQAAAAARBTkMuV2ViLlR1cnVuVGFwYWh0dW1ha2FsZW50ZXJpLlVzZXJDb250cm9scy5MaXN0Q29udGVudCtEYXRlRXZlbnQCAAAACQQAAAAJBQAAAAkGAAAACQcAAAAJCAAAAAkJAAAACQoAAAAJCwAAAAkMAAAACQ0AAAAJDgAAAAkPAAAACRAAAAAJEQAAAAkSAAAACRMAAAAJFAAAAAkVAAAACRYAAAAJFwAAAAkYAAAACRkAAAAJGgAAAAkbAAAA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" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+function OpenNCPopup(path) {
+child = window.open(path,'','toolbar=no,width=700,height=500,directories=no,status=no,scrollbars=yes,menubar=no');
+child.creator = self;
+}
+var printPossible = (window.print) ? 1 : 0;
+function printPage() {
+   if (printPossible)
+       window.print()
+   else // other browsers
+       alert("Selaimesi ei tue tätä toimintoa, valitse menusta File -> Print tulostaaksesi sivun");
+}//]]>
+</script>
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCALj6abTDALf4a68BwKxmZfyDwKU382bDAKU39mbDAKU3+GbDAKU3+mbDAKf5pPrA9ep5IUvn+vHnFRdxFjtPhi8CAda0Ul7cifIwsOELlCh" />
+        <div>
+            
+<!-- hiddenHeader BEGIN -->
+<p class="forBraille">
+    <a href="#contentbegin">siirry suoraan sis&auml;lt&ouml;&ouml;n</a></p>
+<h1 class="forBraille">
+    Kielivalinta</h1>
+<span class="forBraille">Valitse kieli: <a href="#">suomeksi</a> <a href="#">p&aring;
+    svenska</a> </span>
+<!-- hiddenHeader END -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+        <td colspan="3" id="topstripe">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="3">
+            
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tr>
+        <td valign="middle" id="logo">
+            <a id="Default1_Top1_hlGotoFrontPage" href="./"><img id="Default1_Top1_imgLogo" src="theme/1_logo.gif" border="0" /></a>
+        </td>
+        <td valign="top" id="pageingress" class="Lan_1">
+            &nbsp;</td>
+        <td width="250" valign="middle" id="haku">
+            
+<h1 class="forBraille">
+    Haku</h1>
+<div id="Default1_Top1_QuickSearch1_EmptyPanel1">
+	
+    <p>
+        <strong>
+            <span id="Default1_Top1_QuickSearch1_lblSearchEvents">Hae tapahtumista</span>:</strong>
+        <br />
+        <input name="Default1$Top1$QuickSearch1$tbSearchTerms" type="text" id="Default1_Top1_QuickSearch1_tbSearchTerms" />
+        &nbsp;<input type="submit" name="Default1$Top1$QuickSearch1$btnSearchQuick" value="Hae" id="Default1_Top1_QuickSearch1_btnSearchQuick" />
+        <br />
+        <a id="Default1_Top1_QuickSearch1_lbAdvancedSearch" href="./?app=4">Tarkennettu haku</a>
+    </p>
+
+</div>
+
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" id="languagestripe">
+            
+<p>
+    
+            <a href="default.aspx?culture=sv-FI&amp;contentLan=3">på svenska</a>
+        |
+            <a href="default.aspx?culture=en-US&amp;contentLan=2">in English</a>
+        
+</p>
+
+        </td>
+        <td valign="top" id="navistripe">
+            <!-- navipath BEGIN -->
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td>
+                        <h1 class="forBraille">
+                            Murupolku</h1>
+                        <p>
+                            <a id="Default1_Top1_hlGotoMainSite" href="http://www.turku.fi">turku.fi</a>
+                            &raquo;
+                            <a id="Default1_Top1_hlGotoEventCalendarFrontPage" href="./">Tapahtumakalenterin etusivu</a>
+                            <span id="Default1_Top1_lblCrumbPathSeparator"> » </span>
+                            
+                                    <a id="Default1_Top1_rptBreadCrumb_ctl00_hlNode" href="Default.aspx?nodeid=9885">Musiikki</a>
+                                    &raquo;
+                                
+                                    <a id="Default1_Top1_rptBreadCrumb_ctl02_hlNode" href="Default.aspx?nodeid=9897">Pop / rock / jazz / dj:t</a>
+                        </p>
+                    </td>
+                </tr>
+            </table>
+            <!-- navipath END -->
+        </td>
+        <td valign="top" id="textsizestripe">
+            <p>
+                <span id="Default1_Top1_lblTextSize">Tekstin koko</span>:
+                <a id="Default1_Top1_lbSize11" href="javascript:__doPostBack(&#39;Default1$Top1$lbSize11&#39;,&#39;&#39;)"><u>a</u></a>&nbsp;
+                <a id="Default1_Top1_lbSize12" href="javascript:__doPostBack(&#39;Default1$Top1$lbSize12&#39;,&#39;&#39;)"><u>a</u></a>&nbsp;
+                <a id="Default1_Top1_lbSize14" href="javascript:__doPostBack(&#39;Default1$Top1$lbSize14&#39;,&#39;&#39;)">a</a>&nbsp;
+                <a id="Default1_Top1_lbSize16" href="javascript:__doPostBack(&#39;Default1$Top1$lbSize16&#39;,&#39;&#39;)"><u>a</u></a>&nbsp;
+            </p>
+        </td>
+    </tr>
+</table>
+
+        </td>
+    </tr>
+    <tr>
+        <td width="250" valign="top" id="navibar">
+            
+<!-- navi BEGIN -->
+<table width="250" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td>
+            
+<h1 class="forBraille">
+    Navigointi</h1>
+<p class="Pnavi">
+    <a id="Default1_Left1_Navigation1_hlGotoEventCalendarFrontPage" href="./">Tapahtumakalenterin etusivu</a>
+</p>
+<h2 class="Pnavi">
+    <span id="Default1_Left1_Navigation1_lblEventClassesHeader">Tapahtumaluokat:</span>
+</h2>
+
+        <p class="PnaviSelected">
+            <a id="Default1_Left1_Navigation1_rptEventClassesHeader_ctl00_hlHeaderNode" href="/tapahtumat/?nodeid=9885">Musiikki</a>
+        </p>
+    
+
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl00_hlNode" href="/tapahtumat/?nodeid=9895">Kirkkokonsertit</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl01_hlNode" href="/tapahtumat/?nodeid=9896">Klassinen</a>
+        </p>
+    
+        <p class="Pnavi">
+            <span id="Default1_Left1_Navigation1_rptEventClasses_ctl02_lblSelectedArrows"><b></b></span>
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl02_hlNode" href="/tapahtumat/?nodeid=9897"><b>Pop / rock / jazz / dj:t</b></a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl03_hlNode" href="/tapahtumat/?nodeid=9898">Tanssit</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptEventClasses_ctl04_hlNode" href="/tapahtumat/?nodeid=9899">Viihdemusiikki</a>
+        </p>
+    
+<h2 class="Pnavi">
+    <span id="Default1_Left1_Navigation1_lblTargetAudienceHeader">Kohderyhmät:</span>
+</h2>
+
+
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptTargetAudiences_ctl00_hlNode" href="/tapahtumat/?nodeid=9892">Lapset ja perheet</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptTargetAudiences_ctl01_hlNode" href="/tapahtumat/?nodeid=9893">Nuoret</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptTargetAudiences_ctl02_hlNode" href="/tapahtumat/?nodeid=9894">Seniorit</a>
+        </p>
+    
+
+<h2 class="Pnavi">
+    <span id="Default1_Left1_Navigation1_lblRegionHeader">Alueet:</span>
+</h2>
+
+
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptRegions_ctl00_hlNode" href="/tapahtumat/?nodeid=16604">Turku</a>
+        </p>
+    
+        <p class="Pnavi">
+            
+            <a id="Default1_Left1_Navigation1_rptRegions_ctl01_hlNode" href="/tapahtumat/?nodeid=16614">Turun seutu</a>
+        </p>
+    
+            <div id="reportOwn">
+                <p>
+                    <a id="Default1_Left1_hlCreateOwnEvent" href="default.aspx?app=20">Ilmoita oma tapahtumasi  </a>
+                    <br />
+                    
+                    
+                    <a id="Default1_Left1_hlEventCalendarHelp" href="default.aspx?ContentID=29454">Tapahtumakalenterin ohje</a>
+                </p>
+            </div>
+            <div id="copyright">
+                <h1 class="forBraille">
+                    <span id="Default1_Left1_lblBrailleContactInfo">Yhteystiedot</span></h1>
+                <p>
+                    <span id="Default1_Left1_lblResponsibilityClause">Turun kaupunki ei vastaa tapahtumakalenteriin ilmoitettujen tietojen oikeellisuudesta.</span>
+                </p>
+                <p>
+                    <strong>&copy;
+                        <span id="Default1_Left1_lblYear">2012</span>
+                        <span id="Default1_Left1_lblTurkuCity">Turun kaupunki</span></strong><br />
+                    <span id="Default1_Left1_lblTurkuCityAddress">Yliopistonkatu 27a, 20100 Turku</span><br />
+                    <span id="Default1_Left1_lblTurkuCityPhone">puh. (02) 330 000</span><br />
+                    <span id="Default1_Left1_lblTurkuCityFax">faksi (02) 262 7299</span><br />
+                    <a id="Default1_Left1_hlTurkuCityEmailAddress" href="mailto:tapahtumat@turku.fi">tapahtumat@turku.fi</a><br />
+                    <a id="Default1_Left1_hlLinkToTurkuFi" href="http://www.turku.fi/">www.turku.fi</a></p>
+            </div>
+        </td>
+    </tr>
+</table>
+
+        </td>
+        <td id="Default1_Main1_tdMain" width="100%" valign="top" colspan="1">
+    <span id="content"><a name="contentbegin"></a>
+        <!-- content BEGIN -->
+        <h1 class="forBraille">
+            Sis&auml;lt&ouml;</h1>
+        
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" id="lift">
+    
+        </table>
+
+
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" id="lift">
+    
+        <tr>
+            <td valign="top" class="TDreuna">
+                <p class="Pdate">
+                    Helteestä ei häiriöitä
+                </p>
+                <h1>
+                    <a id="Default1_Main1_uchMain_ctl00_ucLiftsListing_rptLifts_ctl01_hlContentSelection" href="Default.aspx?ContentID=191163">Ruisrockin juhlavuosi keräsi 71 000 festivaalivierasta</a>
+                </h1>
+                <p>
+                    Ennätyksellisessä helteessä vietetty Ruisrockin 40-vuotisjuhla keräsi Turun Ruissaloon yleisömäärän, joka on koko 2000-luvun toiseksi suurin.
+                </p>
+            </td>
+            <td align="right" valign="top" class="TDreuna">
+                &nbsp;<img src='download.aspx?ID=111138&GUID={24A4D394-857C-4499-96C9-59D8EEAF1B82}' align='' alt='Amorphis' border='0' />
+            </td>
+        </tr>
+    
+        </table>
+
+
+<h1 class="noDate">
+    <span id="Default1_Main1_uchMain_ctl00_lblPageHeader">Pop / rock / jazz / dj:t</span>
+</h1>
+
+<div id="lists">
+    
+            <h2>
+                8.2.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl00_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=311095&amp;NodeID=9897">Opiskelijabileet ja City-Karaoke </a>
+                            (Pop / rock / jazz / dj:t)
+                            
+                            
+                            <br />
+                            8.2.2012 klo: 22:00 - 22:00
+                            Night Club Marilyn
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                10.2.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl01_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=321148&amp;NodeID=9897">Sohon Torwien tanssiaiset kuin silloin ennen</a>
+                            (Tanssit)
+                            
+                            
+                            <br />
+                            10.2.2012 klo: 18:30
+                            Turun Pyrkivän Urheilutalo
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl01_rptDateContent_ctl01_hlGotoContent" href="./?ContentID=311179&amp;NodeID=9897">Lyn Hot Weekends</a>
+                            (Pop / rock / jazz / dj:t)
+                            
+                            
+                            <br />
+                            10.2.2012 klo: 22:00 - 22:00
+                            Night Club Marilyn
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl01_rptDateContent_ctl02_hlGotoContent" href="./?ContentID=311012&amp;NodeID=9897">PIANOWAR Casino Night Club Vegasissa joka Pe & La</a>
+                            (Pop / rock / jazz / dj:t)
+                            
+                            
+                            <br />
+                            10.2.2012 klo: 22:00 - 22:00
+                            Casino Night Club Vegas
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl01_rptDateContent_ctl03_hlGotoContent" href="./?ContentID=316808&amp;NodeID=9897">Runo & Rock</a>
+                            (Pop / rock / jazz / dj:t)
+                            
+                            
+                            <br />
+                            10.2.2012 klo: 22:00 - 11.2.2012 klo: 4:00
+                            Klubi
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                11.2.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl02_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=316808&amp;NodeID=9897">Runo & Rock</a>
+                            (Pop / rock / jazz / dj:t)
+                            
+                            
+                            <br />
+                            10.2.2012 klo: 22:00 - 11.2.2012 klo: 4:00
+                            Klubi
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                15.2.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl03_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=311085&amp;NodeID=9897">Opiskelijabileet ja City-Karaoke </a>
+                            (Pop / rock / jazz / dj:t)
+                            
+                            
+                            <br />
+                            15.2.2012 klo: 22:00 - 22:00
+                            Night Club Marilyn
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                17.2.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl04_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=311173&amp;NodeID=9897">Lyn Hot Weekends</a>
+                            (Pop / rock / jazz / dj:t)
+                            
+                            
+                            <br />
+                            17.2.2012 klo: 22:00 - 22:00
+                            Night Club Marilyn
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl04_rptDateContent_ctl01_hlGotoContent" href="./?ContentID=311023&amp;NodeID=9897">PIANOWAR Casino Night Club Vegasissa joka Pe & La</a>
+                            (Pop / rock / jazz / dj:t)
+                            
+                            
+                            <br />
+                            17.2.2012 klo: 22:00 - 22:00
+                            Casino Night Club Vegas
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                22.2.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl05_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=311093&amp;NodeID=9897">Opiskelijabileet ja City-Karaoke </a>
+                            (Pop / rock / jazz / dj:t)
+                            
+                            
+                            <br />
+                            22.2.2012 klo: 22:00 - 22:00
+                            Night Club Marilyn
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                24.2.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl06_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=311180&amp;NodeID=9897">Lyn Hot Weekends</a>
+                            (Pop / rock / jazz / dj:t)
+                            
+                            
+                            <br />
+                            24.2.2012 klo: 22:00 - 22:00
+                            Night Club Marilyn
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl06_rptDateContent_ctl01_hlGotoContent" href="./?ContentID=311013&amp;NodeID=9897">PIANOWAR Casino Night Club Vegasissa joka Pe & La</a>
+                            (Pop / rock / jazz / dj:t)
+                            
+                            
+                            <br />
+                            24.2.2012 klo: 22:00 - 22:00
+                            Casino Night Club Vegas
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                29.2.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl07_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=311092&amp;NodeID=9897">Opiskelijabileet ja City-Karaoke </a>
+                            (Pop / rock / jazz / dj:t)
+                            
+                            
+                            <br />
+                            29.2.2012 klo: 22:00 - 22:00
+                            Night Club Marilyn
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                2.3.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl08_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=311169&amp;NodeID=9897">Lyn Hot Weekends</a>
+                            (Pop / rock / jazz / dj:t)
+                            
+                            
+                            <br />
+                            2.3.2012 klo: 22:00 - 22:00
+                            Night Club Marilyn
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl08_rptDateContent_ctl01_hlGotoContent" href="./?ContentID=311022&amp;NodeID=9897">PIANOWAR Casino Night Club Vegasissa joka Pe & La</a>
+                            (Pop / rock / jazz / dj:t)
+                            
+                            
+                            <br />
+                            2.3.2012 klo: 22:00 - 22:00
+                            Casino Night Club Vegas
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                7.3.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl09_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=311082&amp;NodeID=9897">Opiskelijabileet ja City-Karaoke </a>
+                            (Pop / rock / jazz / dj:t)
+                            
+                            
+                            <br />
+                            7.3.2012 klo: 22:00 - 22:00
+                            Night Club Marilyn
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                9.3.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl10_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=311164&amp;NodeID=9897">Lyn Hot Weekends</a>
+                            (Pop / rock / jazz / dj:t)
+                            
+                            
+                            <br />
+                            9.3.2012 klo: 22:00 - 22:00
+                            Night Club Marilyn
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl10_rptDateContent_ctl01_hlGotoContent" href="./?ContentID=311009&amp;NodeID=9897">PIANOWAR Casino Night Club Vegasissa joka Pe & La</a>
+                            (Pop / rock / jazz / dj:t)
+                            
+                            
+                            <br />
+                            9.3.2012 klo: 22:00 - 22:00
+                            Casino Night Club Vegas
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                14.3.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl11_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=311084&amp;NodeID=9897">Opiskelijabileet ja City-Karaoke </a>
+                            (Pop / rock / jazz / dj:t)
+                            
+                            
+                            <br />
+                            14.3.2012 klo: 22:00 - 22:00
+                            Night Club Marilyn
+                            
+                            <span class="deadline">
+                                
+                                
+                            </span></li>
+                    
+            </ul>
+        
+            <h2>
+                16.3.2012
+            </h2>
+            <ul>
+                
+                        <li>
+                            <a id="Default1_Main1_uchMain_ctl00_cntList_rptDates_ctl12_rptDateContent_ctl00_hlGotoContent" href="./?ContentID=321415&amp;NodeID=9897">Biisintekokurssi alkaa</a>
+                            (Kurssit)
+                            
+                            
+                            <br />
+                            16.3.2012 klo: 18:00 - 20:30
+                            Varsinais-Suomen Kansanopisto
+                            
+                            <span class="deadline">
+                                
+                                 - Ilmoittaudu viimeistään: 09.03.2012
+                            </span></li>
+                    
+            </ul>
+        
+</div>
+<p class="getmore">
+    
+    <a id="Default1_Main1_uchMain_ctl00_cntList_lbNextResults" href="javascript:__doPostBack(&#39;Default1$Main1$uchMain$ctl00$cntList$lbNextResults&#39;,&#39;&#39;)">Seuraavat &raquo;</a></p>
+
+<p>
+    </p>
+
+    </span>
+    <!-- content END -->
+</td>
+
+
+    <td valign="top" id="navibarRight">
+        
+<!-- rightSidebar BEGIN -->
+<h1 class="forBraille">
+    Muut nostot</h1>
+<table width="250" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td width="250" valign="top">
+            <span id="eventCalendar">
+                <table cellspacing="1" id="Default1_Main1_ucRight_ncCal" width="250">
+	<tr>
+		<td class="header1" colspan="8" align="Center"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;MonthChanged-1&#39;)">&laquo;</a> <a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DateRangeSelected1.2.2012_29.2.2012&#39;)">helmikuu 2012</a> <a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;MonthChanged+1&#39;)">&raquo;</a></td>
+	</tr><tr>
+		<td class="header2"></td><td class="header2">ma</td><td class="header2">ti</td><td class="header2">ke</td><td class="header2">to</td><td class="header2">pe</td><td class="header2">la</td><td class="header2">su</td>
+	</tr><tr>
+		<td class="header2"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DateRangeSelected30.1.2012_5.2.2012&#39;)">5</a></td><td class="inactiveday"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected30.1.2012&#39;)"></a></td><td class="inactiveday"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected31.1.2012&#39;)"></a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected1.2.2012&#39;)">1</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected2.2.2012&#39;)">2</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected3.2.2012&#39;)">3</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected4.2.2012&#39;)">4</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected5.2.2012&#39;)">5</a></td>
+	</tr><tr>
+		<td class="header2"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DateRangeSelected6.2.2012_12.2.2012&#39;)">6</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected6.2.2012&#39;)">6</a></td><td class="today hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected7.2.2012&#39;)">7</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected8.2.2012&#39;)">8</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected9.2.2012&#39;)">9</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected10.2.2012&#39;)">10</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected11.2.2012&#39;)">11</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected12.2.2012&#39;)">12</a></td>
+	</tr><tr>
+		<td class="header2"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DateRangeSelected13.2.2012_19.2.2012&#39;)">7</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected13.2.2012&#39;)">13</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected14.2.2012&#39;)">14</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected15.2.2012&#39;)">15</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected16.2.2012&#39;)">16</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected17.2.2012&#39;)">17</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected18.2.2012&#39;)">18</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected19.2.2012&#39;)">19</a></td>
+	</tr><tr>
+		<td class="header2"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DateRangeSelected20.2.2012_26.2.2012&#39;)">8</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected20.2.2012&#39;)">20</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected21.2.2012&#39;)">21</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected22.2.2012&#39;)">22</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected23.2.2012&#39;)">23</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected24.2.2012&#39;)">24</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected25.2.2012&#39;)">25</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected26.2.2012&#39;)">26</a></td>
+	</tr><tr>
+		<td class="header2"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DateRangeSelected27.2.2012_4.3.2012&#39;)">9</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected27.2.2012&#39;)">27</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected28.2.2012&#39;)">28</a></td><td class="hasEvents"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected29.2.2012&#39;)">29</a></td><td class="inactiveday"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected1.3.2012&#39;)"></a></td><td class="inactiveday"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected2.3.2012&#39;)"></a></td><td class="inactiveday"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected3.3.2012&#39;)"></a></td><td class="inactiveday"><a href="javascript:__doPostBack(&#39;Default1$Main1$ucRight$ncCal&#39;,&#39;DaySelected4.3.2012&#39;)"></a></td>
+	</tr>
+</table>
+            </span>
+            
+            
+<div id="banner">
+
+</div>
+        </td>
+    </tr>
+</table>
+<!-- rightSidebar END -->
+
+    </td>
+
+
+    </tr>
+    <tr valign="top">
+        <td colspan="3" id="bottomstripe">
+            
+<h1 class="forBraille">
+    Lis&auml;toiminnot</h1>
+<p>
+    <a id="Default1_Bottom1_hlHelp" href="http://www.turku.fi/Public/default.aspx?nodeid=7453">Verkkopalvelun opaste</a>
+    |
+    <a id="Default1_Bottom1_hlSiteMap" href="./?app=2">Sivukartta</a>
+    | <a href="#" onclick="javascript:printPage();">
+        <span id="Default1_Bottom1_lblPrint">Tulosta sivu</span></a>
+</p>
+
+<script language="javascript" type="text/javascript">
+    <!-- // Hide from older browsers.
+    var da = (document.all) ? 1 : 0;
+    var pr = (window.print) ? 1 : 0;
+    var mac = (navigator.userAgent.indexOf("Mac") != -1); 
+
+    function printPage() 
+    {
+        if (pr) // NS4, IE5
+            window.print()
+        else if (da && !mac) // IE4 (Windows)
+            vbPrintPage()
+        else // other browsers
+            alert("Selaimesi ei tue tätä toimintoa, valitse menusta File -> Print tulostaaksesi sivun");
+            //  return false;
+    }
+ 
+    if (da && !pr && !mac) 
+    {
+        with (document) {
+        writeln('<OBJECT ID="WB" WIDTH="0" HEIGHT="0" CLASSID="clsid:8856F961-340A-11D0-A96B-00C04FD705A2"><\/OBJECT>');
+        writeln('<' + 'SCRIPT LANGUAGE="VBScript">');
+        writeln('Sub window_onunload');
+        writeln('  On Error Resume Next');
+        writeln('  Set WB = nothing');
+        writeln('End Sub');
+        writeln('Sub vbPrintPage');
+        writeln('  OLECMDID_PRINT = 6');
+        writeln('  OLECMDEXECOPT_DONTPROMPTUSER = 2');
+        writeln('  OLECMDEXECOPT_PROMPTUSER = 1');
+        writeln('  On Error Resume Next');
+        writeln('  WB.ExecWB OLECMDID_PRINT, OLECMDEXECOPT_DONTPROMPTUSER');
+        writeln('End Sub');
+        writeln('<' + '/SCRIPT>');
+     }
+  }
+ //-->
+</script>
+
+
+        </td>
+    </tr>
+</table>
+
+        </div>
+    </form>
+</body>
+</html>
