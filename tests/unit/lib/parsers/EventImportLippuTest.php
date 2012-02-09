@@ -4,7 +4,7 @@ class EventImportLippuFiTest extends TasantsTestCase {
     public function testParsing() {
         $service = new EventImportService();
         $events = $service->Parse(new EventImportLippuFi());
-        $this->assertEquals(25, sizeof($events));
+        $this->assertEquals(175, sizeof($events));
         $event = $events[1];
         /* @var $event EventData */
         $this->assertEquals("", $event->Address());

@@ -13,7 +13,18 @@ class EventImportLippuFi implements IEventParser {
     }
     public function Parse(ICache $cache) {
         return array_merge(
+            //tku
             $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?sort_direction=asc&affiliate=ADV&fun=ortsliste&doc=city&show_resulttable=25&nurbuchbar=true&ortId=113&sort_by=event_datum'),
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=city&fun=ortsliste&index_resulttable=25&nurbuchbar=true&ortId=113&show_resulttable=25&sort_by=event_datum&sort_by_resulttable=event_datum&sort_direction=asc'),
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=city&fun=ortsliste&index_resulttable=50&nurbuchbar=true&ortId=113&show_resulttable=25&sort_by=event_datum&sort_by_resulttable=event_datum&sort_direction=asc'),
+
+            //hki
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=city&fun=ortsliste&detailadoc=erdetaila&detailbdoc=evdetailb&nurbuchbar=true&ortId=22&tipps=yes'),
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=city&fun=ortsliste&index=25&nurbuchbar=true&ortId=22&show=25&sort_by=event_name1&sort_direction=asc'),
+
+            //tampere
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=city&fun=ortsliste&detailadoc=erdetaila&detailbdoc=evdetailb&nurbuchbar=true&ortId=112&tipps=yes'),
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=city&fun=ortsliste&index=25&nurbuchbar=true&ortId=112&show=25&sort_by=event_name1&sort_direction=asc'),
             array()
         );
     }
