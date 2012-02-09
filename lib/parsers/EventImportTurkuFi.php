@@ -40,7 +40,7 @@ class EventImportTurkuFi implements IEventParser {
                 //no event continue
                 continue;
             }
-            $date = preg_replace("/.*([0-9]{1,2}\.[0-9]{1,2}\.[0-9]{4}).*/ms", '$1', $lis[1]);
+            $date = preg_replace("/.*?([0-9]{1,2}\.[0-9]{1,2}\.[0-9]{4}).*/ms", '$1', $lis[1]);
             $name = trim(preg_replace("/<a.*>(.*)<\/a>.*/ms", "$1", $lis[1]));
             $tag = trim(preg_replace("/<a.*>.*<\/a>.*\((.*)\).*/ms", "$1", $lis[1]));
             $place = trim(preg_replace("/<a.*>.*<\/a>.*\(.*\).*<br \/>(.*)<span.*/ms", "$1", $lis[1]));

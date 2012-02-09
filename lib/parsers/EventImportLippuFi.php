@@ -28,7 +28,7 @@ class EventImportLippuFi implements IEventParser {
                 //no event continue
                 continue;
             }
-            $date = preg_replace("/.*([0-9]{1,2}\.[0-9]{1,2}\.[0-9]{4}).*/ms", '$1', $data);
+            $date = preg_replace("/.*?([0-9]{1,2}\.[0-9]{1,2}\.[0-9]{4}).*/ms", '$1', $data);
             $name = trim(preg_replace('/<h4 class="summary">.*<span>(.*)<\/span>.*<\/h4>.*/ms', "$1", $data));
             //$tag = trim(preg_replace("/<a.*>.*<\/a>.*\((.*)\).*/ms", "$1", $lis[1]));
             $place_x = trim(preg_replace('/.*<dl class="place location">(.*?)<\/dl>.*/ms', "$1", $data));
@@ -36,15 +36,18 @@ class EventImportLippuFi implements IEventParser {
             $city = trim(preg_replace('/.*<dd>(.*?)<\/dd>.*/ms', "$1", $place_x));
             $event_data = new EventData();
             $event_data->SetDate($date);
-            $event_data->SetName($name);
+            $event_data->SetName($this->Decode($name));
             $event_data->SetDescription('');
             $event_data->SetCity("Turku");
-            $event_data->SetPlace($place);
+            $event_data->SetPlace($this->Decode($place));
             $events[] = $event_data;
 
 
         }
         return $events;
+    }
+    private function Decode($string) {
+        return html_entity_decode($string, null, "UTF-8");
     }
 
 }
