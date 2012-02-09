@@ -25,7 +25,7 @@ class EventImportMobilekustannus implements IEventParser {
             foreach ($tokens2 as $event) {
                 $tokens3 = explode("<span", $event);
                 if (!isset($tokens3[3])) {
-                    var_dump($tokens3);
+                    //var_dump($tokens3);
                     break;
                     throw new Exception("Bad name: " . $event);
                 }
