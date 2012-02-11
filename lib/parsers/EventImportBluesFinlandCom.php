@@ -38,14 +38,25 @@ class EventImportBluesFinlandCom implements IEventParser {
                 $date = $matches[1];
                 $name = trim($matches[2]);
 
-                if (!preg_match('/(.*)?,.*?,(.*?)<br>/', $city_place, $matches)) {
-                    preg_match('/(.*)?,(.*?)<br>/', $city_place, $matches);
+                if (preg_match('/<a.*<span.*?>(.*)/', $name, $name_matches)) {
+                    $name = $name_matches[1];
+                }
+
+                if (!preg_match('/(.*),.*?,(.*?)<br>/', $city_place, $matches)) {
+                    if (!preg_match('/(.*?),(.*?)<br>/', $city_place, $matches)) {
+                        preg_match('/(.*?)<br>/', $city_place, $matches);
+                    }
                 }
                 if (!isset($matches[1])) {
                     preg_match('/(.*)?,(.*?)<\/span>/', $city_place, $matches);
                 }
                 $city = trim($matches[1]);
-                $place = trim($matches[2]);
+                if (preg_match('/(.*?)<br>/', $city, $city_matches)) {
+                    $city = $city_matches[1];
+                    $place = '';
+                } else {
+                    $place = trim($matches[2]);
+                }
 
                 $event_data = new EventData();
                 $event_data->SetDate($this->ResolveDate($year_month, $date));
