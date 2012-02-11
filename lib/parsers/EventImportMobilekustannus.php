@@ -57,9 +57,9 @@ class EventImportMobilekustannus implements IEventParser {
         return $events;
     }
     private function PreReplace($data) {
-        return str_replace(array('mm.'), array('[mm]'), $data);
+        return str_replace(array('mm.', '!'), array('[mm]', '[!].'), $data);
     }
     private function PostReplace($data) {
-        return htmlspecialchars_decode(str_replace(array('[mm]'), array('mm.'), $data));
+        return htmlspecialchars_decode(str_replace(array('[mm]', '[!].'), array('mm.', '.'), $data));
     }
 }
