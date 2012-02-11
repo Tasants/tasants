@@ -65,6 +65,13 @@ class EventImportBluesFinlandCom implements IEventParser {
                     $city = 'Oulu';
                     $place = '';
                 }
+                if (stristr($city, 'Helsinki')) {
+                    $city = 'Helsinki';
+                }
+                if (stristr($city, 'Käpygrilli')) {
+                    $city = 'Helsinki';
+                    $place = 'Käpygrilli';
+                }
 
                 $event_data = new EventData();
                 $event_data->SetDate($this->ResolveDate($year_month, $date));

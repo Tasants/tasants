@@ -32,7 +32,7 @@ class EventImportMnet implements IEventParser {
                 $event_data->SetDate($date);
                 $event_data->SetName($name);
                 $event_data->SetDescription($description);
-                $event_data->SetCity($city);
+                $event_data->SetCity($this->CityFix($city));
                 $event_data->SetPlace($place);
                 $events[] = $event_data;
             } catch (EInvalidCity $ex) {
@@ -42,6 +42,13 @@ class EventImportMnet implements IEventParser {
             }
         }
         return $events;
+    }
+    private function CityFix($city) {
+        $change = array(
+            'Siikalatva' => 'Rantsila',
+            'Mänttä-Vilppula' => 'Vilppula'
+        );
+        return (isset($change[$city])) ? $change[$city] : $city;
     }
 
 }
