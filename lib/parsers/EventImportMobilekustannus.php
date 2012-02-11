@@ -22,11 +22,14 @@ class EventImportMobilekustannus implements IEventParser {
             $date_info = array_shift($tokens2);
             $date = preg_replace(',.*<b>.*<br>(.*)</b.*,', '$1', $date_info) . '' . date('Y');
             foreach ($tokens2 as $event) {
-                $place = trim(preg_replace(',.*paikka/.*">(.*)</a>.*,ms', '$1', $event));
+                preg_match(',.*?paikka/.*?">(.*?)</a>.*,ms', $event, $matches);
+                $place = $matches[1];
                 $coordinates = explode(",", preg_replace(',.*map="(.*)" desc=".*,ms', '$1', $event));
                 $latitude = isset($coordinates[0]) ? $coordinates[0] : null;
                 $longitude = isset($coordinates[1]) ? $coordinates[1] : null;
-                $address = preg_replace(',.*paikka/391">(.*?)</a>.*,ms', '$1', $event);
+                preg_match(',.*?paikka/.*?">.*desc.*>(.*)">(.*?)</a></span>,ms', $event, $matches);
+                $address = isset($matches[1]) ? $matches[1] : '';
+
                 $type = '';
                 if (preg_match(',.*<span class="text"><span class="typelabel">(.*)</span>.*,ms', $event)) {
                     $type = preg_replace(',.*<span class="text"><span class="typelabel">(.*)</span>.*,ms', '$1', $event);

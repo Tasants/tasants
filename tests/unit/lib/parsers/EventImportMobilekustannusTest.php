@@ -9,9 +9,13 @@ class EventImportMobilekustannusTest extends TasantsTestCase {
         $event = $events[54];
         /* @var $event EventData */
         $this->assertEquals("Monk-spesiaali! 20:30 ovet auki, 21:00 Pepe Willberg Trio", $event->Name());
+        $this->assertEquals("Monk", $event->Place());
+        $this->assertEquals("Humalistonkatu 3", $event->Address());
 
         $event = $events[56];
         /* @var $event EventData */
         $this->assertEquals("Reggaematic - Jah Vice, Natural Marcus", $event->Name());
+        $this->assertEquals("Pikku-Torre", $event->Place());
+        $this->assertEquals("", $event->Address());
     }
 }
