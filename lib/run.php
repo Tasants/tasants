@@ -11,3 +11,4 @@ require_once LIB . 'parsers/EventImportMnet.php';
 require_once LIB . 'parsers/EventImportMobilekustannus.php';
 require_once LIB . 'parsers/EventImportTurkuFi.php';
 require_once LIB . 'parsers/EventImportLippuFi.php';
+require_once LIB . 'parsers/EventImportBluesFinlandCom.php';

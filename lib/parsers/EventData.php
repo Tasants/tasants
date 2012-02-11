@@ -9,6 +9,7 @@ class EventData {
     private $address;
     private $latitude;
     private $longitude;
+    private $tags = array();
     public function Date() {
         return $this->date;
     }
@@ -56,5 +57,11 @@ class EventData {
     }
     public function SetLongitude($latitude) {
         $this->longitude = $latitude;
+    }
+    public function Tags() {
+        return $this->tags;
+    }
+    public function SetTags(array $tags) {
+        $this->tags = $tags;
     }
 }
