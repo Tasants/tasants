@@ -36,6 +36,5 @@ class EventImportLippuFiTest extends TasantsTestCase {
         $this->assertEquals("15.2.2012", $event->Date());
         $this->assertEquals("Kuopion Musiikkikeskus", $event->Place());
         $this->assertEquals("ERJA LYYTINEN", $event->Name());
-
     }
 }

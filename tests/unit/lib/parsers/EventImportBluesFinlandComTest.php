@@ -4,6 +4,7 @@ class EventImportBluesFinlandComTest extends TasantsTestCase {
     public function testParsing() {
         $service = new EventImportService();
         $events = $service->Parse(new EventImportBluesFinlandCom());
+
         $this->assertEquals(120, sizeof($events));
 
         $event = $events[0];
@@ -21,6 +22,20 @@ class EventImportBluesFinlandComTest extends TasantsTestCase {
         $this->assertEquals("11.2.2012", $event->Date());
         $this->assertEquals("Taiteiden yö", $event->Place());
         $this->assertEquals("Honey B & The T-Bones, DJ Frankly Jo'", $event->Name());
+
+        $event = $events[50];
+        /* @var $event EventData */
+        $this->assertEquals("", $event->Address());
+        $this->assertEquals("Espoo", $event->City());
+        $this->assertEquals("25.2.2012", $event->Date());
+        $this->assertEquals("Base", $event->Place());
+        $this->assertEquals("Antsu Haahtela Trio", $event->Name());
+
+        foreach ($events as $i => $event) {
+            if (stristr($event->City(), 'Leppävaara')) {
+                throw new Exception("i: " . $i);
+            }
+        }
 
     }
 }
