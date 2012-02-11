@@ -30,7 +30,6 @@ class EventImportBluesFinlandCom implements IEventParser {
             while (sizeof($event_rows)) {
                 $date_artist = array_shift($event_rows);
                 $city_place = array_shift($event_rows);
-
                 preg_match(',([0-9]+?\.[0-9]+?.)(.*)</span>,', $date_artist, $matches);
                 if (!isset($matches[1])) {
                     continue;
@@ -39,6 +38,9 @@ class EventImportBluesFinlandCom implements IEventParser {
                 $name = trim($matches[2]);
 
                 if (preg_match('/<a.*<span.*?>(.*)/', $name, $name_matches)) {
+                    $name = $name_matches[1];
+                }
+                if (preg_match('/(.*?)<br>/', $name, $name_matches)) {
                     $name = $name_matches[1];
                 }
 
@@ -56,6 +58,12 @@ class EventImportBluesFinlandCom implements IEventParser {
                     $place = '';
                 } else {
                     $place = trim($matches[2]);
+                }
+
+                //special cases
+                if (stristr($name, 'Oulu Spring Blues')) {
+                    $city = 'Oulu';
+                    $place = '';
                 }
 
                 $event_data = new EventData();

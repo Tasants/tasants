@@ -39,11 +39,28 @@ class EventImportBluesFinlandComTest extends TasantsTestCase {
         $this->assertEquals("", $event->Place());
         $this->assertEquals("Savonsolmu Winter Blues Party", $event->Name());
 
+        $event = $events[117];
+        /* @var $event EventData */
+        $this->assertEquals("", $event->Address());
+        $this->assertEquals("Oulu", $event->City());
+        $this->assertEquals("31.3.2012", $event->Date());
+        $this->assertEquals("", $event->Place());
+        $this->assertEquals("Oulu Spring Blues", $event->Name());
+
         foreach ($events as $i => $event) {
-            if (stristr($event->City(), '<br>')) {
-                throw new Exception("i: " . $i);
-            }
+            $this->CheckBrs($i, $event);
         }
 
+    }
+    private function CheckBrs($i, EventData $event) {
+        if (stristr($event->City(), '<br>')) {
+            throw new Exception("i: " . $i);
+        }
+        if (stristr($event->Place(), '<br>')) {
+            throw new Exception("i: " . $i);
+        }
+        if (stristr($event->Name(), '<br>')) {
+            throw new Exception("i: " . $i);
+        }
     }
 }
