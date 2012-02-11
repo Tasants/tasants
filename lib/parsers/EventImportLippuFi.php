@@ -25,6 +25,55 @@ class EventImportLippuFi implements IEventParser {
             //tampere
             $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=city&fun=ortsliste&detailadoc=erdetaila&detailbdoc=evdetailb&nurbuchbar=true&ortId=112&tipps=yes'),
             $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=city&fun=ortsliste&index=25&nurbuchbar=true&ortId=112&show=25&sort_by=event_name1&sort_direction=asc'),
+
+            //espoo
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?sort_direction=asc&affiliate=ADV&fun=ortsliste&doc=city&show=25&nurbuchbar=true&ortId=119&sort_by=event_datum'),
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=city&fun=ortsliste&index_resulttable=25&nurbuchbar=true&ortId=119&show_resulttable=25&sort_by=event_datum&sort_by_resulttable=event_datum&sort_direction=asc'),
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=city&fun=ortsliste&index_resulttable=50&nurbuchbar=true&ortId=119&show_resulttable=25&sort_by=event_datum&sort_by_resulttable=event_datum&sort_direction=asc'),
+
+            //jyväskylä
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=city&fun=ortsliste&detailadoc=erdetaila&detailbdoc=evdetailb&nurbuchbar=true&ortId=114&tipps=yes'),
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=city&fun=ortsliste&index=25&nurbuchbar=true&ortId=114&show=25&sort_by=event_name1&sort_direction=asc'),
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=city&fun=ortsliste&index_resulttable=50&nurbuchbar=true&ortId=114&show_resulttable=25&sort_by=event_name1&sort_by_resulttable=event_name1&sort_direction=asc'),
+
+            //kajaani
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?sort_direction=asc&affiliate=ADV&fun=ortsliste&doc=city&show=25&nurbuchbar=true&ortId=132&sort_by=event_datum'),
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=city&fun=ortsliste&index_resulttable=25&nurbuchbar=true&ortId=132&show_resulttable=25&sort_by=event_datum&sort_by_resulttable=event_datum&sort_direction=asc'),
+
+            //kotka
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?sort_direction=asc&affiliate=ADV&fun=ortsliste&doc=city&show=25&nurbuchbar=true&ortId=139&sort_by=event_datum'),
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=city&fun=ortsliste&index_resulttable=25&nurbuchbar=true&ortId=139&show_resulttable=25&sort_by=event_datum&sort_by_resulttable=event_datum&sort_direction=asc'),
+
+            //kouvola
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?sort_direction=asc&affiliate=ADV&fun=ortsliste&doc=city&show=25&nurbuchbar=true&ortId=140&sort_by=event_datum'),
+
+            //kuopio
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?sort_direction=asc&affiliate=ADV&fun=ortsliste&doc=city&show=25&nurbuchbar=true&ortId=175&sort_by=event_datum'),
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=city&fun=ortsliste&index_resulttable=25&nurbuchbar=true&ortId=175&show_resulttable=25&sort_by=event_datum&sort_by_resulttable=event_datum&sort_direction=asc'),
+
+            //lahti
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?sort_direction=asc&affiliate=ADV&fun=ortsliste&doc=city&show=25&nurbuchbar=true&ortId=142&sort_by=event_datum'),
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=city&fun=ortsliste&index_resulttable=25&nurbuchbar=true&ortId=142&show_resulttable=25&sort_by=event_datum&sort_by_resulttable=event_datum&sort_direction=asc'),
+
+            //lappeenranta
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?sort_direction=asc&affiliate=ADV&fun=ortsliste&doc=city&show=25&nurbuchbar=true&ortId=143&sort_by=event_datum'),
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=city&fun=ortsliste&index_resulttable=25&nurbuchbar=true&ortId=143&show_resulttable=25&sort_by=event_datum&sort_by_resulttable=event_datum&sort_direction=asc'),
+
+            //oulu
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?sort_direction=asc&affiliate=ADV&fun=ortsliste&doc=city&show=25&nurbuchbar=true&ortId=115&sort_by=event_datum'),
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=city&fun=ortsliste&index_resulttable=25&nurbuchbar=true&ortId=115&show_resulttable=25&sort_by=event_datum&sort_by_resulttable=event_datum&sort_direction=asc'),
+
+            //pori
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?sort_direction=asc&affiliate=ADV&fun=ortsliste&doc=city&show=25&nurbuchbar=true&ortId=116&sort_by=event_datum'),
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=city&fun=ortsliste&index_resulttable=25&nurbuchbar=true&ortId=116&show_resulttable=25&sort_by=event_datum&sort_by_resulttable=event_datum&sort_direction=asc'),
+
+            //savonlinna
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?sort_direction=asc&affiliate=ADV&fun=ortsliste&doc=city&show=25&nurbuchbar=true&ortId=117&sort_by=event_datum'),
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=city&fun=ortsliste&index_resulttable=25&nurbuchbar=true&ortId=117&show_resulttable=25&sort_by=event_datum&sort_by_resulttable=event_datum&sort_direction=asc'),
+
+            //vantaa
+            $this->ParseFests($cache, 'http://www.lippu.fi/Lippuja.html?sort_direction=asc&affiliate=ADV&fun=ortsliste&doc=city&show=25&nurbuchbar=true&ortId=118&sort_by=event_datum'),
+
             array()
         );
     }
@@ -49,7 +98,7 @@ class EventImportLippuFi implements IEventParser {
             $event_data->SetDate($date);
             $event_data->SetName($this->Decode($name));
             $event_data->SetDescription('');
-            $event_data->SetCity("Turku");
+            $event_data->SetCity($this->Ucfirst($city));
             $event_data->SetPlace($this->Decode($place));
             $events[] = $event_data;
 
@@ -59,6 +108,10 @@ class EventImportLippuFi implements IEventParser {
     }
     private function Decode($string) {
         return html_entity_decode($string, null, "UTF-8");
+    }
+    private function Ucfirst($string) {
+        // @todo mb?
+        return ucfirst(mb_convert_case($string, MB_CASE_LOWER));
     }
 
 }

@@ -1,0 +1,3720 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fi-FI"  lang="fi-FI" >
+<head>
+
+														
+	
+			
+				
+	
+					
+							<!-- Kein current_kuenstler / current_artist verfügbar! //-->
+	
+
+
+
+	
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+				
+			
+								
+			
+								
+								
+								
+			
+								
+			
+								
+			
+								
+			
+								
+			
+								
+			
+								
+			
+								
+			
+								
+			
+								
+			
+								
+			
+								
+			
+								
+			
+								
+			
+				
+
+
+
+
+			<meta property="og:url" content="http://www.lippu.fi" />
+		<meta property="og:description" content="Liput tuhansiin tapahtumiin!" />
+		
+	    	<meta property="og:image" content="http://www.lippu.fi/obj/advanced/default/layout/fi/img/logos/lippu_transparent.gif" />
+    	
+	<meta property="og:type" content="activity" />
+	<meta property="og:language" />
+	<meta property="og:title" content="Lippupiste" />
+	<meta property="og:site_name" content="Lippupiste - Liput" />
+	
+													
+										
+	<!-- v2008.12.1.1259 //-->
+		<title> 			Lippupiste Oy – Liput tuhansiin tapahtumiin!	  </title>
+	<meta http-equiv='content-type' content="text/html; charset=UTF-8" />
+	<meta http-equiv="content-script-type" content="text/javascript" />
+	<meta http-equiv="content-language" content="fi" />
+
+	<meta name="keywords" content="Lippupiste" />
+	
+
+	
+	<meta name="description" content="Lippupiste" />
+	<meta name="language" content="fi" />
+	<meta name="revisit-after" content="7 Päivää" />
+
+			<meta name="robots" content="index, follow" />
+		<meta name="publisher" content="Lippupiste http://www.lippu.fi" />
+	<meta name="copyright" content="Copyright 2009 kirjoittanut Lippupiste http://www.lippu.fi" />
+	<meta name="author" content="Lippupiste http://www.lippu.fi" />
+        	    	<meta property='fb:admins' content="100002046710451,100002365596888" />
+        
+	<link rel="shortcut icon" type="image/gif" title="" href="/obj/media/FI-eventim/specialLogos/animated_favicon.gif" />
+	
+	<link rel="home" href="http://www.lippu.fi/" />
+	<link rel="author" href="http://www.lippu.fi/" />
+	<link rel="copyright" href="http://www.lippu.fi/" />
+
+	<meta name="MSSmartTagsPreventParsing" content="true" />
+	<meta http-equiv="imagetoolbar" content="false" />	
+	
+	<link rel="stylesheet" href="/obj/advanced/default/layout/fi/css/screen.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="/obj/advanced/default/layout/css/screen.packed.css" type="text/css" media="screen" />
+	
+	<link rel="stylesheet" href="/obj/advanced/default/layout/css/print.css" type="text/css" media="print" />
+	
+<link rel="stylesheet" href="/obj/advanced/default/layout/css/modular.packed.css" type="text/css" media="screen" /><link rel="stylesheet" href="/obj/advanced/default/layout/FI_fi/css/modular.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/obj/advanced/default/layout/css/sidebar.packed.css" type="text/css" media="screen" />	
+<script type="text/javascript" language="javascript">
+// <![CDATA[ <!--
+
+				var eveJsIframeBlank = '/staticsite/blank.htm';
+
+		var eveJsUrl = 'Lippuja.html?affiliate=ADV';
+	
+			var eveJsCountry = 'FI' || 'DE';
+	
+		var eveJsLanguage = 'fi' || 'de';
+		
+
+	
+	
+	
+	function trackAndOpenLink(cfg) {
+        
+				var cfg = cfg || {};
+		var noTrack = false;
+		
+		if(!cfg.el){			
+			cfg.el = jQuery(cfg.params).find('a').get(0);
+		}
+		
+		if(cfg.code){
+			window.tracking = {
+				linkEl   : cfg.el || document.createElement('A'),
+                url      : cfg.el.href || false,
+				code	 :	cfg.code || false,
+				callback :	cfg.callback || false,
+				target   : cfg.el.target || false,
+				scope	 :	cfg.scope || false
+			}
+		}else{
+		
+           	window.tracking = {
+                 linkEl   : cfg.el || document.createElement('A'),
+                 url      : cfg.el.href || false,
+                 target   : cfg.el.target || false,
+                 code	  : cfg.el.name || false,
+                 callback : cfg.callback || false
+            };
+		}
+						
+		var checkCode = /INT-[0-9]*-\[.*\]\|\|.*/;
+		if(("" != "true") && window.tracking.code!="" && window.tracking.code.search(checkCode) > -1){
+			var result = xt_adc(false, window.tracking.code);
+		}else{
+			noTrack = true;
+		}
+		if(!noTrack){
+			window.setTimeout('openAfterTracking()', 500);
+		}else{
+			if(cfg.el.getAttribute("class") != null && cfg.el.getAttribute("class").indexOf("popupwindow") == -1) {
+				var tmpClass = cfg.el.getAttribute("class");
+				var tmpTarget = cfg.el.getAttribute("target");
+				var tmpHref = cfg.el.getAttribute('href') || '';
+				if(tmpTarget == "_blank"){
+					if(tmpClass != "languageLink") {
+						window.open(tmpHref, tmpTarget);
+					}
+				}
+				else {
+					/** Sprachwechsel URL wird per changeScript gesetzt, href darf nicht verwendet werden */
+					if(tmpHref.indexOf('language=') < 0){
+						window.location.href = window.tracking.url; 
+					}
+				}
+			} else { window.location.href = window.tracking.url;   }
+		}
+		return false;
+	};
+	
+	function openAfterTracking() {
+				        
+        if (window.tracking.url || false) {
+             if (window.tracking.target) {
+                   window.open(window.tracking.url, window.tracking.target);
+             } else {
+                   document.location.href = window.tracking.url;
+             }
+             return;
+        }
+  	};
+	
+			
+	function trackReInitialize(el) {
+		
+		jQuery(el).find('a').each(function() {
+
+			jQuery(this).click(function() {
+				trackAndOpenLink({ 'el' : this });
+			});			
+		});
+		
+	};
+
+	
+// --> ]]>
+</script>
+
+<script src="/obj/advanced/default/layout/js/setup.packed.js" type="text/javascript"></script>
+
+<script src="/obj/advanced/default/layout/js/jquery.packed.js" type="text/javascript"></script><script src="/obj/advanced/default/layout/js/jquery.popupwindow.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/default/layout/js/eventim.packed.js" type="text/javascript"></script>
+
+<script src="/obj/advanced/default/layout/js/jquery.autocomplete.packed.js" type="text/javascript"></script>
+
+<script src="/obj/advanced/default/layout/js/jquery.validate.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/default/layout/fi/js/jquery.validate.js" type="text/javascript"></script><script src="/obj/advanced/default/layout/js/jquery.validateCustoms.packed.js" type="text/javascript"></script>
+
+<script src="/obj/advanced/default/layout/fi/js/Eve.js" type="text/javascript"></script><script src="/obj/advanced/default/layout/js/Eve.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/default/layout/js/Eve/RegisterCards.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/default/layout/js/Eve/AbstractTexts.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/default/layout/js/Eve/DynamicLayers.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/default/layout/js/Eve/ReadMore.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/default/layout/js/Eve/ItemPager.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/default/layout/js/Eve/Tooltipps.packed.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="/obj/advanced/default/layout/css/eve.popupLayer.packed.css" type="text/css" media="screen" />
+<script src="/obj/advanced/default/layout/js/eve.popupLayer.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/default/layout/js/eve.metaNavSyncCachedSites.packed.js" type="text/javascript"></script>
+
+<script src="/obj/advanced/default/layout/js/jquery.fullcalendar.packed.js" type="text/javascript"></script>
+
+
+
+<script type="text/javascript" language="javascript">
+// <![CDATA[ <!--
+
+	jQuery(function() {
+		
+		if(jQuery.browser.msie) {
+		
+			document.body.onscroll = function() {
+			
+				this.style.overflow = "hidden";
+				this.style.overflow = "";
+				
+			}.scope(document.body);
+		}
+	});
+	
+// --> ]]>
+</script>
+
+<script type="text/javascript" language="javascript">
+// <![CDATA[ <!--
+
+	var ff36xTextWorkaround = function(){
+	
+		// Nur ausfuehren wenn Mozilla, andernfalls abbrechen.
+		if (!(jQuery.browser.mozilla || false)) return;
+		
+		var tmpVersion = (jQuery.browser.version.replace(/\./gi, '')) * 1;
+		if (typeof tmpVersion != 'number' || tmpVersion < 1920) return;
+		
+		var br = "\n";
+		
+		jQuery('head').append(
+			'<style type="text/css">' + br +
+			'html > body .mods div.headerNavigation div.quickSearchInput input { padding:4px 0 2px 12px !important; }' + br +
+			'html > body .mods form input.input { padding:3px 5px 1px; }' + br +		
+			'</style>'
+		);
+	};
+	
+	ff36xTextWorkaround();
+	
+// --> ]]>
+</script>
+
+
+	
+
+
+																		
+	<script type="text/javascript" language="JavaScript">
+	<!--
+
+		var checkLanguage = function() {
+
+			// Sprache aus dem Webshop-Cookie herausfiltern...
+			var tmpArray = (eveJs.base64_decode(getCookie('webshop') || '')).split('&');
+			var webshopCookie = {};
+			var tmpPair;
+					
+			for(var i = 0; i < tmpArray.length; i++) {
+				tmpPair = tmpArray[i].split('=');
+				webshopCookie[tmpPair.shift()] = tmpPair.join('=');
+			}
+			
+			// navigator.language = firefox, webkit, opera
+			// navigator.userLanguage = internet explorer
+			var languages = {
+	
+				'supported' : {'fi' : true, 'sv' : true, 'en' : true},
+				'current'   : "fi",
+				'standard'  : "fi",
+				'webshop'   : webshopCookie.language || false,
+				'navigator' : ((navigator.language || false) || (navigator.userLanguage || false))
+			};
+			
+			// Wenn Cookie da, dann die Sprache nehmen, wenn nicht dann Navigator-Sprache nehmen, wenn auch nicht,
+			// dann Ende.
+			var givenLanguage = ((languages.webshop || false) || (languages.navigator || false));
+			
+			// Wenn das language-cookie gesetzt ist, gewinnt dieses
+			var languageCookie = getCookie("language") || false;
+			if(languageCookie) givenLanguage = languageCookie;
+			
+			if(!(givenLanguage || false)) return;
+
+			// Sprache identisch mit aktuellem Template? Wenn ja, dann alles okay!
+			if(givenLanguage == languages.current) return;
+
+			// Ist Sprache aus Parameter fuer die Plattform verfuegbar?
+			if((languages.supported[givenLanguage] || false)) {
+
+				// Sprache aus Cookie im Template verfuegbar, dann Redirect fuer neue Sprache!
+				document.location.href = 'Lippuja.html?affiliate=ADV&language=' + givenLanguage;
+				
+			} else {
+				
+				// Wenn nein, dann auf Default weiterleiten, aber nur dann, wenn die aktuelle
+				// Sprache nicht schon der Standard-Version entspricht, dann einfach Ende.
+				if(languages.standard == languages.current) return;
+				
+				document.location.href = 'Lippuja.html?affiliate=ADV&language=' + languages.standard;
+			}
+		};
+
+		checkLanguage();
+		
+	//-->
+	</script>
+
+
+
+<link media="screen" rel="stylesheet" href="/obj/advanced/default/layout/css/jquery.autocomplete.packed.css" type="text/css" />
+
+	<link media="screen" rel="stylesheet" href="/obj/advanced/default/layout/css/leftAlign.packed.css" type="text/css" />
+
+<script type="text/javascript" language="JavaScript">
+<!--
+
+	var filterLanguage = function(text) {
+
+		var params = ((text || '').split('?')).pop().split('&');
+		
+		for(var i in params) {
+
+			var pair = params[i].split('=');
+			if((pair[0] || '').toUpperCase() == "LANGUAGE") return pair[1] || false;
+		};
+
+		return false;
+	};
+	
+	var switchLanguage = function() {
+
+		// Language filterm
+		var language = filterLanguage((this.getAttribute('href') || ''));
+		
+		// Wurde keine gefunden, dann einfach normal fortfahren.
+		if(!language) return;
+		
+		// ein persistentes language cookie setzen, damit die Sprache vorausgewählt ist, auch wenn der
+		// Browser zwischendurch geschlossen wird
+		var expirationDate = new Date();	
+		expirationDate.setDate(expirationDate.getDate() + 30);
+		var expires = expirationDate.toGMTString();
+		
+		var locationHost = (document.location.host).split(".");
+		var helpDomain = locationHost[1]+"."+locationHost[2];
+		if(locationHost[2] == "co") helpDomain = helpDomain+"."+locationHost[3];
+		
+		document.cookie = "language="+language+"; expires="+expires+"; domain="+helpDomain;	
+				
+		
+		
+		
+												
+			var currentURL = window.location.href || '';
+			var callUrl = false;
+			var splitter = "?";
+			
+			if(window.location.search != "") {
+				
+				var isLanguageInHref = filterLanguage(currentURL);
+
+				if(isLanguageInHref) {
+
+					var regexp = new RegExp("language=" + isLanguageInHref, "gi");
+					callUrl = currentURL.replace(regexp, "language="+language);
+				}
+				
+				splitter = "&";	
+			}
+
+			if(!callUrl) callUrl = currentURL + splitter + 'language=' + language;
+
+			// Sicherstellen, dass immer auf eine Seite und nicht einfach nur auf die
+			// Domain geleitet wird, da AKAMAI die Startseite cached.
+			var currentPathname = window.location.pathname || '';
+			if (currentPathname == '/' || currentPathname == '') callUrl = callUrl.replace('//' + window.location.hostname + currentPathname, '//' + window.location.hostname + '/tickets.html');
+
+			window.location.href = callUrl;
+			
+		
+		return false;
+	};
+
+	jQuery(function() {
+		jQuery('#header #language #languageBtn').mouseup(function() {
+			
+			if((this.isDone || false)) return;
+			
+			jQuery('#languageSelector li ul li a').each(function() {
+		
+				var tmpHref = this.getAttribute('href') || '';
+				
+				// Pruefen ob im Link ein Sprachschalter existiert, wenn nicht, dann ignorieren.
+				if(tmpHref.indexOf('language=') < 0) return;
+
+				jQuery(this).click(switchLanguage);
+			});
+		});
+	});
+	
+//-->
+</script>
+
+
+
+
+
+
+
+	<script type="text/javascript">
+<!--
+	
+	window.denyAdserv = false;
+	
+	function checkAdds() {
+		
+		var el = document.getElementById('isLoadedAdServ') || false;
+		
+		window.denyAdserv = (el == false) ? true : false ;
+	};
+	
+	window.setTimeout("checkAdds()", 5000);
+	
+//-->
+</script>
+
+<div id="adServingEAS">
+	<script type="text/javascript" src="https://eas4.emediate.eu/EAS_tag.1.0.js"></script>
+	<script type="text/javascript">
+		<!--
+			jQuery(document).ready(function(){
+				/** Banner anzeigen und Hoehe anpassen
+				* Die Groeßen sind per CSS festgelegt. Alle Banner liegen in #banner.
+				*
+				* Wenn es Fehler beim Laden der Banner gibt und so kein a, embed oder object geladen wird, 
+				* wird das betroffene Element per jQuery entfernt.
+				* Wenn es min. einen Banner oben gibt (Leaderboard), maximale Hoehe der Banners speichern
+				* diese Hoehe dem #banner zuweisen. 
+				* 
+				* Für die Leaderboard-Banner den linken Abstand des ersten Banners bestimmen und hierzu 
+				* Breite * index + Abstand * index des aktuellen Banners addieren. 
+				* Diesen Wert als CSS: left der aktuellen Box zuweisen.
+				*
+				* Wenn es einen seitlichen Banner (Skyscraper) gibt, den Abstand des seitlichen Banners nach oben,
+				* um die gespeicherte Hoehe des oberen Banners vergrößern. Hoehe buendig zum Suchinputfeld #suchbegriff.
+				* 
+				* Am Ende die alle vorhandenen Banner einblenden.
+				*/
+				var topHeight = false;
+				
+				jQuery("#banner > div").each(function() {
+					if(jQuery(this).hasClass('top')){
+						var tmpHeight = jQuery(this).height();
+						if(tmpHeight > topHeight)
+							topHeight = tmpHeight;
+					}
+				});
+				
+				
+				var adContent = jQuery("#adLeaderBoardContent")
+				if ( !(adContent.children("a").length > 0 || adContent.children("div").children("a").length > 0 || adContent.children("embed").length > 0 || adContent.children("object").length > 0) ) {
+					adContent.remove();
+				} 
+				
+				// linker Abstand = wrapper Breite (988) - (Anzahl der Banner * Breite der Banner) (zb. 3 * 265 = 795) - Abstand zwischen den Bannern (Anzahl der Banner - 1) * 5px geteilt durch 2
+				var tempLeft = ((jQuery("#wrapper").width() - (jQuery("#banner > div.top").length * jQuery("#banner > div.top").innerWidth()) - ((jQuery("#banner > div.top").length - 1) * 5) ) / 2);
+				jQuery("#banner > div.top").each(function(index) {
+					var tmpW = tempLeft + (index * jQuery(this).innerWidth()) + (index * 5);
+					jQuery(this).css('left', tmpW);
+				});
+				if(topHeight){
+					jQuery(".side").css('top', topHeight + jQuery("#suchbegriff").position().top);
+					jQuery("#banner").height(topHeight);
+				}
+				jQuery("#banner > div").show();
+			});
+		
+			function removeBrokenAdds () {
+				jQuery("#banner > div").each(function() {
+					if ( !(jQuery(this).children("a").length > 0 || jQuery(this).children("div").children("a").length > 0 || jQuery(this).children("embed").length > 0 || jQuery(this).children("object").length > 0) ) {
+						jQuery(this).remove();
+					}				
+				});
+				jQuery(".sidebar .adSidebar").each(function() {
+					if ( !(jQuery(this).children("a").length > 0 || jQuery(this).children("div").children("a").length > 0 || jQuery(this).children("embed").length > 0 || jQuery(this).children("object").length > 0) ) {
+						jQuery(this).remove();
+					} 
+				});
+			};
+		
+			window.setTimeout("removeBrokenAdds()", 5000);
+
+		//-->
+	</script>
+</div>
+
+<div id="isLoadedAdServ" style="visibility:hidden;position:absolute;"></div>
+
+<style type="text/css">
+    /*FI-banner styles*/
+	#banner {
+		position:relative; 
+		width:994px; 
+		margin:0 auto; 
+		height:120px;
+	}
+    #banner > div {
+    	top: 0;
+    	position: absolute;
+    	overflow:hidden;
+    }
+    #banner div.top {
+    	width: 265px;
+    	height: 120px;
+    }
+    #banner div.fullLeaderboard {
+    	width: 728px;
+    	height: 90px;
+    }
+    #banner div#adTop1{
+    	left: 0px;
+    }
+    #banner div#adTop2{
+    	left: 270px;
+    }
+    #banner div#adTop3{
+    	left: 540px;
+    }
+    /*skyscraper*/
+	#banner div#adRight1 {
+    	height: 600px;
+    	width: 160px;
+    	right: -160px;
+    }
+    /*sidebar*/
+	.sidebar .adSidebar {
+		width:220px;
+		text-align:center !important;
+		margin-bottom:10px;
+	}
+    /*leaderBoardContent*/
+    #adLeaderBoardContent {
+    	width:728px;
+    	height:90px;
+    	padding:0 0 14px;
+    	overflow:hidden;
+    }
+</style>	<meta name="verify-v1" content="Lxt2W9ZcVEqOG8_jep9rEB5B1DZCOj8-9Bd7fVAl1dI" />
+
+<link rel="stylesheet" href="/obj/advanced/default/home/css/home.css" type="text/css" media="screen" />
+
+
+			
+														
+								
+								
+																				
+								
+								
+																				
+								
+								
+																				
+								
+								
+																				
+								
+								
+																				
+								
+								
+																				
+								
+								
+																				
+								
+								
+																				
+								
+								
+																
+			
+						
+				
+
+  
+	<link rel="canonical" href="http://www.lippu.fi" />
+
+
+
+
+
+<style>
+/** aus der main.inc **/
+#home{ float:left; width:735px; }
+#main{ margin-right:0px !important; }
+
+</style>
+
+
+		
+	</head>
+	<body onLoad="onloadHome();">
+    
+    	
+
+				
+		<!-- Wrapper -->
+		<div id="wrapper">			
+			
+						
+						
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div id="banner">
+		
+		    																			
+		
+					<div id='leaderboard' class='fullLeaderboard top'>
+	<script type="text/javascript" language="JavaScript">
+	<!--
+	
+		if(!(window.denyAdserv || false)) {
+			document.write('<scr'+'ipt type="text/javascript" src="https://eas4.emediate.eu/eas?cu=8893;cre=mu;js=y;target=_blank"></scri'+'pt>');
+		} 
+	
+	//-->
+	</script>
+
+	<noscript>
+		<a target="_blank" href="https://eas4.emediate.eu/eas?cu=8893;ty=ct">
+			<img src="https://eas4.emediate.eu/eas?cu=8893;cre=img" border="0" alt="EmediateAd" width='728' height='90'/>
+		</a>
+	</noscript>
+</div>							<div id='adRight1' class='side'>
+	<script type="text/javascript" language="JavaScript">
+	<!--
+	
+		if(!(window.denyAdserv || false)) {
+			document.write('<scr'+'ipt type="text/javascript" src="https://eas4.emediate.eu/eas?cu=8896;cre=mu;js=y;target=_blank"></scri'+'pt>');
+		} 
+	
+	//-->
+	</script>
+
+	<noscript>
+		<a target="_blank" href="https://eas4.emediate.eu/eas?cu=8896;ty=ct">
+			<img src="https://eas4.emediate.eu/eas?cu=8896;cre=img" border="0" alt="EmediateAd" />
+		</a>
+	</noscript>
+</div>			</div>
+	<script type="text/javascript">
+	<!--
+	jQuery("#banner > div").hide();
+	jQuery("#banner").css('height', '0');
+   	//-->
+    </script>
+
+
+<a name="top"></a>      
+	
+
+	
+	<!-- Header -->
+    
+
+
+	
+	
+
+	 <div id="header">  
+			<div id="oldLogo">
+		<a name="&lid=header_logo" href="tickets-konzertkarten.html?affiliate=ADV" title="Pääsyliput ja konserttiliput ">
+		 		
+
+
+		        
+        	            	<img src="/obj/advanced/default/layout/fi/img/logos/lippu_transparent.gif" width="187" height="111" alt="Pääsyliput ja konserttiliput " />
+                    		</a>
+    </div>
+	<div class="top">  
+		
+		<div id="logo">
+					</div>
+		
+					<h1 class="ticketsHeadline"><b>Liput tuhansiin tapahtumiin!</b> 
+			
+</h1>
+				<div class="rightHead">  
+			<ul id="metaNav">
+				<li class="cart"><a href="Lippuja.html?affiliate=ADV&amp;doc=shoppingCart&amp;fun=wkb" title="Ostoskori" name="&lid=header_shoppingcart">Ostoskori <span id="shoppingCart">0</span></a></li>
+				
+																		
+<li class="myEventimLogin">
+		<a href="Lippuja.html?affiliate=ADV&amp;doc=feature/login" name="header_myeventim" onmouseover="javascript:if(((Eve || {}).DynamicLayers || false)) Eve.DynamicLayers.quickFx(this, { layerEl:'metaNavLogin', offsetY:2, offsetX:1, offsetElReference:'br', layerReference:'tr', triggerCss:'active', profile:'simpleLayer' });" title="Omat tietoni Kirjaudu sisään">
+		<span class="left">
+			<span class="txt1">Omat tietoni</span>
+			<span class="txt2"></span>
+			<span class="txt3">Kirjaudu sisään</span>
+		</span>
+	</a>
+</li>							</ul>   
+			
+										<div class="mods">
+					<div class="reset">	
+																		
+<div id="metaNavLogin" class="flyoutnavi" style="display:none;">
+		<!--<div id="mainNavPlaces" class="flyoutnavi">-->
+		
+	<div class="mods">
+		<div class="reset">
+			<div class="formulars">
+				<form autocomplete="off" action="https://secure.lippu.fi/tnl.dll" method="post" id="qlForm" class="ignoreBecauseLayer">
+						<input type="hidden" name="fun" value="customer" />
+						<input type="hidden" name="action" value="login" />
+						<input type="hidden" name="affiliate" value="ADV" />
+						<input type="hidden" name="id" value="ADV_NO_SESSION" />
+						<input type="hidden" name="doc" value="feature/login" />
+						<input type="hidden" name="errordoc" value="globalError" />
+						<input type="hidden" name="nextdoc" value="feature/login" />										
+						<div>
+							<label for="qlusername">Käyttäjätunnus tai e-mail</label>
+							<input name="username" id="qlusername" type="text" class="input required" alt="" />
+						</div>										
+						<div class="last">
+							<label for="qlpassword">Salasana</label>
+							<input type="password" name="password" id="qlpassword" class="input required" alt=""  />
+								
+			
+			
+			
+			
+			
+						
+		<span class="defSubmit ">
+			<input type="submit" value="Kirjaudu sisään" class="submit"  />
+		</span>
+				
+									</div>
+
+						<script type="text/javascript" language="javascript">
+						<!--									
+														jQuery(function() {										
+								if (!jQuery.browser.msie) return;										
+								jQuery('#qlpassword, #qlusername').keyup(function(e) {											
+									if ((e.keyCode || 0) == 13) jQuery('#qlForm').submit();
+								});
+							});									
+						//-->
+						</script>
+				</form>
+			</div>
+		</div>
+	</div>
+	<ul>
+		<li><a onclick="return xt_click(false, 'C', '1', 'Login::Forgotten Password', 'A');" href="Lippuja.html?affiliate=ADV&amp;doc=feature/forgotPassword" class="popupwindow" title="Käyttäjätunnus unohtunut?" target="_blank">Salasana unohtunut?</a></li>
+		<li><a href="Lippuja.html?affiliate=ADV&amp;doc=feature/customerRegistration" title="Rekisteröidy asiakkaaksemme" >Rekisteröidy asiakkaaksemme</a></li>
+	</ul>
+</div>
+					</div>
+				</div>
+					</div>
+		
+						
+<script type="text/javascript" language="javascript">
+<!--
+	
+			
+	// Sicherheitshalber einen Try-Catch-Handler drumbauen, dass wenn was schief geht, kein JavaScript-Fehler angezeigt wird.
+	try {
+	
+		var eveMetaNav = new MetaNavigation({
+		
+			'loginCode'                    : "<li class=\"my_eventimLoggedin\"><a href=\"Lippuja.html?affiliate=ADV&amp;doc=feature/login\" title=\"Omat tietoni Kirjaudu sisään\" name=\"header_myeventim_isLoggedIn\">Omat tietoni</a></li><li class=\"log\"><a href=\"Lippuja.html?affiliate=ADV&amp;doc=feature%2Flogout&amp;fun=tlogoff\" title=\"Kirjaudu ulos\" name=\"header_logout_isLoggedIn\">Kirjaudu ulos</a></li>",
+			'leafletSelector'              : "#metaNav .leaflet",
+			'loginSelector'                : "#metaNav .myEventimLogin",
+			'shoppincCartSpanSelector'     : "#metaNav #shoppingCart",
+			'bookmarkedEventsSpanSelector' : "#metaNav #notice"
+		});
+		
+	} catch(e) {};
+
+//-->
+</script>		
+			<div id="info">
+				
+			
+		<div class="eventcount">Joka vuosi <span>yli 16.000 tapahtumaa</span>, joista tänään <span class="pointer" onclick="window.location='Lippuja.html?affiliate=ADV&action=power&sort_direction=asc&fun=search&sort_by=evdatum&comefrom=search%2FextendedSearch&week=-3&doc=search%2Fsearch&isSent=true&detailadoc=erdetaila&fuzzy=yes&kudoc=artist&detailbdoc=evdetailb&suchbegriff=&kategorie=&ort=&venue=&zeit=am&von=11.02.2012&bis=11.02.2012&plzUmkreis=&umkreis=&land=';">116 tapahtumaa</span> .</div>
+	</div>
+		
+						
+	</div>
+	
+			   
+		<div id="language">
+						<a id="languageBtn" href="javascript:void(0);" class="current" onmouseover="javascript:if(((Eve || {}).DynamicLayers || false)) Eve.DynamicLayers.quickFx(this, { layerEl:'languageSelector', offsetY:1,  offsetX:2 , profile:'clickLayerBottom' });">Suomeksi</a>
+			<script type="text/javascript" language="javascript">
+				var requests = new Array();
+							
+			function addHiddenForm(params) {
+				
+				var form = document.createElement("form");
+    			form.setAttribute("method", "post");
+    			form.setAttribute("action", "Lippuja.html");
+				form.setAttribute("id", "changeLocale");
+				
+			    for(var key in params) {
+			        var hiddenField = document.createElement("input");
+			        hiddenField.setAttribute("type", "hidden");
+			        hiddenField.setAttribute("name", key);
+			        hiddenField.setAttribute("value", params[key]);
+			        form.appendChild(hiddenField);
+			    }
+				
+				var languageField = document.createElement("input");
+		        languageField.setAttribute("type", "hidden");
+		        languageField.setAttribute("name", "language");
+		        languageField.setAttribute("id", "changeLocaleLanguage");
+		        form.appendChild(languageField);
+				
+				var affiliateField = document.createElement("input");
+		        affiliateField.setAttribute("type", "hidden");
+		        affiliateField.setAttribute("name", "affiliate");
+		        affiliateField.setAttribute("id", "changeLocaleAffiliate");
+		        form.appendChild(affiliateField);
+				
+				document.body.appendChild(form);
+			}
+			
+			
+			function changeLanguage(language, affiliate){
+				// Nachschauen ob die parameter, die an die Funktion uebergeben worden,
+				// auch wirklich nicht leer sind ..., andernfalls Abbruch.
+				if(!(language || false)) return false;
+				if(!(affiliate || false)) return false;
+			
+				console.log(requests);
+				//hidden inputs erzeugen
+				addHiddenForm(requests);
+				
+				// Formular ermitteln, wenn es das nicht gibt, Abbruch!
+				var tmpForm=document.getElementById("changeLocale") || false;
+				if(!tmpForm) return false;
+			
+				// language-Input ermitteln, wenn es das nicht gibt, Abbruch!
+				var tmpEl= document.getElementById("changeLocaleLanguage") || false;
+				if(!tmpEl) return false;
+		
+				// Affiliate-Input ermitteln, wenn es das nicht gibt, Abbruch!
+				var tmpAffiliate=document.getElementById("changeLocaleAffiliate") || false;
+				if(!tmpAffiliate) return false;
+			
+				// Die an die Funktion uebergebene Sprache im Input setzen ...
+				tmpEl.value = language;
+			
+				// Die an die Funktion uebergebene Affiliate im Input setzen ...
+				tmpAffiliate.value = affiliate;
+				
+				// Formular nun absenden!
+				tmpForm.submit();
+
+				// An den Link false also Abbruch des Clicks senden.
+				return false;		
+			};
+			</script>
+		
+						
+										<ul id="languageSelector" style="display: none; border:1px solid #fff !important; border-top:none;">
+	<li onmouseover="changeColor(this);" onmouseout="changeColor(this);"><strong>Suomi</strong>
+		<ul>
+			<li><a class="languageLink" href="Lippuja.html?affiliate=ADV&language=fi" title="Lippupiste Suomeksi" rel="nofollow">Suomeksi</a></li>
+            <li><a class="languageLink" href="Lippuja.html?affiliate=ADV&language=sv" title="Lippupiste Svenska" rel="nofollow">Svenska</a></li>
+            <li><a class="languageLink" href="Lippuja.html?affiliate=ADV&language=en" title="Lippupiste English" rel="nofollow">English</a></li>
+		</ul>
+	</li>
+    <li><a class="languageLink" href="http://www.eventim.nl" title="EVENTIM Hollanti" target="_blank">Hollanti</a></li>
+	<li><a class="languageLink" href="http://www.eventim.bg  " title="EVENTIM Bulgaria" target="_blank">Bulgaria</a></li>
+	<li><a class="languageLink" href="http://www.eventim.co.uk" title="EVENTIM Englanti" target="_blank">Englanti</a></li>
+	<li><a class="languageLink" href="http://www.eventim.co.il" title="EVENTIM Israel" target="_blank">Israel</a></li>
+	<li><a class="languageLink" href="http://www.ticketone.it " title="EVENTIM Italia" target="_blank">Italia</a></li>
+	<li><a class="languageLink" href="http://www.oeticket.com " title="EVENTIM Itävalta" target="_blank">Itävalta</a></li>
+	<li><a class="languageLink" href="http://www.eventim.hr" title="EVENTIM Kroatia" target="_blank">Kroatia</a></li>
+	<li><a class="languageLink" href="http://www.eventim.pl" title="EVENTIM Puola" target="_blank">Puola</a></li>
+	<li><a class="languageLink" href="http://www.eventim.ro" title="EVENTIM Romania" target="_blank">Romania</a></li>
+	<li><a class="languageLink" href="http://www.eventim.se " title="EVENTIM Ruotsi" target="_blank">Ruotsi</a></li>
+	<li><a class="languageLink" href="http://www.eventim.de" title="EVENTIM Saksa" target="_blank">Saksa</a></li>
+	<li><a class="languageLink" href="http://www.eventim.rs" title="EVENTIM Serbia" target="_blank">Serbia</a></li>
+	<li><a class="languageLink" href="http://www.eventim.sk" title="EVENTIM Slovakia" target="_blank">Slovakia</a></li>
+	<li><a class="languageLink" href="http://www.eventim.si" title="EVENTIM Slovenia" target="_blank">Slovenia</a></li>
+	<li><a class="languageLink" href="http://www.ticketcorner.ch " title="TICKETCORNER Sveitsi" target="_blank">Sveitsi</a></li>
+	<li><a class="languageLink" href="http://www.eventim.cz" title="EVENTIM Tsekki" target="_blank">Tsekki</a></li>
+	<li><a class="languageLink" href="http://www.eventim.hu  " title="EVENTIM Unkari" target="_blank">Unkari</a></li>	
+	<li><a class="languageLink" href="http://www.parter.ru " title="EVENTIM Venäjä" target="_blank" style="border-bottom:none;">Venäjä</a></li>
+</ul>
+
+				
+		</div>
+    	
+		<!-- New Navigation -->
+<div class="mods">
+	<div class="header reset">
+		<div class="headerNavigation">
+		
+						
+
+
+
+
+
+
+
+		
+		
+			
+						
+									
+							
+						
+						
+					
+							
+						
+									
+							
+						
+						
+					
+							
+						
+									
+							
+						
+						
+					
+							
+						
+									
+							
+						
+						
+					
+							
+						
+									
+							
+						
+						
+					
+							
+						
+									
+							
+						
+						
+					
+							
+						
+									
+							
+						
+						
+					
+						
+		
+		
+					
+				
+						
+						
+						
+												
+								
+												
+								
+												
+								
+															
+																
+						
+												
+								
+												
+								
+												
+								
+															
+																
+						
+												
+								
+												
+								
+												
+								
+																			
+						
+												
+								
+												
+								
+												
+								
+															
+																
+						
+												
+								
+												
+								
+												
+								
+																			
+						
+												
+																			
+						
+												
+																			
+			
+
+
+<div class="categories">
+
+		
+				
+		
+				
+			
+					
+				
+				
+				
+				
+				
+			    
+				
+				
+				
+				
+		<div class="dropdownBtn">
+					<a href="Lippuja.html?affiliate=ADV&amp;doc=categoryOverview" id="mainNavCategoriesLayerBtnId" onmouseover="javascript:if(((Eve || {}).DynamicLayers || false)) Eve.DynamicLayers.quickFx(this, { triggerCss:'active', layerEl:'mainNavCategoriesLayer', profile:'simpleLayer',offsetX:0, offsetY:5, depth:100, closeElements:'#mainNavCategoriesLayerBtnId', offsetEl : '' });" name='&lid=header_mainNav_categoryOverview'><span><span>Kaikki tapahtumat: teatteri, urheilu...</span></span></a>
+			</div>
+	
+			<div id="mainNavCategoriesLayer" class="" style="display:none;">
+		
+		
+		<div class="reset">
+			
+		
+					
+						
+		<div id="mainNavCategories" class="flyoutnavi jsClassForResize">
+			    			    				
+    				<ul>
+    					
+    					    					    						
+    						    						
+    						    						
+    						    						    						
+    						    						
+    						
+    						    						
+    						<li class="column first">
+    					
+    							    							    							
+    								    							
+    								    								
+    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    									
+    									    									    									    									
+    									    									    									    									
+    									    									    									    									
+										    									<h3><a  name="&lid=layerCategories_kategorie_42" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=42&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Konsertti</a></h3>
+    								
+    									<ul>
+    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_42_1A" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=42&amp;kategorieKuerzel=1A&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Festivaalit</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_42_1B" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=42&amp;kategorieKuerzel=1B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Klassinen musiikki</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_42_1C" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=42&amp;kategorieKuerzel=1C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Konsertti</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_42_1F" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=42&amp;kategorieKuerzel=1F&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Viihdekonsertti</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_42_1E" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=42&amp;kategorieKuerzel=1E&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Kansanmusiikki</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_42_1D" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=42&amp;kategorieKuerzel=1D&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Iskelmä- ja tanssimusiikki</a></li>
+    											    										    									</ul>
+    								</div>
+    							
+    								    								    								    								    								    								
+    								    							    						</li>
+    					    						
+    						    						
+    						    						
+    						    						    						
+    						    						
+    						
+    						    						
+    						<li class="column">
+    					
+    							    							    							
+    								    							
+    								    								
+    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    									
+    									    									    									    									
+    									    									    									    									
+    									    									    									    									
+										    									<h3><a  name="&lid=layerCategories_kategorie_43" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=43&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Kulttuuri, Teatteri</a></h3>
+    								
+    									<ul>
+    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_43_2A" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=43&amp;kategorieKuerzel=2A&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Baletti, tanssi</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_43_2D" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=43&amp;kategorieKuerzel=2D&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Ooppera, operetti</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_43_2C" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=43&amp;kategorieKuerzel=2C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Kulttuuritapahtuma</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_43_2B" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=43&amp;kategorieKuerzel=2B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Teatteri</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_43_2F" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=43&amp;kategorieKuerzel=2F&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Kesäteatteri</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_43_2E" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=43&amp;kategorieKuerzel=2E&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Farssi, satiiri</a></li>
+    											    										    									</ul>
+    								</div>
+    							
+    								    								    								    								    								    								
+    								    							    						</li>
+    					    						
+    						    						
+    						    						
+    						    						    						
+    						    						
+    						
+    						    						
+    						<li class="column">
+    					
+    							    							    							
+    								    							
+    								    								
+    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    									
+    									    									    									    									
+    									    									    									    									
+    									    									    									    									
+										    									<h3><a  name="&lid=layerCategories_kategorie_44" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=44&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Muu</a></h3>
+    								
+    									<ul>
+    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_44_3A" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=44&amp;kategorieKuerzel=3A&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Vapaa-aika</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_44_3B" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=44&amp;kategorieKuerzel=3B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Näyttely, messut</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_44_3C" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=44&amp;kategorieKuerzel=3C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Muu tapahtuma</a></li>
+    											    										    									</ul>
+    								</div>
+    							
+    								    								    								    								    								    								
+    								    							    							
+    								    							
+    								    								
+    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    									
+    									    									    									    									
+    									    									    									    									
+    									    									    									    									
+										    									<h3><a  name="&lid=layerCategories_kategorie_45" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=45&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Perhe</a></h3>
+    								
+    									<ul>
+    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_45" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=45&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Sirkus</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_45_4C" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=45&amp;kategorieKuerzel=4C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Lastentapahtuma</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_45_4B" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=45&amp;kategorieKuerzel=4B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Lastenmusiikki</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_45_4E" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=45&amp;kategorieKuerzel=4E&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Lasten- ja nukketeatteri</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_45_4D" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=45&amp;kategorieKuerzel=4D&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Huvipuistot</a></li>
+    											    										    									</ul>
+    								</div>
+    							
+    								    								    								    								    								    								
+    								    							    						</li>
+    					    						
+    						    						
+    						    						
+    						    						    						
+    						    						
+    						
+    						    						
+    						<li class="column">
+    					
+    							    							    							
+    								    							
+    								    								
+    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    									
+    									    									    									    									
+    									    									    									    									
+    									    									    									    									
+										    									<h3><a  name="&lid=layerCategories_kategorie_46" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=46&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Rock&amp;Pop</a></h3>
+    								
+    									<ul>
+    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_46_5B" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=46&amp;kategorieKuerzel=5B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Jazz&Blues</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_46_5A" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=46&amp;kategorieKuerzel=5A&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Hard Rock</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_46_5C" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=46&amp;kategorieKuerzel=5C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Rock&Pop</a></li>
+    											    										    									</ul>
+    								</div>
+    							
+    								    								    								    								    								    								
+    								    							    							
+    								    							
+    								    								
+    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    									
+    									    									    									    									
+    									    									    									    									
+    									    									    									    									
+										    									<h3><a  name="&lid=layerCategories_kategorie_48" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Urheilu</a></h3>
+    								
+    									<ul>
+    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_48_6C" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;kategorieKuerzel=6C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Jääkiekko</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_48_6A" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;kategorieKuerzel=6A&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Koripallo</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_48_6B" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;kategorieKuerzel=6B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Nyrkkeily</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_48_6E" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;kategorieKuerzel=6E&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Käsipallo</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_48_6D" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;kategorieKuerzel=6D&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Jalkapallo</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_48_6F" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;kategorieKuerzel=6F&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Muu urheilu</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_48_6J" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;kategorieKuerzel=6J&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Yleisurheilu</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_48_6I" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;kategorieKuerzel=6I&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Salibandy</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_48_6G" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;kategorieKuerzel=6G&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Lentopallo</a></li>
+    											    										    									</ul>
+    								</div>
+    							
+    								    								    								    								    								    								
+    								    							    						</li>
+    					    						
+    						    						
+    						    						
+    						    						    						
+    						    						
+    						
+    						    						
+    						<li class="column">
+    					
+    							    							    							
+    								    							
+    								    								
+    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    									
+    									    									    									    									
+    									    									    									    									
+    									    									    									    									
+										    									<h3><a  name="&lid=layerCategories_kategorie_49" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Viihde, Komedia, Sho...</a></h3>
+    								
+    									<ul>
+    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_49_7B" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Kabaree</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_49_7A" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7A&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Komedia</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_49_7C" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Gaala</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_49_7E" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7E&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Revyy</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_49_7D" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7D&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Musikaali</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_49_7H" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7H&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Klubit</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_49_7G" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7G&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Kasino, pokeri</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_49_7F" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7F&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Show</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_49_7J" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7J&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Stand up</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_49_7I" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7I&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Ravintolaviihde</a></li>
+    											    										    									</ul>
+    								</div>
+    							
+    								    								    								    								    								    								
+    								    							    						</li>
+    					    				</ul>
+    								</div>
+		
+							</div>
+	</div>
+	</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+					
+		jQuery('#mainNavCategoriesLayerBtnId').mouseover(function() {
+	
+			if((this.resingColumnsDone || false)) return;
+		
+			// Hoehe bemessen
+			var tmpLayer = jQuery('.jsClassForResize').get(0);
+						
+			var tmpColumns = jQuery(tmpLayer).find('li.column').get() || [];
+			
+			jQuery(tmpColumns).css({ 'height' : 'auto' });
+			
+			var tmpBaseLayer = tmpLayer.parentNode.parentNode.parentNode || false;
+			
+			jQuery(tmpColumns).height(jQuery(tmpBaseLayer).height() + 10);
+			
+			// Breite der Spalten messen
+			var tmpWidth = jQuery(tmpBaseLayer).width() - 1;
+			
+			var tmpColumnsWidth = Math.floor(tmpWidth / tmpColumns.length);
+			
+			for(var i = 0; i < tmpColumns.length; i++) {
+				
+				if(tmpColumnsWidth > tmpWidth) tmpColumnsWidth = tmpWidth;
+				
+				jQuery(tmpColumns[i]).width(tmpColumnsWidth);
+				
+				tmpWidth -= tmpColumnsWidth;
+			}
+			
+			this.resingColumnsDone = true;
+			
+		}.defer(10));
+			
+		
+//-->
+</script>  
+
+			
+						<div class="cities w122">
+
+	
+					
+			
+	
+				
+				
+				
+				
+				
+			    
+				
+				
+				
+				
+		<div class="dropdownBtn">
+					<a href="Lippuja.html?affiliate=ADV&amp;doc=cityOverview" id="mainNavCitiesLayerBtnId" onmouseover="javascript:if(((Eve || {}).DynamicLayers || false)) Eve.DynamicLayers.quickFx(this, { triggerCss:'active', layerEl:'mainNavCitiesLayer', profile:'simpleLayer',offsetX:0, offsetY:5, depth:100, closeElements:'#mainNavCitiesLayerBtnId', offsetEl : '' });" name='&lid=header_mainNav_cityOverview'><span><span>Paikkakunta</span></span></a>
+			</div>
+	
+			<div id="mainNavCitiesLayer" class="" style="display:none;">
+		
+		
+		<div class="reset">
+			
+						
+		<div id="mainNavPlaces" class="flyoutnavi">
+			
+									<ul>
+						
+								
+									 <li class="first"><div onmouseover="setOver(this);" onmouseout="setOver(this);"><ul>
+    									
+										
+					<li><a name="&lid=header_layerCities_ortId_119" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=119&amp;tipps=yes">Espoo</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_22" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=22&amp;tipps=yes">Helsinki</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_114" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=114&amp;tipps=yes">Jyväskylä</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_132" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=132&amp;tipps=yes">Kajaani</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_139" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=139&amp;tipps=yes">Kotka</a></li>
+					    				</ul></div></li>									<li><div onmouseover="setOver(this);" onmouseout="setOver(this);"><ul>
+    									
+										
+					<li><a name="&lid=header_layerCities_ortId_140" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=140&amp;tipps=yes">Kouvola</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_175" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=175&amp;tipps=yes">Kuopio</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_142" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=142&amp;tipps=yes">Lahti</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_143" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=143&amp;tipps=yes">Lappeenranta</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_115" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=115&amp;tipps=yes">Oulu</a></li>
+					    				</ul></div></li>									<li><div onmouseover="setOver(this);" onmouseout="setOver(this);"><ul>
+    									
+										
+					<li><a name="&lid=header_layerCities_ortId_116" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=116&amp;tipps=yes">Pori</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_117" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=117&amp;tipps=yes">Savonlinna</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_112" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=112&amp;tipps=yes">Tampere</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_113" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=113&amp;tipps=yes">Turku</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_118" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=118&amp;tipps=yes">Vantaa</a></li>
+					    				</ul></div></li>							</ul>
+						
+			<div class="mods">
+				<div class="reset">
+					<div class="formulars">
+	<form action="Lippuja.html?affiliate=ADV" method="get" class="ignoreBecauseLayer">
+		<input type="hidden" name="affiliate" value="ADV" />
+		<input type="hidden" name="fun" value="search" />
+		<input type="hidden" name="action" value="power" />
+		<input type="hidden" name="doc" value="search/search" />
+		<input type="hidden" name="sort_by" value="evdatum" />
+		<input type="hidden" name="fuzzy" value="yes" />
+		<input type="hidden" name="detailadoc" value="erdetaila" />
+		<input type="hidden" name="detailbdoc" value="evdetailb" />
+		<input type="hidden" name="kudoc" value="artist" />
+				<input type="hidden" name="land" value="FI" />
+		<label>Etsi paikkakunta</label>
+		
+						<div >
+			<input type="text" name="plzOrt" class="input required" alt="Postinumero/paikkakunta" value="" />
+				
+			
+			
+			
+			
+			
+						
+		<span class="defSubmit ">
+			<input type="submit" value="Etsi" class="submit"  />
+		</span>
+				
+					</div>
+	
+	</form>
+	
+	</div>				</div>
+			</div>
+		</div>
+
+			</div>
+	</div>
+</div>			
+									
+								
+				<script type="text/javascript" language="javascript">
+<!--    	
+	
+jQuery(function() {	
+	
+	function log(event, data, formatted) {
+		jQuery("<li>").html( !data ? "No match!" : "Selected: " + formatted).appendTo("#result");
+	}
+	
+	function formatItem(row) {
+		return row[0] + " (<strong>id: " + row[1] + "</strong>)";
+	}
+	function formatResult(row) {
+		return row[0].replace(/(<.+?>)/gi, '');
+	}
+
+	jQuery("#suchbegriff").autocomplete("suggestionSearch.html?affiliate=ADV&fun=search&action=suggestion&doc=search/issuance/suggestion&fuzzy=yes", {
+			max: 8,
+			minChars: 2,
+			width: eval(jQuery("#suchbegriff").width()+14),    			
+			scroll: false,
+			selectFirst: false,
+			matchSubset: false,
+			suggestHeaderTitle: 'Hakuehdotukset'
+
+
+	});
+	
+	jQuery("#suchbegriff").result(function(event, data, formatted){		
+		if (data) {
+				$(this).parent().next().find("input").val(data[1]);		
+				$(this).closest("form").submit();		
+		}
+	});
+		
+	
+});
+
+//-->
+</script>
+<div class="quickSearch notToBePrinted">
+	<form class="last" action="Lippuja.html?affiliate=ADV" method="get" name="search">
+		<input type="hidden" name="affiliate" value="ADV" />
+		<input type="hidden" name="fun" value="search" />
+		<input type="hidden" name="action" value="search" />
+		<input type="hidden" name="doc" value="search/search" />
+		<input type="hidden" name="detailadoc" value="erdetaila" />
+		<input type="hidden" name="detailbdoc" value="evdetailb" />
+		<input type="hidden" name="kudoc" value="artist" />
+		<input type="hidden" name="sort_by" value="score" />		<input type="hidden" name="sort_direction" value="desc" />
+		<input type="hidden" name="fuzzy" value="yes" />
+		<fieldset class="last">
+			<div class="quickSearchInput">
+				
+													<a class="next nextLight" href="Lippuja.html?affiliate=ADV&amp;doc=search/extendedSearch&amp;fun=search&amp;action=power&amp;show=form" name="&lid=header_extSearch">Laajennettu haku</a>
+								
+				<br />
+				
+							    <input type="text" id="suchbegriff" class="input required" alt="{ 'rotation' : [{ 'title' : 'Etsi esiintyjiä ja tapahtumia', 'duration' : 1000 }, { 'title' : 'THE VOICE OF FINLAND', 'duration' : 750 }, { 'title' : 'SUOMI - VEN&Auml;J&Auml;, OLYMPIASTADION', 'duration' : 750 }, { 'title' : 'SAMI HEDBERG SHOW - KOKOVARTALOMIES II STAND UP -KIERTUE KEV&Auml;T 2012', 'duration' : 750 }, { 'title' : 'JALOA METALLIA - KARITA MATTILA JA APOCALYPTICA', 'duration' : 750 }, { 'title' : 'LENINKI', 'duration' : 750 }, { 'title' : 'Kristina fr&aring;n Duvem&aring;la', 'duration' : 750 }, { 'title' : 'SUURI STAND UP KIERTUE 2012', 'duration' : 750 }, { 'title' : 'COPPELIA', 'duration' : 750 }, { 'title' : 'TULISUUDELMA 2012', 'duration' : 750 }, { 'title' : 'Etsi esiintyjiä ja tapahtumia', 'duration' : 4000 }] }" name="suchbegriff" value=""/>
+			</div>
+			
+			<div class="quickSearchBtn">
+					
+			
+			
+			
+			
+			
+						
+		<span class="defSubmit defSubmitInherit floatRight">
+			<input type="submit" value="Etsi" class="submit"  />
+		</span>
+				
+						</div>
+		</fieldset>
+	</form>
+</div>					
+						
+			<div class="clearFloat"></div>                      
+		</div>
+	</div>
+</div>   	</div>
+	<!-- /Header -->
+		<a name="content"></a>
+	
+		
+			<!-- Content -->
+			<div id="content" class="sidebarOnHome">
+				<div id="home">
+	
+	<!-- Main -->
+	<div id="main">
+		<div id="homeTeaser">
+			
+
+							
+
+
+      
+
+     
+
+
+
+
+
+
+
+
+ 
+
+                                                                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<link rel="stylesheet" href="/obj/advanced/default/layout/css/eve.slideshow.packed.css" type="text/css" media="screen" />
+	<script src="/obj/advanced/default/layout/js/eve.slideshow.packed.js" type="text/javascript" language="javascript"></script>
+	<script src="/obj/advanced/default/home/js/makeSlideshow.js" type="text/javascript" language="javascript"></script>
+
+	
+		
+	<div id="bigTeaser" class="eveSlideshow">
+		
+		<!-- Statisches Item, welches initial dargestellt wird, bevor JavaScript nach erfolgreichem Laden der Seite ausgefuehrt wird. -->
+		<div class="eveSlideshowImages">
+			<div><img class="eveSlideShowInitialPicture" src="/obj/media/FI-eventim/teaser/fi/456x265/2012/mm2012-2.jpg" title="MM-2012" alt="MM-2012" /></div>
+		</div>
+		
+		<!-- Hier zusaetzlichen Code, fuer spezielle Sachen einfuegen, wenn gewuenscht -->
+		<div class="eveSlideShowOverImages">
+			
+			<div class="teaserBtns">
+				<div class="ticketBtn">
+					
+																																		
+					<a href='mm2012-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=566703' title='MM-2012 - Tilaa liput' target='_self' class='sdb_bordered sdb_bordered_M sdb_bordered_tickets_M iconMore visible' rel="{ img:'/obj/media/FI-eventim/teaser/fi/456x250/2012/mm2012-2.jpg', artistid:'', bclid:'', kuid:'' }" onclick='return xt_adc(this,"INT-1-[bigteaser_poster_1]||MM-2012");' name='INT-1-[bigteaser_poster_1]||MM-2012'><span>Liput</span></a>					
+									</div>
+				
+				<div class="mediaBtns">
+					<a href="bildergalerie.html?affiliate=ADV&amp;doc=feature/pictureGalery&amp;fun=artist&amp;kuid=false" target="_blank" class="popuplayer iconImages" title="Näytä kuvat" rel="{ width:650, height:600, titleText:'Näytä kuvat', useWindowOn : '' }"><span>Näytä kuvat</span></a><a href="player.html?affiliate=ADV&amp;doc=detail/brightcove&amp;bclid=false" target="_blank" class="popuplayer iconVideo" title="Näytä video" rel="{ width:550, height:650, titleText:'Näytä video', useWindowOn : '' }"><span>Näytä video</span></a><a href="http://music.eventim.de/servlets/2452328105705Dispatch/23/Call?htmltemplate=./general/pre_play.html&amp;artistid=false" target="_blank" class="popuplayer iconMusic" title="Kuuntele" rel="{ width:580, height:570, titleText:'Kuuntele', noscroll:true, useWindowOn : 'mozilla' }"><span>Kuuntele</span></a>				</div>
+			</div>
+		</div>
+		
+		<!-- Liste fuer dynamische Slideshow, inkl. statitischem Item -->
+						<div class="eveSlideshowItems">
+			<h2>Suosituksemme</h2>
+			<input type="hidden" name="eveSlideshowCfg" value="{ hbxPrefix:'bigteaser_', pauseDuration:2, fadeSpeed:10, paging:true, maxDepth:50, onswitch:['mediaButtons','ticketButton'] }" />
+			<ul>
+									
+										
+				<li>
+					<a href='mm2012-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=566703' title='MM-2012 - Tilaa liput' target='_self' class='sdb_bordered sdb_bordered_M sdb_bordered_tickets_M' rel="{ img:'/obj/media/FI-eventim/teaser/fi/456x265/2012/mm2012-2.jpg', artistid:'', bclid:'', kuid:'' }" onclick='return xt_adc(this,"INT-1-[bigteaser_poster_1]||MM-2012");' name='INT-1-[bigteaser_poster_1]||MM-2012'><span>Liput</span></a>				</li>
+									
+										
+				<li>
+					<a href='michael-jackson-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=682518' title='Michael Jackson - Tilaa liput' target='_self' class='sdb_bordered sdb_bordered_M sdb_bordered_tickets_M' rel="{ img:'/obj/media/FI-eventim/teaser/fi/456x265/2012/m-jackson.jpg', artistid:'', bclid:'', kuid:'' }" onclick='return xt_adc(this,"INT-1-[bigteaser_poster_2]||Michael Jackson");' name='INT-1-[bigteaser_poster_2]||Michael Jackson'><span>Liput</span></a>				</li>
+									
+										
+				<li>
+					<a href='the-sounds-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=695817' title='The Sounds - Tilaa liput' target='_self' class='sdb_bordered sdb_bordered_M sdb_bordered_tickets_M' rel="{ img:'/obj/media/FI-eventim/teaser/fi/456x265/2012/the-sounds.jpg', artistid:'', bclid:'', kuid:'' }" onclick='return xt_adc(this,"INT-1-[bigteaser_poster_3]||The Sounds");' name='INT-1-[bigteaser_poster_3]||The Sounds'><span>Liput</span></a>				</li>
+									
+										
+				<li>
+					<a href='cesar-millan-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=686729' title='Cesar Millan - Tilaa liput' target='_self' class='sdb_bordered sdb_bordered_M sdb_bordered_tickets_M' rel="{ img:'/obj/media/FI-eventim/teaser/fi/456x265/2011/cesar-millan2.jpg', artistid:'', bclid:'', kuid:'' }" onclick='return xt_adc(this,"INT-1-[bigteaser_poster_4]||Cesar Millan");' name='INT-1-[bigteaser_poster_4]||Cesar Millan'><span>Liput</span></a>				</li>
+									
+										
+				<li>
+					<a href='julius-caesar-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=672136' title='Julius Caesar - Tilaa liput' target='_self' class='sdb_bordered sdb_bordered_M sdb_bordered_tickets_M' rel="{ img:'/obj/media/FI-eventim/teaser/fi/456x265/2012/julius-caesar.jpg', artistid:'', bclid:'', kuid:'' }" onclick='return xt_adc(this,"INT-1-[bigteaser_poster_5]||Julius Caesar");' name='INT-1-[bigteaser_poster_5]||Julius Caesar'><span>Liput</span></a>				</li>
+									
+										
+				<li>
+					<a href='http://www.firmarock.fi' title='Firmarock - Lue lisää' target='_blank' class='sdb_bordered sdb_bordered_M sdb_bordered_tickets_M' rel="{ img:'/obj/media/FI-eventim/teaser/fi/456x265/2012/firmarock.jpg', artistid:'', bclid:'', kuid:'' }" onclick='return xt_adc(this,"INT-1-[bigteaser_poster_6]||Firmarock");' name='INT-1-[bigteaser_poster_6]||Firmarock'><span>Lue lisää</span></a>				</li>
+									
+										
+				<li>
+					<a href='jokerit-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=644508' title='Jokerit - Tilaa liput' target='_self' class='sdb_bordered sdb_bordered_M sdb_bordered_tickets_M' rel="{ img:'/obj/media/FI-eventim/teaser/fi/456x265/2011/jokerit-runkosarja2.jpg', artistid:'', bclid:'', kuid:'' }" onclick='return xt_adc(this,"INT-1-[bigteaser_poster_7]||Jokerit");' name='INT-1-[bigteaser_poster_7]||Jokerit'><span>Liput</span></a>				</li>
+							</ul>
+		</div>
+	</div>
+				
+                 
+
+     
+
+
+		<div class="homeTeaserSmall" style="background:url(/obj/media/FI-eventim/teaser/fi/260x265/2012/mj-immortal.jpg) no-repeat;" onclick="javascript:trackAndOpenLink({ code:'INT-1-[smallteaser]||Michael Jackson', callback:openLink, scope:this, params:[this] });">
+		<div class="homeTeaserSmallContent">
+			<h2>Michael Jackson Tilaa liput</h2>
+			<ul class="teaserLinks">
+			
+												
+								<li class="tickets">
+																																									<a href='michael-jackson-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=682518' title='Michael Jackson - Tilaa liput' target='_self' class='sdb_bordered sdb_bordered_M sdb_bordered_tickets_M '  name="INT-1-[smallteaser]||Michael Jackson" onclick='return xt_adc(this,"INT-1-[smallteaser]||Michael Jackson");' ><span>Liput</span></a>									</li>
+				
+																							</ul>
+		</div>
+	</div>
+	
+					</div>
+		
+
+
+	</div>
+	<!-- /Main -->	
+
+	<div class="mods mainMods"><div class="reset main" id="mainParent">
+
+				
+		
+		
+		
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+															<div id='adLeaderBoardContent'>
+	<script type="text/javascript" language="JavaScript">
+	<!--
+	
+		if(!(window.denyAdserv || false)) {
+			document.write('<scr'+'ipt type="text/javascript" src="https://eas4.emediate.eu/eas?cu=8894;cre=mu;js=y;target=_blank"></scri'+'pt>');
+		} 
+	
+	//-->
+	</script>
+
+	<noscript>
+		<a target="_blank" href="https://eas4.emediate.eu/eas?cu=8894;ty=ct">
+			<img src="https://eas4.emediate.eu/eas?cu=8894;cre=img" border="0" alt="EmediateAd" width='728' height='90'/>
+		</a>
+	</noscript>
+</div>																								
+					<div class="marginBottomXS">
+								
+
+
+		
+		
+		
+		
+		
+
+
+
+	 
+		
+	
+	
+
+
+	
+	
+	
+		
+		
+                         
+	
+  	
+   		
+  			
+    	
+	
+
+	
+
+		
+		
+			
+			
+			
+			
+			
+						
+									
+									
+						
+			<script type="text/JavaScript">
+				function trackingThing1()
+				{
+					xt_click(this, 'C', '1', 'Home::TopEventBox::Tab1', 'A')	
+				}
+			</script>
+			
+						
+						
+
+
+		
+		
+		
+						<div class="defBox shadowS" onmouseover="javascript:if((eveJs || false)) { new Eve.RegisterCards({ containerEl : this, btnContainer : 'ul.registerBtns li', activeCls : 'active', useUrlIfActiveCls : 'underline', isInstant : true }); };">
+					
+		
+					<div class="head">
+			<div class="shadowTR ">
+				<div class="back  ">
+					<div class="left">
+													
+    						    						    							<h3 class="h5">Myynnissä:</h3>
+    						    						
+    						    						    						
+    							    							
+    							    							
+    							    							
+    							    															
+                                									    							
+    							    							<ul class="plain last registerBtns  registerBtnsRight">
+    								    									
+    									    									
+    									    									    										
+    										    										    										    										    										
+    										    									    									    									
+    									
+    									    									    									
+    									<a name="rCardoverview"></a>
+    									<li  class='active last '>
+    										<a class="cardBtn ignoreScrollFx " href="http://www.lippu.fi/Lipp?eveRegCard=overview#rCardoverview" rel="{ 'for' : 'overview', 'activeUrl' : '' }" target="_self" title="Kaikki kategoriat" alt="Kaikki kategoriat"  onclick="trackingThing1();return false; "  name="topEvents_rCard_kaikki-kategoriat" id="overview_rCard">Kaikki kategoriat</a>
+    									</li>
+    								    							</ul>
+																		</div>
+					
+									</div>
+			</div>
+		</div>
+		
+			<div class="body">
+			<div class="shadowR">
+				<div class="shadowTR">
+					<div class="inner ">
+		
+				
+				
+			
+		
+	
+			
+	<div id="overview">
+			
+								
+								
+				<div class="block paddingBottomOff">
+					<ul class="plain topEventTeaserList">
+																													
+																																																
+								
+																
+								<li onmouseover="javascript:if((eveJs || false)) { eveJs.setHoverFx(this); }">
+									<div class="inner">
+										<div class="teaserImage" style="background: url(/obj/media/FI-eventim/teaser/fi/156x198/2012/katrihelena.jpg) no-repeat;" title="Katri Helena - Tilaa liput" alt="Katri Helena - Tilaa liput">
+											<a href='katri-helena-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=569192' title='Katri Helena - Tilaa liput' target='_self' class='sdb sdb_S sdb_tickets_S btn eveJsLinkToHover'  name="INT-1-[topEvents_kaikki/kategoriat_poster1]||Katri Helena" onclick='return xt_adc(this,"INT-1-[topEvents_kaikki/kategoriat_poster1]||Katri Helena");' ><span>Liput</span></a>										</div>
+									
+										<h3><a href='katri-helena-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=569192' title='Katri Helena' target='_self' class='strong'  name="INT-1-[topEvents_kaikki/kategoriat_poster1]||Katri Helena" onclick='return xt_adc(this,"INT-1-[topEvents_kaikki/kategoriat_poster1]||Katri Helena");' ><span>Katri Helena</span></a></h3>
+										
+										<p class="last textS uppercase">HKT</p>																					<strong>Liput alk. 51,00 €</strong>
+																			</div>
+								</li>
+																																				
+																																																
+								
+																
+								<li onmouseover="javascript:if((eveJs || false)) { eveJs.setHoverFx(this); }">
+									<div class="inner">
+										<div class="teaserImage" style="background: url(/obj/media/FI-eventim/teaser/fi/156x198/2011/kummankikaa.jpg) no-repeat;" title="Kummanki kaa - Tilaa liput" alt="Kummanki kaa - Tilaa liput">
+											<a href='kummanki-kaa-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=697995' title='Kummanki kaa - Tilaa liput' target='_self' class='sdb sdb_S sdb_tickets_S btn eveJsLinkToHover'  name="INT-1-[topEvents_kaikki/kategoriat_poster2]||Kummanki kaa" onclick='return xt_adc(this,"INT-1-[topEvents_kaikki/kategoriat_poster2]||Kummanki kaa");' ><span>Liput</span></a>										</div>
+									
+										<h3><a href='kummanki-kaa-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=697995' title='Kummanki kaa' target='_self' class='strong'  name="INT-1-[topEvents_kaikki/kategoriat_poster2]||Kummanki kaa" onclick='return xt_adc(this,"INT-1-[topEvents_kaikki/kategoriat_poster2]||Kummanki kaa");' ><span>Kummanki kaa</span></a></h3>
+										
+																															<strong>Liput alk. 22,00 €</strong>
+																			</div>
+								</li>
+																																				
+																																																
+								
+																
+								<li onmouseover="javascript:if((eveJs || false)) { eveJs.setHoverFx(this); }">
+									<div class="inner">
+										<div class="teaserImage" style="background: url(/obj/media/FI-eventim/teaser/fi/156x198/2012/maailmanloppu.jpg) no-repeat;" title="Maailmanlopun - Tilaa liput" alt="Maailmanlopun - Tilaa liput">
+											<a href='maailmanlopun-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=561246' title='Maailmanlopun - Tilaa liput' target='_self' class='sdb sdb_S sdb_tickets_S btn eveJsLinkToHover'  name="INT-1-[topEvents_kaikki/kategoriat_poster3]||Maailmanlopun" onclick='return xt_adc(this,"INT-1-[topEvents_kaikki/kategoriat_poster3]||Maailmanlopun");' ><span>Liput</span></a>										</div>
+									
+										<h3><a href='maailmanlopun-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=561246' title='Maailmanlopun' target='_self' class='strong'  name="INT-1-[topEvents_kaikki/kategoriat_poster3]||Maailmanlopun" onclick='return xt_adc(this,"INT-1-[topEvents_kaikki/kategoriat_poster3]||Maailmanlopun");' ><span>Maailmanlopun</span></a></h3>
+										
+										<p class="last textS uppercase">hautaustoimisto</p>																					<strong>Liput alk. 18,50 €</strong>
+																			</div>
+								</li>
+																																				
+																																																
+								
+																
+								<li onmouseover="javascript:if((eveJs || false)) { eveJs.setHoverFx(this); }">
+									<div class="inner">
+										<div class="teaserImage" style="background: url(/obj/media/FI-eventim/teaser/fi/156x198/2011/disney-on-ice1.jpg) no-repeat;" title="Disney On Ice - Tilaa liput" alt="Disney On Ice - Tilaa liput">
+											<a href='disney-on-ice-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=594717' title='Disney On Ice - Tilaa liput' target='_self' class='sdb sdb_S sdb_tickets_S btn eveJsLinkToHover'  name="INT-1-[topEvents_kaikki/kategoriat_poster4]||Disney On Ice" onclick='return xt_adc(this,"INT-1-[topEvents_kaikki/kategoriat_poster4]||Disney On Ice");' ><span>Liput</span></a>										</div>
+									
+										<h3><a href='disney-on-ice-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=594717' title='Disney On Ice' target='_self' class='strong'  name="INT-1-[topEvents_kaikki/kategoriat_poster4]||Disney On Ice" onclick='return xt_adc(this,"INT-1-[topEvents_kaikki/kategoriat_poster4]||Disney On Ice");' ><span>Disney On Ice</span></a></h3>
+										
+										<p class="last textS uppercase">Live Nation</p>																					<strong>Liput alk. 29,00 €</strong>
+																			</div>
+								</li>
+																																				
+																																																
+								
+																
+								<li onmouseover="javascript:if((eveJs || false)) { eveJs.setHoverFx(this); }">
+									<div class="inner">
+										<div class="teaserImage" style="background: url(/obj/media/FI-eventim/teaser/fi/156x198/2012/m-jakcson.jpg) no-repeat;" title="Michael Jackson - Tilaa liput" alt="Michael Jackson - Tilaa liput">
+											<a href='michael-jackson-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=682518' title='Michael Jackson - Tilaa liput' target='_self' class='sdb sdb_S sdb_tickets_S btn eveJsLinkToHover'  name="INT-1-[topEvents_kaikki/kategoriat_poster5]||Michael Jackson" onclick='return xt_adc(this,"INT-1-[topEvents_kaikki/kategoriat_poster5]||Michael Jackson");' ><span>Liput</span></a>										</div>
+									
+										<h3><a href='michael-jackson-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=682518' title='Michael Jackson' target='_self' class='strong'  name="INT-1-[topEvents_kaikki/kategoriat_poster5]||Michael Jackson" onclick='return xt_adc(this,"INT-1-[topEvents_kaikki/kategoriat_poster5]||Michael Jackson");' ><span>Michael Jackson</span></a></h3>
+										
+										<p class="last textS uppercase">The Immortal World Tour</p>																					<strong>Liput alk. 49,00 €</strong>
+																			</div>
+								</li>
+																																				
+																																																
+								
+																
+								<li onmouseover="javascript:if((eveJs || false)) { eveJs.setHoverFx(this); }">
+									<div class="inner">
+										<div class="teaserImage" style="background: url(/obj/media/FI-eventim/teaser/fi/156x198/2011/lainahoyhenet.jpg) no-repeat;" title="Lainahöyhenissä - Tilaa liput" alt="Lainahöyhenissä - Tilaa liput">
+											<a href='http://rms.admeta.com/public/transfer.asp?sitebanner_id=4490168' title='Lainahöyhenissä - Liput' target='_parent' class='sdb sdb_S sdb_tickets_S btn eveJsLinkToHover'  name="INT-1-[topEvents_kaikki/kategoriat_poster6]||Lainahöyhenissä" onclick='return xt_adc(this,"INT-1-[topEvents_kaikki/kategoriat_poster6]||Lainahöyhenissä");' ><span>Liput</span></a>										</div>
+									
+										<h3><a href='http://rms.admeta.com/public/transfer.asp?sitebanner_id=4490168' title='Lainah&ouml;yheniss&auml;' target='_parent' class='strong'  name="INT-1-[topEvents_kaikki/kategoriat_poster6]||Lainahöyhenissä" onclick='return xt_adc(this,"INT-1-[topEvents_kaikki/kategoriat_poster6]||Lainahöyhenissä");' ><span>Lainah&ouml;yheniss&auml;</span></a></h3>
+										
+										<p class="last textS uppercase">HKT</p>																					<strong>Liput alk. 46,00 €</strong>
+																			</div>
+								</li>
+																																				
+																																																
+								
+																
+								<li onmouseover="javascript:if((eveJs || false)) { eveJs.setHoverFx(this); }">
+									<div class="inner">
+										<div class="teaserImage" style="background: url(/obj/media/FI-eventim/teaser/fi/156x198/2012/sami-hedberg.jpg) no-repeat;" title="Sami Hedberg - Tilaa liput" alt="Sami Hedberg - Tilaa liput">
+											<a href='sami-hedberg-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=689970' title='Sami Hedberg - Tilaa liput' target='_self' class='sdb sdb_S sdb_tickets_S btn eveJsLinkToHover'  name="INT-1-[topEvents_kaikki/kategoriat_poster7]||Sami Hedberg" onclick='return xt_adc(this,"INT-1-[topEvents_kaikki/kategoriat_poster7]||Sami Hedberg");' ><span>Liput</span></a>										</div>
+									
+										<h3><a href='sami-hedberg-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=689970' title='Sami Hedberg' target='_self' class='strong'  name="INT-1-[topEvents_kaikki/kategoriat_poster7]||Sami Hedberg" onclick='return xt_adc(this,"INT-1-[topEvents_kaikki/kategoriat_poster7]||Sami Hedberg");' ><span>Sami Hedberg</span></a></h3>
+										
+										<p class="last textS uppercase">Kokovartalomies II</p>																					<strong>Liput alk. 21,00 €</strong>
+																			</div>
+								</li>
+																																				
+																																																
+								
+																
+								<li onmouseover="javascript:if((eveJs || false)) { eveJs.setHoverFx(this); }">
+									<div class="inner">
+										<div class="teaserImage" style="background: url(/obj/media/FI-eventim/teaser/fi/156x198/2012/mm2012-kevat.jpg) no-repeat;" title="MM 2012 - Tilaa liput" alt="MM 2012 - Tilaa liput">
+											<a href='mm-2012-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=566703' title='MM 2012 - Tilaa liput' target='_self' class='sdb sdb_S sdb_tickets_S btn eveJsLinkToHover'  name="INT-1-[topEvents_kaikki/kategoriat_poster8]||MM 2012" onclick='return xt_adc(this,"INT-1-[topEvents_kaikki/kategoriat_poster8]||MM 2012");' ><span>Liput</span></a>										</div>
+									
+										<h3><a href='mm-2012-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=566703' title='MM 2012' target='_self' class='strong'  name="INT-1-[topEvents_kaikki/kategoriat_poster8]||MM 2012" onclick='return xt_adc(this,"INT-1-[topEvents_kaikki/kategoriat_poster8]||MM 2012");' ><span>MM 2012</span></a></h3>
+										
+																															<strong>Liput alk. 36,00 €</strong>
+																			</div>
+								</li>
+																		</ul>
+					<div class="clearFloat"></div>
+				</div>
+				
+								
+				</div>
+				
+	
+							<div class="shadowCorners"></div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="shadowBL"><div class="shadowBR"></div></div>
+		</div>
+		</div>
+	
+			</div>
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="/obj/advanced/default/layout/js/jquery.tinyscrollbar.packed.js" type="text/javascript"></script>
+
+
+	<style type="text/css">
+		
+		.scrollbarBox .scrollbar,
+		.scrollbarBox .handle .end,
+		.scrollbarBox .handle { background: transparent url(/obj/advanced/default/layout/img/elements/bg-scrollbar-x.png) no-repeat; }
+		
+		.defBox .inner .scrollbarBox .scrollbar {
+		    padding: 0 0 8px 0 !important;
+			position: relative; 
+			float: right; 
+			width: 15px;
+			overflow: hidden;  
+			margin: 0 15px 10px 0; 
+			clear: both; 
+			height: 0;
+		}
+		.scrollbarBox .track {
+			height: 8px; 
+			position: relative;
+			background: transparent url(/obj/advanced/default/layout/img/elements/bg-scrollbar-x-end.png) no-repeat 100% 0; 
+			width: 100%;
+			padding: 1px 0; 
+		}
+		.scrollbarBox .handle {
+			height: 8px; 
+			width: 13px; 
+			cursor: pointer; 
+			overflow: hidden; 
+			position: absolute; 
+			top: 0;
+			background-position: 100% -8px; 
+			left: 0;
+		}
+		.scrollbarBox .handle .end {
+			overflow: hidden; 
+			background-position: 0 -8px; 
+			height: 8px; 
+			width: 5px;
+		}
+	
+		.scrollbarBox .disable{ 
+			display: none;
+		 }
+		 
+		 #twoEventsBox { 
+		 	margin-left:10px  ; 
+			margin-right:10px !important; 
+		}
+		
+		.mods .defBox .viewport{
+			padding-top:8px !important;
+			
+		}
+		
+		.mods .defBox #twoEventsBox{
+			padding-top:0px !important;
+			
+		}
+		 
+		.viewport{ 
+			padding-bottom: 0px !important; 
+			margin-right:15px !important;
+			margin-left:15px !important;
+			padding-left:0px !important;
+			overflow:hidden !important; 
+		}
+		
+		.viewport > .overview { 
+			overflow:hidden; padding:5px 0 2px 0 !important; 
+		}
+		 
+		 #twoEventsBox .overview .text { 
+		 	width:190px; 
+		}
+		 
+		 .viewport .overview .text{
+		 	position:relative; 
+			width:180px; 
+			float:left;
+		 } 
+		 
+		 .viewport .overview .text .absoluteTeaserButton{
+		 	position:absolute; 
+			bottom:-10px;
+		 }
+		 
+		 .viewport .overview .text .absoluteTeaserButton a.btn{ 
+		    display: block !important;
+		    height: 20px;
+		    left: 0;
+		    position: absolute;
+		    right: auto;
+		 } 
+		 
+		 .topEventTeaserList li{
+			margin-top:10px; 
+		 }
+		 
+	</style>
+
+	    		
+	<div class="marginBottomXS">
+											
+						
+		
+
+	
+
+
+
+
+
+
+		
+
+
+
+	
+		
+																						<div class="clearFloat"></div>			
+		
+			<div class="defBox shadowS plainBox">
+		
+					<div class="head">
+			<div class="shadowTR ">
+				<div class="back  ">
+					<div class="left">
+													
+    						    						    							<h3 class="h5">Ajankohtaista</h3>
+    						    						
+    						    																	</div>
+					
+					<div class="more" ><span id='newEventsHomeHead'></span></div>				</div>
+			</div>
+		</div>
+		
+			<div class="body">
+			<div class="shadowR">
+				<div class="shadowTR">
+					<div class="inner ">
+		
+				<div class="eveJs">
+				<input type="hidden" value="{ 'Eve.ItemPager' : { hbxPrefix : 'newEvents_pager_', itemsPerPage : 6, itemSelektor : 'li', lastItemCls : 'last', containerId : 'newEventsHomeHead' } }" class="eveJsCfg"/>					
+				
+					
+				
+				
+	<ul class="teaserList eventTeaserList plain last eventTeaserList" id="mbeteveUniqueId1">
+								
+						
+																									
+									
+																								
+							
+																						
+									
+						
+						
+									
+						
+															
+									
+						
+																																					
+																																								
+				 											<div class="floatLeft wideHomeTeaserBox">
+															<li  onmouseover="javascript:if((eveJs || false)) { eveJs.setHoverFx(this); }">
+				<div class="inner">
+					<div>
+													<div class="thumb">
+								<div class="img">
+																													<img src="/obj/media/FI-eventim/teaser/60x60/2012/riihimaen-kesakonsertit2012.jpg" alt="Riihimäen kesäkonsertit" title="Riihimäen kesäkonsertit" width="60" height="60" />
+																	</div>
+							</div>
+												
+						<div class="text">
+																					
+														<h4>Riihim&auml;en kes&auml;konsertit</h4>
+							
+														
+							
+														<p>Kes&auml;konsertit Riihim&auml;ell&auml; 19.5. alkaen</p>
+							
+															<div class="mediaPriceTicketContainer NoMediaNoDate">
+									<strong class='offer'>Liput alk. 19.00 €</strong><a href='riihimaeen-kesaekonsertit-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=707184' title='Riihimäen kesäkonsertit - Tilaa liput' target='_self' class='sdb sdb_S sdb_tickets_S eveJsLinkToHover'  name="INT-1-[newEvents_1]||Riihimäen kesäkonsertit" onclick='return xt_adc(this, "INT-1-[newEvents_1]||Riihimäen kesäkonsertit")'><span>Liput</span></a>
+									
+									<div class="clearFloat"></div>
+								</div>
+													</div>
+						
+						<div class="clearFloat"></div>
+					</div>
+					
+									</div>
+			</li>
+										
+								
+						
+																									
+									
+																								
+							
+																						
+									
+						
+						
+									
+						
+															
+									
+						
+																			
+																																								
+										<li  onmouseover="javascript:if((eveJs || false)) { eveJs.setHoverFx(this); }">
+				<div class="inner">
+					<div>
+													<div class="thumb">
+								<div class="img">
+																													<img src="/obj/media/FI-eventim/teaser/60x60/2011/erja-lyytinen2.jpg" alt="Erja Lyytisen levynjulkaisukiertue" title="Erja Lyytisen levynjulkaisukiertue" width="60" height="60" />
+																	</div>
+							</div>
+												
+						<div class="text">
+																					
+														<h4>Erja Lyytisen levynjulkaisukie...</h4>
+							
+														
+							
+														<p>Songs From the Road</p>
+							
+															<div class="mediaPriceTicketContainer NoMediaNoDate">
+									<strong class='offer'>Liput alk. 16.00 €</strong><a href='erja-lyytisen-levynjulkaisukiertue-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=707888' title='Erja Lyytisen levynjulkaisukiertue - Tilaa liput' target='_self' class='sdb sdb_S sdb_tickets_S eveJsLinkToHover'  name="INT-1-[newEvents_2]||Erja Lyytisen levynjulkaisukiertue" onclick='return xt_adc(this, "INT-1-[newEvents_2]||Erja Lyytisen levynjulkaisukiertue")'><span>Liput</span></a>
+									
+									<div class="clearFloat"></div>
+								</div>
+													</div>
+						
+						<div class="clearFloat"></div>
+					</div>
+					
+									</div>
+			</li>
+										
+								
+						
+																									
+									
+																								
+							
+																						
+									
+						
+						
+									
+						
+															
+									
+						
+																			
+																																								
+										<li  onmouseover="javascript:if((eveJs || false)) { eveJs.setHoverFx(this); }">
+				<div class="inner">
+					<div>
+													<div class="thumb">
+								<div class="img">
+																													<img src="/obj/media/FI-eventim/teaser/60x60/2012/joseph-calleja.jpg" alt="Joseph Calleja" title="Joseph Calleja" width="60" height="60" />
+																	</div>
+							</div>
+												
+						<div class="text">
+																					
+														<h4>Joseph Calleja</h4>
+							
+														
+							
+														<p>Musiikista vastaa Viron valtion sinfoniaorkesteri</p>
+							
+															<div class="mediaPriceTicketContainer NoMediaNoDate">
+									<strong class='offer'>Liput alk. 80.00 €</strong><a href='joseph-calleja-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=708134' title='Joseph Calleja - Tilaa liput' target='_self' class='sdb sdb_S sdb_tickets_S eveJsLinkToHover'  name="INT-1-[newEvents_3]||Joseph Calleja" onclick='return xt_adc(this, "INT-1-[newEvents_3]||Joseph Calleja")'><span>Liput</span></a>
+									
+									<div class="clearFloat"></div>
+								</div>
+													</div>
+						
+						<div class="clearFloat"></div>
+					</div>
+					
+									</div>
+			</li>
+												</div>
+							
+								
+						
+																									
+									
+																								
+							
+																						
+									
+						
+						
+									
+						
+															
+									
+						
+																			
+																																								
+									<div class="floatRight wideHomeTeaserBox">
+										<li  onmouseover="javascript:if((eveJs || false)) { eveJs.setHoverFx(this); }">
+				<div class="inner">
+					<div>
+													<div class="thumb">
+								<div class="img">
+																													<img src="/obj/media/FI-eventim/teaser/60x60/2012/naantalin-musiikkijuhlat-logo.jpg" alt="Naantalin Musiikkijuhlat" title="Naantalin Musiikkijuhlat" width="60" height="60" />
+																	</div>
+							</div>
+												
+						<div class="text">
+																					
+														<h4>Naantalin Musiikkijuhlat</h4>
+							
+														
+							
+														<p>Musiikin t&auml;htihetki&auml; Naantalin auringon alla!</p>
+							
+															<div class="mediaPriceTicketContainer NoMediaNoDate">
+									<strong class='offer'>Liput alk. 13.00 €</strong><a href='naantalin-musiikkijuhlat-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=716344' title='Naantalin Musiikkijuhlat - Tilaa liput' target='_self' class='sdb sdb_S sdb_tickets_S eveJsLinkToHover'  name="INT-1-[newEvents_4]||Naantalin Musiikkijuhlat" onclick='return xt_adc(this, "INT-1-[newEvents_4]||Naantalin Musiikkijuhlat")'><span>Liput</span></a>
+									
+									<div class="clearFloat"></div>
+								</div>
+													</div>
+						
+						<div class="clearFloat"></div>
+					</div>
+					
+									</div>
+			</li>
+																			
+								
+						
+																									
+									
+																								
+							
+																						
+									
+						
+						
+									
+						
+															
+									
+						
+																			
+																																								
+																			<li  onmouseover="javascript:if((eveJs || false)) { eveJs.setHoverFx(this); }">
+				<div class="inner">
+					<div>
+													<div class="thumb">
+								<div class="img">
+																													<img src="/obj/media/FI-eventim/teaser/60x60/2011/finlandia-talo-rno-pave-maijanen.jpg" alt="Riku Niemi Orchestra & Pave Maijanen" title="Riku Niemi Orchestra & Pave Maijanen" width="60" height="60" />
+																	</div>
+							</div>
+												
+						<div class="text">
+																					
+														<h4>Riku Niemi Orchestra &amp; Pave Ma...</h4>
+							
+														
+							
+														<p>Riku Niemi Orchestra ja Pave Maijanen vieraanaan Erin</p>
+							
+															<div class="mediaPriceTicketContainer NoMediaNoDate">
+									<strong class='offer'>Liput alk. 18.50 €</strong><a href='riku-niemi-orchestra-pave-maijanen-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=701466' title='Riku Niemi Orchestra & Pave Maijanen - Tilaa liput' target='_self' class='sdb sdb_S sdb_tickets_S eveJsLinkToHover'  name="INT-1-[newEvents_5]||Riku Niemi Orchestra / Pave Maijanen" onclick='return xt_adc(this, "INT-1-[newEvents_5]||Riku Niemi Orchestra / Pave Maijanen")'><span>Liput</span></a>
+									
+									<div class="clearFloat"></div>
+								</div>
+													</div>
+						
+						<div class="clearFloat"></div>
+					</div>
+					
+									</div>
+			</li>
+																			
+								
+						
+																									
+									
+																								
+							
+																						
+									
+						
+						
+									
+						
+															
+																
+						
+																			
+																																								
+																			<li  class='last' onmouseover="javascript:if((eveJs || false)) { eveJs.setHoverFx(this); }">
+				<div class="inner">
+					<div>
+													<div class="thumb">
+								<div class="img">
+																													<img src="/obj/media/FI-eventim/teaser/60x60/2011/hebo.jpg" alt="Ylösnousemusoratorio" title="Ylösnousemusoratorio" width="60" height="60" />
+																	</div>
+							</div>
+												
+						<div class="text">
+																					
+														<h4>Yl&ouml;snousemusoratorio</h4>
+							
+														
+							
+														<p>Helsingin Barokkiorkesteri konsertoi Raumalla Helsingin kamarikuoron ja huippusolistien kera</p>
+							
+															<div class="mediaPriceTicketContainer NoMediaNoDate">
+									<strong class='offer'>Liput alk. 21.00 €</strong><a href='yloesnousemusoratorio-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;erid=714623' title='Ylösnousemusoratorio - Tilaa liput' target='_self' class='sdb sdb_S sdb_tickets_S eveJsLinkToHover'  name="INT-1-[newEvents_6]||Ylösnousemusoratorio" onclick='return xt_adc(this, "INT-1-[newEvents_6]||Ylösnousemusoratorio")'><span>Liput</span></a>
+									
+									<div class="clearFloat"></div>
+								</div>
+													</div>
+						
+						<div class="clearFloat"></div>
+					</div>
+					
+									</div>
+			</li>
+																			
+			</ul>
+	
+							
+	<script type="text/javascript" language="javascript">
+	<!--
+	
+								
+						
+			var mbetSetUpItemsPerPage = function(id, itemsPerPage) {
+			
+				var tmpUlList = document.getElementById(id) || false;
+				
+				// Wenn nix gefunden, dann Ende.
+				if (!tmpUlList || !(tmpUlList.childNodes.length || false)) return;
+				
+				// Merker setzen, wieviele Items bereits angezeigt werden
+				var shownItems = 0;
+				
+				for (var i = 0; i < tmpUlList.childNodes.length; i++) {
+					
+					var tmpChild = tmpUlList.childNodes[i];
+					
+					if (tmpChild.nodeName.toUpperCase() != 'LI') continue;
+					
+					shownItems++;
+					
+					// Wenn das aktuelle Item genau der Max-Grenze entspricht, dann zumindest die entsprechende "last"-Klasse setzen
+					if(shownItems == itemsPerPage) tmpChild.className += ' last';
+					
+					// Wenn das aktuelle Item bereits schon ueber die Max-Grenze faellt - ausblenden!
+					if(shownItems > itemsPerPage) tmpChild.style.display = 'none';
+				};
+			};
+			
+				
+				mbetSetUpItemsPerPage('mbeteveUniqueId1', 6);
+		
+	//-->
+	</script>
+				</div>
+			<div class="clearFloat"></div>		
+							<div class="shadowCorners"></div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="shadowBL"><div class="shadowBR"></div></div>
+		</div>
+		</div>
+									
+				<div class="clearFloat"></div>    	
+		
+			<div class="defBox homeBox shadowS">
+		
+					<div class="head">
+			<div class="shadowTR ">
+				<div class="back  ">
+					<div class="left">
+													
+    						    						    							<h3 class="h5">Suositut kategoriat</h3>
+    						    						
+    						    																	</div>
+					
+					<div class="more" ><a name='&lid=topCategoryCloud_moreLink' href='Lippuja.html?affiliate=ADV&amp;doc=categoryOverview' class='more'>Kaikki kategoriat</a></div>				</div>
+			</div>
+		</div>
+		
+			<div class="body">
+			<div class="shadowR">
+				<div class="shadowTR">
+					<div class="inner ">
+		
+			
+    	<div class="paddingVerticalL paddingTopL">
+    		    		
+    			    			
+								
+    			<ul class="cloud plain last">		
+    				    					<li><h4><a href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=46&amp;kategorieKuerzel=5A&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" class="size1" title="Hard Rock Liput" onclick="return xt_click(this, 'C', '1', 'Home::Popular Categories', 'A')">Hard Rock</a></h4></li>
+    				    					<li><h4><a href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;kategorieKuerzel=6C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" class="size3" title="Jääkiekko Liput" onclick="return xt_click(this, 'C', '1', 'Home::Popular Categories', 'A')">Jääkiekko</a></h4></li>
+    				    					<li><h4><a href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=42&amp;kategorieKuerzel=1E&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" class="size1" title="Kansanmusiikki Liput" onclick="return xt_click(this, 'C', '1', 'Home::Popular Categories', 'A')">Kansanmusiikki</a></h4></li>
+    				    					<li><h4><a href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7A&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" class="size1" title="Komedia Liput" onclick="return xt_click(this, 'C', '1', 'Home::Popular Categories', 'A')">Komedia</a></h4></li>
+    				    					<li><h4><a href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=45&amp;kategorieKuerzel=4B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" class="size1" title="Lastenmusiikki Liput" onclick="return xt_click(this, 'C', '1', 'Home::Popular Categories', 'A')">Lastenmusiikki</a></h4></li>
+    				    					<li><h4><a href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=45&amp;kategorieKuerzel=4C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" class="size4" title="Lastentapahtuma Liput" onclick="return xt_click(this, 'C', '1', 'Home::Popular Categories', 'A')">Lastentapahtuma</a></h4></li>
+    				    					<li><h4><a href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;kategorieKuerzel=6G&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" class="size7" title="Lentopallo Liput" onclick="return xt_click(this, 'C', '1', 'Home::Popular Categories', 'A')">Lentopallo</a></h4></li>
+    				    					<li><h4><a href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;kategorieKuerzel=6F&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" class="size2" title="Muu urheilu Liput" onclick="return xt_click(this, 'C', '1', 'Home::Popular Categories', 'A')">Muu urheilu</a></h4></li>
+    				    					<li><h4><a href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=43&amp;kategorieKuerzel=2D&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" class="size1" title="Ooppera, operetti Liput" onclick="return xt_click(this, 'C', '1', 'Home::Popular Categories', 'A')">Ooppera, operetti</a></h4></li>
+    				    					<li><h4><a href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7I&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" class="size1" title="Ravintolaviihde Liput" onclick="return xt_click(this, 'C', '1', 'Home::Popular Categories', 'A')">Ravintolaviihde</a></h4></li>
+    				    					<li><h4><a href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=46&amp;kategorieKuerzel=5C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" class="size1" title="Rock&Pop Liput" onclick="return xt_click(this, 'C', '1', 'Home::Popular Categories', 'A')">Rock&Pop</a></h4></li>
+    				    					<li><h4><a href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=45&amp;kategorieKuerzel=4A&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" class="size8" title="Sirkus Liput" onclick="return xt_click(this, 'C', '1', 'Home::Popular Categories', 'A')">Sirkus</a></h4></li>
+    				    					<li><h4><a href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7J&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" class="size2" title="Stand up Liput" onclick="return xt_click(this, 'C', '1', 'Home::Popular Categories', 'A')">Stand up</a></h4></li>
+    				    					<li><h4><a href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=44&amp;kategorieKuerzel=3A&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" class="size1" title="Vapaa-aika Liput" onclick="return xt_click(this, 'C', '1', 'Home::Popular Categories', 'A')">Vapaa-aika</a></h4></li>
+    				    					<li><h4><a href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=42&amp;kategorieKuerzel=1F&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes" class="size1" title="Viihdekonsertti Liput" onclick="return xt_click(this, 'C', '1', 'Home::Popular Categories', 'A')">Viihdekonsertti</a></h4></li>
+    				    			</ul>
+    			
+    			<div class="clearFloat"></div>
+    		    	</div>
+		<div class="clearFloat"></div>    
+							<div class="shadowCorners"></div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="shadowBL"><div class="shadowBR"></div></div>
+		</div>
+		</div>
+								
+			                <div class="clearFloat"></div>    	
+		
+			<div class="defBox homeBox shadowS">
+		
+					<div class="head">
+			<div class="shadowTR ">
+				<div class="back  ">
+					<div class="left">
+													
+    						    						    							<h3 class="h5">Etsi</h3>
+    						    						
+    						    																	</div>
+					
+					<div class="more" ><a name='&lid=content_extSearch' href='Lippuja.html?affiliate=ADV&amp;doc=search/extendedSearch&amp;fun=search&amp;action=power&amp;show=form' class='more'>Laajennettu haku</a></div>				</div>
+			</div>
+		</div>
+		
+			<div class="body">
+			<div class="shadowR">
+				<div class="shadowTR">
+					<div class="inner ">
+		
+	    	<form action="Lippuja.html?affiliate=ADV" method="get">
+    		<input type="hidden" name="affiliate" value="ADV" />
+    		<input type="hidden" name="fun" value="search" />
+    		<input type="hidden" name="action" value="search" />
+    		<input type="hidden" name="doc" value="search/search" />
+    		<input type="hidden" name="kudoc" value="artist" />
+    		<input type="hidden" name="sortBy" value="evdatum" />
+    		<input type="hidden" name="fuzzy" value="yes" />
+    		<input type="hidden" name="detailadoc" value="erdetaila" />
+    		<input type="hidden" name="detailbdoc" value="evdetailb" />
+    		
+    		    		
+    		<fieldset class="block last">
+    			<div class="row last column">
+										    				<div class="column w75">
+    					<input type="text" class="input required" minlength="2" name="suchbegriff" value="" alt="Etsi esiintyjiä ja tapahtumia" />
+    				</div>
+    					
+			
+			
+			
+			
+			
+						
+		<span class="defSubmit ">
+			<input type="submit" value="Etsi" class="submit"  />
+		</span>
+				
+			    			</div>
+    		</fieldset>
+    	</form>
+		
+    
+							<div class="shadowCorners"></div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="shadowBL"><div class="shadowBR"></div></div>
+		</div>
+		</div>
+				
+		
+		
+		<div class="clearFloat"></div>
+	</div>
+	<script language="JavaScript" type="text/javascript">
+		jQuery(document).ready(function(){
+			var narrowBoxes = jQuery('.w50');
+			for (var i = 0; i<narrowBoxes.length; i++){
+				if (i % 2) {
+					jQuery(narrowBoxes[i]).addClass( "wEnd" ).after('<div class="clearFloat"></div>');
+				};
+			};
+			jQuery('.wideHomeTeaserBox li:last-child').addClass("last");
+			jQuery('.defBox ul.pager li a').click(function() {
+  				jQuery('.wideHomeTeaserBox li:last-child').addClass("last");
+				jQuery('.teaserList.eventTeaserList li:last-child').addClass("last");
+				return false;
+			});
+		});
+	</script>
+	
+		
+			
+	<div class="pageEnd">
+		<div class="pageSpacer"><hr /></div>
+	
+    	<div class="pMargins marginBottomL">
+    		    		    		
+    		    			<div class="floatRight">
+    				<div class='toTop'><a href='#top' title='Mene aloitussivulle'>Ylös</a></div>
+    			</div>
+    		    		
+    		    			    		<div class="clearFloat"></div>
+    	</div>
+	</div>
+    			
+									<div id="addThis">	
+					<div class="addThis">			
+				<script type="text/javascript" language="JavaScript">
+				<!--
+				
+					var addthis_config = { 'data_track_clickback' : true };
+					
+					addthis_pub  = 'eventim';
+					if("fi" == "iw") {
+						addthis_language = "en";
+					} else {
+						addthis_language = "fi"; 
+					}
+				
+				//-->	
+				</script>
+				
+				
+				<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()" rel="nofollow">
+											<img src="http://s7.addthis.com/static/btn/lg-share-fi.gif" width="125" height="16" border="0" alt="" />
+									</a>
+				
+				<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+			</div>
+						<div class="clearFloat"></div>
+	</div>
+		
+	</div></div>
+</div>
+
+
+				<div class="mods sidebarMods"><div class="reset sidebar">
+	
+		
+	
+	
+
+	
+														
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+					<div class="defBox plainBox">
+			<div class="body">
+					      			            		                					            		                					            	            		            				                						<div class='adSidebar'>
+	<script type="text/javascript" language="JavaScript">
+	<!--
+	
+		if(!(window.denyAdserv || false)) {
+			document.write('<scr'+'ipt type="text/javascript" src="https://eas4.emediate.eu/eas?cu=8889;cre=mu;js=y;target=_blank"></scri'+'pt>');
+		} 
+	
+	//-->
+	</script>
+
+	<noscript>
+		<a target="_blank" href="https://eas4.emediate.eu/eas?cu=8889;ty=ct">
+			<img src="https://eas4.emediate.eu/eas?cu=8889;cre=img" border="0" alt="EmediateAd" width='220' height='125'/>
+		</a>
+	</noscript>
+</div>	               		            				                						<div class='adSidebar'>
+	<script type="text/javascript" language="JavaScript">
+	<!--
+	
+		if(!(window.denyAdserv || false)) {
+			document.write('<scr'+'ipt type="text/javascript" src="https://eas4.emediate.eu/eas?cu=8602;cre=mu;js=y;target=_blank"></scri'+'pt>');
+		} 
+	
+	//-->
+	</script>
+
+	<noscript>
+		<a target="_blank" href="https://eas4.emediate.eu/eas?cu=8602;ty=ct">
+			<img src="https://eas4.emediate.eu/eas?cu=8602;cre=img" border="0" alt="EmediateAd" width='220' height='125'/>
+		</a>
+	</noscript>
+</div>	               		            				                						<div class='adSidebar last'>
+	<script type="text/javascript" language="JavaScript">
+	<!--
+	
+		if(!(window.denyAdserv || false)) {
+			document.write('<scr'+'ipt type="text/javascript" src="https://eas4.emediate.eu/eas?cu=8892;cre=mu;js=y;target=_blank"></scri'+'pt>');
+		} 
+	
+	//-->
+	</script>
+
+	<noscript>
+		<a target="_blank" href="https://eas4.emediate.eu/eas?cu=8892;ty=ct">
+			<img src="https://eas4.emediate.eu/eas?cu=8892;cre=img" border="0" alt="EmediateAd" width='220' height='125'/>
+		</a>
+	</noscript>
+</div>	               		            			
+			</div>
+		</div>
+																
+
+
+
+
+
+
+
+
+
+
+   
+    
+     
+                         
+
+
+
+
+
+
+			<div class="defBox whiteBox">
+		<div class="head">
+			<div class="shadowTR noHeader">
+				<div class="back  noHeader">
+					<div class="left"></div>				
+				</div>
+			</div>
+		</div>
+		<div class="body">
+			<div class="shadowR">
+				<div class="shadowTR">
+					<div class="innerContent" id="eventimInternationalWrapper">
+						<div class="block">
+							<h4><a name="&lid=sidebar_eventimInternational_headline" href="Lippuja.html?affiliate=ADV&amp;doc=campaign/international"><strong>EVENTIM international</strong></a></h4>
+							<p>Attend top class events around the world!</p>						
+					
+															
+																
+																								
+																
+											
+																		
+    							    								<div class="floatLeft marginRightXS marginBottomS x60"><a href="http://www.ticketone.it/metallica-black-album-tour-2012-biglietti.html?affiliate=ITT&doc=artistPages%2Ftickets&fun=artist&action=tickets&erid=717258&kuid=461582" onclick="return xt_adc(this, 'INT-1-[sidebar_internationalBox_1]||Metallica')"><img src="/obj/media/FI-eventim/teaser/60x60/2012/international-metallica.jpg" alt="Metallica" title="Metallica" width="60" height="60"  /></a></div>
+    							    							<div class="marginBottomS floatRight w120x">
+    								<a href="http://www.ticketone.it/metallica-black-album-tour-2012-biglietti.html?affiliate=ITT&doc=artistPages%2Ftickets&fun=artist&action=tickets&erid=717258&kuid=461582" onclick="return xt_adc(this, 'INT-1-[sidebar_internationalBox_1]||Metallica')"><img src="/obj/advanced/default/campaign/international/img/icons/IT.gif" alt="" class="floatLeft marginRightXS" /></a> <a href='http://www.ticketone.it/metallica-black-album-tour-2012-biglietti.html?affiliate=ITT&doc=artistPages%2Ftickets&fun=artist&action=tickets&erid=717258&kuid=461582' title='Metallica' target='_blank'  onclick='return xt_adc(this, "INT-1-[sidebar_internationalBox_1]||Metallica")' class='strong'><span>Metallica</span></a>    								<div class="marginOff">13.05.12 <br>Udine, IT</div>
+    								<a href="http://www.ticketone.it/metallica-black-album-tour-2012-biglietti.html?affiliate=ITT&doc=artistPages%2Ftickets&fun=artist&action=tickets&erid=717258&kuid=461582" onclick="return xt_adc(this, 'INT-1-[sidebar_internationalBox_1]||Metallica')" class="noDeco" ></a>
+    							
+    								<div class="clearFloat"></div>
+    							</div>
+    							<div class="clearFloat"></div>
+    														
+																
+																								
+																
+											
+																		
+    							    								<div class="floatLeft marginRightXS marginBottomS x60"><a href="http://www.eventim.de/red-hot-chili-peppers-tickets.html?affiliate=EVE&doc=artistPages%2Ftickets&fun=artist&action=tickets&erid=685830" onclick="return xt_adc(this, 'INT-1-[sidebar_internationalBox_2]||Red Hot Chili Peppers')"><img src="/obj/media/FI-eventim/teaser/60x60/2012/international-redhotchili.jpg" alt="Red Hot Chili Peppers" title="Red Hot Chili Peppers" width="60" height="60"  /></a></div>
+    							    							<div class="marginBottomS floatRight w120x">
+    								<a href="http://www.eventim.de/red-hot-chili-peppers-tickets.html?affiliate=EVE&doc=artistPages%2Ftickets&fun=artist&action=tickets&erid=685830" onclick="return xt_adc(this, 'INT-1-[sidebar_internationalBox_2]||Red Hot Chili Peppers')"><img src="/obj/advanced/default/campaign/international/img/icons/UK.gif" alt="" class="floatLeft marginRightXS" /></a> <a href='http://www.eventim.de/red-hot-chili-peppers-tickets.html?affiliate=EVE&doc=artistPages%2Ftickets&fun=artist&action=tickets&erid=685830' title='Red Hot Chili Peppers' target='_blank'  onclick='return xt_adc(this, "INT-1-[sidebar_internationalBox_2]||Red Hot Chili Peppers")' class='strong'><span>Red Hot Chili Peppers</span></a>    								<div class="marginOff">23.06.12 <br>Knebworth, UK</div>
+    								<a href="http://www.eventim.de/red-hot-chili-peppers-tickets.html?affiliate=EVE&doc=artistPages%2Ftickets&fun=artist&action=tickets&erid=685830" onclick="return xt_adc(this, 'INT-1-[sidebar_internationalBox_2]||Red Hot Chili Peppers')" class="noDeco" ></a>
+    							
+    								<div class="clearFloat"></div>
+    							</div>
+    							<div class="clearFloat"></div>
+    													
+						<div class="right">
+														<a href="Lippuja.html?affiliate=ADV&amp;doc=campaign/international" class="more" onclick='return xt_adc(this, "INT-1-[sidebar_eventimInternational_2]||moreInternationalEvents")'><span>Lisää kansainvälisiä tapahtumia</span></a>
+						</div>
+					</div>
+					
+							<div class="shadowCorners"></div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="shadowBL"><div class="shadowBR"></div></div>
+		</div>
+		</div>
+															
+
+
+
+
+
+
+
+
+	
+
+	
+			
+		
+			<div class="defBox plainBox marginBottomOff">
+		
+				
+			<div class="body">
+			<div class="shadowR">
+				<div class="shadowTR">
+					<div class="inner ">
+		
+		
+
+
+
+
+                                                                                                                    
+
+
+
+
+
+<div>	
+
+<img src="/obj/media/FI-eventim/sidebar/fi//bannerTeaser/yrityspalvelut.jpg" style="display:block; height:198px; width:223px;" alt="Palvelut yrityksille" title="Palvelut yrityksille" border="0"/ usemap="#Map">
+			
+<map name="Map" id="Map">
+
+<area shape="rect" coords="5,38,215,109" href="http://www.lippu.fi/lounge" target="_blank" title="Lippupiste Lounge" alt="Lippupiste Lounge" />
+<area shape="rect" coords="5,116,215,188" href="http://www.elamyslahjakortti.fi" target="_blank" title="Elämyslahjakortti" alt="Elämyslahjakortti" />
+
+</map>	                 
+	
+	<div class="clearFloat"></div>		
+	
+							<div class="shadowCorners"></div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="shadowBL"><div class="shadowBR"></div></div>
+		</div>
+		</div>
+
+  <br>
+
+</div>	
+
+
+																
+		
+			<div class="defBox ">
+		
+					<div class="head">
+			<div class="shadowTR ">
+				<div class="back  ">
+					<div class="left">
+													
+    						    						    							<h3 class="h5">Suosituimmat</h3>
+    						    						
+    						    																	</div>
+					
+									</div>
+			</div>
+		</div>
+		
+			<div class="body">
+			<div class="shadowR">
+				<div class="shadowTR">
+					<div class="inner ">
+		
+	
+	<div class="block" id="eventimChartsBox">
+		
+		<ol class="last long small">
+	
+										
+												
+												
+				<li>
+					<span>
+												<img class="marginRightXS" src="/obj/advanced/default/layout//img/modular/symbols/charts/equal.gif" alt="samanlainen kuin" align="absmiddle" />
+												<a class="sidebarChartsLink strong" href="2012-jaeaekiekon-mmkisat-Lippuja.html?affiliate=ADV&amp;doc=erdetaila&amp;fun=erdetail&amp;erid=566703&amp;sort_by=event_datum&amp;sort_direction=asc" title="2012 JÄÄKIEKON MM-KISAT" onclick='return xt_adc(this, "INT-1-[sidebar_charts_1]||2012 JÄÄKIEKON MM-KISAT")'>2012 J&Auml;&Auml;KIEKON MM-...</a>
+					</span>
+				</li>
+							
+												
+												
+				<li>
+					<span>
+												<img class="marginRightXS" src="/obj/advanced/default/layout//img/modular/symbols/charts/equal.gif" alt="samanlainen kuin" align="absmiddle" />
+												<a class="sidebarChartsLink strong" href="disney-on-ice-Lippuja.html?affiliate=ADV&amp;doc=erdetaila&amp;fun=erdetail&amp;erid=594717&amp;sort_by=event_datum&amp;sort_direction=asc" title="DISNEY ON ICE" onclick='return xt_adc(this, "INT-1-[sidebar_charts_2]||DISNEY ON ICE")'>DISNEY ON ICE</a>
+					</span>
+				</li>
+							
+												
+												
+				<li>
+					<span>
+												<img class="marginRightXS" src="/obj/advanced/default/layout//img/modular/symbols/charts/equal.gif" alt="samanlainen kuin" align="absmiddle" />
+												<a class="sidebarChartsLink strong" href="sami-hedberg-show-kokovartalomies-ii-stand-up-kiertue-kevaet-2012-Lippuja.html?affiliate=ADV&amp;doc=erdetaila&amp;fun=erdetail&amp;erid=689970&amp;sort_by=event_datum&amp;sort_direction=asc" title="SAMI HEDBERG SHOW - KOKOVARTALOMIES II STAND UP -KIERTUE KEVÄT 2012" onclick='return xt_adc(this, "INT-1-[sidebar_charts_3]||SAMI HEDBERG SHOW - KOKOVARTALOMIES II STAND UP -KIERTUE KEVÄT 2012")'>SAMI HEDBERG SHOW ...</a>
+					</span>
+				</li>
+							
+												
+												
+				<li>
+					<span>
+												<img class="marginRightXS" src="/obj/advanced/default/layout//img/modular/symbols/charts/equal.gif" alt="samanlainen kuin" align="absmiddle" />
+												<a class="sidebarChartsLink strong" href="sami-hedberg-show-kokovartalomies-ii-veikkaus-vip-Lippuja.html?affiliate=ADV&amp;doc=erdetaila&amp;fun=erdetail&amp;erid=727676&amp;sort_by=event_datum&amp;sort_direction=asc" title="SAMI HEDBERG SHOW - KOKOVARTALOMIES II, Veikkaus VIP" onclick='return xt_adc(this, "INT-1-[sidebar_charts_4]||SAMI HEDBERG SHOW - KOKOVARTALOMIES II, Veikkaus VIP")'>SAMI HEDBERG SHOW ...</a>
+					</span>
+				</li>
+							
+												
+												
+				<li>
+					<span>
+												<img class="marginRightXS" src="/obj/advanced/default/layout//img/modular/symbols/charts/equal.gif" alt="samanlainen kuin" align="absmiddle" />
+												<a class="sidebarChartsLink strong" href="sami-hedberg-show-kokovartalomies-ii-veikkaus-Lippuja.html?affiliate=ADV&amp;doc=erdetaila&amp;fun=erdetail&amp;erid=727714&amp;sort_by=event_datum&amp;sort_direction=asc" title="SAMI HEDBERG SHOW - KOKOVARTALOMIES II, Veikkaus" onclick='return xt_adc(this, "INT-1-[sidebar_charts_5]||SAMI HEDBERG SHOW - KOKOVARTALOMIES II, Veikkaus")'>SAMI HEDBERG SHOW ...</a>
+					</span>
+				</li>
+							
+												
+																
+				<li>
+					<span>
+												<img class="marginRightXS" src="/obj/advanced/default/layout//img/modular/symbols/charts/better.gif" alt="paremmin" align="absmiddle" />
+												<a class="sidebarChartsLink strong" href="michael-jackson-the-immortal-world-tour-Lippuja.html?affiliate=ADV&amp;doc=erdetaila&amp;fun=erdetail&amp;erid=682518&amp;sort_by=event_datum&amp;sort_direction=asc" title="MICHAEL JACKSON THE IMMORTAL WORLD TOUR" onclick='return xt_adc(this, "INT-1-[sidebar_charts_6]||MICHAEL JACKSON THE IMMORTAL WORLD TOUR")'>MICHAEL JACKSON TH...</a>
+					</span>
+				</li>
+							
+												
+																
+				<li>
+					<span>
+												<img class="marginRightXS" src="/obj/advanced/default/layout//img/modular/symbols/charts/better.gif" alt="paremmin" align="absmiddle" />
+												<a class="sidebarChartsLink strong" href="jokerit-runkosarja-20112012-Lippuja.html?affiliate=ADV&amp;doc=erdetaila&amp;fun=erdetail&amp;erid=644508&amp;sort_by=event_datum&amp;sort_direction=asc" title="JOKERIT RUNKOSARJA 2011-2012" onclick='return xt_adc(this, "INT-1-[sidebar_charts_7]||JOKERIT RUNKOSARJA 2011-2012")'>JOKERIT RUNKOSARJA...</a>
+					</span>
+				</li>
+							
+												
+																
+				<li>
+					<span>
+												<img class="marginRightXS" src="/obj/advanced/default/layout//img/modular/symbols/charts/better.gif" alt="paremmin" align="absmiddle" />
+												<a class="sidebarChartsLink strong" href="the-voice-of-finland-Lippuja.html?affiliate=ADV&amp;doc=erdetaila&amp;fun=erdetail&amp;erid=715729&amp;sort_by=event_datum&amp;sort_direction=asc" title="THE VOICE OF FINLAND" onclick='return xt_adc(this, "INT-1-[sidebar_charts_8]||THE VOICE OF FINLAND")'>THE VOICE OF FINLA...</a>
+					</span>
+				</li>
+							
+												
+												
+				<li>
+					<span>
+												<img class="marginRightXS" src="/obj/advanced/default/layout//img/modular/symbols/charts/equal.gif" alt="samanlainen kuin" align="absmiddle" />
+												<a class="sidebarChartsLink strong" href="ilves-runkosarja-20112012-Lippuja.html?affiliate=ADV&amp;doc=erdetaila&amp;fun=erdetail&amp;erid=728162&amp;sort_by=event_datum&amp;sort_direction=asc" title="ILVES RUNKOSARJA 2011-2012" onclick='return xt_adc(this, "INT-1-[sidebar_charts_9]||ILVES RUNKOSARJA 2011-2012")'>ILVES RUNKOSARJA 2...</a>
+					</span>
+				</li>
+							
+												
+												
+				<li class="last">
+					<span>
+												<img class="marginRightXS" src="/obj/advanced/default/layout//img/modular/symbols/charts/equal.gif" alt="samanlainen kuin" align="absmiddle" />
+												<a class="sidebarChartsLink strong" href="ilves-runkosarja-20112012-Lippuja.html?affiliate=ADV&amp;doc=erdetaila&amp;fun=erdetail&amp;erid=659745&amp;sort_by=event_datum&amp;sort_direction=asc" title="ILVES RUNKOSARJA 2011-2012" onclick='return xt_adc(this, "INT-1-[sidebar_charts_10]||ILVES RUNKOSARJA 2011-2012")'>ILVES RUNKOSARJA 2...</a>
+					</span>
+				</li>
+					</ol>
+	</div>
+	
+
+							<div class="shadowCorners"></div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="shadowBL"><div class="shadowBR"></div></div>
+		</div>
+		</div>
+															
+		
+		
+		
+		
+			<div class="defBox ">
+		
+					<div class="head">
+			<div class="shadowTR ">
+				<div class="back  ">
+					<div class="left">
+													
+    						    						    							<h3 class="h5">Monipuolinen Uutiskirje</h3>
+    						    						
+    						    																	</div>
+					
+									</div>
+			</div>
+		</div>
+		
+			<div class="body">
+			<div class="shadowR">
+				<div class="shadowTR">
+					<div class="inner ">
+		
+			
+					<div class="block">
+				<p>Tilaa uutiskirje, niin saat ajantasaista tietoa tapahtumista.</p>
+				
+				<form action="https://secure.lippu.fi/tnl.dll" method="post" name="RegistrationData" id="sideBarRegistrationData">
+					<input type="hidden" name="fun" value="newsletter" />
+					<input type="hidden" name="from" value="newsletter" />
+					<input type="hidden" name="id" value="ADV_NO_SESSION" />
+					<input type="hidden" name="action" value="save" />
+					<input type="hidden" name="addEinstellungen" value="true" />
+					<input type="hidden" name="doc" value="feature/newsletter/sendFAIL" />
+					<input type="hidden" name="nextdoc" value="feature/newsletter/sendOK" />
+					<input type="hidden" name="errordoc" value="globalError" />
+					<input type="hidden" name="newsletter3" value="true" />
+					<input type="hidden" name="html3" value="1" />
+										<input type="hidden" name="captchadoc" value="feature/captcha" />
+
+					
+					<fieldset class="last">
+						<div class="row last">
+																												<input type="text" name="kundenemail" alt="Sähköpostiosoitteesi" class="input beforeSubmit email required" />
+							
+								
+			
+			
+			
+			
+			
+						
+		<span class="defSubmit smallSubmit">
+			<input type="submit" value="Rekisteröidy" class="submit"  />
+		</span>
+				
+									</div>
+					</fieldset>
+				</form>
+									<div class="right last marginTopS"><a name="&lid=sidebar_nlta_link_individualNL" href="Lippuja.html?affiliate=ADV&amp;doc=feature/newsletter&amp;fun=newsletter&amp;action=save" class="more"><span>Tilaa uutiskirje</span></a></div>
+							</div>
+				
+					<div class="spacer"><hr /></div>
+				
+					<div class="block">
+				<h4>Tapahtumamuistutus</h4>				<p>Tapahtumamuistutus kertoo sinulle milloin jotain uutta tulee myyntiin.</p>
+				<div class="right last"><a name="&lid=sidebar_nlta_link_toTicketalert" href="Lippuja.html?affiliate=ADV&amp;doc=feature/ticketAlarm" class="more"><span>Tapahtumamuistutukseen</span></a></div>
+			</div>
+				
+	
+							<div class="shadowCorners"></div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="shadowBL"><div class="shadowBR"></div></div>
+		</div>
+		</div>
+																	<div id="bannerTeaserStandardBox1"></div>
+
+<script language="javascript" type="text/javascript">
+<!--//
+// Copyright 2008 by eventim.de				
+/**
+ * Globale Bannerrotation, wird genutzt, falls keine Werte an die aktuelle Funktion uebergeben wurden, bzw. wird ueberschrieben
+ * wenn bereits zuvor gesetzt ...
+ *	- url		Ziel-Url
+ *	- img		Bild-Url
+ *	- title		Optional: Titel fuer den Banner (alt-Attribut fuer Bild)
+ *  - name		Für HBX - Tracking
+ *	- target	Optional: Zielfenster (neuer Default: _self)
+ */
+ 
+ 
+ 
+var globalRotation = [	
+		
+	
+
+
+
+
+
+
+
+
+
+				
+						
+			{	
+				title  : "", 
+				target : "_parent", 
+				url    : "Lippuja.html?affiliate=ADV", 
+				img    : "/obj/media/FI-eventim/sidebar/fi/bannerTeaser/payment-methods.gif",
+				seo    : ""
+								,
+				onclick: "return xt_adc(this, 'INT-1-[sidebar_bannerTeaser_1]||')"
+								 } 			];
+
+/** * Filtert abgelaufene oder ungueltige Items aus ... */
+var filterBannerRotation = function(items) {	
+	var items     = items || [];
+	var tmpBanner = [];
+	var tmpNow    = new Date();	
+	for (var i = 0; i < items.length; i++) {	
+		if ((items[i].start || !(items[i].start || false)) <= tmpNow && (items[i].end >= tmpNow || !(items[i].end || false))) tmpBanner.push(items[i]);
+	};	
+	return (tmpBanner.length == 0) ? false : tmpBanner ;
+};
+
+/** * Default Rotation setzen, zuvor, falls gesetzt lokal, diese noch validieren ... */
+var defaultRotation1 = filterBannerRotation(defaultRotation1 || globalRotation) || globalRotation;
+
+/** * Banner, die wirklich immer angezeigt werden soll, bzw. in der Rotation sein sollen! */
+var everytimeRotation = [];
+defaultRotation1 = defaultRotation1.concat(everytimeRotation || []);
+
+/** * Banner, die der normalen Rotation hinzugefuegt werden sollen, sowie die die immer * laufen sollen, nun der defaultRotation hinzufuegen. */
+var additionalRotation = additionalRotation || [];
+defaultRotation1 = defaultRotation1.concat(additionalRotation);
+
+/** * Erstellt einen Banner aus einer uebergebenen Rotation(wenn verfuegbar). */
+var foundBannerRotation = function() {	
+	// Werte validieren und vorbereiten ...
+	var tmpBanner = filterBannerRotation(defaultRotation1 || []);	
+	// Jetzt wo bekannt ist, wieviele Banner noch aktiv in der Rotation sind, kann per Zufall einer davon angezeigt werden,
+	// vorrausgesetzt, es gibt mindestens einen.
+	if (!tmpBanner) return;
+	
+	// Syncronisierung mit Bannern
+	//
+	// Wurde in den Wallpapern der Wert LinkedBanner gesetzt und hier in den Bannern auch,
+	// dann duerfen nur die Uebereinstimmungen angezeigt werden.
+	var showBanner;
+	if(typeof(LinkedBanner) == 'string' && LinkedBanner != "") {
+		for (var i = 0; i < tmpBanner.length; i++) {
+			if(tmpBanner[i].seo == LinkedBanner){
+				showBanner = tmpBanner[i];
+			}
+		}
+	} else {
+		var tmpZufall = Math.round((tmpBanner.length - 1) * Math.random());
+		showBanner = tmpBanner[tmpZufall] || false;
+	}
+	if (!showBanner) return;
+
+	// Ausgabe des Banners, wenn einer gefunden wurde ..., darauf achten, dass zwecks Tracking die Session
+	// mit durchgereicht wird, falls vorhanden (andernfalls einfach "EVE_NO_SESSION").
+	if(showBanner) {
+
+		// Wurde von document.write auf diese Variante umgestellt, da aus unbekannten Gruenden
+		// die vorherige Variante als HTML-Tags im Browser gerendert wurden, auch wenn der
+		// Quellcode nicht ausgefuehrt wurde (BrowserBug).
+		var tmpBoxDiv = document.createElement('div');
+		tmpBoxDiv.className = "noBackgroundBannerTeaser";
+		
+		var tmpBox = document.createElement('div');
+		tmpBox.className = "defBox plainBox";
+		tmpBoxDiv.appendChild(tmpBox);
+
+		var tmpBody = document.createElement('div');
+		tmpBody.className = "body ";
+		tmpBox.appendChild(tmpBody);
+
+		var tmpLink = document.createElement('a');
+		tmpLink.setAttribute('href', (showBanner.url.replace(/&amp;/gi, "&") || '#'));
+		tmpLink.setAttribute('target', (showBanner.target || '_self'));
+		tmpLink.setAttribute('name', (showBanner.name || ''));
+		tmpLink.setAttribute('onclick', (showBanner.onclick || ''));		tmpBody.appendChild(tmpLink);
+
+		var tmpImage = document.createElement('img');
+		tmpImage.setAttribute('src', (showBanner.img || ''));
+		tmpImage.setAttribute('alt', (showBanner.title || ''));
+		tmpImage.setAttribute('title', (showBanner.title || ''));
+		tmpLink.appendChild(tmpImage);
+
+		document.getElementById('bannerTeaserStandardBox1').appendChild(tmpBoxDiv); 
+	}	
+};
+
+foundBannerRotation(defaultRotation1 || false);
+//-->
+</script>													</div></div>			</div>
+			<!-- /Content -->
+		</div>
+		<!-- /Wrapper -->
+		
+		
+		
+					
+							
+		<script language="javascript" type="text/javascript">
+	<!--
+		xtnv = document; 				//parent.document or top.document or document 
+		xtsd = "https://logs1125"; 
+		xtsite = "469357"; 			//site number 
+		xtn2 = "1"; 			//level 2 site 
+		xtpage = "homepage"; //page name (with the use of :: to create chapters) 
+		xt_multc = "&x4=advanced/liftemp/&x5=ADV&x6=false&x7=fi-FI"; 			//customised indicators 
+		xt_an = "";       		//numeric identifier  
+		xt_ac = "";       		//category 
+		
+		//do not modify below	
+		if (window.xtparam!=null){window.xtparam+="&ac="+xt_ac+"&an="+xt_an+xt_multc;}  
+		else{window.xtparam = "&ac="+xt_ac+"&an="+xt_an+xt_multc;};
+	//-->
+	</script>
+	<script type="text/javascript">
+    <!--
+    (function(){ var at=document.createElement('script'); at.type='text/javascript'; at.async=true; at.src="/obj/advanced/extensions/global/tracking//FI-eventim/js/xtcore.js"; (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]||document.getElementsByTagName('script')[0].parentNode).insertBefore(at,null); })();
+    -->
+    </script> 
+	<noscript> 
+	<img width="1" height="1" src="https://logs1125.xiti.com/hit.xiti?s=469357&s2=1&p=homepage&ac=&an=" > 
+	</noscript>
+			
+		
+        
+        								
+		
+										
+		        
+        
+                                
+                
+		                        
+                			<!-- Frosmo Tracking -->
+<script src='http://optimizer.s3.amazonaws.com/lippufi/frosmo.lippufi.js' type="text/javascript" charset="utf-8"></script>
+        
+		<!--footer-->
+		
+
+
+	<div id="footer"><!-- Footer -->
+    <div id="footerIn">	
+        	
+        		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    			<div>
+        			
+				<h5>Palvelut</h5>
+                
+				<ul>
+                	                    	                			<li><a href="tickets.html?affiliate=ADV&fun=repstart&doc=feature/fanReport/start" target="_self" title="Arviot tapahtumista" onclick="" class="" rel="">Arviot tapahtumista</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&doc=campaign&campaign=arvoseteli" target="_self" title="Arvosetelit " onclick="" class="" rel="">Arvosetelit </a></li>
+                        					                    	                			<li><a href="http://kampanja.lippu.fi/event/" target="_blank" title="event.–lehti" onclick="" class="" rel="">event.–lehti</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&doc=campaign&campaign=Kilpailut" target="_self" title="Kilpailut" onclick="" class="" rel="">Kilpailut</a></li>
+                        					                    	                			<li><a href="http://www.lippu.fi/tickets.html?affiliate=ADV&fun=search&action=search&doc=search%2Fsearch&detailadoc=erdetaila&detailbdoc=evdetailb&kudoc=artist&sort_by=score&sort_direction=desc&fuzzy=yes&suchbegriff=lippupiste+lahjakortti" target="_blank" title="Lahjakortti " onclick="" class="" rel="">Lahjakortti </a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&doc=campaign&campaign=nanny" target="_self" title="Lastenhoitaja" onclick="" class="" rel="">Lastenhoitaja</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&doc=campaign&campaign=lippulasku" target="_self" title="Lippulasku" onclick="" class="" rel="">Lippulasku</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&doc=campaign&campaign=lipputurva" target="_self" title="Lipputurva" onclick="" class="" rel="">Lipputurva</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&doc=feature/customerRegistration" target="_self" title="Rekisteröityminen" onclick="" class="" rel="">Rekisteröityminen</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&fun=newsletter&doc=feature/ticketAlarm&action=show" target="_self" title="Tapahtumamuistutus" onclick="" class="" rel="">Tapahtumamuistutus</a></li>
+                        					                    	                			<li><a href="http://www.facebook.com/Tahtielamykset" target="_self" title="Tähtielämykset" onclick="" class="" rel="">Tähtielämykset</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&fun=newsletter&doc=feature/newsletter&action=show" target="_self" title="Uutiskirje" onclick="" class="" rel="">Uutiskirje</a></li>
+                        					                    
+                </ul>
+				
+                
+        		</div>
+        		
+	    	
+        		
+
+
+
+
+                                           
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    			<div>
+        			
+				<h5>Myyntipisteet ja toimitusmaksut</h5>
+                
+				<ul>
+                	                    	                			<li><a href="tickets.html?affiliate=ADV&doc=search/ticketAgency&fun=searchoutlet&action=search&isSent=true&agenciesListing=true&sort_by=name1&sort_direction=asc" target="_self" title="Myyntipisteet" onclick="" class="" rel="">Myyntipisteet</a></li>
+                        					                    	                			<li><a href="tservice.dll?affiliate=ADV&fun=thelpcontent&doc=feature/helpContact/details&hilfeid=7203" target="_self" title="Toimitusmaksut" onclick="" class="" rel="">Toimitusmaksut</a></li>
+                        					                    
+                </ul>
+				
+                
+        		
+	    	
+        		
+
+
+
+
+
+
+
+
+                                           
+
+
+
+
+
+
+
+
+
+
+
+    
+    				
+				<h5>Ohjeet ja tuki</h5>
+                
+				<ul>
+                	                    	                			<li><a href="tickets.html?affiliate=ADV&fun=contact&doc=feature/helpContact/contact&hilfeid=&hilfetitel=&plattform=" target="_self" title="Asiakaspalvelu" onclick="" class="" rel="">Asiakaspalvelu</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&fun=thelp&doc=feature/helpContact/start" target="_self" title="FAQ" onclick="" class="" rel="">FAQ</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&doc=popup/onlineFeedback" target="_blank" title="Palaute" onclick="" class="popupwindow" rel="onlineFeedbackStep1">Palaute</a></li>
+                        					                    
+                </ul>
+				
+                
+        		</div>
+        		
+	    	
+        		
+
+
+	<div class="hotline">
+	<h5>Lisätiedot ja tilaukset</h5>
+    
+    	    <p style="margin-bottom:4px;">0600 900 900</p>
+    
+	<p style="font-weight:normal; font-size:9pt !important; margin-bottom:10px;">(1,97 &euro;/min+pvm)  </p>
+	<dl>
+		<dt>Joka päivä:</dt><dd>  7-22 </dd>
+	</dl>
+</div>    
+    				
+				<h5></h5>
+                
+				<ul>
+                	                    
+                </ul>
+				
+                
+        		
+	    	
+        		
+
+
+
+
+
+
+
+
+                                           
+
+ 
+    
+    			<div>
+        			
+				<h5>Tietosuoja</h5>
+                
+				<ul>
+                	                    	                			<li><a href="tickets.html?affiliate=ADV&doc=info/terms" target="_self" title="Käyttäjäsopimus" onclick="" class="" rel="">Käyttäjäsopimus</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&doc=info/dataProtection" target="_self" title="Tietojen suojaus" onclick="" class="" rel="">Tietojen suojaus</a></li>
+                        					                    
+                </ul>
+				
+                
+        		
+	    	
+        		
+
+
+
+
+                                           
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    				
+				<h5>Palvelut yrityksille</h5>
+                
+				<ul>
+                	                    	                			<li><a href="http://www.lippu.fi/lounge" target="_blank" title="Lounge-yritysklubi" onclick="" class="" rel="">Lounge-yritysklubi</a></li>
+                        					                    	                			<li><a href="http://www.elamyslahjakortti.fi/PublishedService" target="_blank" title="Elämyslahjakortti" onclick="" class="" rel="">Elämyslahjakortti</a></li>
+                        					                    
+                </ul>
+				
+                
+        		</div>
+        		
+	    	
+        		
+
+
+
+
+
+                                           
+
+    
+    			<div>
+        			
+				<h5>Tapahtuman-<br>
+järjestäjille</h5>
+                
+				<ul>
+                	                    	                			<li><a href="tickets.html?affiliate=ADV&doc=campaign&campaign=tapahtumajarjestajille" target="_self" title="Info" onclick="" class="" rel="">Info</a></li>
+                        					                    	                			<li><a href="http://extranet.lippu.fi/" target="_blank" title="Lippupisteen Extranet" onclick="" class="" rel="">Lippupisteen Extranet</a></li>
+                        					                    
+                </ul>
+				
+                
+        		
+	    	
+        		
+
+
+
+
+
+
+
+    
+    				
+				<h5>Lippupiste Oy</h5>
+                
+				<ul>
+                	                    	                			<li><a href="tickets.html?affiliate=ADV&doc=info/imprint" target="_self" title="Lippupiste Oy" onclick="" class="" rel="">Lippupiste Oy</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&doc=campaign&campaign=yhteystiedot" target="_self" title="Yhteystiedot" onclick="" class="" rel="">Yhteystiedot</a></li>
+                        					                    
+                </ul>
+				
+                
+        		</div>
+        		
+	    	
+        		
+
+
+
+
+
+
+
+
+
+
+                                           
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    			<div>
+        			
+				<h5>Eventim International</h5>
+                
+				<ul>
+                	                    	                			<li><a href="tickets.html?affiliate=ADV&doc=feature/international" target="_self" title="Linkit muihin maihin" onclick="" class="" rel="">Linkit muihin maihin</a></li>
+                        					                    	                			<li><a href="http://www.eventim.de/tickets.html?affiliate=EVG&fun=investor&doc=eventim/default/info/en/investor&language=en" target="_blank" title="Sijoittajasuhteet" onclick="" class="" rel="">Sijoittajasuhteet</a></li>
+                        					                    
+                </ul>
+				
+                
+        		
+			
+	</div>
+    <!-- important Tipp? -->
+	</div><!-- /Footer -->
+
+
+
+
+	
+
+
+	<!--
+	EVE-Lippu.fi Homepage [ Medium: HTML, Sales: No, Secure: No ]
+	-->
+	
+	<!-- ADMETA PAGESCRIPT. COPYRIGHT ADMETA. PATENT PENDING. THIS PAGESCRIPT IS FOR: EVE-Lippu.fi Homepage -->
+			<SCRIPT LANGUAGE="JavaScript">
+		<!--
+		document.write('<img src="https://sec.admeta.com/rms/public/probe.asp?tag_id=18457&checksum=9718792886&java=true&slump=' + new Date().getTime() + '" border="0" height="1" width="1">');
+		//-->
+		</SCRIPT>
+		<NOSCRIPT>
+		<img src="https://sec.admeta.com/rms/public/probe.asp?tag_id=18457&checksum=9718792886" border="0" height="1" width="1">
+		</NOSCRIPT>
+		<!-- END OF ADMETA PAGESCRIPT -->
+
+
+
+
+<!-- ec: 0 -->		<!--footer-->
+			
+		        					
+	</body>
+</html><!-- advanced_3.3.1.005a-Build:11 [Exported: 08.02.2012 15:42] -->
+<!--11.02.2012 11:34:36:107 Generiert vom www22 in 126 ms (s = 0; f = 0; p = 126; Request-Nr = 2304730 RequestId = 1328190237244296122; Version = 3.3.1.005; Parser = 1);-->

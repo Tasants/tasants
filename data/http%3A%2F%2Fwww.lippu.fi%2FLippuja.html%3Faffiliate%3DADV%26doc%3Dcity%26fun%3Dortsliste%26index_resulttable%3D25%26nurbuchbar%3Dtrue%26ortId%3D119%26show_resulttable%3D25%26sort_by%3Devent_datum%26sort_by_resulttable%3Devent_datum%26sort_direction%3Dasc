@@ -1,0 +1,4727 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fi-FI"  lang="fi-FI" >
+<head>
+
+														
+	
+			
+				
+	
+					
+							<!-- Kein current_kuenstler / current_artist verfügbar! //-->
+	
+
+
+
+	
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+				
+			
+								
+			
+								
+								
+								
+			
+								
+			
+								
+			
+								
+			
+								
+			
+								
+			
+								
+			
+								
+			
+								
+			
+								
+			
+								
+			
+								
+			
+								
+			
+								
+			
+				
+
+
+
+
+			<meta property="og:description" content="Liput tuhansiin tapahtumiin! Espoo" />
+		
+	    	<meta property="og:image" content="http://www.lippu.fi/obj/advanced/default/layout/fi/img/logos/lippu_transparent.gif" />
+    	
+	<meta property="og:type" content="activity" />
+	<meta property="og:language" />
+	<meta property="og:title" content="Lippupiste" />
+	<meta property="og:site_name" content="Lippupiste - Liput" />
+	
+													
+										
+	<!-- v2008.12.1.1259 //-->
+		<title> 			Espoo - tapahtumat
+	  </title>
+	<meta http-equiv='content-type' content="text/html; charset=UTF-8" />
+	<meta http-equiv="content-script-type" content="text/javascript" />
+	<meta http-equiv="content-language" content="fi" />
+
+	<meta name="keywords" content="Lippupiste" />
+	
+
+	
+	<meta name="description" content="Lippupiste" />
+	<meta name="language" content="fi" />
+	<meta name="revisit-after" content="7 Päivää" />
+
+			<meta name="robots" content="index, follow" />
+		<meta name="publisher" content="Lippupiste http://www.lippu.fi" />
+	<meta name="copyright" content="Copyright 2009 kirjoittanut Lippupiste http://www.lippu.fi" />
+	<meta name="author" content="Lippupiste http://www.lippu.fi" />
+        	    	<meta property='fb:admins' content="100002046710451,100002365596888" />
+        
+	<link rel="shortcut icon" type="image/gif" title="" href="/obj/media/FI-eventim/specialLogos/animated_favicon.gif" />
+	
+	<link rel="home" href="http://www.lippu.fi/" />
+	<link rel="author" href="http://www.lippu.fi/" />
+	<link rel="copyright" href="http://www.lippu.fi/" />
+
+	<meta name="MSSmartTagsPreventParsing" content="true" />
+	<meta http-equiv="imagetoolbar" content="false" />	
+	
+	<link rel="stylesheet" href="/obj/advanced/default/layout/fi/css/screen.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="/obj/advanced/default/layout/css/screen.packed.css" type="text/css" media="screen" />
+	
+	<link rel="stylesheet" href="/obj/advanced/default/layout/css/print.css" type="text/css" media="print" />
+	
+<link rel="stylesheet" href="/obj/advanced/default/layout/css/modular.packed.css" type="text/css" media="screen" /><link rel="stylesheet" href="/obj/advanced/default/layout/FI_fi/css/modular.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/obj/advanced/default/layout/css/sidebar.packed.css" type="text/css" media="screen" />	
+<script type="text/javascript" language="javascript">
+// <![CDATA[ <!--
+
+				var eveJsIframeBlank = '/staticsite/blank.htm';
+
+		var eveJsUrl = 'Lippuja.html?affiliate=ADV';
+	
+			var eveJsCountry = 'FI' || 'DE';
+	
+		var eveJsLanguage = 'fi' || 'de';
+		
+
+	
+	
+	
+	function trackAndOpenLink(cfg) {
+        
+				var cfg = cfg || {};
+		var noTrack = false;
+		
+		if(!cfg.el){			
+			cfg.el = jQuery(cfg.params).find('a').get(0);
+		}
+		
+		if(cfg.code){
+			window.tracking = {
+				linkEl   : cfg.el || document.createElement('A'),
+                url      : cfg.el.href || false,
+				code	 :	cfg.code || false,
+				callback :	cfg.callback || false,
+				target   : cfg.el.target || false,
+				scope	 :	cfg.scope || false
+			}
+		}else{
+		
+           	window.tracking = {
+                 linkEl   : cfg.el || document.createElement('A'),
+                 url      : cfg.el.href || false,
+                 target   : cfg.el.target || false,
+                 code	  : cfg.el.name || false,
+                 callback : cfg.callback || false
+            };
+		}
+						
+		var checkCode = /INT-[0-9]*-\[.*\]\|\|.*/;
+		if(("" != "true") && window.tracking.code!="" && window.tracking.code.search(checkCode) > -1){
+			var result = xt_adc(false, window.tracking.code);
+		}else{
+			noTrack = true;
+		}
+		if(!noTrack){
+			window.setTimeout('openAfterTracking()', 500);
+		}else{
+			if(cfg.el.getAttribute("class") != null && cfg.el.getAttribute("class").indexOf("popupwindow") == -1) {
+				var tmpClass = cfg.el.getAttribute("class");
+				var tmpTarget = cfg.el.getAttribute("target");
+				var tmpHref = cfg.el.getAttribute('href') || '';
+				if(tmpTarget == "_blank"){
+					if(tmpClass != "languageLink") {
+						window.open(tmpHref, tmpTarget);
+					}
+				}
+				else {
+					/** Sprachwechsel URL wird per changeScript gesetzt, href darf nicht verwendet werden */
+					if(tmpHref.indexOf('language=') < 0){
+						window.location.href = window.tracking.url; 
+					}
+				}
+			} else { window.location.href = window.tracking.url;   }
+		}
+		return false;
+	};
+	
+	function openAfterTracking() {
+				        
+        if (window.tracking.url || false) {
+             if (window.tracking.target) {
+                   window.open(window.tracking.url, window.tracking.target);
+             } else {
+                   document.location.href = window.tracking.url;
+             }
+             return;
+        }
+  	};
+	
+			
+	function trackReInitialize(el) {
+		
+		jQuery(el).find('a').each(function() {
+
+			jQuery(this).click(function() {
+				trackAndOpenLink({ 'el' : this });
+			});			
+		});
+		
+	};
+
+	
+// --> ]]>
+</script>
+
+<script src="/obj/advanced/default/layout/js/setup.packed.js" type="text/javascript"></script>
+
+<script src="/obj/advanced/default/layout/js/jquery.packed.js" type="text/javascript"></script><script src="/obj/advanced/default/layout/js/jquery.popupwindow.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/default/layout/js/eventim.packed.js" type="text/javascript"></script>
+
+<script src="/obj/advanced/default/layout/js/jquery.autocomplete.packed.js" type="text/javascript"></script>
+
+<script src="/obj/advanced/default/layout/js/jquery.validate.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/default/layout/fi/js/jquery.validate.js" type="text/javascript"></script><script src="/obj/advanced/default/layout/js/jquery.validateCustoms.packed.js" type="text/javascript"></script>
+
+<script src="/obj/advanced/default/layout/fi/js/Eve.js" type="text/javascript"></script><script src="/obj/advanced/default/layout/js/Eve.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/default/layout/js/Eve/RegisterCards.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/default/layout/js/Eve/AbstractTexts.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/default/layout/js/Eve/DynamicLayers.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/default/layout/js/Eve/ReadMore.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/default/layout/js/Eve/ItemPager.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/default/layout/js/Eve/Tooltipps.packed.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="/obj/advanced/default/layout/css/eve.popupLayer.packed.css" type="text/css" media="screen" />
+<script src="/obj/advanced/default/layout/js/eve.popupLayer.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/default/layout/js/eve.metaNavSyncCachedSites.packed.js" type="text/javascript"></script>
+
+<script src="/obj/advanced/default/layout/js/jquery.fullcalendar.packed.js" type="text/javascript"></script>
+
+
+
+<script type="text/javascript" language="javascript">
+// <![CDATA[ <!--
+
+	jQuery(function() {
+		
+		if(jQuery.browser.msie) {
+		
+			document.body.onscroll = function() {
+			
+				this.style.overflow = "hidden";
+				this.style.overflow = "";
+				
+			}.scope(document.body);
+		}
+	});
+	
+// --> ]]>
+</script>
+
+<script type="text/javascript" language="javascript">
+// <![CDATA[ <!--
+
+	var ff36xTextWorkaround = function(){
+	
+		// Nur ausfuehren wenn Mozilla, andernfalls abbrechen.
+		if (!(jQuery.browser.mozilla || false)) return;
+		
+		var tmpVersion = (jQuery.browser.version.replace(/\./gi, '')) * 1;
+		if (typeof tmpVersion != 'number' || tmpVersion < 1920) return;
+		
+		var br = "\n";
+		
+		jQuery('head').append(
+			'<style type="text/css">' + br +
+			'html > body .mods div.headerNavigation div.quickSearchInput input { padding:4px 0 2px 12px !important; }' + br +
+			'html > body .mods form input.input { padding:3px 5px 1px; }' + br +		
+			'</style>'
+		);
+	};
+	
+	ff36xTextWorkaround();
+	
+// --> ]]>
+</script>
+
+
+
+
+
+<link media="screen" rel="stylesheet" href="/obj/advanced/default/layout/css/jquery.autocomplete.packed.css" type="text/css" />
+
+	<link media="screen" rel="stylesheet" href="/obj/advanced/default/layout/css/leftAlign.packed.css" type="text/css" />
+
+<script type="text/javascript" language="JavaScript">
+<!--
+
+	var filterLanguage = function(text) {
+
+		var params = ((text || '').split('?')).pop().split('&');
+		
+		for(var i in params) {
+
+			var pair = params[i].split('=');
+			if((pair[0] || '').toUpperCase() == "LANGUAGE") return pair[1] || false;
+		};
+
+		return false;
+	};
+	
+	var switchLanguage = function() {
+
+		// Language filterm
+		var language = filterLanguage((this.getAttribute('href') || ''));
+		
+		// Wurde keine gefunden, dann einfach normal fortfahren.
+		if(!language) return;
+		
+		// ein persistentes language cookie setzen, damit die Sprache vorausgewählt ist, auch wenn der
+		// Browser zwischendurch geschlossen wird
+		var expirationDate = new Date();	
+		expirationDate.setDate(expirationDate.getDate() + 30);
+		var expires = expirationDate.toGMTString();
+		
+		var locationHost = (document.location.host).split(".");
+		var helpDomain = locationHost[1]+"."+locationHost[2];
+		if(locationHost[2] == "co") helpDomain = helpDomain+"."+locationHost[3];
+		
+		document.cookie = "language="+language+"; expires="+expires+"; domain="+helpDomain;	
+				
+		
+		
+		
+												
+			var currentURL = window.location.href || '';
+			var callUrl = false;
+			var splitter = "?";
+			
+			if(window.location.search != "") {
+				
+				var isLanguageInHref = filterLanguage(currentURL);
+
+				if(isLanguageInHref) {
+
+					var regexp = new RegExp("language=" + isLanguageInHref, "gi");
+					callUrl = currentURL.replace(regexp, "language="+language);
+				}
+				
+				splitter = "&";	
+			}
+
+			if(!callUrl) callUrl = currentURL + splitter + 'language=' + language;
+
+			// Sicherstellen, dass immer auf eine Seite und nicht einfach nur auf die
+			// Domain geleitet wird, da AKAMAI die Startseite cached.
+			var currentPathname = window.location.pathname || '';
+			if (currentPathname == '/' || currentPathname == '') callUrl = callUrl.replace('//' + window.location.hostname + currentPathname, '//' + window.location.hostname + '/tickets.html');
+
+			window.location.href = callUrl;
+			
+		
+		return false;
+	};
+
+	jQuery(function() {
+		jQuery('#header #language #languageBtn').mouseup(function() {
+			
+			if((this.isDone || false)) return;
+			
+			jQuery('#languageSelector li ul li a').each(function() {
+		
+				var tmpHref = this.getAttribute('href') || '';
+				
+				// Pruefen ob im Link ein Sprachschalter existiert, wenn nicht, dann ignorieren.
+				if(tmpHref.indexOf('language=') < 0) return;
+
+				jQuery(this).click(switchLanguage);
+			});
+		});
+	});
+	
+//-->
+</script>
+
+
+
+
+
+
+
+	<script type="text/javascript">
+<!--
+	
+	window.denyAdserv = false;
+	
+	function checkAdds() {
+		
+		var el = document.getElementById('isLoadedAdServ') || false;
+		
+		window.denyAdserv = (el == false) ? true : false ;
+	};
+	
+	window.setTimeout("checkAdds()", 5000);
+	
+//-->
+</script>
+
+<div id="adServingEAS">
+	<script type="text/javascript" src="https://eas4.emediate.eu/EAS_tag.1.0.js"></script>
+	<script type="text/javascript">
+		<!--
+			jQuery(document).ready(function(){
+				/** Banner anzeigen und Hoehe anpassen
+				* Die Groeßen sind per CSS festgelegt. Alle Banner liegen in #banner.
+				*
+				* Wenn es Fehler beim Laden der Banner gibt und so kein a, embed oder object geladen wird, 
+				* wird das betroffene Element per jQuery entfernt.
+				* Wenn es min. einen Banner oben gibt (Leaderboard), maximale Hoehe der Banners speichern
+				* diese Hoehe dem #banner zuweisen. 
+				* 
+				* Für die Leaderboard-Banner den linken Abstand des ersten Banners bestimmen und hierzu 
+				* Breite * index + Abstand * index des aktuellen Banners addieren. 
+				* Diesen Wert als CSS: left der aktuellen Box zuweisen.
+				*
+				* Wenn es einen seitlichen Banner (Skyscraper) gibt, den Abstand des seitlichen Banners nach oben,
+				* um die gespeicherte Hoehe des oberen Banners vergrößern. Hoehe buendig zum Suchinputfeld #suchbegriff.
+				* 
+				* Am Ende die alle vorhandenen Banner einblenden.
+				*/
+				var topHeight = false;
+				
+				jQuery("#banner > div").each(function() {
+					if(jQuery(this).hasClass('top')){
+						var tmpHeight = jQuery(this).height();
+						if(tmpHeight > topHeight)
+							topHeight = tmpHeight;
+					}
+				});
+				
+				
+				var adContent = jQuery("#adLeaderBoardContent")
+				if ( !(adContent.children("a").length > 0 || adContent.children("div").children("a").length > 0 || adContent.children("embed").length > 0 || adContent.children("object").length > 0) ) {
+					adContent.remove();
+				} 
+				
+				// linker Abstand = wrapper Breite (988) - (Anzahl der Banner * Breite der Banner) (zb. 3 * 265 = 795) - Abstand zwischen den Bannern (Anzahl der Banner - 1) * 5px geteilt durch 2
+				var tempLeft = ((jQuery("#wrapper").width() - (jQuery("#banner > div.top").length * jQuery("#banner > div.top").innerWidth()) - ((jQuery("#banner > div.top").length - 1) * 5) ) / 2);
+				jQuery("#banner > div.top").each(function(index) {
+					var tmpW = tempLeft + (index * jQuery(this).innerWidth()) + (index * 5);
+					jQuery(this).css('left', tmpW);
+				});
+				if(topHeight){
+					jQuery(".side").css('top', topHeight + jQuery("#suchbegriff").position().top);
+					jQuery("#banner").height(topHeight);
+				}
+				jQuery("#banner > div").show();
+			});
+		
+			function removeBrokenAdds () {
+				jQuery("#banner > div").each(function() {
+					if ( !(jQuery(this).children("a").length > 0 || jQuery(this).children("div").children("a").length > 0 || jQuery(this).children("embed").length > 0 || jQuery(this).children("object").length > 0) ) {
+						jQuery(this).remove();
+					}				
+				});
+				jQuery(".sidebar .adSidebar").each(function() {
+					if ( !(jQuery(this).children("a").length > 0 || jQuery(this).children("div").children("a").length > 0 || jQuery(this).children("embed").length > 0 || jQuery(this).children("object").length > 0) ) {
+						jQuery(this).remove();
+					} 
+				});
+			};
+		
+			window.setTimeout("removeBrokenAdds()", 5000);
+
+		//-->
+	</script>
+</div>
+
+<div id="isLoadedAdServ" style="visibility:hidden;position:absolute;"></div>
+
+<style type="text/css">
+    /*FI-banner styles*/
+	#banner {
+		position:relative; 
+		width:994px; 
+		margin:0 auto; 
+		height:120px;
+	}
+    #banner > div {
+    	top: 0;
+    	position: absolute;
+    	overflow:hidden;
+    }
+    #banner div.top {
+    	width: 265px;
+    	height: 120px;
+    }
+    #banner div.fullLeaderboard {
+    	width: 728px;
+    	height: 90px;
+    }
+    #banner div#adTop1{
+    	left: 0px;
+    }
+    #banner div#adTop2{
+    	left: 270px;
+    }
+    #banner div#adTop3{
+    	left: 540px;
+    }
+    /*skyscraper*/
+	#banner div#adRight1 {
+    	height: 600px;
+    	width: 160px;
+    	right: -160px;
+    }
+    /*sidebar*/
+	.sidebar .adSidebar {
+		width:220px;
+		text-align:center !important;
+		margin-bottom:10px;
+	}
+    /*leaderBoardContent*/
+    #adLeaderBoardContent {
+    	width:728px;
+    	height:90px;
+    	padding:0 0 14px;
+    	overflow:hidden;
+    }
+</style><link rel="stylesheet" href="/obj/advanced/default/layout/css/categoriesCities.packed.css" type="text/css" media="screen" />
+
+<script src="/obj/advanced/default/layout/js/jquery.datepicker.packed.js" type="text/javascript"></script>
+<script src="/obj/advanced/default/layout/fi/js/jquery.datepicker.js" type="text/javascript"></script>
+<link rel="stylesheet" href="/obj/advanced/default/layout/css/jquery.datepicker.packed.css" type="text/css" media="screen" />
+
+<script type="text/javascript" language="javascript">
+<!--
+	// Text für die Nachricht beim Wunschlistenverschicken etc
+	var messages = {
+		toBeforeFrom: 'Loppupäivämäärä ei voi olla ennen alkupäivämäärää. '
+ 	};
+//-->
+</script>
+
+    <link rel="canonical" href="http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=city&fun=ortsliste&detailadoc=erdetaila&detailbdoc=evdetailb&ortId=119&nurbuchbar=true&tipps=yes" />
+
+
+
+
+</head>
+<body>
+
+<!-- Wrapper -->
+<div id="wrapper">
+	
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div id="banner">
+		
+		    																
+		
+							<div id='adRight1' class='side'>
+	<script type="text/javascript" language="JavaScript">
+	<!--
+	
+		if(!(window.denyAdserv || false)) {
+			document.write('<scr'+'ipt type="text/javascript" src="https://eas4.emediate.eu/eas?cu=8895;cre=mu;js=y;target=_blank"></scri'+'pt>');
+		} 
+	
+	//-->
+	</script>
+
+	<noscript>
+		<a target="_blank" href="https://eas4.emediate.eu/eas?cu=8895;ty=ct">
+			<img src="https://eas4.emediate.eu/eas?cu=8895;cre=img" border="0" alt="EmediateAd" />
+		</a>
+	</noscript>
+</div>			</div>
+	<script type="text/javascript">
+	<!--
+	jQuery("#banner > div").hide();
+	jQuery("#banner").css('height', '0');
+   	//-->
+    </script>
+
+
+<a name="top"></a>      
+	
+
+	
+	<!-- Header -->
+    
+
+
+	
+	
+
+	 <div id="header">  
+			<div id="oldLogo">
+		<a name="&lid=header_logo" href="tickets-konzertkarten.html?affiliate=ADV" title="Pääsyliput ja konserttiliput ">
+		 		
+
+
+		        
+        	            	<img src="/obj/advanced/default/layout/fi/img/logos/lippu_transparent.gif" width="187" height="111" alt="Pääsyliput ja konserttiliput " />
+                    		</a>
+    </div>
+	<div class="top">  
+		
+		<div id="logo">
+					</div>
+		
+					<h1 class="ticketsHeadline"><b>Liput tuhansiin tapahtumiin!</b> 
+						<br />Espoo 					
+</h1>
+				<div class="rightHead">  
+			<ul id="metaNav">
+				<li class="cart"><a href="Lippuja.html?affiliate=ADV&amp;doc=shoppingCart&amp;fun=wkb" title="Ostoskori" name="&lid=header_shoppingcart">Ostoskori <span id="shoppingCart">0</span></a></li>
+				
+																		
+<li class="myEventimLogin">
+		<a href="Lippuja.html?affiliate=ADV&amp;doc=feature/login" name="header_myeventim" onmouseover="javascript:if(((Eve || {}).DynamicLayers || false)) Eve.DynamicLayers.quickFx(this, { layerEl:'metaNavLogin', offsetY:2, offsetX:1, offsetElReference:'br', layerReference:'tr', triggerCss:'active', profile:'simpleLayer' });" title="Omat tietoni Kirjaudu sisään">
+		<span class="left">
+			<span class="txt1">Omat tietoni</span>
+			<span class="txt2"></span>
+			<span class="txt3">Kirjaudu sisään</span>
+		</span>
+	</a>
+</li>							</ul>   
+			
+										<div class="mods">
+					<div class="reset">	
+																		
+<div id="metaNavLogin" class="flyoutnavi" style="display:none;">
+		<!--<div id="mainNavPlaces" class="flyoutnavi">-->
+		
+	<div class="mods">
+		<div class="reset">
+			<div class="formulars">
+				<form autocomplete="off" action="https://secure.lippu.fi/tnl.dll" method="post" id="qlForm" class="ignoreBecauseLayer">
+						<input type="hidden" name="fun" value="customer" />
+						<input type="hidden" name="action" value="login" />
+						<input type="hidden" name="affiliate" value="ADV" />
+						<input type="hidden" name="id" value="ADV_NO_SESSION" />
+						<input type="hidden" name="doc" value="feature/login" />
+						<input type="hidden" name="errordoc" value="globalError" />
+						<input type="hidden" name="nextdoc" value="feature/login" />										
+						<div>
+							<label for="qlusername">Käyttäjätunnus tai e-mail</label>
+							<input name="username" id="qlusername" type="text" class="input required" alt="" />
+						</div>										
+						<div class="last">
+							<label for="qlpassword">Salasana</label>
+							<input type="password" name="password" id="qlpassword" class="input required" alt=""  />
+								
+			
+			
+			
+			
+			
+						
+		<span class="defSubmit ">
+			<input type="submit" value="Kirjaudu sisään" class="submit"  />
+		</span>
+				
+									</div>
+
+						<script type="text/javascript" language="javascript">
+						<!--									
+														jQuery(function() {										
+								if (!jQuery.browser.msie) return;										
+								jQuery('#qlpassword, #qlusername').keyup(function(e) {											
+									if ((e.keyCode || 0) == 13) jQuery('#qlForm').submit();
+								});
+							});									
+						//-->
+						</script>
+				</form>
+			</div>
+		</div>
+	</div>
+	<ul>
+		<li><a onclick="return xt_click(false, 'C', '3', 'Login::Forgotten Password', 'A');" href="Lippuja.html?affiliate=ADV&amp;doc=feature/forgotPassword" class="popupwindow" title="Käyttäjätunnus unohtunut?" target="_blank">Salasana unohtunut?</a></li>
+		<li><a href="Lippuja.html?affiliate=ADV&amp;doc=feature/customerRegistration" title="Rekisteröidy asiakkaaksemme" >Rekisteröidy asiakkaaksemme</a></li>
+	</ul>
+</div>
+					</div>
+				</div>
+					</div>
+		
+						
+<script type="text/javascript" language="javascript">
+<!--
+	
+			
+	// Sicherheitshalber einen Try-Catch-Handler drumbauen, dass wenn was schief geht, kein JavaScript-Fehler angezeigt wird.
+	try {
+	
+		var eveMetaNav = new MetaNavigation({
+		
+			'loginCode'                    : "<li class=\"my_eventimLoggedin\"><a href=\"Lippuja.html?affiliate=ADV&amp;doc=feature/login\" title=\"Omat tietoni Kirjaudu sisään\" name=\"header_myeventim_isLoggedIn\">Omat tietoni</a></li><li class=\"log\"><a href=\"Lippuja.html?affiliate=ADV&amp;doc=feature%2Flogout&amp;fun=tlogoff\" title=\"Kirjaudu ulos\" name=\"header_logout_isLoggedIn\">Kirjaudu ulos</a></li>",
+			'leafletSelector'              : "#metaNav .leaflet",
+			'loginSelector'                : "#metaNav .myEventimLogin",
+			'shoppincCartSpanSelector'     : "#metaNav #shoppingCart",
+			'bookmarkedEventsSpanSelector' : "#metaNav #notice"
+		});
+		
+	} catch(e) {};
+
+//-->
+</script>		
+			<div id="info">
+				
+			
+		<div class="eventcount">Joka vuosi <span>yli 16.000 tapahtumaa</span>, joista tänään <span class="pointer" onclick="window.location='Lippuja.html?affiliate=ADV&action=power&sort_direction=asc&fun=search&sort_by=evdatum&comefrom=search%2FextendedSearch&week=-3&doc=search%2Fsearch&isSent=true&detailadoc=erdetaila&fuzzy=yes&kudoc=artist&detailbdoc=evdetailb&suchbegriff=&kategorie=&ort=&venue=&zeit=am&von=11.02.2012&bis=11.02.2012&plzUmkreis=&umkreis=&land=';">116 tapahtumaa</span> .</div>
+	</div>
+		
+						
+	</div>
+	
+			   
+		<div id="language">
+						<a id="languageBtn" href="javascript:void(0);" class="current" onmouseover="javascript:if(((Eve || {}).DynamicLayers || false)) Eve.DynamicLayers.quickFx(this, { layerEl:'languageSelector', offsetY:1,  offsetX:2 , profile:'clickLayerBottom' });">Suomeksi</a>
+			<script type="text/javascript" language="javascript">
+				var requests = new Array();
+										  														requests['nurbuchbar']="true";
+												  														requests['sort_by']="event_datum";
+												  														requests['sort_direction']="asc";
+												  														requests['doc']="city";
+												  														requests['sort_by_resulttable']="event_datum";
+												  														requests['fun']="ortsliste";
+												  														requests['index_resulttable']="25";
+												  														requests['show_resulttable']="25";
+												  														requests['ortId']="119";
+												  						
+			function addHiddenForm(params) {
+				
+				var form = document.createElement("form");
+    			form.setAttribute("method", "post");
+    			form.setAttribute("action", "Lippuja.html");
+				form.setAttribute("id", "changeLocale");
+				
+			    for(var key in params) {
+			        var hiddenField = document.createElement("input");
+			        hiddenField.setAttribute("type", "hidden");
+			        hiddenField.setAttribute("name", key);
+			        hiddenField.setAttribute("value", params[key]);
+			        form.appendChild(hiddenField);
+			    }
+				
+				var languageField = document.createElement("input");
+		        languageField.setAttribute("type", "hidden");
+		        languageField.setAttribute("name", "language");
+		        languageField.setAttribute("id", "changeLocaleLanguage");
+		        form.appendChild(languageField);
+				
+				var affiliateField = document.createElement("input");
+		        affiliateField.setAttribute("type", "hidden");
+		        affiliateField.setAttribute("name", "affiliate");
+		        affiliateField.setAttribute("id", "changeLocaleAffiliate");
+		        form.appendChild(affiliateField);
+				
+				document.body.appendChild(form);
+			}
+			
+			
+			function changeLanguage(language, affiliate){
+				// Nachschauen ob die parameter, die an die Funktion uebergeben worden,
+				// auch wirklich nicht leer sind ..., andernfalls Abbruch.
+				if(!(language || false)) return false;
+				if(!(affiliate || false)) return false;
+			
+				console.log(requests);
+				//hidden inputs erzeugen
+				addHiddenForm(requests);
+				
+				// Formular ermitteln, wenn es das nicht gibt, Abbruch!
+				var tmpForm=document.getElementById("changeLocale") || false;
+				if(!tmpForm) return false;
+			
+				// language-Input ermitteln, wenn es das nicht gibt, Abbruch!
+				var tmpEl= document.getElementById("changeLocaleLanguage") || false;
+				if(!tmpEl) return false;
+		
+				// Affiliate-Input ermitteln, wenn es das nicht gibt, Abbruch!
+				var tmpAffiliate=document.getElementById("changeLocaleAffiliate") || false;
+				if(!tmpAffiliate) return false;
+			
+				// Die an die Funktion uebergebene Sprache im Input setzen ...
+				tmpEl.value = language;
+			
+				// Die an die Funktion uebergebene Affiliate im Input setzen ...
+				tmpAffiliate.value = affiliate;
+				
+				// Formular nun absenden!
+				tmpForm.submit();
+
+				// An den Link false also Abbruch des Clicks senden.
+				return false;		
+			};
+			</script>
+		
+						
+										<script language="javascript" type="text/javascript">
+				<!--
+										
+					var html = '<ul id="languageSelector" style="display: none; border:1px solid #fff !important; border-top:none;"><li onmouseover="changeColor(this);" onmouseout="changeColor(this);"><strong>Suomi</strong><ul><li><a class="languageLink" href="Lippuja.html?affiliate=ADV&language=fi" title="Lippupiste Suomeksi" rel="nofollow">Suomeksi</a></li>            <li><a class="languageLink" href="Lippuja.html?affiliate=ADV&language=sv" title="Lippupiste Svenska" rel="nofollow">Svenska</a></li>            <li><a class="languageLink" href="Lippuja.html?affiliate=ADV&language=en" title="Lippupiste English" rel="nofollow">English</a></li></ul></li>    <li><a class="languageLink" href="http://www.eventim.nl" title="EVENTIM Hollanti" target="_blank">Hollanti</a></li><li><a class="languageLink" href="http://www.eventim.bg  " title="EVENTIM Bulgaria" target="_blank">Bulgaria</a></li><li><a class="languageLink" href="http://www.eventim.co.uk" title="EVENTIM Englanti" target="_blank">Englanti</a></li><li><a class="languageLink" href="http://www.eventim.co.il" title="EVENTIM Israel" target="_blank">Israel</a></li><li><a class="languageLink" href="http://www.ticketone.it " title="EVENTIM Italia" target="_blank">Italia</a></li><li><a class="languageLink" href="http://www.oeticket.com " title="EVENTIM Itävalta" target="_blank">Itävalta</a></li><li><a class="languageLink" href="http://www.eventim.hr" title="EVENTIM Kroatia" target="_blank">Kroatia</a></li><li><a class="languageLink" href="http://www.eventim.pl" title="EVENTIM Puola" target="_blank">Puola</a></li><li><a class="languageLink" href="http://www.eventim.ro" title="EVENTIM Romania" target="_blank">Romania</a></li><li><a class="languageLink" href="http://www.eventim.se " title="EVENTIM Ruotsi" target="_blank">Ruotsi</a></li><li><a class="languageLink" href="http://www.eventim.de" title="EVENTIM Saksa" target="_blank">Saksa</a></li><li><a class="languageLink" href="http://www.eventim.rs" title="EVENTIM Serbia" target="_blank">Serbia</a></li><li><a class="languageLink" href="http://www.eventim.sk" title="EVENTIM Slovakia" target="_blank">Slovakia</a></li><li><a class="languageLink" href="http://www.eventim.si" title="EVENTIM Slovenia" target="_blank">Slovenia</a></li><li><a class="languageLink" href="http://www.ticketcorner.ch " title="TICKETCORNER Sveitsi" target="_blank">Sveitsi</a></li><li><a class="languageLink" href="http://www.eventim.cz" title="EVENTIM Tsekki" target="_blank">Tsekki</a></li><li><a class="languageLink" href="http://www.eventim.hu  " title="EVENTIM Unkari" target="_blank">Unkari</a></li><li><a class="languageLink" href="http://www.parter.ru " title="EVENTIM Venäjä" target="_blank" style="border-bottom:none;">Venäjä</a></li></ul>';
+					jQuery("#language").append(html);
+				-->
+				</script>
+				
+		</div>
+    	
+		<!-- New Navigation -->
+<div class="mods">
+	<div class="header reset">
+		<div class="headerNavigation">
+		
+						
+
+
+
+
+
+
+
+		
+		
+			
+						
+									
+							
+						
+						
+					
+							
+						
+									
+							
+						
+						
+					
+							
+						
+									
+							
+						
+						
+					
+							
+						
+									
+							
+						
+						
+					
+							
+						
+									
+							
+						
+						
+					
+							
+						
+									
+							
+						
+						
+					
+							
+						
+									
+							
+						
+						
+					
+						
+		
+		
+					
+				
+						
+						
+						
+												
+								
+												
+								
+												
+								
+															
+																
+						
+												
+								
+												
+								
+												
+								
+															
+																
+						
+												
+								
+												
+								
+												
+								
+																			
+						
+												
+								
+												
+								
+												
+								
+															
+																
+						
+												
+								
+												
+								
+												
+								
+																			
+						
+												
+																			
+						
+												
+																			
+			
+
+
+<div class="categories">
+
+		
+				
+		
+				
+			
+					
+				
+				
+				
+				
+				
+			    
+				
+				
+				
+				
+		<div class="dropdownBtn">
+					<a href="Lippuja.html?affiliate=ADV&amp;doc=categoryOverview" id="mainNavCategoriesLayerBtnId" onmouseover="javascript:if(((Eve || {}).DynamicLayers || false)) Eve.DynamicLayers.quickFx(this, { triggerCss:'active', layerEl:'mainNavCategoriesLayer', profile:'simpleLayer',offsetX:0, offsetY:5, depth:100, closeElements:'#mainNavCategoriesLayerBtnId', offsetEl : '' });" name='&lid=header_mainNav_categoryOverview'><span><span>Kaikki tapahtumat: teatteri, urheilu...</span></span></a>
+			</div>
+	
+			<div id="mainNavCategoriesLayer" class="" style="display:none;">
+		
+		
+		<div class="reset">
+			
+		
+					
+						
+		<div id="mainNavCategories" class="flyoutnavi jsClassForResize">
+			    			    				
+    				<ul>
+    					
+    					    					    						
+    						    						
+    						    						
+    						    						    						
+    						    						
+    						
+    						    						
+    						<li class="column first">
+    					
+    							    							    							
+    								    							
+    								    								
+    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    									
+    									    									    									    									
+    									    									    									    									
+    									    									    									    									
+										    									<h3><a  name="&lid=layerCategories_kategorie_42" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=42&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Konsertti</a></h3>
+    								
+    									<ul>
+    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_42_1A" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=42&amp;kategorieKuerzel=1A&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Festivaalit</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_42_1B" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=42&amp;kategorieKuerzel=1B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Klassinen musiikki</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_42_1C" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=42&amp;kategorieKuerzel=1C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Konsertti</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_42_1F" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=42&amp;kategorieKuerzel=1F&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Viihdekonsertti</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_42_1E" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=42&amp;kategorieKuerzel=1E&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Kansanmusiikki</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_42_1D" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=42&amp;kategorieKuerzel=1D&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Iskelmä- ja tanssimusiikki</a></li>
+    											    										    									</ul>
+    								</div>
+    							
+    								    								    								    								    								    								
+    								    							    						</li>
+    					    						
+    						    						
+    						    						
+    						    						    						
+    						    						
+    						
+    						    						
+    						<li class="column">
+    					
+    							    							    							
+    								    							
+    								    								
+    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    									
+    									    									    									    									
+    									    									    									    									
+    									    									    									    									
+										    									<h3><a  name="&lid=layerCategories_kategorie_43" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=43&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Kulttuuri, Teatteri</a></h3>
+    								
+    									<ul>
+    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_43_2A" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=43&amp;kategorieKuerzel=2A&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Baletti, tanssi</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_43_2D" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=43&amp;kategorieKuerzel=2D&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Ooppera, operetti</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_43_2C" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=43&amp;kategorieKuerzel=2C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Kulttuuritapahtuma</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_43_2B" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=43&amp;kategorieKuerzel=2B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Teatteri</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_43_2F" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=43&amp;kategorieKuerzel=2F&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Kesäteatteri</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_43_2E" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=43&amp;kategorieKuerzel=2E&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Farssi, satiiri</a></li>
+    											    										    									</ul>
+    								</div>
+    							
+    								    								    								    								    								    								
+    								    							    						</li>
+    					    						
+    						    						
+    						    						
+    						    						    						
+    						    						
+    						
+    						    						
+    						<li class="column">
+    					
+    							    							    							
+    								    							
+    								    								
+    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    									
+    									    									    									    									
+    									    									    									    									
+    									    									    									    									
+										    									<h3><a  name="&lid=layerCategories_kategorie_44" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=44&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Muu</a></h3>
+    								
+    									<ul>
+    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_44_3A" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=44&amp;kategorieKuerzel=3A&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Vapaa-aika</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_44_3B" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=44&amp;kategorieKuerzel=3B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Näyttely, messut</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_44_3C" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=44&amp;kategorieKuerzel=3C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Muu tapahtuma</a></li>
+    											    										    									</ul>
+    								</div>
+    							
+    								    								    								    								    								    								
+    								    							    							
+    								    							
+    								    								
+    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    									
+    									    									    									    									
+    									    									    									    									
+    									    									    									    									
+										    									<h3><a  name="&lid=layerCategories_kategorie_45" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=45&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Perhe</a></h3>
+    								
+    									<ul>
+    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_45" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=45&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Sirkus</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_45_4C" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=45&amp;kategorieKuerzel=4C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Lastentapahtuma</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_45_4B" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=45&amp;kategorieKuerzel=4B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Lastenmusiikki</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_45_4E" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=45&amp;kategorieKuerzel=4E&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Lasten- ja nukketeatteri</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_45_4D" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=45&amp;kategorieKuerzel=4D&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Huvipuistot</a></li>
+    											    										    									</ul>
+    								</div>
+    							
+    								    								    								    								    								    								
+    								    							    						</li>
+    					    						
+    						    						
+    						    						
+    						    						    						
+    						    						
+    						
+    						    						
+    						<li class="column">
+    					
+    							    							    							
+    								    							
+    								    								
+    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    									
+    									    									    									    									
+    									    									    									    									
+    									    									    									    									
+										    									<h3><a  name="&lid=layerCategories_kategorie_46" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=46&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Rock&amp;Pop</a></h3>
+    								
+    									<ul>
+    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_46_5B" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=46&amp;kategorieKuerzel=5B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Jazz&Blues</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_46_5A" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=46&amp;kategorieKuerzel=5A&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Hard Rock</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_46_5C" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=46&amp;kategorieKuerzel=5C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Rock&Pop</a></li>
+    											    										    									</ul>
+    								</div>
+    							
+    								    								    								    								    								    								
+    								    							    							
+    								    							
+    								    								
+    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    									
+    									    									    									    									
+    									    									    									    									
+    									    									    									    									
+										    									<h3><a  name="&lid=layerCategories_kategorie_48" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Urheilu</a></h3>
+    								
+    									<ul>
+    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_48_6C" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;kategorieKuerzel=6C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Jääkiekko</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_48_6A" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;kategorieKuerzel=6A&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Koripallo</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_48_6B" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;kategorieKuerzel=6B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Nyrkkeily</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_48_6E" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;kategorieKuerzel=6E&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Käsipallo</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_48_6D" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;kategorieKuerzel=6D&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Jalkapallo</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_48_6F" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;kategorieKuerzel=6F&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Muu urheilu</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_48_6J" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;kategorieKuerzel=6J&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Yleisurheilu</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_48_6I" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;kategorieKuerzel=6I&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Salibandy</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_48_6G" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=48&amp;kategorieKuerzel=6G&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Lentopallo</a></li>
+    											    										    									</ul>
+    								</div>
+    							
+    								    								    								    								    								    								
+    								    							    						</li>
+    					    						
+    						    						
+    						    						
+    						    						    						
+    						    						
+    						
+    						    						
+    						<li class="column">
+    					
+    							    							    							
+    								    							
+    								    								
+    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    									
+    									    									    									    									
+    									    									    									    									
+    									    									    									    									
+										    									<h3><a  name="&lid=layerCategories_kategorie_49" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Viihde, Komedia, Sho...</a></h3>
+    								
+    									<ul>
+    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_49_7B" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7B&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Kabaree</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_49_7A" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7A&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Komedia</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_49_7C" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7C&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Gaala</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_49_7E" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7E&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Revyy</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_49_7D" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7D&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Musikaali</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_49_7H" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7H&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Klubit</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_49_7G" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7G&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Kasino, pokeri</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_49_7F" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7F&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Show</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_49_7J" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7J&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Stand up</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a  name="&lid=layerCategories_kategorie_49_7I" href="Lippuja.html?affiliate=ADV&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;hkId=49&amp;kategorieKuerzel=7I&amp;nurbuchbar=true&amp;showFilter=yes&amp;tipps=yes">Ravintolaviihde</a></li>
+    											    										    									</ul>
+    								</div>
+    							
+    								    								    								    								    								    								
+    								    							    						</li>
+    					    				</ul>
+    								</div>
+		
+							</div>
+	</div>
+	</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+					
+		jQuery('#mainNavCategoriesLayerBtnId').mouseover(function() {
+	
+			if((this.resingColumnsDone || false)) return;
+		
+			// Hoehe bemessen
+			var tmpLayer = jQuery('.jsClassForResize').get(0);
+						
+			var tmpColumns = jQuery(tmpLayer).find('li.column').get() || [];
+			
+			jQuery(tmpColumns).css({ 'height' : 'auto' });
+			
+			var tmpBaseLayer = tmpLayer.parentNode.parentNode.parentNode || false;
+			
+			jQuery(tmpColumns).height(jQuery(tmpBaseLayer).height() + 10);
+			
+			// Breite der Spalten messen
+			var tmpWidth = jQuery(tmpBaseLayer).width() - 1;
+			
+			var tmpColumnsWidth = Math.floor(tmpWidth / tmpColumns.length);
+			
+			for(var i = 0; i < tmpColumns.length; i++) {
+				
+				if(tmpColumnsWidth > tmpWidth) tmpColumnsWidth = tmpWidth;
+				
+				jQuery(tmpColumns[i]).width(tmpColumnsWidth);
+				
+				tmpWidth -= tmpColumnsWidth;
+			}
+			
+			this.resingColumnsDone = true;
+			
+		}.defer(10));
+			
+		
+//-->
+</script>  
+
+			
+						<div class="cities w122">
+
+	
+					
+			
+	
+				
+				
+				
+				
+				
+			    
+				
+				
+				
+				
+		<div class="dropdownBtn">
+					<a href="Lippuja.html?affiliate=ADV&amp;doc=cityOverview" id="mainNavCitiesLayerBtnId" onmouseover="javascript:if(((Eve || {}).DynamicLayers || false)) Eve.DynamicLayers.quickFx(this, { triggerCss:'active', layerEl:'mainNavCitiesLayer', profile:'simpleLayer',offsetX:0, offsetY:5, depth:100, closeElements:'#mainNavCitiesLayerBtnId', offsetEl : '' });" name='&lid=header_mainNav_cityOverview'><span><span>Paikkakunta</span></span></a>
+			</div>
+	
+			<div id="mainNavCitiesLayer" class="" style="display:none;">
+		
+		
+		<div class="reset">
+			
+						
+		<div id="mainNavPlaces" class="flyoutnavi">
+			
+									<ul>
+						
+								
+									 <li class="first"><div onmouseover="setOver(this);" onmouseout="setOver(this);"><ul>
+    									
+										
+					<li><a name="&lid=header_layerCities_ortId_119" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=119&amp;tipps=yes">Espoo</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_22" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=22&amp;tipps=yes">Helsinki</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_114" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=114&amp;tipps=yes">Jyväskylä</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_132" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=132&amp;tipps=yes">Kajaani</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_139" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=139&amp;tipps=yes">Kotka</a></li>
+					    				</ul></div></li>									<li><div onmouseover="setOver(this);" onmouseout="setOver(this);"><ul>
+    									
+										
+					<li><a name="&lid=header_layerCities_ortId_140" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=140&amp;tipps=yes">Kouvola</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_175" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=175&amp;tipps=yes">Kuopio</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_142" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=142&amp;tipps=yes">Lahti</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_143" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=143&amp;tipps=yes">Lappeenranta</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_115" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=115&amp;tipps=yes">Oulu</a></li>
+					    				</ul></div></li>									<li><div onmouseover="setOver(this);" onmouseout="setOver(this);"><ul>
+    									
+										
+					<li><a name="&lid=header_layerCities_ortId_116" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=116&amp;tipps=yes">Pori</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_117" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=117&amp;tipps=yes">Savonlinna</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_112" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=112&amp;tipps=yes">Tampere</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_113" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=113&amp;tipps=yes">Turku</a></li>
+					    																		
+										
+					<li><a name="&lid=header_layerCities_ortId_118" href="Lippuja.html?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true&amp;ortId=118&amp;tipps=yes">Vantaa</a></li>
+					    				</ul></div></li>							</ul>
+						
+			<div class="mods">
+				<div class="reset">
+					<div class="formulars">
+	<form action="Lippuja.html?affiliate=ADV" method="get" class="ignoreBecauseLayer">
+		<input type="hidden" name="affiliate" value="ADV" />
+		<input type="hidden" name="fun" value="search" />
+		<input type="hidden" name="action" value="power" />
+		<input type="hidden" name="doc" value="search/search" />
+		<input type="hidden" name="sort_by" value="evdatum" />
+		<input type="hidden" name="fuzzy" value="yes" />
+		<input type="hidden" name="detailadoc" value="erdetaila" />
+		<input type="hidden" name="detailbdoc" value="evdetailb" />
+		<input type="hidden" name="kudoc" value="artist" />
+				<input type="hidden" name="land" value="FI" />
+		<label>Etsi paikkakunta</label>
+		
+						<div >
+			<input type="text" name="plzOrt" class="input required" alt="Postinumero/paikkakunta" value="" />
+				
+			
+			
+			
+			
+			
+						
+		<span class="defSubmit ">
+			<input type="submit" value="Etsi" class="submit"  />
+		</span>
+				
+					</div>
+	
+	</form>
+	
+	</div>				</div>
+			</div>
+		</div>
+
+			</div>
+	</div>
+</div>			
+									
+								
+				<script type="text/javascript" language="javascript">
+<!--    	
+	
+jQuery(function() {	
+	
+	function log(event, data, formatted) {
+		jQuery("<li>").html( !data ? "No match!" : "Selected: " + formatted).appendTo("#result");
+	}
+	
+	function formatItem(row) {
+		return row[0] + " (<strong>id: " + row[1] + "</strong>)";
+	}
+	function formatResult(row) {
+		return row[0].replace(/(<.+?>)/gi, '');
+	}
+
+	jQuery("#suchbegriff").autocomplete("suggestionSearch.html?affiliate=ADV&fun=search&action=suggestion&doc=search/issuance/suggestion&fuzzy=yes", {
+			max: 8,
+			minChars: 2,
+			width: eval(jQuery("#suchbegriff").width()+14),    			
+			scroll: false,
+			selectFirst: false,
+			matchSubset: false,
+			suggestHeaderTitle: 'Hakuehdotukset'
+
+
+	});
+	
+	jQuery("#suchbegriff").result(function(event, data, formatted){		
+		if (data) {
+				$(this).parent().next().find("input").val(data[1]);		
+				$(this).closest("form").submit();		
+		}
+	});
+		
+	
+});
+
+//-->
+</script>
+<div class="quickSearch notToBePrinted">
+	<form class="last" action="Lippuja.html?affiliate=ADV" method="get" name="search">
+		<input type="hidden" name="affiliate" value="ADV" />
+		<input type="hidden" name="fun" value="search" />
+		<input type="hidden" name="action" value="search" />
+		<input type="hidden" name="doc" value="search/search" />
+		<input type="hidden" name="detailadoc" value="erdetaila" />
+		<input type="hidden" name="detailbdoc" value="evdetailb" />
+		<input type="hidden" name="kudoc" value="artist" />
+		<input type="hidden" name="sort_by" value="score" />		<input type="hidden" name="sort_direction" value="desc" />
+		<input type="hidden" name="fuzzy" value="yes" />
+		<fieldset class="last">
+			<div class="quickSearchInput">
+				
+													<a class="next nextLight" href="Lippuja.html?affiliate=ADV&amp;doc=search/extendedSearch&amp;fun=search&amp;action=power&amp;show=form" name="&lid=header_extSearch">Laajennettu haku</a>
+								
+				<br />
+				
+							    <input type="text" id="suchbegriff" class="input required" alt="Etsi esiintyjiä ja tapahtumia" name="suchbegriff" value=""/>
+			</div>
+			
+			<div class="quickSearchBtn">
+					
+			
+			
+			
+			
+			
+						
+		<span class="defSubmit defSubmitInherit floatRight">
+			<input type="submit" value="Etsi" class="submit"  />
+		</span>
+				
+						</div>
+		</fieldset>
+	</form>
+</div>					
+						
+			<div class="clearFloat"></div>                      
+		</div>
+	</div>
+</div>   	</div>
+	<!-- /Header -->
+		<a name="content"></a>
+	
+	<div id="content">
+		
+			
+	
+																													
+
+
+
+
+
+
+
+	
+
+
+
+		
+
+
+
+	<div id="main"><!-- mainCat -->
+	
+
+
+			
+					
+					<div id="filter" class="flyoutnavi threeFilters">
+								
+				<!-- <p class="intro">city.eventStatistik</p> -->
+				<h2 class="eventsIn">
+									Tapahtumat Espoo
+								</h2>
+				
+								
+				
+										
+										
+			<ul class="filter">
+								<!-- CATEGORY -->
+				<li>
+					<p>Valitse tapahtuma</p>
+															<a href="javascript:void(0);" class="eveJs" id="btnfilterKat" rel="{ 'Eve.DynamicLayers' : { triggerCss:'active', layerEl:'filterKat', profile:'openOnlyByClickLayer', offsetY:10, closeElements:'#filterKat .close, #btnfilterKat', depth:100 } }">Kaikki</a>
+				</li>
+				
+				<!-- VENUE -->
+				<li class="current">
+					<p>Tapahtumapaikka</p>
+															<a href="javascript:void(0);" class="eveJs" id="filterVerBtn" rel="{ 'Eve.DynamicLayers' : { triggerCss:'active', layerEl:'filterVer', profile:'openOnlyByClickLayer', offsetY:10, closeElements:'#filterVer .close, #filterVerBtn', depth:100 } }">Kaikki</a>
+				</li>
+				
+				<!--Beginn Zeitraum wählen-->
+				<li>
+					<p>Valitse aika</p>
+															<a href="javascript:void(0);" class="eveJs" id="filterZeiBtn" rel="{ 'Eve.DynamicLayers' : { triggerCss:'active', layerEl:'filterZei', profile:'openOnlyByClickLayer', offsetY:10, closeElements:'#filterZei .close, #filterZeiBtn', depth:100, ignoreElements:'dp-popup' } }">Kaikki</a>
+				</li>
+				<!--Ende Zeitraum wählen-->							</ul>
+			
+			<script language="javascript" type="text/javascript">	
+					// changing the background of the filter box
+					// by click on the "search by artist name"							
+					function checkClass(){	
+						if(jQuery("#eventSearchContainerBtn").attr("class") == "eveJsDone"){							
+							jQuery("#filter").css('background','transparent url(/obj/advanced/default/layout/img/backgrounds/filter_trans_milky_white.png) no-repeat scroll 0 0');						
+						}else{
+							jQuery("#filter").css('background','transparent url(/obj/advanced/default/layout/img/backgrounds/filter_trans_milky.png) no-repeat scroll 0 0');
+						}
+					}				
+			</script>
+			
+									
+						
+				
+																																																								
+						
+				
+																																																								
+						
+																								
+
+
+
+		
+		
+			
+						
+									
+							
+						
+						
+					
+							
+						
+									
+							
+						
+						
+					
+							
+						
+									
+							
+						
+						
+					
+							
+						
+									
+							
+						
+						
+					
+							
+						
+									
+							
+						
+						
+					
+							
+						
+									
+							
+						
+						
+					
+							
+						
+									
+							
+						
+						
+					
+						
+		
+		
+					
+				
+						
+						
+						
+												
+								
+												
+								
+												
+								
+																			
+						
+												
+								
+												
+								
+												
+								
+																			
+						
+												
+								
+												
+								
+												
+								
+															
+																
+						
+												
+								
+												
+								
+												
+								
+																			
+						
+												
+																			
+						
+												
+																			
+						
+												
+																			
+						
+				<div id="filterKat" class="filterLayer flyoutnavi" style="display: none;">
+					<div class="head">
+						<h2><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true" onmouseover="highlightHeadline(this);" onmouseout="highlightHeadline(this);">Kaikki kategoriat</a></h2>
+						<a href="javascript:void(0);" class="close"><span>sulje</span></a>
+					</div>
+					
+														
+						<ul class="columnsContainer">
+						
+																				
+								<li class="column  first">
+									
+																		
+																		
+																											
+																				
+																				
+										<div>
+											
+																																												
+											<h3><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=42&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Konsertti</a></h3>
+											
+											<ul>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=42&amp;kategorie=1A&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Festivaalit</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=42&amp;kategorie=1B&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Klassinen musiikki</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=42&amp;kategorie=1C&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Konsertti</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=42&amp;kategorie=1F&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Viihdekonsertti</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=42&amp;kategorie=1E&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Kansanmusiikki</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=42&amp;kategorie=1D&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Iskelmä- ja tanssimusiikki</a></li>
+																							</ul>
+										</div>
+																		
+																				
+																				
+										<div>
+											
+																																												
+											<h3><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=43&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Kulttuuri, Teatter...</a></h3>
+											
+											<ul>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=43&amp;kategorie=2A&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Baletti, tanssi</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=43&amp;kategorie=2D&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Ooppera, operetti</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=43&amp;kategorie=2C&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Kulttuuritapahtuma</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=43&amp;kategorie=2B&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Teatteri</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=43&amp;kategorie=2F&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Kesäteatteri</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=43&amp;kategorie=2E&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Farssi, satiiri</a></li>
+																							</ul>
+										</div>
+																		
+																				
+																				
+										<div>
+											
+																																												
+											<h3><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=44&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Muu</a></h3>
+											
+											<ul>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=44&amp;kategorie=3A&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Vapaa-aika</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=44&amp;kategorie=3B&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Näyttely, messut</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=44&amp;kategorie=3C&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Muu tapahtuma</a></li>
+																							</ul>
+										</div>
+																		
+									<div class="clearFloat"></div>
+								</li>
+													
+								<li class="column ">
+									
+																		
+																		
+																											
+																				
+																				
+										<div>
+											
+																																												
+											<h3><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=45&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Perhe</a></h3>
+											
+											<ul>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=45&amp;kategorie=4A&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Sirkus</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=45&amp;kategorie=4C&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Lastentapahtuma</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=45&amp;kategorie=4B&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Lastenmusiikki</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=45&amp;kategorie=4E&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Lasten- ja nukketeatteri</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=45&amp;kategorie=4D&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Huvipuistot</a></li>
+																							</ul>
+										</div>
+																		
+																				
+																				
+										<div>
+											
+																																												
+											<h3><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=46&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Rock&amp;Pop</a></h3>
+											
+											<ul>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=46&amp;kategorie=5B&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Jazz&Blues</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=46&amp;kategorie=5A&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Hard Rock</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=46&amp;kategorie=5C&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Rock&Pop</a></li>
+																							</ul>
+										</div>
+																		
+									<div class="clearFloat"></div>
+								</li>
+													
+								<li class="column ">
+									
+																		
+																		
+																											
+																				
+																				
+										<div>
+											
+																																												
+											<h3><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=48&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Urheilu</a></h3>
+											
+											<ul>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=48&amp;kategorie=6C&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Jääkiekko</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=48&amp;kategorie=6A&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Koripallo</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=48&amp;kategorie=6B&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Nyrkkeily</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=48&amp;kategorie=6E&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Käsipallo</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=48&amp;kategorie=6D&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Jalkapallo</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=48&amp;kategorie=6F&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Muu urheilu</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=48&amp;kategorie=6J&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Yleisurheilu</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=48&amp;kategorie=6I&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Salibandy</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=48&amp;kategorie=6G&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Lentopallo</a></li>
+																							</ul>
+										</div>
+																		
+									<div class="clearFloat"></div>
+								</li>
+													
+								<li class="column ">
+									
+																		
+																		
+																											
+																				
+																				
+										<div>
+											
+																																												
+											<h3><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=49&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Viihde, Komedia, S...</a></h3>
+											
+											<ul>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=49&amp;kategorie=7B&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Kabaree</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=49&amp;kategorie=7A&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Komedia</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=49&amp;kategorie=7C&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Gaala</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=49&amp;kategorie=7E&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Revyy</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=49&amp;kategorie=7D&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Musikaali</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=49&amp;kategorie=7H&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Klubit</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=49&amp;kategorie=7G&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Kasino, pokeri</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=49&amp;kategorie=7F&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Show</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=49&amp;kategorie=7J&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Stand up</a></li>
+																									<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;hkId=49&amp;kategorie=7I&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Ravintolaviihde</a></li>
+																							</ul>
+										</div>
+																		
+									<div class="clearFloat"></div>
+								</li>
+														<div class="clearFloat"></div>
+						</ul>
+						
+						<div class="clearFloat"></div>
+									</div>
+				
+				<script type="text/javascript" language="javascript">
+				<!--
+				
+					var setupSmallCatLayer = function() {
+					
+						var tmpLayer, messerureElement, tmpColumns, smallCatLayerBtn;
+						
+						if(!(smallCatLayerBtn = jQuery('#btnfilterKat').get(0) || false)) return;
+						
+						// Erster Event ohne Verzoegerung, Layer nur durchsichtig machen, damit man die vorzunehmende
+						// Anpassung nicht sieht.
+						jQuery(smallCatLayerBtn).bind('mouseup', function() {
+						
+							// Wurde die Hoehe schon berechnet, dann abbrechen.
+							if((smallCatLayerBtn.resingColumnsDone || false)) return true;
+						
+							if(!(tmpLayer = jQuery('#filterKat').get(0) || false)) return;
+							
+							// Layer durchsichtig, nicht unsichtbar - also weg - machen!
+							jQuery(tmpLayer).css({ 'visibility' : 'hidden' });
+						});
+							
+						jQuery(smallCatLayerBtn).bind('mouseup', function() {
+							
+							// Wurde die Hoehe schon berechnet, dann abbrechen.
+							if((smallCatLayerBtn.resingColumnsDone || false)) return true;
+							
+							var tmpLayer, messerureElement, tmpColumns;
+						
+							if(!(tmpLayer = jQuery('#filterKat').get(0) || false)) return;
+							if(!(messerureElement = jQuery(tmpLayer).find('ul.columnsContainer').get(0) || false)) return;
+							if(!(tmpColumns = jQuery(tmpLayer).find('li.column').get() || false)) return;
+							
+							// Hoehe auf "automatisch" stellen, damit sich der Layer der Hoehe seines Inhaltes anpassen kann.
+							jQuery(tmpLayer).css({ 'height' : 'auto' });
+							
+							// Hoehe auf "automatisch" stellen, damit die durch die Elemente selbst erzeugte Hoehe gemessen werden kann.
+							jQuery(tmpColumns).css({ 'height' : 'auto' });
+							
+							// Hoehe der Columns nun auf die gemessene Hoehe des Messelements setzen.
+							jQuery(tmpColumns).height(jQuery(messerureElement).height());
+							
+							var tmpWidth = 0;
+							
+							// Breite aller Columns messen, dabei +1 Pixel fuer Rahmen einkalkulieren
+							jQuery(tmpColumns).each(function() { tmpWidth += jQuery(this).width() + 1; });
+							
+							// Layerbreite setzen und sichtbar machen!
+							jQuery(tmpLayer).width(tmpWidth)
+							
+							jQuery(tmpLayer).css({ 'visibility' : 'visible' });
+							
+							smallCatLayerBtn.resingColumnsDone = true;
+							
+						}.defer(10));
+					};
+					
+					setupSmallCatLayer();
+					
+				//-->
+				</script>
+						
+			
+						
+				
+																																																											
+			<div id="filterVer" class="filterLayer" style="display: none;">
+				<div class="head">
+					<h2><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true" onmouseover="highlightHeadline(this);" onmouseout="highlightHeadline(this);">Kaikki esityspaikat</a></h2>
+					<a href="javascript:void(0);" class="close"><span>sulje</span></a>
+				</div>
+				<ul class="staetten">
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Alberga%2C+Sokerilinnantie+7&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Alberga, Sokerilinnantie 7</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Barona+Areena&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Barona Areena</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Barona+Areena%2C+Espoo&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Barona Areena, Espoo</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Cafe+Louhi%2C+Kaupinkalliontie+10%2C+Tapiola&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Cafe Louhi, Kaupinkalliontie 10, Tapiola</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Dipoli%2C+Otakaari+24%2C+Espoo&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Dipoli, Otakaari 24, Espoo</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Espoo+Barona+Areena&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Espoo Barona Areena</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Espoo+Camping+Oittaa&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Espoo Camping Oittaa</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Espoonkartano&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Espoonkartano</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Espoon+Kaupunginteatteri&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Espoon Kaupunginteatteri</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Espoon+tuomiokirkko&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Espoon tuomiokirkko</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Espoon+tuomiokirkko+Kirkkopuisto+5+Espoo&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Espoon tuomiokirkko Kirkkopuisto 5 Espoo</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Gallen-Kallelan+museo&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Gallen-Kallelan museo</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Joukola%2C+Espoon+kulttuurikeskus&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Joukola, Espoon kulttuurikeskus</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Kannusillan+teatterisali&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Kannusillan teatterisali</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Kannusillan+teatterisali%2C+Espoo&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Kannusillan teatterisali, Espoo</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Lagstadin+kotiseutumuseo%2C+Espoo&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Lagstadin kotiseutumuseo, Espoo</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Lagstadin+kotiseututalo%2C+Espoo&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Lagstadin kotiseututalo, Espoo</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Louhisali%2C+Espoon+kulttuurikeskus&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Louhisali, Espoon kulttuurikeskus</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=LOUHISALI%2C+Espoon+Kulttuurikeskus&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">LOUHISALI, Espoon Kulttuurikeskus</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Louhisali%2C+Kaupinkalliontie+10%2C+Tapiola&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Louhisali, Kaupinkalliontie 10, Tapiola</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Parkvilla%2C+Parkvillanpolku+4&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Parkvilla, Parkvillanpolku 4</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Revontulihalli%2C+Revontulentie+8%2C+Tapiola&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Revontulihalli, Revontulentie 8, Tapiola</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=REVONTULIHALLI%2C+TAPIOLA&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">REVONTULIHALLI, TAPIOLA</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Revontulihallin+l%C3%A4mpi%C3%B6&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Revontulihallin lämpiö</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Sellosalen%2C+Alberga+Musikantplatsen&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Sellosalen, Alberga Musikantplatsen</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Sellosali%2C+Lepp%C3%A4vaara+Soittoniekanaukio&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Sellosali, Leppävaara Soittoniekanaukio</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Sellosali%2C+Lepp%C3%A4vaara+Soittoniekanaukio&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Sellosali, Leppävaara Soittoniekanaukio</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Tapiolan+kirkko%2C+Kirkkopolku+6+Espoo&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Tapiolan kirkko, Kirkkopolku 6 Espoo</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Tapiolan+urheiluhalli+Urheilupuistontie2&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Tapiolan urheiluhalli Urheilupuistontie2</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Tapiolasalen%2C+Esbo+kulturcentrum&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Tapiolasalen, Esbo kulturcentrum</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Tapiolasali%2C+Espoon+kulttuurikeskus&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Tapiolasali, Espoon kulttuurikeskus</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Tapiolasali%2C+Espoon+kulttuurikeskus&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Tapiolasali, Espoon kulttuurikeskus</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Tapiolasali%2C+Espoon+kulttuurikeskus&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Tapiolasali, Espoon kulttuurikeskus</a></li>
+											<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;venue=Villa+Elfvik%2C+Elfvikintie+4%2C+Espoo&amp;sort_by=event_name1&amp;sort_direction=asc&amp;nurbuchbar=true">Villa Elfvik, Elfvikintie 4, Espoo</a></li>
+									</ul>
+			</div>
+						
+				
+																																															
+			<div id="filterZei" class="filterLayer" style="display: none;">
+				<div class="head">
+					<h2><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_datum&amp;sort_direction=asc&amp;nurbuchbar=true" onmouseover="highlightHeadline(this);" onmouseout="highlightHeadline(this);">Kaikki tapahtumat</a></h2>
+					<a href="javascript:void(0);" class="close"><span>sulje</span></a>
+				</div>
+				<ul class="daten">
+					<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;diesesWochenende=yes&amp;sort_by=event_datum&amp;sort_direction=asc&amp;nurbuchbar=true">Tänä viikonloppuna</a></li>
+					<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;naechstesWochenende=yes&amp;sort_by=event_datum&amp;sort_direction=asc&amp;nurbuchbar=true">Ensi viikonloppu</a></li>
+					<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;nextDays=7&amp;sort_by=event_datum&amp;sort_direction=asc&amp;nurbuchbar=true">Seuraavat 7 päivää</a></li>
+					<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;nextDays=14&amp;sort_by=event_datum&amp;sort_direction=asc&amp;nurbuchbar=true">Seuraavat 14 päivää</a></li>
+				</ul>
+				
+				<div class="clearFloat"></div>
+				
+				<h4>Aikavyöhyke</h4>
+				
+																<form action="Lippuja.html" method="get" class="testFormRange ignoreBecauseLayer">
+					<input type="hidden" name="sort_direction" value="asc" />
+					<input type="hidden" name="sort_by" value="event_datum" />
+	                <input type="hidden" name="nurbuchbar" value="true">
+							
+		
+		
+					
+											<input type="hidden" id="affiliate" name="affiliate" value="ADV"  />												<input type="hidden" id="doc" name="doc" value="city"  />												<input type="hidden" id="fun" name="fun" value="ortsliste"  />												<input type="hidden" id="detailadoc" name="detailadoc" value="erdetaila"  />												<input type="hidden" id="detailbdoc" name="detailbdoc" value="evdetailb"  />							
+																														<input type="hidden" id="ortId" name="ortId" value="119"  />																									<div>
+						<fieldset>
+							<label for="start-date">alk.</label>
+																					<input id="start-date" name="von" type="text" value="" class="input" />
+													</fieldset>
+						<fieldset>
+							<label for="end-date">päättyy</label>
+							<input id="end-date" name="bis" type="text" value="" class="input" />
+													</fieldset>
+						
+						<script type="text/javascript" language="javascript">
+						/* <![CDATA[ */
+							
+							// Den Inhalt dieser Funktion zeitverzoegert ausfuehren, da Inhalte von Layern geklont
+							// und an anderer Stelle des DOM-Trees wieder eingefuegt werden - inkl. des JavaScripts,
+							// welches dann ein zweites Mal ausgefuehrt wird - bevor die Vorlage fuer den Layer
+							// entfernt wurde. Waere keine Verzoegerung vorhanden, waere zweimal die gleiche ID
+							// vorhanden und evtl. automatisierte Prozesse konnten vorher nicht durchgefuehrt werden.
+							(function() {
+							
+								jQuery('.testFormRange').each(function() {
+								
+									// Solange das Formular noch die css-Klasse "ignoreBecauseLayer" inne hat, wurde der
+									// Layer noch nicht erstellt, bei dem automatisch diese CSS-Klasse entfernt werden wuerde.
+									if(jQuery(this).hasClass('ignoreBecauseLayer')) return;
+							
+									// "Am" und "Bis"-Inputs mit Datepicker belegen.
+									var initializePeriodDatepicker = function(el) {
+										
+										jQuery(el).datepicker({
+										
+											showOtherMonths : true,
+											minDate         : new Date(),
+											showAnim        : (jQuery.browser.msie) ? 'show' : 'fadeIn',
+											duration        : (jQuery.browser.msie) ? '' : 'normal',
+											yearRange       : (new Date()).getFullYear() + ':' + ((new Date()).getFullYear() + 2 ),
+											closeAtTop      : false,
+											beforeShow      : function(input) { 
+												
+												/** Layer per CSS mitteilen, dass er nicht zuklappen darf, wenn ins Datepicker geklickt wird. */
+												var tmpLayer = jQuery('#filterZei').get(0);
+												tmpLayer.cssLocks = (tmpLayer.cssLocks || 0) + 1;
+												jQuery(tmpLayer).addClass('eveJsDynamicLayersLocked');
+												
+												/** Berechnen welche Min/Max Werte im Datepicker erlaubt sind. */
+												return calculatePeriodRange(input);
+											},
+											
+											onClose         : function() { 
+											
+												/** Layer per CSS mitteilen, dass er nicht zuklappen darf, wenn ins Datepicker geklickt wird. */
+												var tmpLayer = jQuery('#filterZei').get(0);
+												tmpLayer.cssLocks = (tmpLayer.cssLocks || 0) - 1;
+												if(tmpLayer.cssLocks <= 0) jQuery('#filterZei').removeClass('eveJsDynamicLayersLocked');
+											},
+											
+											changeFirstDay  : false
+										});
+										
+										//jQuery(this).datepicker("show");
+									};
+							
+									var calculatePeriodRange = function(input) { 
+										
+										var now = new Date();
+											
+										var fromEl    = jQuery("#start-date").get(0) || false;
+										var fromDate  = jQuery(fromEl).datepicker("getDate");
+										var fromValue = fromEl.value || '';
+										
+																				var toEl    = jQuery("#end-date").get(0) || false;
+										var toDate  = jQuery(toEl).datepicker("getDate");
+										var toValue = toEl.value || '';
+										
+										// Wenn das aktuelle Input das "von"-Input ist, dann darf kein hoeheres Datum ausgewaehlt werden,
+										// als im "bis"-Input angegeben (ist kein "bis"-Datum angegeben, dann gibt es keine
+										// Beschraenkungen). Wichtig: Wenn das "bis"-Feld nicht genutzt wird, darf es logischer weise keine
+										// Beschraenkung geben.
+										// Weiterhin darauf achten, dass wenn das Input einen Wert hat, dass "Auswahl aufheben" moeglich ist,
+										// dazu wird mandatory auf false gesetzt, damit der Knopf sichtbar wird.
+										var isMandatory = ((input.value || '') == '') ? true : false ;
+										
+										if (input.id == 'start-date') {
+										
+											return { mandatory : isMandatory, minDate : now, maxDate : ((toValue == '') ? null : toDate ) };
+											
+										} else {
+										
+											return { mandatory : isMandatory, minDate : ((fromValue == '') ? now : fromDate ), maxDate : null };
+										}
+									};
+									
+																											
+									jQuery('#start-date,#end-date').each(function() {
+							
+									initializePeriodDatepicker(this);
+									
+								});
+								
+								jQuery(this).bind('submit', function(e) {
+								
+									var fromEl    = jQuery("#start-date").get(0) || false;
+									var toEl    = jQuery("#end-date").get(0) || false;
+									
+									if(!fromEl || !toEl) return;
+									
+									var fromDate  = jQuery(fromEl).datepicker("getDate") || false;
+									var toDate    = jQuery(toEl).datepicker("getDate") || false;
+									
+									if(!fromDate || !toDate) return;
+									
+									if(fromDate > toDate){
+									
+										window.alert(messages.toBeforeFrom);
+										
+										return false;
+									}
+								});
+							});
+							
+						}.defer(100))();
+							
+						/* ]]> */
+						</script>
+						
+													
+			
+			
+			
+			
+			
+						
+		<span class="defSubmit filterZeiButton">
+			<input type="submit" value="Etsi" class="submit"  />
+		</span>
+				
+								</div>
+				</form>
+				
+				<div class="clearFloat"></div>
+			</div>
+						
+										
+			<p id="searchFormBtn" ><a href="javascript:void(0);" onclick="openAlphabet(); this.blur();">Etsi esiintyjän <br /> nimellä</a></p>
+			<div id="eventSearchContainer" style="display:none;">
+						<div id="eventSearch">
+					<form action="Lippuja.html" method="post">
+								
+		
+		
+					
+											<input type="hidden" id="sort_by" name="sort_by" value=""  />												<input type="hidden" id="sort_direction" name="sort_direction" value="asc"  />												<input type="hidden" id="fuzzy" name="fuzzy" value="yes"  />												<input type="hidden" id="affiliate" name="affiliate" value="ADV"  />												<input type="hidden" id="fun" name="fun" value="ortsliste"  />												<input type="hidden" id="doc" name="doc" value="city"  />												<input type="hidden" id="detailadoc" name="detailadoc" value="erdetaila"  />												<input type="hidden" id="detailbdoc" name="detailbdoc" value="evdetailb"  />							
+																<input type="hidden" id="ortId" name="ortId" value="119"  />																																<input type="text" class="input" name="suchbegriff" onfocus="clearInput('Etsi esiintyjällä/tapahtumalla', this);" onblur="fillInput('Etsi esiintyjällä/tapahtumalla', this);" value="Etsi esiintyjällä/tapahtumalla" />
+												<input type="image" class="imageInput" src="/obj/advanced/default/layout/img/elements/form_arrow.gif" />
+					</form>
+					<h3>Esiintyjät/tapahtumat aakkosjärjestyksessä</h3>
+					
+					<ul class="alphabet">						
+																			<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=A">A</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=B">B</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=C">C</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=D">D</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=E">E</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=F">F</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=G">G</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=H">H</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=I">I</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=J">J</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=K">K</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=L">L</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=M">M</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=N">N</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=O">O</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=P">P</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=Q">Q</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=R">R</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=S">S</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=T">T</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=U">U</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=V">V</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=W">W</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=X">X</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=Y">Y</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=Z">Z</a></li>
+													<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;field_range=event_datum&amp;nurbuchbar=true&amp;range=0-9" class="wide">0-9</a></li>
+											</ul>
+				</div>
+			</div>
+						
+			
+			<div class="clearFloat"></div>
+		</div>
+	
+	
+	
+		
+	
+			
+
+
+	
+
+	
+
+					
+		
+				
+		
+<div class="eventPager">
+
+			<h2>Kaikki </h2>
+		
+		<ul class="headlinePager">
+		<!-- <li class="counter"><b>25</b> alk. 137 tapahtumaa</li> -->
+		
+	
+	
+		
+								<li class="prev">
+			 <a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;index_resulttable=0&amp;nurbuchbar=true&amp;ortId=119&amp;show_resulttable=25&amp;sort_by=event_datum&amp;sort_by_resulttable=event_datum&amp;sort_direction=asc" title="Takaisin"><span>&lt;</span></a></li>
+					
+																<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;index_resulttable=0&amp;nurbuchbar=true&amp;ortId=119&amp;show_resulttable=25&amp;sort_by=event_datum&amp;sort_by_resulttable=event_datum&amp;sort_direction=asc" title="Sivu 1">
+				1</a></li>
+																					<li class="current">
+					<a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;index_resulttable=25&amp;nurbuchbar=true&amp;ortId=119&amp;show_resulttable=25&amp;sort_by=event_datum&amp;sort_by_resulttable=event_datum&amp;sort_direction=asc" title="Sivu 2">
+
+				2</a></li>
+																					<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;index_resulttable=50&amp;nurbuchbar=true&amp;ortId=119&amp;show_resulttable=25&amp;sort_by=event_datum&amp;sort_by_resulttable=event_datum&amp;sort_direction=asc" title="Sivu 3">
+				3</a></li>
+																					<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;index_resulttable=75&amp;nurbuchbar=true&amp;ortId=119&amp;show_resulttable=25&amp;sort_by=event_datum&amp;sort_by_resulttable=event_datum&amp;sort_direction=asc" title="Sivu 4">
+				4</a></li>
+																					<li class="ellipsis">&hellip;</li>
+																<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;index_resulttable=125&amp;nurbuchbar=true&amp;ortId=119&amp;show_resulttable=25&amp;sort_by=event_datum&amp;sort_by_resulttable=event_datum&amp;sort_direction=asc" title="Sivu 6">
+				6</a></li>
+														
+					<li class="next">
+			 <a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;index_resulttable=50&amp;nurbuchbar=true&amp;ortId=119&amp;show_resulttable=25&amp;sort_by=event_datum&amp;sort_by_resulttable=event_datum&amp;sort_direction=asc" title="Seuraava"><span>&gt;</span></a></li>
+					
+		</ul>
+		<div class="sort">
+		<script type="text/javascript" language="javascript">
+		/* <![CDATA[ */
+					
+			function sortdirection(sortierung) {
+				//alert(sortierung);
+				if( (sortierung == "eventreihe_kuenstlerbewertung")) {
+					htmlString="<input name='sort_direction' value='desc' type='hidden' />";
+					document.getElementById("direction").innerHTML=htmlString;
+				} else {
+					htmlString="<input name='sort_direction' value='asc' type='hidden' />";
+					document.getElementById("direction").innerHTML=htmlString;
+				}//end else
+				 document.sortierung.submit();
+			}
+		
+		/* ]]> */
+		</script>
+		
+		<form action="Lippuja.html" method="get" name="sortierung">
+			<span id="direction"></span>
+					
+		
+		
+					
+											<input type="hidden" id="affiliate" name="affiliate" value="ADV"  />												<input type="hidden" id="fun" name="fun" value="ortsliste"  />												<input type="hidden" id="doc" name="doc" value="city"  />												<input type="hidden" id="show_resulttable" name="show_resulttable" value="25"  />												<input type="hidden" id="nurbuchbar" name="nurbuchbar" value="true"  />							
+																<input type="hidden" id="ortId" name="ortId" value="119"  />																																																																																																																																																																																	<select name="sort_by" onchange="sortdirection(this.value);">					
+				<option value="event_name1">Aakkosjärjestyksessä</option>
+				<option value="event_datum" selected="selected">päivämäärän mukaan</option>
+				<option value="eventreihe_kuenstlerbewertung">arvostelujen mukaan</option>
+			</select>
+		</form>
+	</div>
+	<div class="headlineSort">
+    	    	    </div>
+</div>
+<div class="box resultList">
+
+			
+			
+	<table id="taEventList" cellpadding="0" cellspacing="0" border="0">
+					
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<img src="/obj/media/FI-eventim/teaser/60x60/2011/hiekkaihmiset.jpg" width="60" height="60" alt="SARASVATIN HIEKKAA" />
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="sarasvatin-hiekkaa-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=679527%241798569" onclick="openTheLink(this);" title="SARASVATIN HIEKKAA - Tilaa liput"><span>SARASVATIN HIEKKAA</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Revontulihalli, Revontulentie 8, Tapiola</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       29.2.2012 / 19:00  	                                        </abbr>
+				</div>
+				
+													<div class="mediaIconsBelowHeadline">
+							
+		
+			
+		
+	
+					</div>
+							</td>
+			
+						<td class="taCommunity middle">									<p class="rateBelow">	
+				Sarasvatin hiekkaa on j&auml;nnitt&auml;v&auml; kuvitelma tulevaisuudesta, joka on jo t&auml;&auml;ll&auml;. Risto Isom&auml;en romaanin n&auml;ytelm&auml;sov...								
+													<div class="rating">
+						<span class="rateTxt">Arvosana</span><div class="rate rate5"></div>
+					</div>
+							</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											28,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="sarasvatin-hiekkaa-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=679527%241798569" title="SARASVATIN HIEKKAA - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<img src="/obj/media/FI-eventim/teaser/60x60/2011/sellosali-fork2012.jpg" width="60" height="60" alt="HETKI HAUSKAA: FORK, PIRJO HEIKKIL&Auml;, TOMMI MUJUNEN" />
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="hetki-hauskaa-fork-pirjo-heikkilae-tommi-mujunen-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=702961%241897797" onclick="openTheLink(this);" title="HETKI HAUSKAA: FORK, PIRJO HEIKKIL&Auml;, TOMMI MUJUNEN - Tilaa liput"><span>HETKI HAUSKAA: FORK, PIRJO HEI...</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Sellosali, Leppävaara Soittoniekanaukio</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       1.3.2012 / 19:00  	                                        </abbr>
+				</div>
+				
+											</td>
+			
+						<td class="taCommunity middle">									<p class="rateBelow">	
+				HETKI HAUSKAA FORKIN, LYHYTKOMEDIOIDEN JA STAND UP -KOMIIKAN PARISSA!
+		
+								
+													<div class="rating">
+						<span class="rateTxt">Arvosana</span><div class="rate rate5"></div>
+					</div>
+							</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											29,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="hetki-hauskaa-fork-pirjo-heikkilae-tommi-mujunen-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=702961%241897797" title="HETKI HAUSKAA: FORK, PIRJO HEIKKIL&Auml;, TOMMI MUJUNEN - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<div class="imageFake"></div>
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="my-first-band-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=695938%241867781" onclick="openTheLink(this);" title="MY FIRST BAND - Tilaa liput"><span>MY FIRST BAND</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Louhisali, Espoon kulttuurikeskus</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       1.3.2012 / 19:00  	                                        </abbr>
+				</div>
+				
+											</td>
+			
+						<td class="taCommunity middle">									<p>	
+				Rockyhtye My First Bandin j&auml;senten musiikillista ilmaisua on m&auml;&auml;ritt&auml;nyt suomalaisen melankolian sijaan outo huol...								
+											</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											11,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="my-first-band-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=695938%241867781" title="MY FIRST BAND - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<div class="imageFake"></div>
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="phillipsneidichluoma-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=575078%241431694" onclick="openTheLink(this);" title="Phillips,Neidich,Luoma - Tilaa liput"><span>Phillips,Neidich,Luoma</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Tapiolasali, Espoon kulttuurikeskus</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       2.3.2012 / 19:00  	                                        </abbr>
+				</div>
+				
+											</td>
+			
+						<td class="taCommunity middle">									<p>	
+				
+		
+								
+											</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Lippuja saatavana															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="phillipsneidichluoma-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=575078%241431694" title="Phillips,Neidich,Luoma - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<img src="/obj/media/FI-eventim/teaser/60x60/2011/hiekkaihmiset.jpg" width="60" height="60" alt="SARASVATIN HIEKKAA" />
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="sarasvatin-hiekkaa-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=679527%241798570" onclick="openTheLink(this);" title="SARASVATIN HIEKKAA - Tilaa liput"><span>SARASVATIN HIEKKAA</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Revontulihalli, Revontulentie 8, Tapiola</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       2.3.2012 / 19:00  	                                        </abbr>
+				</div>
+				
+													<div class="mediaIconsBelowHeadline">
+							
+		
+			
+		
+	
+					</div>
+							</td>
+			
+						<td class="taCommunity middle">									<p class="rateBelow">	
+				Sarasvatin hiekkaa on j&auml;nnitt&auml;v&auml; kuvitelma tulevaisuudesta, joka on jo t&auml;&auml;ll&auml;. Risto Isom&auml;en romaanin n&auml;ytelm&auml;sov...								
+													<div class="rating">
+						<span class="rateTxt">Arvosana</span><div class="rate rate5"></div>
+					</div>
+							</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											28,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="sarasvatin-hiekkaa-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=679527%241798570" title="SARASVATIN HIEKKAA - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<div class="imageFake"></div>
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="cafe-louhi-johanna-juholan-ilta-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=695712%241866855" onclick="openTheLink(this);" title="CAF&Eacute; LOUHI - JOHANNA JUHOLAN ILTA - Tilaa liput"><span>CAF&Eacute; LOUHI - JOHANNA JUHOLAN I...</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Louhisali, Espoon kulttuurikeskus</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       2.3.2012 / 19:30  	                                        </abbr>
+				</div>
+				
+											</td>
+			
+						<td class="taCommunity middle">									<p>	
+				Caf&eacute; Louhi Espoon kulttuurikeskuksen Louhisalissa
+		
+								
+											</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											16,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="cafe-louhi-johanna-juholan-ilta-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=695712%241866855" title="CAF&Eacute; LOUHI - JOHANNA JUHOLAN ILTA - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<img src="/obj/media/FI-eventim/teaser/60x60/2011/sellosali-lasten-lauantai-tuttiorkesteri.jpg" width="60" height="60" alt="LASTEN LAUANTAI: SATU SOPANEN &amp; TUTTIORKESTERI: AARRELAIVA" />
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="lasten-lauantai-satu-sopanen-tuttiorkesteri-aarrelaiva-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=703617%241896950" onclick="openTheLink(this);" title="LASTEN LAUANTAI: SATU SOPANEN &amp; TUTTIORKESTERI: AARRELAIVA - Tilaa liput"><span>LASTEN LAUANTAI: SATU SOPANEN ...</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Sellosali, Leppävaara Soittoniekanaukio</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       3.3.2012 / 15:00  	                                        </abbr>
+				</div>
+				
+											</td>
+			
+						<td class="taCommunity middle">									<p class="rateBelow">	
+				Huippusuosittu Satu Sopanen ja Tuttiorkesteri vie katsojat mukanaan hurjalle merimatkalle, jossa vaarana on j&auml;&auml;d&auml;...								
+													<div class="rating">
+						<span class="rateTxt">Arvosana</span><div class="rate rate5"></div>
+					</div>
+							</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											11,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="lasten-lauantai-satu-sopanen-tuttiorkesteri-aarrelaiva-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=703617%241896950" title="LASTEN LAUANTAI: SATU SOPANEN &amp; TUTTIORKESTERI: AARRELAIVA - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<img src="/obj/media/FI-eventim/teaser/60x60/2011/niko-kivela-mina-2012.jpg" width="60" height="60" alt="NIKO KIVEL&Auml; - MIN&Auml;!" />
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="niko-kivelae-minae-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=673935%241779645" onclick="openTheLink(this);" title="NIKO KIVEL&Auml; - MIN&Auml;! - Tilaa liput"><span>NIKO KIVEL&Auml; - MIN&Auml;!</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Tapiolasali, Espoon kulttuurikeskus</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       3.3.2012 / 19:00  	                                        </abbr>
+				</div>
+				
+											</td>
+			
+						<td class="taCommunity middle">									<p>	
+				Yleis&ouml;n suosikki ja Voicen juontaja soolokiertueella 11.2.2012 alkaen!
+
+		
+								
+											</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											26,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="niko-kivelae-minae-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=673935%241779645" title="NIKO KIVEL&Auml; - MIN&Auml;! - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<img src="/obj/media/FI-eventim/teaser/60x60/2011/hiekkaihmiset.jpg" width="60" height="60" alt="SARASVATIN HIEKKAA" />
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="sarasvatin-hiekkaa-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=679527%241798571" onclick="openTheLink(this);" title="SARASVATIN HIEKKAA - Tilaa liput"><span>SARASVATIN HIEKKAA</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Revontulihalli, Revontulentie 8, Tapiola</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       3.3.2012 / 19:00  	                                        </abbr>
+				</div>
+				
+													<div class="mediaIconsBelowHeadline">
+							
+		
+			
+		
+	
+					</div>
+							</td>
+			
+						<td class="taCommunity middle">									<p class="rateBelow">	
+				Sarasvatin hiekkaa on j&auml;nnitt&auml;v&auml; kuvitelma tulevaisuudesta, joka on jo t&auml;&auml;ll&auml;. Risto Isom&auml;en romaanin n&auml;ytelm&auml;sov...								
+													<div class="rating">
+						<span class="rateTxt">Arvosana</span><div class="rate rate5"></div>
+					</div>
+							</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											28,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="sarasvatin-hiekkaa-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=679527%241798571" title="SARASVATIN HIEKKAA - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<div class="imageFake"></div>
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="sylitaivasvauvateatteriesitys-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=696273%241869188" onclick="openTheLink(this);" title="SYLITAIVAS-VAUVATEATTERIESITYS - Tilaa liput"><span>SYLITAIVAS-VAUVATEATTERIESITYS</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Louhisali, Espoon kulttuurikeskus</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       4.3.2012 / 13:00  	                                        </abbr>
+				</div>
+				
+											</td>
+			
+						<td class="taCommunity middle">									<p>	
+				Attir, littir, lattin taa, lasta pient&auml; naurattaa! Vauvoille suunnattu Sylitaivas on raikas sininen tuulahdus, jo...								
+											</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											6,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="sylitaivasvauvateatteriesitys-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=696273%241869188" title="SYLITAIVAS-VAUVATEATTERIESITYS - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<div class="imageFake"></div>
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="sylitaivasvauvateatteriesitys-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=696273%241869189" onclick="openTheLink(this);" title="SYLITAIVAS-VAUVATEATTERIESITYS - Tilaa liput"><span>SYLITAIVAS-VAUVATEATTERIESITYS</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Louhisali, Espoon kulttuurikeskus</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       4.3.2012 / 15:00  	                                        </abbr>
+				</div>
+				
+											</td>
+			
+						<td class="taCommunity middle">									<p>	
+				Attir, littir, lattin taa, lasta pient&auml; naurattaa! Vauvoille suunnattu Sylitaivas on raikas sininen tuulahdus, jo...								
+											</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											6,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="sylitaivasvauvateatteriesitys-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=696273%241869189" title="SYLITAIVAS-VAUVATEATTERIESITYS - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<div class="imageFake"></div>
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="risto-raeppaeaejae-konsertti-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=696280%241869232" onclick="openTheLink(this);" title="RISTO R&Auml;PP&Auml;&Auml;J&Auml; -KONSERTTI - Tilaa liput"><span>RISTO R&Auml;PP&Auml;&Auml;J&Auml; -KONSERTTI</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Tapiolasali, Espoon kulttuurikeskus</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       4.3.2012 / 15:00  	                                        </abbr>
+				</div>
+				
+											</td>
+			
+						<td class="taCommunity middle">									<p>	
+				T&auml;ss&auml; vauhdikkaassa koko perheen konsertissa Risto R&auml;pp&auml;&auml;j&auml; yst&auml;vineen heitt&auml;ytyy musikaalista ja elokuvista tutt...								
+											</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											16,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="risto-raeppaeaejae-konsertti-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=696280%241869232" title="RISTO R&Auml;PP&Auml;&Auml;J&Auml; -KONSERTTI - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<img src="/obj/media/FI-eventim/teaser/60x60/2011/hiekkaihmiset.jpg" width="60" height="60" alt="SARASVATIN HIEKKAA" />
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="sarasvatin-hiekkaa-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=679527%241798572" onclick="openTheLink(this);" title="SARASVATIN HIEKKAA - Tilaa liput"><span>SARASVATIN HIEKKAA</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Revontulihalli, Revontulentie 8, Tapiola</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       6.3.2012 / 19:00  	                                        </abbr>
+				</div>
+				
+													<div class="mediaIconsBelowHeadline">
+							
+		
+			
+		
+	
+					</div>
+							</td>
+			
+						<td class="taCommunity middle">									<p class="rateBelow">	
+				Sarasvatin hiekkaa on j&auml;nnitt&auml;v&auml; kuvitelma tulevaisuudesta, joka on jo t&auml;&auml;ll&auml;. Risto Isom&auml;en romaanin n&auml;ytelm&auml;sov...								
+													<div class="rating">
+						<span class="rateTxt">Arvosana</span><div class="rate rate5"></div>
+					</div>
+							</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											28,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="sarasvatin-hiekkaa-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=679527%241798572" title="SARASVATIN HIEKKAA - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<img src="/obj/media/FI-eventim/teaser/60x60/2011/dejavu2.jpg" width="60" height="60" alt="D&Eacute;J&Agrave;-VU?" />
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="dejavu-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=690441%241845317" onclick="openTheLink(this);" title="D&Eacute;J&Agrave;-VU? - Tilaa liput"><span>D&Eacute;J&Agrave;-VU?</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Louhisali, Kaupinkalliontie 10, Tapiola</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       7.3.2012 / 19:00  	                                        </abbr>
+				</div>
+				
+													<div class="mediaIconsBelowHeadline">
+							
+		
+			
+		
+	
+					</div>
+							</td>
+			
+						<td class="taCommunity middle">									<p class="rateBelow">	
+				Klassista pantomiimia Euroopan huipulta. Ainutlaatuinen saksalainen vierailu Espoon Kaupunginteatterissa.
+
+		
+								
+													<div class="rating">
+						<span class="rateTxt">Arvosana</span><div class="rate rate5"></div>
+					</div>
+							</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											30,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="dejavu-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=690441%241845317" title="D&Eacute;J&Agrave;-VU? - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<img src="/obj/media/FI-eventim/teaser/60x60/2011/dejavu2.jpg" width="60" height="60" alt="D&Eacute;J&Agrave;-VU?" />
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="dejavu-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=690441%241845318" onclick="openTheLink(this);" title="D&Eacute;J&Agrave;-VU? - Tilaa liput"><span>D&Eacute;J&Agrave;-VU?</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Louhisali, Kaupinkalliontie 10, Tapiola</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       8.3.2012 / 19:00  	                                        </abbr>
+				</div>
+				
+													<div class="mediaIconsBelowHeadline">
+							
+		
+			
+		
+	
+					</div>
+							</td>
+			
+						<td class="taCommunity middle">									<p class="rateBelow">	
+				Klassista pantomiimia Euroopan huipulta. Ainutlaatuinen saksalainen vierailu Espoon Kaupunginteatterissa.
+
+		
+								
+													<div class="rating">
+						<span class="rateTxt">Arvosana</span><div class="rate rate5"></div>
+					</div>
+							</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											30,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="dejavu-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=690441%241845318" title="D&Eacute;J&Agrave;-VU? - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<img src="/obj/media/FI-eventim/teaser/60x60/2011/dejavu2.jpg" width="60" height="60" alt="D&Eacute;J&Agrave;-VU?" />
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="dejavu-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=690441%241845319" onclick="openTheLink(this);" title="D&Eacute;J&Agrave;-VU? - Tilaa liput"><span>D&Eacute;J&Agrave;-VU?</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Louhisali, Kaupinkalliontie 10, Tapiola</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       9.3.2012 / 19:00  	                                        </abbr>
+				</div>
+				
+													<div class="mediaIconsBelowHeadline">
+							
+		
+			
+		
+	
+					</div>
+							</td>
+			
+						<td class="taCommunity middle">									<p class="rateBelow">	
+				Klassista pantomiimia Euroopan huipulta. Ainutlaatuinen saksalainen vierailu Espoon Kaupunginteatterissa.
+
+		
+								
+													<div class="rating">
+						<span class="rateTxt">Arvosana</span><div class="rate rate5"></div>
+					</div>
+							</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											30,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="dejavu-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=690441%241845319" title="D&Eacute;J&Agrave;-VU? - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<img src="/obj/media/FI-eventim/teaser/60x60/2011/hiekkaihmiset.jpg" width="60" height="60" alt="SARASVATIN HIEKKAA" />
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="sarasvatin-hiekkaa-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=679527%241798573" onclick="openTheLink(this);" title="SARASVATIN HIEKKAA - Tilaa liput"><span>SARASVATIN HIEKKAA</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Revontulihalli, Revontulentie 8, Tapiola</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       9.3.2012 / 19:00  	                                        </abbr>
+				</div>
+				
+													<div class="mediaIconsBelowHeadline">
+							
+		
+			
+		
+	
+					</div>
+							</td>
+			
+						<td class="taCommunity middle">									<p class="rateBelow">	
+				Sarasvatin hiekkaa on j&auml;nnitt&auml;v&auml; kuvitelma tulevaisuudesta, joka on jo t&auml;&auml;ll&auml;. Risto Isom&auml;en romaanin n&auml;ytelm&auml;sov...								
+													<div class="rating">
+						<span class="rateTxt">Arvosana</span><div class="rate rate5"></div>
+					</div>
+							</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											28,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="sarasvatin-hiekkaa-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=679527%241798573" title="SARASVATIN HIEKKAA - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<img src="/obj/media/FI-eventim/teaser/60x60/2011/dejavu2.jpg" width="60" height="60" alt="D&Eacute;J&Agrave;-VU?" />
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="dejavu-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=690441%241845321" onclick="openTheLink(this);" title="D&Eacute;J&Agrave;-VU? - Tilaa liput"><span>D&Eacute;J&Agrave;-VU?</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Louhisali, Kaupinkalliontie 10, Tapiola</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       10.3.2012 / 14:00  	                                        </abbr>
+				</div>
+				
+													<div class="mediaIconsBelowHeadline">
+							
+		
+			
+		
+	
+					</div>
+							</td>
+			
+						<td class="taCommunity middle">									<p class="rateBelow">	
+				Klassista pantomiimia Euroopan huipulta. Ainutlaatuinen saksalainen vierailu Espoon Kaupunginteatterissa.
+
+		
+								
+													<div class="rating">
+						<span class="rateTxt">Arvosana</span><div class="rate rate5"></div>
+					</div>
+							</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											30,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="dejavu-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=690441%241845321" title="D&Eacute;J&Agrave;-VU? - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<img src="/obj/media/FI-eventim/teaser/60x60/2011/hiekkaihmiset.jpg" width="60" height="60" alt="SARASVATIN HIEKKAA" />
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="sarasvatin-hiekkaa-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=679527%241798574" onclick="openTheLink(this);" title="SARASVATIN HIEKKAA - Tilaa liput"><span>SARASVATIN HIEKKAA</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Revontulihalli, Revontulentie 8, Tapiola</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       10.3.2012 / 14:00  	                                        </abbr>
+				</div>
+				
+													<div class="mediaIconsBelowHeadline">
+							
+		
+			
+		
+	
+					</div>
+							</td>
+			
+						<td class="taCommunity middle">									<p class="rateBelow">	
+				Sarasvatin hiekkaa on j&auml;nnitt&auml;v&auml; kuvitelma tulevaisuudesta, joka on jo t&auml;&auml;ll&auml;. Risto Isom&auml;en romaanin n&auml;ytelm&auml;sov...								
+													<div class="rating">
+						<span class="rateTxt">Arvosana</span><div class="rate rate5"></div>
+					</div>
+							</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											28,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="sarasvatin-hiekkaa-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=679527%241798574" title="SARASVATIN HIEKKAA - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<img src="/obj/media/FI-eventim/teaser/60x60/2011/dejavu2.jpg" width="60" height="60" alt="D&Eacute;J&Agrave;-VU?" />
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="dejavu-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=690441%241845320" onclick="openTheLink(this);" title="D&Eacute;J&Agrave;-VU? - Tilaa liput"><span>D&Eacute;J&Agrave;-VU?</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Louhisali, Kaupinkalliontie 10, Tapiola</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       10.3.2012 / 18:00  	                                        </abbr>
+				</div>
+				
+													<div class="mediaIconsBelowHeadline">
+							
+		
+			
+		
+	
+					</div>
+							</td>
+			
+						<td class="taCommunity middle">									<p class="rateBelow">	
+				Klassista pantomiimia Euroopan huipulta. Ainutlaatuinen saksalainen vierailu Espoon Kaupunginteatterissa.
+
+		
+								
+													<div class="rating">
+						<span class="rateTxt">Arvosana</span><div class="rate rate5"></div>
+					</div>
+							</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											30,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="dejavu-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=690441%241845320" title="D&Eacute;J&Agrave;-VU? - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<div class="imageFake"></div>
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="kuukauden-leffa-jumalista-ja-ihmisistae-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=696518%241871388" onclick="openTheLink(this);" title="KUUKAUDEN LEFFA - JUMALISTA JA IHMISIST&Auml; - Tilaa liput"><span>KUUKAUDEN LEFFA - JUMALISTA JA...</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Louhisali, Espoon kulttuurikeskus</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       12.3.2012 / 19:00  	                                        </abbr>
+				</div>
+				
+											</td>
+			
+						<td class="taCommunity middle">									<p>	
+				Kuukauden leffat Espoon kulttuurikeskuksen Louhisalissa kev&auml;&auml;ll&auml; 2012
+		
+								
+											</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											6,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="kuukauden-leffa-jumalista-ja-ihmisistae-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=696518%241871388" title="KUUKAUDEN LEFFA - JUMALISTA JA IHMISIST&Auml; - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<img src="/obj/media/FI-eventim/teaser/60x60/2011/reinordin.jpg" width="60" height="60" alt="EL&Auml;V&Auml;N LAULUN KLUBI, Reino Nordin" />
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="elaevaen-laulun-klubi-reino-nordin-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=594402%241845305" onclick="openTheLink(this);" title="EL&Auml;V&Auml;N LAULUN KLUBI, Reino Nordin - Tilaa liput"><span>EL&Auml;V&Auml;N LAULUN KLUBI, Reino Nor...</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Revontulihallin lämpiö</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       12.3.2012 / 19:00  	                                        </abbr>
+				</div>
+				
+													<div class="mediaIconsBelowHeadline">
+							
+		
+			
+		
+	
+					</div>
+							</td>
+			
+						<td class="taCommunity middle">									<p class="rateBelow">	
+				Revontulihallin kahvila-l&auml;mpi&ouml;n l&auml;mpim&auml;ss&auml; tunnelmassa upea musiikki p&auml;&auml;see oikeuksiinsa. Tervetuloa viihtym&auml;&auml;n m...								
+													<div class="rating">
+						<span class="rateTxt">Arvosana</span><div class="rate rate5"></div>
+					</div>
+							</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											16,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="elaevaen-laulun-klubi-reino-nordin-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=594402%241845305" title="EL&Auml;V&Auml;N LAULUN KLUBI, Reino Nordin - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<div class="imageFake"></div>
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="mimmit-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=696281%241869248" onclick="openTheLink(this);" title="MIMMIT - Tilaa liput"><span>MIMMIT</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Louhisali, Espoon kulttuurikeskus</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       13.3.2012 / 10:00  	                                        </abbr>
+				</div>
+				
+											</td>
+			
+						<td class="taCommunity middle">									<p>	
+				TV:st&auml; tutut Mimmit pulppuavat laulua, tanssia ja puhetta, ja viev&auml;t yleis&ouml;n kiehtovalle musiikilliselle matkalle...								
+											</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											4,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="mimmit-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=696281%241869248" title="MIMMIT - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<img src="/obj/media/FI-eventim/teaser/60x60/2011/sellosali-james-blond.jpg" width="60" height="60" alt="BRAVO!-FESTIVAALI - DIVALDO ALFA THEATRE (CZ): JAMES BLOND" />
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="bravofestivaali-divaldo-alfa-theatre-cz-james-blond-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=702507%241896974" onclick="openTheLink(this);" title="BRAVO!-FESTIVAALI - DIVALDO ALFA THEATRE (CZ): JAMES BLOND - Tilaa liput"><span>BRAVO!-FESTIVAALI - DIVALDO AL...</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Sellosali, Leppävaara Soittoniekanaukio</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       13.3.2012 / 19:00  	                                        </abbr>
+				</div>
+				
+											</td>
+			
+						<td class="taCommunity middle">									<p class="rateBelow">	
+				
+		
+								
+													<div class="rating">
+						<span class="rateTxt">Arvosana</span><div class="rate rate5"></div>
+					</div>
+							</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											9,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="bravofestivaali-divaldo-alfa-theatre-cz-james-blond-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=702507%241896974" title="BRAVO!-FESTIVAALI - DIVALDO ALFA THEATRE (CZ): JAMES BLOND - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+						
+		
+				
+				
+				
+				
+				
+		<tr class="line" onmouseover="hoverLink(this, 'line');" onmouseout="hoverLink(this, 'line');" onclick="openLinkLast(this);">
+			
+						<td class="taImage">
+									<img src="/obj/media/FI-eventim/teaser/60x60/2011/hiekkaihmiset.jpg" width="60" height="60" alt="SARASVATIN HIEKKAA" />
+							</td>
+			
+						<td class="taEvent">
+			
+								<h4 class="summary"><a href="sarasvatin-hiekkaa-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=679527%241798575" onclick="openTheLink(this);" title="SARASVATIN HIEKKAA - Tilaa liput"><span>SARASVATIN HIEKKAA</span></a></h4>
+				
+								<dl class="place location">
+					<dt>Revontulihalli, Revontulentie 8, Tapiola</dt>
+					<dd>ESPOO</dd>
+				</dl>
+					
+				<div class="date">
+                    <abbr class="dtstart" title="">
+							                       14.3.2012 / 19:00  	                                        </abbr>
+				</div>
+				
+													<div class="mediaIconsBelowHeadline">
+							
+		
+			
+		
+	
+					</div>
+							</td>
+			
+						<td class="taCommunity middle">									<p class="rateBelow">	
+				Sarasvatin hiekkaa on j&auml;nnitt&auml;v&auml; kuvitelma tulevaisuudesta, joka on jo t&auml;&auml;ll&auml;. Risto Isom&auml;en romaanin n&auml;ytelm&auml;sov...								
+													<div class="rating">
+						<span class="rateTxt">Arvosana</span><div class="rate rate5"></div>
+					</div>
+							</td>
+			
+						<td class="taPrice middle">
+									<dl class="taAvailability">					<dt class="available">&nbsp;</dt>
+		<dd>Lippuja saatavana</dd>
+	</dl>
+					
+					<dl class="price">
+						                            <dt>
+																	Liput alkaen  											28,00  €															</dt>
+											</dl>
+							</td>
+			
+															
+			
+			
+			
+			
+				
+				
+				
+				
+				
+				
+				
+								
+			<td class="middle">
+				<a href="sarasvatin-hiekkaa-Lippuja-espoo.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=679527%241798575" title="SARASVATIN HIEKKAA - Tilaa liput" class="sdb sdbM"><span>Liput</span></a>
+			</td>
+		</tr>
+			</table>
+			
+					<script src="/obj/advanced/extensions/global/layout/js/arrangeListButtonsToSameSize.js" type="text/javascript"></script>
+				
+				
+	<script type="text/javascript" language="JavaScript">
+	<!--
+	
+		arrangeListButtonsToSameSize('taEventList', '.sdb');
+	
+	//-->
+	</script>
+
+<ul class="footerPager">
+	<li class="counter"><b>25</b> / 137 tapahtumaa</li>
+	
+	
+	
+		
+								<li class="prev">
+			 <a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;index_resulttable=0&amp;nurbuchbar=true&amp;ortId=119&amp;show_resulttable=25&amp;sort_by=event_datum&amp;sort_by_resulttable=event_datum&amp;sort_direction=asc" title="Takaisin"><span>&lt;</span></a></li>
+					
+																<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;index_resulttable=0&amp;nurbuchbar=true&amp;ortId=119&amp;show_resulttable=25&amp;sort_by=event_datum&amp;sort_by_resulttable=event_datum&amp;sort_direction=asc" title="Sivu 1">
+				1</a></li>
+																					<li class="current">
+					<a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;index_resulttable=25&amp;nurbuchbar=true&amp;ortId=119&amp;show_resulttable=25&amp;sort_by=event_datum&amp;sort_by_resulttable=event_datum&amp;sort_direction=asc" title="Sivu 2">
+
+				2</a></li>
+																					<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;index_resulttable=50&amp;nurbuchbar=true&amp;ortId=119&amp;show_resulttable=25&amp;sort_by=event_datum&amp;sort_by_resulttable=event_datum&amp;sort_direction=asc" title="Sivu 3">
+				3</a></li>
+																					<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;index_resulttable=75&amp;nurbuchbar=true&amp;ortId=119&amp;show_resulttable=25&amp;sort_by=event_datum&amp;sort_by_resulttable=event_datum&amp;sort_direction=asc" title="Sivu 4">
+				4</a></li>
+																					<li class="ellipsis">&hellip;</li>
+																<li><a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;index_resulttable=125&amp;nurbuchbar=true&amp;ortId=119&amp;show_resulttable=25&amp;sort_by=event_datum&amp;sort_by_resulttable=event_datum&amp;sort_direction=asc" title="Sivu 6">
+				6</a></li>
+														
+					<li class="next">
+			 <a href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;index_resulttable=50&amp;nurbuchbar=true&amp;ortId=119&amp;show_resulttable=25&amp;sort_by=event_datum&amp;sort_by_resulttable=event_datum&amp;sort_direction=asc" title="Seuraava"><span>&gt;</span></a></li>
+					
+	</ul>
+</div>
+<div class="boxbottom"></div>
+
+
+		
+			<!-- AddThis - Bookmark, start, detaila, detailb, city, category >> LAYOUT ELEMENT -->
+		<div id="addThis">	
+					<div class="addThis">			
+				<script type="text/javascript" language="JavaScript">
+				<!--
+				
+					var addthis_config = { 'data_track_clickback' : true };
+					
+					addthis_pub  = 'eventim';
+					if("fi" == "iw") {
+						addthis_language = "en";
+					} else {
+						addthis_language = "fi"; 
+					}
+				
+				//-->	
+				</script>
+				
+				
+				<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()" rel="nofollow">
+											<img src="http://s7.addthis.com/static/btn/lg-share-fi.gif" width="125" height="16" border="0" alt="" />
+									</a>
+				
+				<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+			</div>
+						<div class="clearFloat"></div>
+	</div>
+</div>
+		<div class="mods sidebarMods"><div class="reset sidebar">
+	
+	
+ 
+	
+	
+
+	
+
+
+
+		
+		
+		
+	
+
+
+				
+
+
+	
+
+
+
+
+
+
+	<!-- SPECIAL TEASER BOX : KEINE TIPPS VORHANDEN -->
+	
+	
+
+
+
+
+
+	
+
+	
+	
+
+
+
+
+	
+
+	
+    		
+		
+			<div class="defBox lastMinute">
+		
+					<div class="head">
+			<div class="shadowTR ">
+				<div class="back  ">
+					<div class="left">
+													
+    						    						    							<h3 class="h5">Seuraavat <br /> tapahtumat</h3>
+    						    						
+    						    																	</div>
+					
+									</div>
+			</div>
+		</div>
+		
+			<div class="body">
+			<div class="shadowR">
+				<div class="shadowTR">
+					<div class="inner ">
+		
+		<div class="block MarginTopOff">	
+											
+									
+				<div class="marginBottomS">
+					<a href='lasten-lauantai-haeaeppoeset-taikuri-luttinen-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=703626%241895451' title='LASTEN LAUANTAI - HÄÄPPÖSET & TAIKURI LUTTINEN' target='_self' onclick='return  xt_adc(this, "INT-3-[lastminute_Espoo_1]||LASTEN LAUANTAI - HÄÄPPÖSET / TAIKURI LUTTINEN")'  class='strong' ><span>LASTEN LAUANTAI - HÄÄPPÖSET & TAIKURI LUTTINEN</span></a>					<div class="marginOff">Sellosali, Leppävaara Soittoniekanaukio</div>
+					<div class="marginTopXS"><div class="floatLeft textL w155"><strong>				
+						                            11.02.2012 / 15:00                          					</strong></div>
+					<div class="floatLeft w30x"><span class="iconPrinter"></span></div></div>
+					<div class="clearFloat"></div>			
+				</div>			
+												
+									
+				<div class="marginBottomS">
+					<a href='muck-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=690440%241845311' title='MUCK' target='_self' onclick='return  xt_adc(this, "INT-3-[lastminute_Espoo_2]||MUCK")'  class='strong' ><span>MUCK</span></a>					<div class="marginOff">Louhisali, Kaupinkalliontie 10, Tapiola</div>
+					<div class="marginTopXS"><div class="floatLeft textL w155"><strong>				
+						                            11.02.2012 / 15:00                          					</strong></div>
+					<div class="floatLeft w30x"><span class="iconPrinter"></span></div></div>
+					<div class="clearFloat"></div>			
+				</div>			
+												
+									
+				<div class="marginBottomS">
+					<a href='lennikalle-ystaevaet-hyvaentekevaeisyyskonsertti-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=702759%241897365' title='LENNI-KALLE & YSTÄVÄT -HYVÄNTEKEVÄISYYSKONSERTTI' target='_self' onclick='return  xt_adc(this, "INT-3-[lastminute_Espoo_3]||LENNI-KALLE / YSTÄVÄT -HYVÄNTEKEVÄISYYSKONSERTTI")'  class='strong' ><span>LENNI-KALLE & YSTÄVÄT -HYVÄNTEKEVÄISYYSKONSERTTI</span></a>					<div class="marginOff">Tapiolasali, Espoon kulttuurikeskus</div>
+					<div class="marginTopXS"><div class="floatLeft textL w155"><strong>				
+						                            11.02.2012 / 17:00                          					</strong></div>
+					<div class="floatLeft w30x"><span class="iconPrinter"></span></div></div>
+					<div class="clearFloat"></div>			
+				</div>			
+												
+									
+				<div class="marginBottomS">
+					<a href='punainen-helmi-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=706508%241907651' title='PUNAINEN HELMI' target='_self' onclick='return  xt_adc(this, "INT-3-[lastminute_Espoo_4]||PUNAINEN HELMI")'  class='strong' ><span>PUNAINEN HELMI</span></a>					<div class="marginOff">Louhisali, Kaupinkalliontie 10, Tapiola</div>
+					<div class="marginTopXS"><div class="floatLeft textL w155"><strong>				
+						                            14.02.2012 / 19:00                          					</strong></div>
+					<div class="floatLeft w30x"><span class="iconPrinter"></span></div></div>
+					<div class="clearFloat"></div>			
+				</div>			
+												
+									
+				<div class="marginBottomS">
+					<a href='klassisesti-wienistae-Lippuja.html?affiliate=ADV&amp;doc=artistPages%2Ftickets&amp;fun=artist&amp;action=tickets&amp;key=701306%241891303' title='KLASSISESTI WIENISTÄ' target='_self' onclick='return  xt_adc(this, "INT-3-[lastminute_Espoo_5]||KLASSISESTI WIENISTÄ")'  class='strong' ><span>KLASSISESTI WIENISTÄ</span></a>					<div class="marginOff">Sellosali, Leppävaara Soittoniekanaukio</div>
+					<div class="marginTopXS"><div class="floatLeft textL w155"><strong>				
+						                            14.02.2012 / 19:00                          					</strong></div>
+					<div class="floatLeft w30x"><span class="iconPrinter"></span></div></div>
+					<div class="clearFloat"></div>			
+				</div>			
+																																																			</div>	
+	
+							<div class="shadowCorners"></div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="shadowBL"><div class="shadowBR"></div></div>
+		</div>
+		</div>
+
+    	
+	
+
+
+
+		
+		
+					
+				
+									
+				
+									
+				
+									
+				
+									
+				
+					
+
+		
+			
+		
+			<div class="defBox ">
+		
+					<div class="head">
+			<div class="shadowTR ">
+				<div class="back  ">
+					<div class="left">
+													
+    						    						    							<h3 class="h5">Tapahtumapaikat</h3>
+    						    						
+    						    																	</div>
+					
+									</div>
+			</div>
+		</div>
+		
+			<div class="body">
+			<div class="shadowR">
+				<div class="shadowTR">
+					<div class="inner ">
+		
+				
+			<div class="block">
+		
+				<ul class="last uppercase plain linkListB">
+	
+												
+												
+						 												
+																		
+														
+																																			
+							<li><a class="hover" onclick="return  xt_adc(this, 'INT-3-[venuebox_Espoo_1]||Sellosali, Leppävaara Soittoniekanaukio')" href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;venue=Sellosali%2C+Lepp%C3%A4vaara+Soittoniekanaukio&amp;sortBy=event_name1&amp;sortAsc=true">Sellosali, Leppävaara Soittoniekanaukio</a></li>
+												
+												
+												
+						 												
+																		
+														
+																																			
+							<li><a class="hover" onclick="return  xt_adc(this, 'INT-3-[venuebox_Espoo_2]||Louhisali, Kaupinkalliontie 10, Tapiola')" href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;venue=Louhisali%2C+Kaupinkalliontie+10%2C+Tapiola&amp;sortBy=event_name1&amp;sortAsc=true">Louhisali, Kaupinkalliontie 10, Tapiola</a></li>
+												
+												
+												
+						 												
+																		
+														
+																																			
+							<li><a class="hover" onclick="return  xt_adc(this, 'INT-3-[venuebox_Espoo_3]||Revontulihalli, Revontulentie 8, Tapiola')" href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;venue=Revontulihalli%2C+Revontulentie+8%2C+Tapiola&amp;sortBy=event_name1&amp;sortAsc=true">Revontulihalli, Revontulentie 8, Tapiola</a></li>
+												
+												
+												
+						 												
+																		
+														
+																																			
+							<li><a class="hover" onclick="return  xt_adc(this, 'INT-3-[venuebox_Espoo_4]||Tapiolasali, Espoon kulttuurikeskus')" href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;venue=Tapiolasali%2C+Espoon+kulttuurikeskus&amp;sortBy=event_name1&amp;sortAsc=true">Tapiolasali, Espoon kulttuurikeskus</a></li>
+												
+												
+												
+						 												
+																		
+														
+																																			
+							<li class="last"><a class="hover" onclick="return  xt_adc(this, 'INT-3-[venuebox_Espoo_5]||Louhisali, Espoon kulttuurikeskus')" href="?affiliate=ADV&amp;doc=city&amp;fun=ortsliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;ortId=119&amp;sort_by=event_name1&amp;sort_direction=asc&amp;venue=Louhisali%2C+Espoon+kulttuurikeskus&amp;sortBy=event_name1&amp;sortAsc=true">Louhisali, Espoon kulttuurikeskus</a></li>
+												
+										
+				</ul>
+				
+				<div class="clearFloat"></div>
+			</div>
+		
+							<div class="shadowCorners"></div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="shadowBL"><div class="shadowBR"></div></div>
+		</div>
+		</div>
+	
+			
+    
+
+	
+		
+
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+					<div class="defBox plainBox">
+			<div class="body">
+					      			            						            		                					            	            		            				                						<div class='adSidebar'>
+	<script type="text/javascript" language="JavaScript">
+	<!--
+	
+		if(!(window.denyAdserv || false)) {
+			document.write('<scr'+'ipt type="text/javascript" src="https://eas4.emediate.eu/eas?cu=8889;cre=mu;js=y;target=_blank"></scri'+'pt>');
+		} 
+	
+	//-->
+	</script>
+
+	<noscript>
+		<a target="_blank" href="https://eas4.emediate.eu/eas?cu=8889;ty=ct">
+			<img src="https://eas4.emediate.eu/eas?cu=8889;cre=img" border="0" alt="EmediateAd" width='220' height='125'/>
+		</a>
+	</noscript>
+</div>	               		            				                						<div class='adSidebar'>
+	<script type="text/javascript" language="JavaScript">
+	<!--
+	
+		if(!(window.denyAdserv || false)) {
+			document.write('<scr'+'ipt type="text/javascript" src="https://eas4.emediate.eu/eas?cu=8602;cre=mu;js=y;target=_blank"></scri'+'pt>');
+		} 
+	
+	//-->
+	</script>
+
+	<noscript>
+		<a target="_blank" href="https://eas4.emediate.eu/eas?cu=8602;ty=ct">
+			<img src="https://eas4.emediate.eu/eas?cu=8602;cre=img" border="0" alt="EmediateAd" width='220' height='125'/>
+		</a>
+	</noscript>
+</div>	               		            				                						<div class='adSidebar last'>
+	<script type="text/javascript" language="JavaScript">
+	<!--
+	
+		if(!(window.denyAdserv || false)) {
+			document.write('<scr'+'ipt type="text/javascript" src="https://eas4.emediate.eu/eas?cu=8892;cre=mu;js=y;target=_blank"></scri'+'pt>');
+		} 
+	
+	//-->
+	</script>
+
+	<noscript>
+		<a target="_blank" href="https://eas4.emediate.eu/eas?cu=8892;ty=ct">
+			<img src="https://eas4.emediate.eu/eas?cu=8892;cre=img" border="0" alt="EmediateAd" width='220' height='125'/>
+		</a>
+	</noscript>
+</div>	               		            			
+			</div>
+		</div>
+	
+</div></div>  
+	</div>
+</div>
+<!-- /Wrapper -->
+
+	
+
+			
+			
+		<script language="javascript" type="text/javascript">
+	<!--
+		xtnv = document; 				//parent.document or top.document or document 
+		xtsd = "https://logs1125"; 
+		xtsite = "469357"; 			//site number 
+		xtn2 = "3"; 			//level 2 site 
+		xtpage = "Cities::Espoo_page2"; //page name (with the use of :: to create chapters) 
+		xt_multc = "&x4=advanced/liftemp/&x5=ADV&x6=false&x7=fi-FI"; 			//customised indicators 
+		xt_an = "";       		//numeric identifier  
+		xt_ac = "";       		//category 
+		
+		//do not modify below	
+		if (window.xtparam!=null){window.xtparam+="&ac="+xt_ac+"&an="+xt_an+xt_multc;}  
+		else{window.xtparam = "&ac="+xt_ac+"&an="+xt_an+xt_multc;};
+	//-->
+	</script>
+	<script type="text/javascript">
+    <!--
+    (function(){ var at=document.createElement('script'); at.type='text/javascript'; at.async=true; at.src="/obj/advanced/extensions/global/tracking//FI-eventim/js/xtcore.js"; (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]||document.getElementsByTagName('script')[0].parentNode).insertBefore(at,null); })();
+    -->
+    </script> 
+	<noscript> 
+	<img width="1" height="1" src="https://logs1125.xiti.com/hit.xiti?s=469357&s2=3&p=Cities::Espoo_page2&ac=&an=" > 
+	</noscript>
+			
+
+<!--footer-->
+
+
+
+	<div id="footer"><!-- Footer -->
+    <div id="footerIn">	
+        	
+        		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    			<div>
+        			
+				<h5>Palvelut</h5>
+                
+				<ul>
+                	                    	                			<li><a href="tickets.html?affiliate=ADV&fun=repstart&doc=feature/fanReport/start" target="_self" title="Arviot tapahtumista" onclick="" class="" rel="">Arviot tapahtumista</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&doc=campaign&campaign=arvoseteli" target="_self" title="Arvosetelit " onclick="" class="" rel="">Arvosetelit </a></li>
+                        					                    	                			<li><a href="http://kampanja.lippu.fi/event/" target="_blank" title="event.–lehti" onclick="" class="" rel="">event.–lehti</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&doc=campaign&campaign=Kilpailut" target="_self" title="Kilpailut" onclick="" class="" rel="">Kilpailut</a></li>
+                        					                    	                			<li><a href="http://www.lippu.fi/tickets.html?affiliate=ADV&fun=search&action=search&doc=search%2Fsearch&detailadoc=erdetaila&detailbdoc=evdetailb&kudoc=artist&sort_by=score&sort_direction=desc&fuzzy=yes&suchbegriff=lippupiste+lahjakortti" target="_blank" title="Lahjakortti " onclick="" class="" rel="">Lahjakortti </a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&doc=campaign&campaign=nanny" target="_self" title="Lastenhoitaja" onclick="" class="" rel="">Lastenhoitaja</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&doc=campaign&campaign=lippulasku" target="_self" title="Lippulasku" onclick="" class="" rel="">Lippulasku</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&doc=campaign&campaign=lipputurva" target="_self" title="Lipputurva" onclick="" class="" rel="">Lipputurva</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&doc=feature/customerRegistration" target="_self" title="Rekisteröityminen" onclick="" class="" rel="">Rekisteröityminen</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&fun=newsletter&doc=feature/ticketAlarm&action=show" target="_self" title="Tapahtumamuistutus" onclick="" class="" rel="">Tapahtumamuistutus</a></li>
+                        					                    	                			<li><a href="http://www.facebook.com/Tahtielamykset" target="_self" title="Tähtielämykset" onclick="" class="" rel="">Tähtielämykset</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&fun=newsletter&doc=feature/newsletter&action=show" target="_self" title="Uutiskirje" onclick="" class="" rel="">Uutiskirje</a></li>
+                        					                    
+                </ul>
+				
+                
+        		</div>
+        		
+	    	
+        		
+
+
+
+
+                                           
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    			<div>
+        			
+				<h5>Myyntipisteet ja toimitusmaksut</h5>
+                
+				<ul>
+                	                    	                			<li><a href="tickets.html?affiliate=ADV&doc=search/ticketAgency&fun=searchoutlet&action=search&isSent=true&agenciesListing=true&sort_by=name1&sort_direction=asc" target="_self" title="Myyntipisteet" onclick="" class="" rel="">Myyntipisteet</a></li>
+                        					                    	                			<li><a href="tservice.dll?affiliate=ADV&fun=thelpcontent&doc=feature/helpContact/details&hilfeid=7203" target="_self" title="Toimitusmaksut" onclick="" class="" rel="">Toimitusmaksut</a></li>
+                        					                    
+                </ul>
+				
+                
+        		
+	    	
+        		
+
+
+
+
+
+
+
+
+                                           
+
+
+
+
+
+
+
+
+
+
+
+    
+    				
+				<h5>Ohjeet ja tuki</h5>
+                
+				<ul>
+                	                    	                			<li><a href="tickets.html?affiliate=ADV&fun=contact&doc=feature/helpContact/contact&hilfeid=&hilfetitel=&plattform=" target="_self" title="Asiakaspalvelu" onclick="" class="" rel="">Asiakaspalvelu</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&fun=thelp&doc=feature/helpContact/start" target="_self" title="FAQ" onclick="" class="" rel="">FAQ</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&doc=popup/onlineFeedback" target="_blank" title="Palaute" onclick="" class="popupwindow" rel="onlineFeedbackStep1">Palaute</a></li>
+                        					                    
+                </ul>
+				
+                
+        		</div>
+        		
+	    	
+        		
+
+
+	<div class="hotline">
+	<h5>Lisätiedot ja tilaukset</h5>
+    
+    	    <p style="margin-bottom:4px;">0600 900 900</p>
+    
+	<p style="font-weight:normal; font-size:9pt !important; margin-bottom:10px;">(1,97 &euro;/min+pvm)  </p>
+	<dl>
+		<dt>Joka päivä:</dt><dd>  7-22 </dd>
+	</dl>
+</div>    
+    				
+				<h5></h5>
+                
+				<ul>
+                	                    
+                </ul>
+				
+                
+        		
+	    	
+        		
+
+
+
+
+
+
+
+
+                                           
+
+ 
+    
+    			<div>
+        			
+				<h5>Tietosuoja</h5>
+                
+				<ul>
+                	                    	                			<li><a href="tickets.html?affiliate=ADV&doc=info/terms" target="_self" title="Käyttäjäsopimus" onclick="" class="" rel="">Käyttäjäsopimus</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&doc=info/dataProtection" target="_self" title="Tietojen suojaus" onclick="" class="" rel="">Tietojen suojaus</a></li>
+                        					                    
+                </ul>
+				
+                
+        		
+	    	
+        		
+
+
+
+
+                                           
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    				
+				<h5>Palvelut yrityksille</h5>
+                
+				<ul>
+                	                    	                			<li><a href="http://www.lippu.fi/lounge" target="_blank" title="Lounge-yritysklubi" onclick="" class="" rel="">Lounge-yritysklubi</a></li>
+                        					                    	                			<li><a href="http://www.elamyslahjakortti.fi/PublishedService" target="_blank" title="Elämyslahjakortti" onclick="" class="" rel="">Elämyslahjakortti</a></li>
+                        					                    
+                </ul>
+				
+                
+        		</div>
+        		
+	    	
+        		
+
+
+
+
+
+                                           
+
+    
+    			<div>
+        			
+				<h5>Tapahtuman-<br>
+järjestäjille</h5>
+                
+				<ul>
+                	                    	                			<li><a href="tickets.html?affiliate=ADV&doc=campaign&campaign=tapahtumajarjestajille" target="_self" title="Info" onclick="" class="" rel="">Info</a></li>
+                        					                    	                			<li><a href="http://extranet.lippu.fi/" target="_blank" title="Lippupisteen Extranet" onclick="" class="" rel="">Lippupisteen Extranet</a></li>
+                        					                    
+                </ul>
+				
+                
+        		
+	    	
+        		
+
+
+
+
+
+
+
+    
+    				
+				<h5>Lippupiste Oy</h5>
+                
+				<ul>
+                	                    	                			<li><a href="tickets.html?affiliate=ADV&doc=info/imprint" target="_self" title="Lippupiste Oy" onclick="" class="" rel="">Lippupiste Oy</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=ADV&doc=campaign&campaign=yhteystiedot" target="_self" title="Yhteystiedot" onclick="" class="" rel="">Yhteystiedot</a></li>
+                        					                    
+                </ul>
+				
+                
+        		</div>
+        		
+	    	
+        		
+
+
+
+
+
+
+
+
+
+
+                                           
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    			<div>
+        			
+				<h5>Eventim International</h5>
+                
+				<ul>
+                	                    	                			<li><a href="tickets.html?affiliate=ADV&doc=feature/international" target="_self" title="Linkit muihin maihin" onclick="" class="" rel="">Linkit muihin maihin</a></li>
+                        					                    	                			<li><a href="http://www.eventim.de/tickets.html?affiliate=EVG&fun=investor&doc=eventim/default/info/en/investor&language=en" target="_blank" title="Sijoittajasuhteet" onclick="" class="" rel="">Sijoittajasuhteet</a></li>
+                        					                    
+                </ul>
+				
+                
+        		
+			
+	</div>
+    <!-- important Tipp? -->
+	</div><!-- /Footer -->
+
+
+
+
+	
+
+
+
+
+
+
+<!-- ec: 0 --><!--footer-->
+
+</body>
+</html>
+
+<!--11.02.2012 12:15:43:061 Generiert vom www01 in 209 ms (s = 0; f = 1; p = 208; Request-Nr = 2281132 RequestId = 1328189701242107501; Version = 3.3.1.005; Parser = 1);-->
