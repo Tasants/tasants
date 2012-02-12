@@ -80,7 +80,7 @@ class EventImportLippuFi implements IEventParser {
     private function ParseFests(ICache $cache, $url) {
         $tools = new ParsingTools();
 
-        $data = $cache->FetchWithCache($url);
+        $data = $cache->FetchWithCache($url, true);
         $tokens = explode('<table id="taEventList"', $data);
         $tds = explode('<td class="taEvent">', $tokens[1]);
         $events = array();

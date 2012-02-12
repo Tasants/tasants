@@ -21,7 +21,7 @@ class EventImportKlubiNet implements IEventParser {
     private function ParseFests(ICache $cache, $url, $city) {
         $tools = new ParsingTools();
 
-        $data = $cache->FetchWithCache($url);
+        $data = $cache->FetchWithCache($url, true);
         $items = explode("<item>", $data);
         array_shift($items);
         foreach($items as $data) {
