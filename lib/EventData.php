@@ -23,6 +23,9 @@ class EventData {
         if (mb_strlen($name) > 256) {
             throw new Exception("Name too long: " . mb_strlen($name) . ". Max length is 256: " . $name);
         }
+        if ($name <> strip_tags($name)) {
+            throw new Exception("Name contains html: " . $name);
+        }
         $this->name = $name;
     }
     public function Description() {

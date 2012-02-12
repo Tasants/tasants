@@ -74,7 +74,7 @@ class EventImportBluesFinlandCom implements IEventParser {
                     $city = 'Helsinki';
                     $place = 'Käpygrilli';
                 }
-                $name = $tools->Decode($name);
+                $name = strip_tags($tools->Decode($name));
                 $description = '';
                 if (mb_strlen($name) > 256) {
                     $name = mb_substr($name, 0, 256);

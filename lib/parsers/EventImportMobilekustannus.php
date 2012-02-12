@@ -33,11 +33,17 @@ class EventImportMobilekustannus implements IEventParser {
                 $address = isset($matches[1]) ? $matches[1] : '';
 
                 $type = '';
-                if (preg_match(',.*<span class="text"><span class="typelabel">(.*)</span>.*,ms', $event)) {
-                    $type = preg_replace(',.*<span class="text"><span class="typelabel">(.*)</span>.*,ms', '$1', $event);
-                    $name = preg_replace(',.*<span class="text"><span class="typelabel">.*</span>(.*)</span>.*,ms', '$1', $event);
+                if (preg_match(',.*<span class="text"><span class="typelabel">(.*?)</span>(.*?)</span>,ms', $event, $matches)) {
+                    $type = $matches[1];
+                    $name = $matches[2];
+                } else if (preg_match(',.*<span class="text">(.*?)</span>.*,ms', $event, $matches)) {
+                    $name = $matches[1];
                 } else {
-                    $name = preg_replace(',.*<span class="text">(.*)</span>.*,ms', '$1', $event);
+                    throw new Exception("No match: " . $event);
+                }
+                if (preg_match(',<a,', $name)) {
+                    var_dump($name, $type);
+                    throw new Exception("" . $event);
                 }
                 $name_tokens = explode(".", $name);
                 $name = array_shift($name_tokens);
