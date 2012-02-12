@@ -20,6 +20,9 @@ class EventData {
         return $this->name;
     }
     public function SetName($name) {
+        if (mb_strlen($name) > 256) {
+            throw new Exception("Name too long: " . mb_strlen($name) . ". Max length is 256: " . $name);
+        }
         $this->name = $name;
     }
     public function Description() {

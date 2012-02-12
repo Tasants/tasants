@@ -30,10 +30,18 @@ class EventImportKlubiNet implements IEventParser {
 		    $name = $matches[2];
 		    $description = $matches[3];
 
+		    $name = trim(str_replace("<br>" , " ", $tools->Decode($name .' ' . $description)));
+		    $description = '';
+		    if (mb_strlen($name) > 256) {
+		        $name = mb_substr($name, 0, 256);
+		        $desctiption = $name;
+		    }
+
+
             $event_data = new EventData();
             $event_data->SetDate($date);
-            $event_data->SetName(trim(str_replace("<br>" , " ", $tools->Decode($name .' ' . $description))));
-            $event_data->SetDescription('');
+            $event_data->SetName($name);
+            $event_data->SetDescription($description);
             $event_data->SetCity($city);
             $event_data->SetPlace("Klubi");
             $events[] = $event_data;
