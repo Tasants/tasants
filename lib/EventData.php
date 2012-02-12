@@ -29,24 +29,36 @@ class EventData {
         return $this->description;
     }
     public function SetDescription($description) {
+        if (mb_strlen($description) > 3000) {
+            throw new Exception("Description too long: " . mb_strlen($description) . ". Max length is 3000: " . $description);
+        }
         $this->description = $description;
     }
     public function City() {
         return $this->city;
     }
     public function SetCity($city) {
+        if (mb_strlen($city) > 128) {
+            throw new Exception("City too long: " . mb_strlen($city) . ". Max length is 128: " . $city);
+        }
         $this->city = $city;
     }
     public function Place() {
         return $this->place;
     }
     public function SetPlace($place) {
+        if (mb_strlen($place) > 128) {
+            throw new Exception("Place too long: " . mb_strlen($place) . ". Max length is 128: " . $place);
+        }
         $this->place = $place;
     }
     public function Address() {
         return $this->address;
     }
     public function SetAddress($address) {
+        if (mb_strlen($address) > 128) {
+            throw new Exception("Place too long: " . mb_strlen($address) . ". Max length is 128: " . $address);
+        }
         $this->address = $address;
     }
     public function Latitude() {

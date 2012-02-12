@@ -19,9 +19,9 @@ class EventImportBluesFinlandCom implements IEventParser {
     }
     private function ParseFests(ICache $cache, $url) {
         $tools = new ParsingTools();
-
         $data = $cache->FetchWithCache($url);
-        $tokens = explode('<font color="#0000CC" size="2"><span style="font-size:14px;line-height:18px;">', $data);
+        preg_match(',(Tapahtumapaikkojen yhteystietoja)(.*)(Tapahtumatiedot on ker),ms', $data, $matches);
+        $tokens = explode('<font color="#0000CC" size="2"><span style="font-size:14px;line-height:18px;">', $matches[2]);
         array_shift($tokens);
         foreach ($tokens as $token) {
             preg_match(',(.*?)<br>(.*),ms', $token, $matches);
