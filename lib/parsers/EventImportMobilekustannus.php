@@ -12,6 +12,8 @@ class EventImportMobilekustannus implements IEventParser {
         return isset($tokens[$index]) ? $tokens[$index] : null;
     }
     public function Parse(ICache $cache) {
+        $tools = new ParsingTools();
+
         $url = "http://mobilekustannus.fi/tapahtumat/21";
         $data = $this->PreReplace($cache->FetchWithCache($url));
         $data = $this->Part($data, 'class="events"', 1);
@@ -43,10 +45,10 @@ class EventImportMobilekustannus implements IEventParser {
                 $city = 'Turku';
                 $event = new EventData();
                 $event->SetDate($date);
-                $event->SetName($this->PostReplace($name));
-                $event->SetDescription($this->PostReplace($description));
+                $event->SetName($tools->Decode($this->PostReplace($name)));
+                $event->SetDescription($tools->Decode($this->PostReplace($description)));
                 $event->SetCity($city);
-                $event->SetPlace($this->PostReplace($place));
+                $event->SetPlace($tools->Decode($this->PostReplace($place)));
                 $event->SetAddress($address);
                 $event->SetLatitude($latitude);
                 $event->SetLongitude($latitude);
@@ -60,6 +62,6 @@ class EventImportMobilekustannus implements IEventParser {
         return str_replace(array('mm.', '!'), array('[mm]', '[!].'), $data);
     }
     private function PostReplace($data) {
-        return htmlspecialchars_decode(str_replace(array('[mm]', '[!].'), array('mm.', '.'), $data));
+        return str_replace(array('[mm]', '[!]'), array('mm.', '!'), $data);
     }
 }

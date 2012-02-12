@@ -78,6 +78,8 @@ class EventImportLippuFi implements IEventParser {
         );
     }
     private function ParseFests(ICache $cache, $url) {
+        $tools = new ParsingTools();
+
         $data = $cache->FetchWithCache($url);
         $tokens = explode('<table id="taEventList"', $data);
         $tds = explode('<td class="taEvent">', $tokens[1]);
@@ -96,22 +98,14 @@ class EventImportLippuFi implements IEventParser {
             $city = trim(preg_replace('/.*<dd>(.*?)<\/dd>.*/ms', "$1", $place_x));
             $event_data = new EventData();
             $event_data->SetDate($date);
-            $event_data->SetName($this->Decode($name));
+            $event_data->SetName($tools->Decode($name));
             $event_data->SetDescription('');
-            $event_data->SetCity($this->Ucfirst($city));
-            $event_data->SetPlace($this->Decode($place));
+            $event_data->SetCity($tools->Ucfirst($city));
+            $event_data->SetPlace($tools->Decode($place));
             $events[] = $event_data;
 
 
         }
         return $events;
     }
-    private function Decode($string) {
-        return html_entity_decode($string, null, "UTF-8");
-    }
-    private function Ucfirst($string) {
-        // @todo mb?
-        return ucfirst(mb_convert_case($string, MB_CASE_LOWER));
-    }
-
 }

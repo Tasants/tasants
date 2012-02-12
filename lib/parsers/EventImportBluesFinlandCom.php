@@ -18,6 +18,8 @@ class EventImportBluesFinlandCom implements IEventParser {
         );
     }
     private function ParseFests(ICache $cache, $url) {
+        $tools = new ParsingTools();
+
         $data = $cache->FetchWithCache($url);
         $tokens = explode('<font color="#0000CC" size="2"><span style="font-size:14px;line-height:18px;">', $data);
         array_shift($tokens);
@@ -75,18 +77,15 @@ class EventImportBluesFinlandCom implements IEventParser {
 
                 $event_data = new EventData();
                 $event_data->SetDate($this->ResolveDate($year_month, $date));
-                $event_data->SetName($this->Decode($name));
+                $event_data->SetName($tools->Decode($name));
                 $event_data->SetDescription('');
-                $event_data->SetCity($this->Decode($city));
-                $event_data->SetPlace($this->Decode($place));
+                $event_data->SetCity($tools->Decode($city));
+                $event_data->SetPlace($tools->Decode($place));
                 $event_data->SetTags(array('blues'));
                 $events[] = $event_data;
             }
         }
         return $events;
-    }
-    private function Decode($string) {
-        return html_entity_decode($string, null, "utf-8");
     }
     private function ResolveDate($year_month, $date) {
         return $date . preg_replace(',.*([0-9]{4}).*,', '$1', $year_month);

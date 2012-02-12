@@ -31,6 +31,7 @@ class EventImportTurkuFi implements IEventParser {
         );
     }
     private function ParseFests(ICache $cache, $url) {
+        $tools = new ParsingTools();
         $data = $cache->FetchWithCache($url);
         $tokens = explode('<div id="lists">', $data);
         $lis = explode("<li>", $tokens[1]);
@@ -47,11 +48,11 @@ class EventImportTurkuFi implements IEventParser {
             $place_tokens = explode("\n", $place);
             $place = trim($place_tokens[1]);
             $event_data = new EventData();
-            $event_data->SetDate($date);
-            $event_data->SetName($name);
+            $event_data->SetDate($tools->Decode($date));
+            $event_data->SetName($tools->Decode($name));
             $event_data->SetDescription('');
             $event_data->SetCity("Turku");
-            $event_data->SetPlace($place);
+            $event_data->SetPlace($tools->Decode($place));
             $events[] = $event_data;
 
 
@@ -59,6 +60,7 @@ class EventImportTurkuFi implements IEventParser {
         return $events;
     }
     private function ParseToday(ICache $cache) {
+        $tools = new ParsingTools();
         $data = $cache->FetchWithCache($this->Url());
         $tokens = explode('Tapahtuu tänään Turussa ja Turun seudulla', $data);
         $tokens = explode('<table', $tokens[1]);
@@ -75,10 +77,10 @@ class EventImportTurkuFi implements IEventParser {
 
             $event_data = new EventData();
             $event_data->SetDate($date);
-            $event_data->SetName($this->PostReplace($name));
+            $event_data->SetName($tools->Decode($this->PostReplace($name)));
             $event_data->SetDescription('');
             $event_data->SetCity("Turku");
-            $event_data->SetPlace($this->PostReplace($place));
+            $event_data->SetPlace($tools->Decode($this->PostReplace($place)));
 
             $events[] = $event_data;
 
@@ -86,7 +88,7 @@ class EventImportTurkuFi implements IEventParser {
         return $events;
     }
     private function PostReplace($data) {
-        return htmlspecialchars_decode(str_replace(array('[mm]'), array('mm.'), $data));
+        return str_replace(array('[mm]'), array('mm.'), $data);
     }
 
 }
