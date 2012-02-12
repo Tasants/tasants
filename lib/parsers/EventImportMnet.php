@@ -32,10 +32,10 @@ class EventImportMnet implements IEventParser {
             try {
                 $event_data = new EventData();
                 $event_data->SetDate($date);
-                $event_data->SetName($name);
-                $event_data->SetDescription($description);
+                $event_data->SetName($tools->Decode($name));
+                $event_data->SetDescription($tools->Decode($description));
                 $event_data->SetCity($tools->CityFix($city));
-                $event_data->SetPlace($place);
+                $event_data->SetPlace($tools->Decode($place));
                 $events[] = $event_data;
             } catch (EInvalidCity $ex) {
                 echo "$date, $name, $city, $place" . " " . $ex->getMessage() . "\n";

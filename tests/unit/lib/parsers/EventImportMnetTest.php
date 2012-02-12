@@ -27,5 +27,12 @@ class EventImportMnetTest extends TasantsTestCase {
         $this->assertEquals("Helsinki", $event->City());
         $this->assertEquals("25.05.2012", $event->Date());
 
+        $event = $events[66];
+        /* @var $event EventData */
+        $this->assertEquals("DJ’s Lovroc & Anna S.", $event->Name());
+        $this->assertEquals("Virgin Oil Co.", $event->Place());
+        $this->assertEquals("Helsinki", $event->City());
+        $this->assertEquals("12.02.2012", $event->Date());
+
     }
 }
