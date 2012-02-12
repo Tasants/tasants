@@ -14,6 +14,9 @@ class EventImportService implements ICache {
             $data = file_get_contents($url);
             file_put_contents($cache, $data);
         }
+        if (mb_detect_encoding(file_get_contents($cache)) == "UTF-8") {
+            return file_get_contents($cache);
+        }
         return iconv("latin1", "utf-8", file_get_contents($cache));
     }
     public function Parse(IEventParser $parser) {
