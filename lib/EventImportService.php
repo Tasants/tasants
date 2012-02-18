@@ -26,9 +26,13 @@ class EventImportService implements ICache {
                 throw new Exception("Excepting EventData");
             }
             try {
-                // ok
+                if (!$event->Country()) {
+                    throw new Exception("Missing country,");
+                }
             } catch (Exception $ex) {
+                var_dump($event);
                 echo "Error saving:" . $ex->getMessage();
+                throw $ex;
             }
         }
         return $events;
