@@ -42,6 +42,7 @@ class EventImportKlubiNet implements IEventParser {
             $event_data->SetDate($date);
             $event_data->SetName($name);
             $event_data->SetDescription($description);
+            $event_data->SetCountry("FI");
             $event_data->SetCity($city);
             $event_data->SetPlace("Klubi");
             $events[] = $event_data;

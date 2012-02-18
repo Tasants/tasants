@@ -79,6 +79,7 @@ class EventImportTurkuFi implements IEventParser {
             $event_data->SetDate($date);
             $event_data->SetName($tools->Decode($this->PostReplace($name)));
             $event_data->SetDescription('');
+            $event_data->SetCountry("FI");
             $event_data->SetCity("Turku");
             $event_data->SetPlace($tools->Decode($this->PostReplace($place)));
 

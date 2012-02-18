@@ -104,6 +104,7 @@ class EventImportLippuFi implements IEventParser {
             $event_data = new EventData();
             $event_data->SetDate($date);
             $event_data->SetDescription('');
+            $event_data->SetCountry("FI");
             $event_data->SetCity($tools->Ucfirst($city));
             $event_data->SetPlace($tools->Decode($place));
             $event_data->SetName($tools->Decode($name));

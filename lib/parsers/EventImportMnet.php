@@ -34,6 +34,7 @@ class EventImportMnet implements IEventParser {
                 $event_data->SetDate($date);
                 $event_data->SetName($tools->Decode($name));
                 $event_data->SetDescription($tools->Decode($description));
+                $event_data->SetCountry("FI");
                 $event_data->SetCity($tools->CityFix($city));
                 $event_data->SetPlace($tools->Decode($place));
                 $events[] = $event_data;
