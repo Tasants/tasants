@@ -2,6 +2,7 @@
 
 class EventData {
     private $date;
+    private $end_date;
     private $name;
     private $description;
     private $country;
@@ -10,12 +11,19 @@ class EventData {
     private $address;
     private $latitude;
     private $longitude;
+    private $link;
     private $tags = array();
     public function Date() {
         return $this->date;
     }
     public function SetDate($date) {
         $this->date = $date;
+    }
+    public function EndDate() {
+        return $this->end_date;
+    }
+    public function SetEndDate($date) {
+        $this->end_date = $date;
     }
     public function Name() {
         return $this->name;
@@ -101,5 +109,11 @@ class EventData {
     }
     public function SetTags(array $tags) {
         $this->tags = $tags;
+    }
+    public function Link() {
+        return $this->link;
+    }
+    public function SetLink($link) {
+        $this->link = $link;
     }
 }

@@ -1,0 +1,2285 @@
+       
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="fi">
+<head>
+<title>Museot.fi - Näyttelykalenteri</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="X-UA-Compatible" content="IE=7">
+
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta name="Title" content="Museot.fi - Näyttelykalenteri"> 
+<meta name="Author" content="Museot.fi"> 
+<meta name="keywords" content="">
+<meta name="Description" content=""> 
+<meta name="robots" content="ALL">
+<meta name="rating" content="safe for kids"> 
+
+<meta name="Language" content="fi"> 
+<meta name="resource-type" content="document"> 
+<meta name="revisit-after" content="30 Days"> 
+<meta name="generator" content="Slap Media Page Generator"> 
+<meta name="audience" content="general"> 
+ <link href="../x_navi/navi_vvvvv/navipolku.css" rel="stylesheet" type="text/css">
+<link href="../x_navi/navi_vvvvv/navi.css" rel="stylesheet" type="text/css">
+<link href="../x_navi/navi_vvvvv/navi1.css" rel="stylesheet" type="text/css">
+<link href="../x_navi/navi_vvvvv/navi2.css" rel="stylesheet" type="text/css">
+<link href="../x_navi/navi_vvvvv/navi3.css" rel="stylesheet" type="text/css">
+<link href="../x_navi/navi_vvvvv/navi4.css" rel="stylesheet" type="text/css">
+<link href="../x_navi/navi_vvvvv/navi_hnavi.css" rel="stylesheet" type="text/css">
+<link href="../mod_bannerit_1/banner1p/banner.css" rel="stylesheet" type="text/css">
+<link href="../mod_bannerit_1/banner3p/banner.css" rel="stylesheet" type="text/css">
+<link href="../id/css/html.css" rel="stylesheet" type="text/css">
+<link href="../id/css/style.css" rel="stylesheet" type="text/css">
+<link href="../id/css/idt.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+body {
+	padding: 0px;
+	margin: 0px;
+	background-color:#37afdc;
+	background-image:url(/kuvat/footer-bg.jpg);
+	background-repeat:repeat-y;
+}
+
+#body-bg {
+	background-color:#3ebbe8;
+	background-image:url(/kuvat/body-bg.jpg);
+	background-repeat:repeat-y;
+	padding:0 0 1px 0;
+}
+
+#yp {
+	width:987px; 
+	height:175px;
+
+	background-image:url(/kuvat/yp-bg.gif);
+	background-repeat:no-repeat;
+	background-position:bottom;
+}
+#yp_vasen {
+	float:left;
+	overflow:hidden;
+	width:417px;
+}
+#yp_oikea {
+	float:right;
+	
+	width:426px;
+	height:173px;
+	/*
+	background-image:url(kuvat/yp-o-bg.jpg);
+	background-repeat:no-repeat;
+	
+	overflow:hidden;
+	*/
+	
+}
+#ylakulma {
+
+	position:absolute;
+	margin: 0 0 0 3px;
+
+}
+
+#yp_nayttelynosto {
+	width:391px;
+	height:173px;
+	background-color:#FFFFFF;
+/*
+	background-image:url();
+	background-repeat:no-repeat;
+	background-position:3px 0;
+*/	
+}
+#yp_kielinavi {
+	height:89px;
+	font-size:69%;
+}
+#yp_kielinavi ul {
+	margin:0;
+	padding:0;
+	list-style:none;
+	height:26px;
+}
+#yp_kielinavi ul li {
+	margin:0;
+	padding:0 7px;
+	float:left;
+	list-style:none;
+	line-height:26px;
+	color:#636262;
+}
+#yp_kielinavi ul li.val {
+	background-color:#de5263;
+	color:#ffffff;
+	font-weight:bold;
+}
+#yp_kielinavi a:link  { text-decoration: none; color: #636262; }
+#yp_kielinavi a:active { text-decoration: none; color: #636262; }
+#yp_kielinavi a:visited { text-decoration: none; color: #636262; }
+#yp_kielinavi a:hover { text-decoration: underline; color: #636262; }
+
+#yp_apunavi {
+	height:26px;
+	line-height:26px;
+	margin:0 0 0 58px;
+	text-align:center;
+	color:#ffffff;
+	font-size:75%;
+	font-weight:bold;
+}
+
+#yp_apunavi a:link  { text-decoration: none; color: #797878; }
+#yp_apunavi a:active { text-decoration: none; color: #797878; }
+#yp_apunavi a:visited { text-decoration: none; color: #797878; }
+#yp_apunavi a:hover { text-decoration: underline; color: #797878; }
+
+#punaiset_nostot {
+margin:62px 0 8px 245px;
+position:absolute;
+}
+#punaiset_nostot ul {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+#punaiset_nostot ul li {
+	margin:0 0 8px 0;
+	padding:0;
+	height:48px;
+}
+
+
+
+
+#page {
+	width:987px; 
+	/**/
+	background-image:url(/kuvat/page-bg.gif);
+	background-repeat:repeat-y;
+	
+}
+#page-f {
+	width:987px; 
+	height:8px;
+	background-image:url(/kuvat/page-f-bg.gif);
+	background-repeat:no-repeat;
+}
+
+
+#contentarea {
+	/*padding:0px 7px 0px 58px;*/
+	padding:0px 0px 0px 58px;
+
+}
+#palsta_vasen {
+	float:left;
+	overflow:hidden;
+	width:243px;
+	/*background-color:#CCCCCC;*/
+}
+#palsta_oikea {
+	float:right;
+	overflow:hidden;
+	width:679px;
+	width:686px;
+	padding:0 0 0px 0;
+	background-image:url(/kuvat/page-bg.gif);
+	background-repeat:repeat-y;
+	background-position:right;
+	/*background-color:#ffCCCC;*/
+}
+#palsta_oikea-f {
+
+	height:8px;
+	overflow:hidden;
+	background-image:url(/kuvat/page-f-bg.gif);
+	background-repeat:no-repeat;
+	background-position:right;
+}
+#palsta_oikea_pad {
+	margin:4px 0 0 0;
+	padding:0px 0px 8px 13px;
+	background-image:url(/kuvat/content-bg.gif);
+	background-repeat:repeat-y;
+	/*background-color:#ffCCCC;*/
+}
+#palsta_oikea_pad {
+
+}
+
+
+#etusivun_pad {
+	padding:1px 0px 0px 3px;
+
+}
+#etusivun_pad table {
+
+	background-image:url(kuvat/pystyviiva.gif);
+	background-repeat:no-repeat;
+	background-position:258px 48px;
+}
+#vasen_navilaatikko {
+	background-image:url(/kuvat/vasen_navilaatikko_bg.gif);
+	background-repeat:repeat-y;
+}
+#naviarea_footer {
+	background-image:url(/kuvat/naviarea-footer.gif);
+	background-repeat:no-repeat;
+	height:12px;
+	overflow:hidden;
+}
+
+
+
+
+#oikopolut {
+	width:234px;
+	padding:4px 0 4px 0px;
+	font-size:69%;
+}
+#oikopolut p { 
+	color: #4f4f4f; 
+	font-weight: bold;
+	margin:4px 0px 3px 14px;
+}
+#oikopolut ul {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+#oikopolut ul li {
+	margin:0px 10px 0 0;
+	padding:4px 0px 3px 18px;
+	background-position:right;
+	background-repeat:no-repeat;
+}
+#oikopolut ul li a { 
+	color: #4f4f4f; 
+	font-weight: bold;
+}
+#oikopolut ul li a:link  { text-decoration: none;  }
+#oikopolut ul li a:active { text-decoration: none;  }
+#oikopolut ul li a:visited { text-decoration: none;  }
+#oikopolut ul li a:hover { text-decoration: underline;  }
+
+
+
+
+#navi1nostoarea {
+	border-top:1px solid #a1c9d8;
+	width:234px;
+	padding:4px 0 4px 0px;
+	font-size:69%;
+}
+#navi1nostoarea ul {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+#navi1nostoarea ul li {
+	margin:0px 26px 0 0;
+	padding:4px 0px 3px 14px;
+	background-image:url(/kuvat/navinuoli.gif);
+	background-position:right;
+	background-repeat:no-repeat;
+}
+#navi1nostoarea ul li a { 
+	color: #4f4f4f; 
+	font-weight: bold;
+
+}
+#navi1nostoarea ul li a:link  { text-decoration: none;  }
+#navi1nostoarea ul li a:active { text-decoration: none;  }
+#navi1nostoarea ul li a:visited { text-decoration: none;  }
+#navi1nostoarea ul li a:hover { text-decoration: underline;  }
+
+
+
+
+
+#sisalto {
+	width:480px; 
+	float:left;
+}
+#editor3, #editor4  {
+	width:161px; 
+
+	float:right;
+	
+	/*border-left:1px solid #e5e5e5;*/
+}
+#oikea_reuna {
+	width:172px; 
+	float:right;
+	font-size:75%;
+	/*border-left:1px solid #e5e5e5;*/
+	
+}
+.oikea_pad {
+	padding:5px 0 0 9px;
+}
+
+.oikea_pad a {
+	color:#545454;
+}
+.oikea_pad a:link  { text-decoration: none;  }
+.oikea_pad a:active { text-decoration: none;  }
+.oikea_pad a:visited { text-decoration: none;  }
+.oikea_pad a:hover { text-decoration: underline;  }
+
+.hide_me { visibility: hidden; }
+.clearboth {
+	clear:both;
+	height:1px;
+	overflow:hidden;
+}
+
+#footer {
+	padding: 20px 0 0 110px;
+	line-height:2.2em;
+	font-size:69%;
+	color:#FFFFFF;
+	border-bottom:2px solid #ffffff;
+}
+#footer-bg {
+	background-image:url(/kuvat/footer-bg.jpg);
+	background-repeat:repeat-y;
+}
+
+#kalenterinosto-1 {
+	position:absolute;
+	top:118px;
+	left:692px;
+}
+
+#kalenterinosto-2 {
+	position:absolute;
+	top:118px;
+	left:749px;
+}
+
+#kalenterinosto-3 {
+	position:absolute;
+	top:118px;
+	left:987px;
+}
+
+
+#kalenterinosto-4 {
+	position:absolute;
+	top:6px;
+	left:1153px;
+}
+
+#kalenterinosto-3 img, #kalenterinosto-4 img  {
+	border:2px solid #ffffff; 	
+}
+
+
+
+
+#sisalto .museoiden_tiedotteet ul {
+	margin:1em 0;
+	padding:0;
+	list-style:none;
+}
+#sisalto .museoiden_tiedotteet ul li {
+	margin:0 0 1em 0;
+	padding:0;
+}
+
+
+#tulostusversioon {
+	margin:20px 0 0px 255px;
+	padding:0 0 20px 0;
+	font-size:69%;
+}
+#tulostusversioon a:link  { text-decoration: underline; color: #d44858; }
+#tulostusversioon a:active { text-decoration: underline; color: #d44858; }
+#tulostusversioon a:visited { text-decoration: underline; color: #d44858; }
+#tulostusversioon a:hover { text-decoration: none; color: #d44858; }
+
+#sisalto a.harmaa {
+	color:#666666;
+}
+h1 span.punainen {
+ color: #D44858;
+}
+h1 span.harmaa {
+ color: #666666;
+}
+
+
+
+#addthis_area {
+	position:absolute;
+	margin:6px 0 0 505px;
+	width:200px;
+}
+-->
+</style>
+<!--[if IE 6]>
+<style type="text/css">
+img, li, div { behavior: url(/id/css/iepngfix/iepngfix.php) }
+
+ul#navi1 li.val img.nuoli { 
+	margin:-3px 0 0 -14px;
+}
+#punaiset_nostot ul li {
+	margin:0 0 7px 0;
+}
+
+</style> 
+<![endif]-->
+
+<script type="text/javascript" src="/id/javascript/javascript.js"></script>
+<script type="text/javascript" src="/lightbox/lightbox.js"></script>
+<link rel="stylesheet" href="/lightbox/lightbox.css" type="text/css" media="screen">
+</head>
+<body>
+<div id="body-bg">
+<div id="yp">
+<div id="yp_vasen">
+<div id="yp_kielinavi">    <ul>
+    <li class="val">Suomeksi</li>
+    <li><a href="/se.php">P&aring; svenska</a></li>
+    <li><a href="/en.php">In English</a></li>
+    </ul>
+</div>
+<div id="yp_apunavi"><a class="naviurl_hnavi1"   href="http://www.museoliitto.fi">Museoliitto.fi</a> | <a class="naviurl_hnavi1"   href="/index.php?k=9060">Sivukartta</a> | <a class="naviurl_hnavi1"   href="/index.php?k=9057">Yhteystiedot</a>
+</div>
+<div id="yp_logo"><a href="/index.php"><img src="/kuvat/museot-fi.gif" alt="museot.fi" width="417" height="51" border="0"></a></div>
+</div><!--/yp_vasen -->
+<div id="yp_oikea">
+<div id="yp_ylakulmanosto"><div id="ylakulma" onmouseout="hidethis('banner_yla_teksti')" onmouseover="showthis('banner_yla_teksti')"><div><a href="http://www.museot.fi/museohaku/index.php?museo_id=21914" title="Visavuoren museo"><img src="../uploadkuvat/thumb/ylakulma__keno__visavuorenmuseo_jpg385x173.jpg" height="173" width="385"  alt="" hspace="0" vspace="0" border="0"></a></div><div id="banner_yla_teksti"><div class="kolmiokuva"><img style="border:0" src="/kuvat/kolmio-pieni.png" alt="" width="6" height="21" border="0"></div><div style="padding:10px"><p>Poiminta Museohausta</p><p><a  style="color:#DE5263;" href="http://www.museot.fi/museohaku/index.php?museo_id=21914"><strong>Visavuoren museo</strong></a></p><p>Kuvanveistäjä Emil Wkströmin (1864-1942) museona toimiva taiteilijakoti ja ateljee. Museossa esitellään Wikströmin tuotantoa sekä hänen aikakautensa elämäntapaa ja asuinympäristöä. Kari-paviljonki, jossa esillä pilapiirtäjä Kari Suomalaisen (1920-1999) piirroksia ja maalauksia sekä vaihtuvia näyttelyitä.</p><p>Visavuorentie 80, 37770 Tarttila</p></div></div></div></div>
+<div id="hakulaatikko_area"><div id="hakulaatikko"><form name="form1" method="post" action="index.php" style="display:inline">
+<input 
+	onFocus="tyhjenna_haku()" 
+	name="x_hakulause" id="x_hakulause" type="text" 
+	value="Hae Museoliiton sivuilta" 
+	size="15" 
+	maxlength="30">
+ <input 
+	id="haku_submit" 
+	type="submit" 
+	value="HAE">
+<script type="text/javascript" language="JavaScript">
+<!--
+var hakulaatikko=document.getElementById('x_hakulause');
+var hakulaatikko_value = hakulaatikko.value; 
+function tyhjenna_haku()
+{
+	if (hakulaatikko.value==hakulaatikko_value)
+	{
+		hakulaatikko.value="";
+	}
+}
+//-->
+</script>
+</form></div></div>
+<div id="punaiset_nostot">
+<div style="margin-bottom:8px">
+<a href="http://www.museot.fi/museohaku/"><img src="/kuvat/museohaku_fi_nosto.gif" alt="Museohaku" width="174" height="48" border="0"></a></div>
+<div>
+<a href="http://www.museot.fi/nayttelykalenteri/"><img src="/kuvat/tmp_nayttelykalenteri.gif" alt="Näyttelykalenteri" width="174" height="48" border="0"></a></div>
+</div><!--/punaiset_nostot --> 
+<div id="yp_nayttelynosto">
+&nbsp;
+</div></div><!--/yp_oikea --> 
+<div class="clearboth"></div>
+</div><!--/yp -->
+
+<div id="page" align="left">
+<div id="contentarea">
+<div id="palsta_vasen">
+<div id="vasen_navilaatikko">
+<div id="vvnavi"><ul id="navi1">
+<li><div class="varjoton-t"><a class="naviurl1"   href="/etusivu">Etusivu</a></div><div class="varjoton-b">&nbsp;</div>
+</li>
+<li><div class="varjoton-t"><a class="naviurl1"   href="/museo">Mikä on museo?</a></div><div class="varjoton-b">&nbsp;</div>
+</li>
+<li><div class="varjoton-t"><a class="naviurl1"   href="/mita-museot-tekevat">Mitä museot tekevät?</a></div><div class="varjoton-b">&nbsp;</div>
+</li>
+<li><div class="varjoton-t"><a class="naviurl1"   href="/museoala">Tietoa museoalasta</a></div><div class="varjoton-b">&nbsp;</div>
+</li>
+<li><div class="varjoton-t"><a class="naviurl1"   href="/museokauppa">Museokauppa</a></div><div class="varjoton-b">&nbsp;</div>
+</li>
+<li><div class="varjoton-t"><a class="naviurl1"   href="/museonystava">Museon ystäväksi?</a></div><div class="varjoton-b">&nbsp;</div>
+</li>
+<li><div class="varjoton-t"><a class="naviurl1"   href="/uutiset.php">Museouutisia</a></div><div class="varjoton-b">&nbsp;</div>
+</li>
+<li><div class="varjoton-t"><a class="naviurl1"   href="/index.php?k=10218">Museojulkaisut</a></div><div class="varjoton-b">&nbsp;</div>
+</li>
+<li><div class="varjoton-t"><a class="naviurl1"   href="/index.php?k=10219">Näyttelytiedotteet</a></div><div class="varjoton-b">&nbsp;</div>
+</li>
+<li class="val"><div class="varjoton-t"><img class="nuoli" src="/kuvat/valittu-osio.gif" alt="" width="8" height="26" border="0"><a class="naviurl1"   href="/index.php?k=10047">Museot ja näyttelyt</a></div><div class="varjoton-b">&nbsp;</div><ul id="navi2">
+<li><div class="varjoton-t"><a class="naviurl2"   href="http://www.museot.fi/museohaku/">Museohaku</a></div><div class="varjoton-b">&nbsp;</div>
+</li>
+<li class="val"><div class="varjo-t"><a class="navival2"   href="http://www.museot.fi/nayttelykalenteri/">Näyttelykalenteri</a></div><div class="varjo-b">&nbsp;</div>
+</li>
+<li><div class="varjoton-t"><a class="naviurl2"   href="/vapaa-paasy">Museoiden vapaa pääsy</a></div><div class="varjoton-b">&nbsp;</div>
+</li>
+<li><div class="varjoton-t"><a class="naviurl2"   href="/index.php?k=10050">Tietojen päivitys</a></div><div class="varjoton-b">&nbsp;</div>
+</li>
+<li><div class="varjoton-t"><a class="naviurl2"   href="http://www.museot.fi/lainattavat-nayttelyt/">Lainattavat näyttelyt</a></div><div class="varjoton-b">&nbsp;</div>
+</li></ul>
+</li></ul></div>
+
+
+
+</div>
+
+<div id="naviarea_footer">&nbsp;</div>
+
+</div><!--/palsta_vasen -->
+<div id="palsta_oikea"><div style="padding:0 7px 0 0">
+
+<div style="padding:1px 3px 3px 3px"><img src="/kuvat/nayttelykalenteri.jpg" alt="N&auml;yttelykalenteri" width="673" height="47"></div><div id="addthis_area">
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_google"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_email"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4f2a553776a32324"></script>
+<!-- AddThis Button END -->
+</div><div class="sijainti"><img alt="Sijaintisi: " src="kuvat/spacer.gif" height="1" width="1"><a class="sijaintiurl" href="http://www.museot.fi/index.php">Museot</a><span class="sijaintipass"> &gt; </span><a class="sijaintiurl" href="http://www.museot.fi/nayttelykalenteri/index.php">Näyttelykalenteri</a></div><div id="palsta_oikea_pad">
+
+<div id="sisalto">
+<a name="tekstin_alku"></a>
+<div id="listaus"><h1>Hakutulos</h1><table width="400"><tr>
+	<th align="left">&nbsp;</th>
+	<th align="left">Näyttely</th>
+	<th align="left">Paikkakunta</th>
+	<th align="left">Kausi</th>	
+	</tr><tr valign="top">
+	<td>1</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7876">Keskitalven uni (15.1. - 26.2.2012)</a><br>Nelimarkka-museo, Etelä-Pohjanmaan aluetaidemuseo ja Nelimarkka-residenssi</div></td>
+	<td>Alajärvi </td>
+	<td><div style="width:70px; overflow:hidden">15.1.2012&#8211; 26.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>2</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7071">Taiteen tien kulkija</a><br>Nelimarkka-museo, Etelä-Pohjanmaan aluetaidemuseo ja Nelimarkka-residenssi</div></td>
+	<td>Alajärvi </td>
+	<td><div style="width:70px; overflow:hidden">1.1.2011&#8211; 1.12.2012</div></td>	
+	</tr><tr valign="top">
+	<td>3</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7783">Hanki kantaa</a><br>Gallen-Kallelan Museo</div></td>
+	<td>Espoo </td>
+	<td><div style="width:70px; overflow:hidden">21.1.2012&#8211; 18.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>4</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7882">Hiihtolomalla WeeGeellä</a><br>Näyttelykeskus WeeGee</div></td>
+	<td>Espoo </td>
+	<td><div style="width:70px; overflow:hidden">20.2.2012&#8211; 4.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>5</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7393">Kädentaitojen keskiviikot</a><br>Espoon kaupunginmuseo, Glims talomuseo</div></td>
+	<td>Espoo </td>
+	<td><div style="width:70px; overflow:hidden">4.1.2012&#8211; 25.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>6</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7400">Käsityöpajat Koulumuseo Lagstadissa</a><br>Espoon kaupunginmuseo, Lagstadin koulumuseo</div></td>
+	<td>Espoo </td>
+	<td><div style="width:70px; overflow:hidden">10.1.2012&#8211; 15.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>7</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7749">Lapponia. The Art of Time.</a><br>Suomen Kellomuseo</div></td>
+	<td>Espoo </td>
+	<td><div style="width:70px; overflow:hidden">4.5.2011&#8211; 1.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>8</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7390">LAPSUUDEN VALTAVA VOIMA</a><br>Espoon kaupunginmuseo, Glims talomuseo</div></td>
+	<td>Espoo </td>
+	<td><div style="width:70px; overflow:hidden">17.2.2012&#8211; 16.9.2012</div></td>	
+	</tr><tr valign="top">
+	<td>9</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7540">Maailma matkalaukussa - Juhani Harrin esinekoosteita</a><br>EMMA - Espoon modernin taiteen museo</div></td>
+	<td>Espoo </td>
+	<td><div style="width:70px; overflow:hidden">11.11.2011&#8211; 17.3.2013</div></td>	
+	</tr><tr valign="top">
+	<td>10</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7391">Pitkiä pellavia! - opastus</a><br>Espoon kaupunginmuseo, Glims talomuseo</div></td>
+	<td>Espoo </td>
+	<td><div style="width:70px; overflow:hidden">19.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>11</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6241">Satujen prinssit ja prinsessat</a><br>Suomen Lelumuseo Hevosenkenkä</div></td>
+	<td>Espoo </td>
+	<td><div style="width:70px; overflow:hidden">24.3.2011&#8211; 11.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>12</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=5039">Ymmärrätkö leikkiä?</a><br>Suomen Lelumuseo Hevosenkenkä</div></td>
+	<td>Espoo </td>
+	<td><div style="width:70px; overflow:hidden">13.10.2006&#8211; 31.12.2012</div></td>	
+	</tr><tr valign="top">
+	<td>13</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7699">Outi Saaristo ja Lauri Ahtiainen </a><br>Forssan museo</div></td>
+	<td>Forssa </td>
+	<td><div style="width:70px; overflow:hidden">5.2.2012&#8211; 28.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>14</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6098">Pitsitaivas. Pitsejä Hangon museon ja yksityisistä kokoelmista.</a><br>Hangon museo</div></td>
+	<td>Hanko </td>
+	<td><div style="width:70px; overflow:hidden">19.11.2011&#8211; 15.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>15</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7103">Rauman pitsi - Raumalaisia mestarinyplääjiä</a><br>Emil Cedercreutzin museo </div></td>
+	<td>Harjavalta </td>
+	<td><div style="width:70px; overflow:hidden">23.1.2012&#8211; 15.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>16</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7794">Heinolan Taidemuseon Ystävät ry 20-vuotisnäyttely</a><br>Heinolan kaupunginmuseo</div></td>
+	<td>Heinola </td>
+	<td><div style="width:70px; overflow:hidden">5.2.2012&#8211; 18.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>17</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7785">Heinolan Taidemuseon Ystävät ry 20-vuotisnäyttely</a><br>Heinolan taidemuseo</div></td>
+	<td>Heinola </td>
+	<td><div style="width:70px; overflow:hidden">5.2.2012&#8211; 18.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>18</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7551">&quot;Enemmän funkista, Reino!&quot; - Design Helsinki-elokuvissa </a><br>Helsingin kaupunginmuseo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">15.2.2012&#8211; 13.1.2013</div></td>	
+	</tr><tr valign="top">
+	<td>19</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7773">Alvar Aalto -mitali 2012</a><br>Arkkitehtuurimuseo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">4.2.2012&#8211; 26.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>20</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7038">Eero Saarinen -juhlaluento: Carolina Bueno / Triptyque Architecture</a><br>Arkkitehtuurimuseo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">14.9.2011&#8211; 14.9.2012</div></td>	
+	</tr><tr valign="top">
+	<td>21</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7160">Etsin!</a><br>Helsingin yliopistomuseo Arppeanum</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">1.11.2011&#8211; 29.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>22</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7241">Hiihtolomaviikko Postimuseossa</a><br>Postimuseo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">20.2.2012&#8211; 24.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>23</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7385">Itä-länsi -battle </a><br>Suomen valokuvataiteen museo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">24.2.2012&#8211; 25.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>24</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6953">JATKOSOTA TK-PIIRTÄJIEN SILMIN</a><br>Sotamuseo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">17.6.2011&#8211; 31.12.2012</div></td>	
+	</tr><tr valign="top">
+	<td>25</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7898">Jännittävä salapoliisimysteeri Kansallismuseossa hiihtolomaviikolla 21.-26.2.2012</a><br>Suomen kansallismuseo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">21.2.2012&#8211; 26.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>26</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7295">K-G Roos - Mafia, Marimekko, Mannerheim</a><br>Suomen valokuvataiteen museo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">1.2.2012&#8211; 29.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>27</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=5507">Kaukaa haettua</a><br>Kulttuurien museo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">1.10.2006&#8211; 31.12.2013</div></td>	
+	</tr><tr valign="top">
+	<td>28</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=4781">Kokoelmanäyttely</a><br>Ateneumin taidemuseo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">7.5.2010&#8211; 31.12.2012</div></td>	
+	</tr><tr valign="top">
+	<td>29</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7659">Korppiparvi</a><br>Nykytaiteen museo Kiasma</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">17.2.2012&#8211; 20.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>30</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6223">Kuin silloin ennen - Lasten elämää Rudolf Koivun kuvittamana</a><br>Postimuseo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">10.11.2011&#8211; 3.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>31</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7240">Kultavuori - Rudolf Koivun nukketeatterisatu</a><br>Postimuseo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">18.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>32</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7856">Kulttuurihistoriaa keskellä päivää Kansallismuseossa</a><br>Suomen kansallismuseo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">10.2.2012&#8211; 10.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>33</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7801">Kättä pidempää - työkalujen tekniikkaa</a><br>Tekniikan museo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">1.2.2012&#8211; 31.7.2012</div></td>	
+	</tr><tr valign="top">
+	<td>34</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7348">Lasten viikot</a><br>Suomen Urheilumuseo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">16.1.2012&#8211; 11.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>35</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=4570">Luonnontieteellinen museo</a><br>Luonnontieteellinen keskusmuseo, Geologian museo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">23.5.2008&#8211; Joulukuu 2020</div></td>	
+	</tr><tr valign="top">
+	<td>36</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6999">Meripihkasta teknologiaksi</a><br>Tekniikan museo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">8.6.2011&#8211; 4.6.2012</div></td>	
+	</tr><tr valign="top">
+	<td>37</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7799">Muotoiltua teknologiaa - Kurkistuksia designiin</a><br>Tekniikan museo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">1.2.2012&#8211; 31.12.2012</div></td>	
+	</tr><tr valign="top">
+	<td>38</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7800">Muotoiltua teknologiaa - Muotoilijan polku</a><br>Tekniikan museo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">1.2.2012&#8211; 31.12.2012</div></td>	
+	</tr><tr valign="top">
+	<td>39</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7381">Octavian Bâlea: Flexi-in-security Redux </a><br>Suomen valokuvataiteen museo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">24.2.2012&#8211; 25.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>40</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=5508">Olipa kerran ihan pimeetä</a><br>Kulttuurien museo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">17.2.2010&#8211; 31.12.2013</div></td>	
+	</tr><tr valign="top">
+	<td>41</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7434">Outi Heiskanen - Alkumeri</a><br>Didrichsenin taide- ja kulttuurimuseo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">11.2.2012&#8211; 19.8.2012</div></td>	
+	</tr><tr valign="top">
+	<td>42</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7185">Prof. Laura Kolbe: Euroopan kulttuurin murroksia ja jatkuvuuksia 1600-luvulla</a><br>Sinebrychoffin taidemuseo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">22.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>43</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7181">Rembrandt - Kuparilaatan mestari</a><br>Sinebrychoffin taidemuseo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">2.2.2012&#8211; 29.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>44</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7772">Seven Connections - Ikkuna suomalaiseen arkkitehtuuriin</a><br>Arkkitehtuurimuseo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">11.1.2012&#8211; 26.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>45</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=3377">Talvisota 1939-1940 - Kunniamme päivät</a><br>Sotamuseo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">1.12.2009&#8211; 31.12.2012</div></td>	
+	</tr><tr valign="top">
+	<td>46</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6184">Terweisiä Kiinasta ja Afrikasta! Walistusta ja huwittawia esineitä Suomen rahwaalle</a><br>Kumbukumbu Suomen Lähetysseuran museo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">15.4.2011&#8211; 18.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>47</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7658">Thank You for the Music - Kuinka musiikki meitä liikuttaa</a><br>Nykytaiteen museo Kiasma</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">20.1.2012&#8211; 17.6.2012</div></td>	
+	</tr><tr valign="top">
+	<td>48</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7847">Tilanne kärjistyy - Ilta-Sanomat 80 vuotta</a><br>Päivälehden museo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">16.2.2012&#8211; 10.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>49</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7294">Timo Kelaranta: Outo rakkaus</a><br>Suomen valokuvataiteen museo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">1.2.2012&#8211; 29.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>50</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=4942">Unelmien koti. Nukkekodit Suomen kansallismuseossa.</a><br>Suomen kansallismuseo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">12.11.2010&#8211; 2.9.2012</div></td>	
+	</tr><tr valign="top">
+	<td>51</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7602">Viva Vivica!</a><br>Teatterimuseo</div></td>
+	<td>Helsinki </td>
+	<td><div style="width:70px; overflow:hidden">10.2.2012&#8211; 3.6.2012</div></td>	
+	</tr><tr valign="top">
+	<td>52</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7829">Eino Vesalainen - taidetta sydämellä</a><br>Hyvinkään taidemuseo</div></td>
+	<td>Hyvinkää </td>
+	<td><div style="width:70px; overflow:hidden">20.1.2012&#8211; 4.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>53</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6955">Aalto-maljakko 75 vuotta</a><br>Iittalan lasitehtaan museo</div></td>
+	<td>Hämeenlinna </td>
+	<td><div style="width:70px; overflow:hidden">4.5.2011&#8211; 30.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>54</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7301">Egon Meuronen (1922-2005)</a><br>Hämeenlinnan taidemuseo</div></td>
+	<td>Hämeenlinna </td>
+	<td><div style="width:70px; overflow:hidden">24.2.2012&#8211; 31.12.2012</div></td>	
+	</tr><tr valign="top">
+	<td>55</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6591">Jokapäiväinen paperimme</a><br>Hämeenlinnan kaupungin historiallinen museo</div></td>
+	<td>Hämeenlinna </td>
+	<td><div style="width:70px; overflow:hidden">12.5.2011&#8211; 11.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>56</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7299">Jukka Korpihete - Dreaming of Light</a><br>Hämeenlinnan taidemuseo</div></td>
+	<td>Hämeenlinna </td>
+	<td><div style="width:70px; overflow:hidden">28.1.2012&#8211; 9.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>57</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7180">Kaupunki ja ihmisiä - Valokuvaaja Kyllikki Louhivaara</a><br>Hämeenlinnan kaupungin historiallinen museo</div></td>
+	<td>Hämeenlinna </td>
+	<td><div style="width:70px; overflow:hidden">10.11.2011&#8211; 4.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>58</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7899">Onko koira kotona?</a><br>Hämeenlinnan kaupungin historiallinen museo</div></td>
+	<td>Hämeenlinna </td>
+	<td><div style="width:70px; overflow:hidden">17.2.2012&#8211; 2.9.2012</div></td>	
+	</tr><tr valign="top">
+	<td>59</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=5611">Imatran ja lähiseudun arkeologiaa</a><br>Imatran kaupunginmuseo</div></td>
+	<td>Imatra </td>
+	<td><div style="width:70px; overflow:hidden">4.6.2010&#8211; 8.12.2013</div></td>	
+	</tr><tr valign="top">
+	<td>60</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7851">Mapuche - Chilen elävät juuret</a><br>Saamelaismuseo Siida</div></td>
+	<td>Inari </td>
+	<td><div style="width:70px; overflow:hidden">18.2.2012&#8211; 1.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>61</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7343">Kasari - Sari Poijärven valokuvia</a><br>Joensuun taidemuseo</div></td>
+	<td>Joensuu </td>
+	<td><div style="width:70px; overflow:hidden">12.1.2012&#8211; 11.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>62</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6095">Matkalla Karjalassa</a><br>Pohjois-Karjalan museo</div></td>
+	<td>Joensuu </td>
+	<td><div style="width:70px; overflow:hidden">29.1.2011&#8211; Joulukuu 2020</div></td>	
+	</tr><tr valign="top">
+	<td>63</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7379">Työmaana teatteri</a><br>Pohjois-Karjalan museo</div></td>
+	<td>Joensuu </td>
+	<td><div style="width:70px; overflow:hidden">26.1.2012&#8211; 3.6.2012</div></td>	
+	</tr><tr valign="top">
+	<td>64</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7137">Alli Tourin kauniit kansallispukukuvat</a><br>Suomen käsityön museo</div></td>
+	<td>Jyväskylä </td>
+	<td><div style="width:70px; overflow:hidden">1.10.2011&#8211; 18.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>65</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7272">Jouni Kaipia: Tiloja ja tilanteita. </a><br>Alvar Aalto -museo</div></td>
+	<td>Jyväskylä </td>
+	<td><div style="width:70px; overflow:hidden">3.12.2011&#8211; 26.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>66</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7745">Kirsi Tapper, Puuveistoksia</a><br>Jyväskylän taidemuseo</div></td>
+	<td>Jyväskylä </td>
+	<td><div style="width:70px; overflow:hidden">3.2.2012&#8211; 22.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>67</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7746">Kulttuuriluotsien löytöjä - 2000-luvun kokoelmahankintoja</a><br>Jyväskylän taidemuseo</div></td>
+	<td>Jyväskylä </td>
+	<td><div style="width:70px; overflow:hidden">16.2.2012&#8211; 22.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>68</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7826">Naisten muistelukerrontaa palkkatyöstä 1940-1950-luvuilla</a><br>Keski-Suomen museo</div></td>
+	<td>Jyväskylä </td>
+	<td><div style="width:70px; overflow:hidden">21.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>69</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7769">NowHereFinland2012</a><br>Suomen käsityön museo</div></td>
+	<td>Jyväskylä </td>
+	<td><div style="width:70px; overflow:hidden">28.1.2012&#8211; 13.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>70</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=4330">Suomen käsityön museon lainattavat näyttelyt</a><br>Suomen käsityön museo</div></td>
+	<td>Jyväskylä </td>
+	<td><div style="width:70px; overflow:hidden">15.9.2009&#8211; 31.12.2012</div></td>	
+	</tr><tr valign="top">
+	<td>71</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7307">Aurora-seura. Eero Järnefelt ja Helsingin yliopiston seinämaalaukset</a><br>Järvenpään taidemuseo</div></td>
+	<td>Järvenpää </td>
+	<td><div style="width:70px; overflow:hidden">9.2.2012&#8211; 27.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>72</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7306">Taiteilija ja hänen miehensä - Outi Ikkala ja Seppo Kärkkäinen</a><br>Järvenpään taidemuseo</div></td>
+	<td>Järvenpää </td>
+	<td><div style="width:70px; overflow:hidden">9.2.2012&#8211; 27.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>73</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7823">Taiteilijatapaaminen: Seppo Kärkkäinen</a><br>Järvenpään taidemuseo</div></td>
+	<td>Järvenpää </td>
+	<td><div style="width:70px; overflow:hidden">19.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>74</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7371">Mehiläiset</a><br>Kainuun Museo</div></td>
+	<td>Kajaani </td>
+	<td><div style="width:70px; overflow:hidden">15.1.2012&#8211; 29.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>75</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7445">Sutta ja sarjakuvaa - Riitta Uusitalo</a><br>Kajaanin taidemuseo</div></td>
+	<td>Kajaani </td>
+	<td><div style="width:70px; overflow:hidden">12.2.2012&#8211; 1.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>76</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=1916">Uusi perusnäyttely</a><br>Kainuun Museo</div></td>
+	<td>Kajaani </td>
+	<td><div style="width:70px; overflow:hidden">23.1.2009&#8211; Joulukuu 2015</div></td>	
+	</tr><tr valign="top">
+	<td>77</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7375">Uutta kokoelmissa</a><br>Kainuun Museo</div></td>
+	<td>Kajaani </td>
+	<td><div style="width:70px; overflow:hidden">3.1.2012&#8211; 11.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>78</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7482">Autoradioshow</a><br>Mobilia </div></td>
+	<td>Kangasala </td>
+	<td><div style="width:70px; overflow:hidden">18.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>79</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=4937">Mobilia Classics</a><br>Mobilia </div></td>
+	<td>Kangasala </td>
+	<td><div style="width:70px; overflow:hidden">11.1.2010&#8211; 31.12.2020</div></td>	
+	</tr><tr valign="top">
+	<td>80</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=5728">Rally Hall of Fame</a><br>Mobilia </div></td>
+	<td>Kangasala </td>
+	<td><div style="width:70px; overflow:hidden">1.4.2010&#8211; Joulukuu 2020</div></td>	
+	</tr><tr valign="top">
+	<td>81</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6235">HURAHDUS - keräilijöiden ihmeet</a><br>Kankaanpään kaupunginmuseo</div></td>
+	<td>Kankaanpää </td>
+	<td><div style="width:70px; overflow:hidden">1.10.2011&#8211; 9.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>82</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6802">Saksalainen jääkäri Carlos Nordwald</a><br>Suomen Jääkärimuseo</div></td>
+	<td>Kauhava </td>
+	<td><div style="width:70px; overflow:hidden">10.4.2011&#8211; 30.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>83</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7089">JUURAKON PYTINGIT JA PERHEET - Saaren elämää meren keskellä</a><br>Kemin historiallinen museo</div></td>
+	<td>Kemi </td>
+	<td><div style="width:70px; overflow:hidden">8.9.2011&#8211; 26.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>84</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6262">Olemassaolon kuva. Maalauksia ihmisestä. </a><br>Keuruun museo </div></td>
+	<td>Keuruu </td>
+	<td><div style="width:70px; overflow:hidden">25.10.2011&#8211; 28.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>85</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7284">Jänkä kuin koti</a><br>Särestöniemi-museo</div></td>
+	<td>Kittilä </td>
+	<td><div style="width:70px; overflow:hidden">2.12.2011&#8211; 10.10.2012</div></td>	
+	</tr><tr valign="top">
+	<td>86</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7285">Puupiirroslaattojen kertomaa</a><br>Särestöniemi-museo</div></td>
+	<td>Kittilä </td>
+	<td><div style="width:70px; overflow:hidden">1.12.2011&#8211; 10.10.2012</div></td>	
+	</tr><tr valign="top">
+	<td>87</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7171">Saana Kursula & Malin Simons</a><br>K.H.Renlundin museo - Keski-Pohjanmaan maakuntamuseo, Museokortteli</div></td>
+	<td>Kokkola </td>
+	<td><div style="width:70px; overflow:hidden">26.1.2012&#8211; 4.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>88</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7812">Samaan aikaan toisaalla - hetkiä Itämeren kaupungissa</a><br>Luontokokoelma Kieppi</div></td>
+	<td>Kokkola </td>
+	<td><div style="width:70px; overflow:hidden">11.1.2012&#8211; 26.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>89</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7169">Sirkka-Liisa Konttinen</a><br>K. H. Renlundin museo - Keski-Pohjanmaan maakuntamuseo, Roosin talo</div></td>
+	<td>Kokkola </td>
+	<td><div style="width:70px; overflow:hidden">12.1.2012&#8211; 18.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>90</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6316">Karhu ja Tähti - työtä, leipää ja menestystä</a><br>Kymenlaakson museo</div></td>
+	<td>Kotka </td>
+	<td><div style="width:70px; overflow:hidden">18.11.2011&#8211; 18.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>91</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=1531">Pohjantähti, Etelän risti - Suomen merimuseon päänäyttely</a><br>Suomen merimuseo</div></td>
+	<td>Kotka </td>
+	<td><div style="width:70px; overflow:hidden">11.7.2008&#8211; Joulukuu 2012</div></td>	
+	</tr><tr valign="top">
+	<td>92</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=4907">Virtaa - Kymenlaakson museon päänäyttely</a><br>Kymenlaakson museo</div></td>
+	<td>Kotka </td>
+	<td><div style="width:70px; overflow:hidden">11.7.2008&#8211; Joulukuu 2012</div></td>	
+	</tr><tr valign="top">
+	<td>93</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7472">KOUTA-gallerian näyttelyt 2012</a><br>Kouvolan taidemuseo POIKILO</div></td>
+	<td>Kouvola </td>
+	<td><div style="width:70px; overflow:hidden">1.1.2012&#8211; 31.12.2012</div></td>	
+	</tr><tr valign="top">
+	<td>94</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7473">Kouvolan taidemuseon gallerian näyttelyt 2012</a><br>Kouvolan taidemuseo POIKILO</div></td>
+	<td>Kouvola </td>
+	<td><div style="width:70px; overflow:hidden">1.1.2012&#8211; 31.12.2012</div></td>	
+	</tr><tr valign="top">
+	<td>95</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7467">Open your eyes - yo can fly</a><br>Kouvolan taidemuseo POIKILO</div></td>
+	<td>Kouvola </td>
+	<td><div style="width:70px; overflow:hidden">9.2.2012&#8211; 15.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>96</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=5970">Sinikka Kurkinen</a><br>Kouvolan taidemuseo POIKILO</div></td>
+	<td>Kouvola </td>
+	<td><div style="width:70px; overflow:hidden">6.10.2011&#8211; 15.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>97</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7403">EMÄNTÄ. Näyttely maaseudun naisesta </a><br>Kuopion kulttuurihistoriallinen museo</div></td>
+	<td>Kuopio </td>
+	<td><div style="width:70px; overflow:hidden">8.2.2012&#8211; 29.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>98</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=2910">Lintukoto - Metsästä maailmalle</a><br>Kuopion taidemuseo</div></td>
+	<td>Kuopio </td>
+	<td><div style="width:70px; overflow:hidden">Tammikuu 2006&#8211; Joulukuu 2012</div></td>	
+	</tr><tr valign="top">
+	<td>99</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7209">Minkäspaikka -kurssi 22.2.</a><br>Suomen Ortodoksinen kirkkomuseo</div></td>
+	<td>Kuopio </td>
+	<td><div style="width:70px; overflow:hidden">22.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>100</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7260">Noora ja Kimmo Schroderus. Maailma</a><br>Kuopion taidemuseo</div></td>
+	<td>Kuopio </td>
+	<td><div style="width:70px; overflow:hidden">17.2.2012&#8211; 20.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>101</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7261">Prinsessa ja valtakunta</a><br>Kuopion taidemuseo</div></td>
+	<td>Kuopio </td>
+	<td><div style="width:70px; overflow:hidden">17.2.2012&#8211; 20.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>102</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7834">Selviytyjät - lumen ja jään linnut</a><br>Kuopion luonnontieteellinen museo</div></td>
+	<td>Kuopio </td>
+	<td><div style="width:70px; overflow:hidden">17.1.2012&#8211; 8.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>103</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7410">Skeittarit museossa</a><br>Kuopion kulttuurihistoriallinen museo</div></td>
+	<td>Kuopio </td>
+	<td><div style="width:70px; overflow:hidden">19.1.2012&#8211; 9.9.2012</div></td>	
+	</tr><tr valign="top">
+	<td>104</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7221">Ekolandia - vihreiden muotojen maa</a><br>Lahden kaupunginmuseo, Taidemuseo/Julistemuseo</div></td>
+	<td>Lahti </td>
+	<td><div style="width:70px; overflow:hidden">3.2.2012&#8211; 27.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>105</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=533">Huipulta - Alppilajien historiaa Suomessa</a><br>Lahden kaupunginmuseo, Hiihtomuseo</div></td>
+	<td>Lahti </td>
+	<td><div style="width:70px; overflow:hidden">14.10.2009&#8211; 31.12.2012</div></td>	
+	</tr><tr valign="top">
+	<td>106</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=4404">Terveiset talvikisoista</a><br>Lahden kaupunginmuseo, Hiihtomuseo</div></td>
+	<td>Lahti </td>
+	<td><div style="width:70px; overflow:hidden">16.10.2009&#8211; 31.12.2012</div></td>	
+	</tr><tr valign="top">
+	<td>107</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7759">Anita Ermala-Järveläisen taidetta</a><br>Lapinlahden taidemuseo ja Eemil Halosen museo</div></td>
+	<td>Lapinlahti </td>
+	<td><div style="width:70px; overflow:hidden">18.2.2012&#8211; 28.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>108</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7757">Katja Lösönen: Under the Surface, into the Bllue</a><br>Lapinlahden taidemuseo ja Eemil Halosen museo</div></td>
+	<td>Lapinlahti </td>
+	<td><div style="width:70px; overflow:hidden">18.2.2012&#8211; 28.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>109</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7758">Muistoja Onkivedeltä</a><br>Lapinlahden taidemuseo ja Eemil Halosen museo</div></td>
+	<td>Lapinlahti </td>
+	<td><div style="width:70px; overflow:hidden">18.2.2012&#8211; 28.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>110</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7095">Marimekkoelämää - 60 vuotta väriä, raitaa ja muotoja </a><br>Etelä-Karjalan museo</div></td>
+	<td>Lappeenranta </td>
+	<td><div style="width:70px; overflow:hidden">31.1.2012&#8211; 22.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>111</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7459">Sota vai rauha? Suomen Kuvataidejärjestöjen Liiton teemanäyttely</a><br>Etelä-Karjalan taidemuseo - Kaakkois-Suomen aluetaidemuseo</div></td>
+	<td>Lappeenranta </td>
+	<td><div style="width:70px; overflow:hidden">18.2.2012&#8211; 3.6.2012</div></td>	
+	</tr><tr valign="top">
+	<td>112</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7718">&quot;Kesätapahtumia museolla 2011&quot;</a><br>Pielisen museo</div></td>
+	<td>Lieksa </td>
+	<td><div style="width:70px; overflow:hidden">25.1.2012&#8211; 20.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>113</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7894">Arkeologiset näyttelyt</a><br>Liedon Vanhalinna</div></td>
+	<td>Lieto </td>
+	<td><div style="width:70px; overflow:hidden">Tammikuu 2012&#8211; Joulukuu 2012</div></td>	
+	</tr><tr valign="top">
+	<td>114</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7892">Elämänlanka</a><br>Liedon Vanhalinna</div></td>
+	<td>Lieto </td>
+	<td><div style="width:70px; overflow:hidden">Tammikuu 2012&#8211; Joulukuu 2012</div></td>	
+	</tr><tr valign="top">
+	<td>115</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7893">Idän ja lännen maa</a><br>Liedon Vanhalinna</div></td>
+	<td>Lieto </td>
+	<td><div style="width:70px; overflow:hidden">Tammikuu 2012&#8211; Joulukuu 2012</div></td>	
+	</tr><tr valign="top">
+	<td>116</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7891">Kartanokotimuseo</a><br>Liedon Vanhalinna</div></td>
+	<td>Lieto </td>
+	<td><div style="width:70px; overflow:hidden">Tammikuu 2012&#8211; Joulukuu 2012</div></td>	
+	</tr><tr valign="top">
+	<td>117</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7751">Maaseppien aseita - niuhat, väljät ja kiväärit</a><br>Liedon Vanhalinna</div></td>
+	<td>Lieto </td>
+	<td><div style="width:70px; overflow:hidden">20.1.2012&#8211; 29.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>118</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7871">Raimo Nummelin - maalauksia ja Mirja Rakkolainen - valokuvia</a><br>Liedon Vanhalinna</div></td>
+	<td>Lieto </td>
+	<td><div style="width:70px; overflow:hidden">20.1.2012&#8211; 29.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>119</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7752">Vaatteen viesti</a><br>Liedon Vanhalinna</div></td>
+	<td>Lieto </td>
+	<td><div style="width:70px; overflow:hidden">20.1.2012&#8211; 6.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>120</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7874">Vanhalinnan laskiaisrieha 19.2.</a><br>Liedon Vanhalinna</div></td>
+	<td>Lieto </td>
+	<td><div style="width:70px; overflow:hidden">19.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>121</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6954">Kotikaupunkimme Lohja</a><br>Lohjan museo</div></td>
+	<td>Lohja </td>
+	<td><div style="width:70px; overflow:hidden">1.6.2011&#8211; 31.12.2020</div></td>	
+	</tr><tr valign="top">
+	<td>122</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7839">Hanna Rautavuori: Saviseutuni</a><br>Suomen maatalousmuseo Sarka</div></td>
+	<td>Loimaa </td>
+	<td><div style="width:70px; overflow:hidden">5.1.2012&#8211; 3.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>123</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6369">Mehiläiset</a><br>Suomen maatalousmuseo Sarka</div></td>
+	<td>Loimaa </td>
+	<td><div style="width:70px; overflow:hidden">00 0000&#8211; 29.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>124</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7843">Muuttuvat maatilat</a><br>Suomen maatalousmuseo Sarka</div></td>
+	<td>Loimaa </td>
+	<td><div style="width:70px; overflow:hidden">17.1.2012&#8211; 22.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>125</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7883">Seitsemäntoista katsetta Loimijokeen</a><br>Suomen maatalousmuseo Sarka</div></td>
+	<td>Loimaa </td>
+	<td><div style="width:70px; overflow:hidden">3.2.2012&#8211; 25.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>126</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7897">Talviloman puuhapäivä</a><br>Suomen maatalousmuseo Sarka</div></td>
+	<td>Loimaa </td>
+	<td><div style="width:70px; overflow:hidden">23.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>127</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7086">P. E. Svinhufvud ja Kotkaniemi sukulaisten muistoissa</a><br>Kotkaniemi, P. E. Svinhufvudin koti</div></td>
+	<td>Luumäki </td>
+	<td><div style="width:70px; overflow:hidden">1.6.2011&#8211; 14.8.2012</div></td>	
+	</tr><tr valign="top">
+	<td>128</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7515">Etelä-Savon aluetaidenäyttely 2012</a><br>Mikkelin kaupungin museot, Mikkelin taidemuseo - Etelä-Savon aluetaidemuseo</div></td>
+	<td>Mikkeli </td>
+	<td><div style="width:70px; overflow:hidden">18.2.2012&#8211; 6.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>129</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7828">Laskiaisrieha</a><br>Stundars museo ja kulttuurikeskus</div></td>
+	<td>Mustasaari </td>
+	<td><div style="width:70px; overflow:hidden">19.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>130</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=5955">Göstan helmet</a><br>Serlachius-museo Gösta</div></td>
+	<td>Mänttä-Vilppula</td>
+	<td><div style="width:70px; overflow:hidden">5.2.2011&#8211; 2.9.2012</div></td>	
+	</tr><tr valign="top">
+	<td>131</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=5972">Metsästäjät</a><br>Serlachius-museo Gustaf</div></td>
+	<td>Mänttä-Vilppula</td>
+	<td><div style="width:70px; overflow:hidden">4.12.2010&#8211; 31.12.2013</div></td>	
+	</tr><tr valign="top">
+	<td>132</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7498">Iikka Paavalniemen Rovaniemi </a><br>Nurmeksen museo</div></td>
+	<td>Nurmes </td>
+	<td><div style="width:70px; overflow:hidden">19.1.2012&#8211; 2.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>133</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7859">Jaakko Mattila - Lohikäärmeen vuosi</a><br>Oulun taidemuseo</div></td>
+	<td>Oulu </td>
+	<td><div style="width:70px; overflow:hidden">21.1.2012&#8211; 5.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>134</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7862">Kauneutta etsimässä - teoksia Tuomo Sepon kokoelmasta III</a><br>Oulun taidemuseo</div></td>
+	<td>Oulu </td>
+	<td><div style="width:70px; overflow:hidden">4.2.2012&#8211; 3.6.2012</div></td>	
+	</tr><tr valign="top">
+	<td>135</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7860">Marjukka Vainio - Episodeja</a><br>Oulun taidemuseo</div></td>
+	<td>Oulu </td>
+	<td><div style="width:70px; overflow:hidden">21.1.2012&#8211; 5.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>136</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7326">Lasten lauantai</a><br>Porin taidemuseo</div></td>
+	<td>Pori </td>
+	<td><div style="width:70px; overflow:hidden">25.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>137</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7654">Lasten työpaja: Maskotti on pop!</a><br>Satakunnan Museo</div></td>
+	<td>Pori </td>
+	<td><div style="width:70px; overflow:hidden">22.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>138</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7655">Lasten työpaja: Nikkarointi on kivaa!</a><br>Rakennuskulttuuritalo Toivo ja Korsmanin talo</div></td>
+	<td>Pori </td>
+	<td><div style="width:70px; overflow:hidden">23.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>139</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7555">Marubi-studio</a><br>Satakunnan Museo</div></td>
+	<td>Pori </td>
+	<td><div style="width:70px; overflow:hidden">17.2.2012&#8211; 15.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>140</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7610">Matin päivä</a><br>Rosenlew-museo</div></td>
+	<td>Pori </td>
+	<td><div style="width:70px; overflow:hidden">24.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>141</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7558">mitä täällä tapahtuu?</a><br>Satakunnan Museo</div></td>
+	<td>Pori </td>
+	<td><div style="width:70px; overflow:hidden">16.5.2011&#8211; Toukokuu 2012</div></td>	
+	</tr><tr valign="top">
+	<td>142</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7242">Sándor Vály: Bruegel variations</a><br>Porin taidemuseo</div></td>
+	<td>Pori </td>
+	<td><div style="width:70px; overflow:hidden">10.2.2012&#8211; 25.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>143</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7243">Sándor Vály: Selected Life</a><br>Porin taidemuseo</div></td>
+	<td>Pori </td>
+	<td><div style="width:70px; overflow:hidden">10.2.2012&#8211; 27.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>144</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7623">Satakuntalainen maisema</a><br>Luontotalo Arkki</div></td>
+	<td>Pori </td>
+	<td><div style="width:70px; overflow:hidden">7.2.2012&#8211; 27.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>145</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7201">Street Art - The New Generation</a><br>Porin taidemuseo</div></td>
+	<td>Pori </td>
+	<td><div style="width:70px; overflow:hidden">10.2.2012&#8211; 27.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>146</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6052">Talvirieha</a><br>Satakunnan Museo</div></td>
+	<td>Pori </td>
+	<td><div style="width:70px; overflow:hidden">9.12.2011&#8211; 4.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>147</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6854">Albertin ja Villen aikaan</a><br>Porvoon museo, Holmin talo</div></td>
+	<td>Porvoo </td>
+	<td><div style="width:70px; overflow:hidden">1.6.2011&#8211; 7.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>148</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6855">Jokilaaksojen valtiaat</a><br>Porvoon museo, Vanha raatihuone</div></td>
+	<td>Porvoo </td>
+	<td><div style="width:70px; overflow:hidden">15.6.2011&#8211; 31.12.2015</div></td>	
+	</tr><tr valign="top">
+	<td>149</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7344">Henkilökuvassa Heikki Lounaja </a><br>Lusto - Suomen Metsämuseo</div></td>
+	<td>Punkaharju </td>
+	<td><div style="width:70px; overflow:hidden">4.10.2011&#8211; 1.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>150</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7289">Paksun haapapuun taikapiiri</a><br>Lusto - Suomen Metsämuseo</div></td>
+	<td>Punkaharju </td>
+	<td><div style="width:70px; overflow:hidden">26.11.2011&#8211; 28.10.2012</div></td>	
+	</tr><tr valign="top">
+	<td>151</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6135">100 v. linssin läpi - Ateljé Holmström 100 v. / Harry Holmström 80 v.</a><br>Tammisaaren museokeskus EKTA</div></td>
+	<td>Raasepori</td>
+	<td><div style="width:70px; overflow:hidden">18.11.2011&#8211; 26.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>152</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=1002">Kaikkien aikojen Tammisaari</a><br>Tammisaaren museokeskus EKTA</div></td>
+	<td>Raasepori</td>
+	<td><div style="width:70px; overflow:hidden">1.1.2007&#8211; 31.12.2020</div></td>	
+	</tr><tr valign="top">
+	<td>153</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6142">Ylä-ruukki - Opp-i-bruke</a><br>Fiskarsin Museo</div></td>
+	<td>Raasepori</td>
+	<td><div style="width:70px; overflow:hidden">28.5.2011&#8211; 12.12.2020</div></td>	
+	</tr><tr valign="top">
+	<td>154</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7590">Elämänkaari</a><br>Raision museo Harkko</div></td>
+	<td>Raisio </td>
+	<td><div style="width:70px; overflow:hidden">17.2.2012&#8211; 4.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>155</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6122">150 vuotta merimiehiä 1860-2010</a><br>Rauman merimuseo</div></td>
+	<td>Rauma </td>
+	<td><div style="width:70px; overflow:hidden">10.6.2010&#8211; 31.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>156</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7249">Duncan Butt Juvonen (Pihatalon Studio)</a><br>Lönnströmin taidemuseo</div></td>
+	<td>Rauma </td>
+	<td><div style="width:70px; overflow:hidden">11.2.2012&#8211; 11.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>157</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7245">Juhani Linnovaara</a><br>Lönnströmin taidemuseo</div></td>
+	<td>Rauma </td>
+	<td><div style="width:70px; overflow:hidden">11.2.2012&#8211; 20.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>158</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6912">Mestarinyplääjä Jenny Engren</a><br>Rauman museo, Vanha Raatihuone</div></td>
+	<td>Rauma </td>
+	<td><div style="width:70px; overflow:hidden">10.6.2011&#8211; 31.12.2013</div></td>	
+	</tr><tr valign="top">
+	<td>159</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6910">Paseraus Vanhas Raumas</a><br>Rauman museo, Marela</div></td>
+	<td>Rauma </td>
+	<td><div style="width:70px; overflow:hidden">10.6.2011&#8211; 31.12.2013</div></td>	
+	</tr><tr valign="top">
+	<td>160</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7227">Rauman museo 120-vuotta</a><br>Rauman museo, Vanha Raatihuone</div></td>
+	<td>Rauma </td>
+	<td><div style="width:70px; overflow:hidden">16.10.2011&#8211; 1.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>161</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7263">Taide rakentaa Raumaa</a><br>Rauman Taidemuseo</div></td>
+	<td>Rauma </td>
+	<td><div style="width:70px; overflow:hidden">18.2.2012&#8211; 6.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>162</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7707">Fun!</a><br>Riihimäen Taidemuseo</div></td>
+	<td>Riihimäki </td>
+	<td><div style="width:70px; overflow:hidden">28.1.2012&#8211; 29.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>163</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7495">Kotiaskareista ammattitöihin</a><br>Riihimäen kaupunginmuseo</div></td>
+	<td>Riihimäki </td>
+	<td><div style="width:70px; overflow:hidden">11.1.2012&#8211; 29.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>164</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7712">Pohjolan valkoinen kuolema</a><br>Suomen Metsästysmuseo</div></td>
+	<td>Riihimäki </td>
+	<td><div style="width:70px; overflow:hidden">12.1.2012&#8211; 26.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>165</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6641">Telefoneerataan!</a><br>Riihimäen kaupunginmuseo</div></td>
+	<td>Riihimäki </td>
+	<td><div style="width:70px; overflow:hidden">11.9.2011&#8211; 26.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>166</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7708">Virtuaalimuseo</a><br>Riihimäen Taidemuseo</div></td>
+	<td>Riihimäki </td>
+	<td><div style="width:70px; overflow:hidden">28.1.2012&#8211; 31.12.2012</div></td>	
+	</tr><tr valign="top">
+	<td>167</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7642">Arktikum 20-vuotta juhlavuosi 2012</a><br>Lapin maakuntamuseo</div></td>
+	<td>Rovaniemi </td>
+	<td><div style="width:70px; overflow:hidden">1.1.2012&#8211; 31.12.2012</div></td>	
+	</tr><tr valign="top">
+	<td>168</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7634">Maan väkeä ja muita tarinoita</a><br>Lapin maakuntamuseo</div></td>
+	<td>Rovaniemi </td>
+	<td><div style="width:70px; overflow:hidden">14.2.2012&#8211; 31.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>169</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6662">Nature Forte - Luonnonvoimia</a><br>Rovaniemen taidemuseo</div></td>
+	<td>Rovaniemi </td>
+	<td><div style="width:70px; overflow:hidden">26.5.2011&#8211; 22.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>170</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7280">SAMULI HEIMONEN, Tulvan jälkeen</a><br>Salon taidemuseo - Veturitalli</div></td>
+	<td>Salo </td>
+	<td><div style="width:70px; overflow:hidden">28.1.2012&#8211; 4.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>171</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7431">Koe kaupunki - lasten arkkitehtuuripaja</a><br>Savonlinnan maakuntamuseo</div></td>
+	<td>Savonlinna </td>
+	<td><div style="width:70px; overflow:hidden">16.12.2011&#8211; 31.12.2012</div></td>	
+	</tr><tr valign="top">
+	<td>172</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7430">Laiturilla, elämää Saimaan rannoilla</a><br>Savonlinnan maakuntamuseo</div></td>
+	<td>Savonlinna </td>
+	<td><div style="width:70px; overflow:hidden">16.12.2011&#8211; 31.12.2012</div></td>	
+	</tr><tr valign="top">
+	<td>173</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7432">Nestori, Saimaan luontonäyttely</a><br>Savonlinnan maakuntamuseo</div></td>
+	<td>Savonlinna </td>
+	<td><div style="width:70px; overflow:hidden">16.12.2011&#8211; 31.12.2012</div></td>	
+	</tr><tr valign="top">
+	<td>174</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7414">Olemisen avaruus, Anne Pelkosen maalauksia ja akvarelleja</a><br>Savonlinnan maakuntamuseo</div></td>
+	<td>Savonlinna </td>
+	<td><div style="width:70px; overflow:hidden">3.2.2012&#8211; 1.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>175</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=5202">Perämoottorin kyydissä</a><br>Savonlinnan maakuntamuseo</div></td>
+	<td>Savonlinna </td>
+	<td><div style="width:70px; overflow:hidden">1.4.2010&#8211; 29.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>176</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7404">Silmänkääntäjä, Vladimir Fominin lubok-maalauksia ja -piirroksia</a><br>Savonlinnan maakuntamuseo</div></td>
+	<td>Savonlinna </td>
+	<td><div style="width:70px; overflow:hidden">16.12.2011&#8211; 4.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>177</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6833">Eteläpohjalaista taidekäsityötä</a><br>Etelä-Pohjanmaan maakuntamuseo</div></td>
+	<td>Seinäjoki </td>
+	<td><div style="width:70px; overflow:hidden">27.11.2011&#8211; 25.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>178</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7539">Totta ja tarua kullasta</a><br>Kultamuseo</div></td>
+	<td>Sodankylä </td>
+	<td><div style="width:70px; overflow:hidden">23.1.2012&#8211; 25.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>179</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7817">Bali Hai!</a><br>Tampereen taidemuseo - Pirkanmaan aluetaidemuseo</div></td>
+	<td>Tampere </td>
+	<td><div style="width:70px; overflow:hidden">18.2.2012&#8211; 22.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>180</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7811">Erik Enroth</a><br>Sara Hildénin taidemuseo</div></td>
+	<td>Tampere </td>
+	<td><div style="width:70px; overflow:hidden">11.2.2012&#8211; 6.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>181</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7809">Fest Art: Animoi! Animaattoreiden näyttely</a><br>TR1 Taidehalli</div></td>
+	<td>Tampere </td>
+	<td><div style="width:70px; overflow:hidden">25.2.2012&#8211; 26.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>182</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6500">Ihan epäNormaalia</a><br>Työväenmuseo Werstas</div></td>
+	<td>Tampere </td>
+	<td><div style="width:70px; overflow:hidden">16.9.2011&#8211; 27.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>183</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7666">Katkeamaton Kangas</a><br>Työväenmuseo Werstas</div></td>
+	<td>Tampere </td>
+	<td><div style="width:70px; overflow:hidden">18.10.2011&#8211; 30.9.2012</div></td>	
+	</tr><tr valign="top">
+	<td>184</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7662">Koijärvi, Kessi ja kuusamon kosket</a><br>Työväenmuseo Werstas</div></td>
+	<td>Tampere </td>
+	<td><div style="width:70px; overflow:hidden">24.2.2012&#8211; 26.8.2012</div></td>	
+	</tr><tr valign="top">
+	<td>185</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=5835">Ladyn tyyli - Lady Ostapeckin Amerikan pukuja ja potretteja </a><br>Tampereen museot, Museokeskus Vapriikki</div></td>
+	<td>Tampere </td>
+	<td><div style="width:70px; overflow:hidden">18.3.2011&#8211; Maaliskuu 2012</div></td>	
+	</tr><tr valign="top">
+	<td>186</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7433">Lennossa - Linnut Vapriikissa</a><br>Tampereen museot, Museokeskus Vapriikki</div></td>
+	<td>Tampere </td>
+	<td><div style="width:70px; overflow:hidden">24.2.2012&#8211; 28.4.2013</div></td>	
+	</tr><tr valign="top">
+	<td>187</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=5012">Luonnontieteellinen museo  </a><br>Tampereen museot, Museokeskus Vapriikki</div></td>
+	<td>Tampere </td>
+	<td><div style="width:70px; overflow:hidden">9.12.2010&#8211; Tammikuu 2015</div></td>	
+	</tr><tr valign="top">
+	<td>188</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=3738">Meirän kaupunki</a><br>Työväenmuseo Werstas</div></td>
+	<td>Tampere </td>
+	<td><div style="width:70px; overflow:hidden">10.11.2009&#8211; 31.12.2017</div></td>	
+	</tr><tr valign="top">
+	<td>189</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=5856">Ohranasta Supoon - valtiolliset turvallisuuspoliisit Suomessa</a><br>Poliisimuseo</div></td>
+	<td>Tampere </td>
+	<td><div style="width:70px; overflow:hidden">17.3.2011&#8211; 30.9.2012</div></td>	
+	</tr><tr valign="top">
+	<td>190</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6178">Patsaspuisto</a><br>Lenin-museo</div></td>
+	<td>Tampere </td>
+	<td><div style="width:70px; overflow:hidden">1.10.2011&#8211; 15.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>191</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7367">SATA VUOTTA SITTEN - Kesäisiä valokuvia Hämeestä</a><br>Hiekan taidemuseo</div></td>
+	<td>Tampere </td>
+	<td><div style="width:70px; overflow:hidden">13.9.2011&#8211; 29.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>192</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=5861">Täyttää kaasua Pyynikillä - Hämeen moottorikerhon matkassa  80 v</a><br>Tampereen museot, Museokeskus Vapriikki</div></td>
+	<td>Tampere </td>
+	<td><div style="width:70px; overflow:hidden">10.11.2011&#8211; 3.6.2012</div></td>	
+	</tr><tr valign="top">
+	<td>193</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7368">ULLA POHJOLA: Kätkö</a><br>Hiekan taidemuseo</div></td>
+	<td>Tampere </td>
+	<td><div style="width:70px; overflow:hidden">2.2.2012&#8211; 29.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>194</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7816">Vuoden nuori taiteilija 2012 Ari Pelkonen</a><br>Tampereen taidemuseo - Pirkanmaan aluetaidemuseo</div></td>
+	<td>Tampere </td>
+	<td><div style="width:70px; overflow:hidden">19.2.2012&#8211; 22.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>195</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6503">Aboa Vetus perusnäyttely</a><br>Aboa Vetus & Ars Nova museo</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">1.1.2011&#8211; 31.12.2012</div></td>	
+	</tr><tr valign="top">
+	<td>196</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6309">Apua merelle</a><br>Forum Marinum</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">4.5.2011&#8211; Joulukuu 2020</div></td>	
+	</tr><tr valign="top">
+	<td>197</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6469">Crème de la Crème - Mestariteoksia Turun taidemuseon kokoelmasta</a><br>Turun taidemuseo Varsinais-Suomen aluetaidemuseo</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">14.12.2010&#8211; 31.12.2012</div></td>	
+	</tr><tr valign="top">
+	<td>198</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7356">DEJA VU - Nykytaidetta Malmön taidemuseon kokoelmasta</a><br>Turun taidemuseo Varsinais-Suomen aluetaidemuseo</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">3.2.2012&#8211; 20.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>199</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7359">Hanna Seppänen / Studio</a><br>Turun taidemuseo Varsinais-Suomen aluetaidemuseo</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">3.2.2012&#8211; 25.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>200</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7887">Hiihtolomaopastukset</a><br>Turun museokeskus, Turun linna ja Turun kaupungin historiallinen museo</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">21.2.2012&#8211; 4.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>201</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7832">Hiihtolomapäivät</a><br>Turun museokeskus, Kuralan Kylämäki</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">22.2.2012&#8211; 23.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>202</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7889">Hiihtolomatyöpajat</a><br>Turun museokeskus, Kuralan Kylämäki</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">20.2.2012&#8211; 24.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>203</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7408">IC-98 - Näkymä vastarannalta</a><br>Aboa Vetus & Ars Nova museo</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">10.2.2012&#8211; 27.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>204</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7364">Inci Eviner / Pimiö</a><br>Turun taidemuseo Varsinais-Suomen aluetaidemuseo</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">3.2.2012&#8211; 25.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>205</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7734">Kansallisaarteemme viisi elämää</a><br>Forum Marinum</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">2.1.2012&#8211; 31.12.2013</div></td>	
+	</tr><tr valign="top">
+	<td>206</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7080">Konepajalla</a><br>Forum Marinum</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">1.12.2011&#8211; 31.12.2012</div></td>	
+	</tr><tr valign="top">
+	<td>207</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=5867">Kuu paistaa, kuollut ajaa</a><br>Turun museokeskus, Turun linna ja Turun kaupungin historiallinen museo</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">6.5.2011&#8211; 25.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>208</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7888">Lasten sunnuntait</a><br>Turun museokeskus, Turun linna ja Turun kaupungin historiallinen museo</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">5.2.2012&#8211; 27.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>209</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=5912">Muumiolla menee lujaa</a><br>Turun museokeskus, Turun Biologinen museo</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">14.10.2011&#8211; 30.9.2012</div></td>	
+	</tr><tr valign="top">
+	<td>210</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7081">Nainen rautakourien keskellä. Vuokko Laakson laivasisustuksia</a><br>Forum Marinum</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">1.12.2011&#8211; 28.10.2012</div></td>	
+	</tr><tr valign="top">
+	<td>211</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7439">Paimenpillistä iPhoneen - musiikkikokemuksia ennen ja nyt</a><br>Sibelius-museo</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">10.1.2012&#8211; 26.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>212</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6448">Rihmasto - Luostarikorttelin monta historiaa</a><br>Aboa Vetus & Ars Nova museo</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">18.3.2011&#8211; 26.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>213</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7543">Sibelius-museon kevään 2012 konserttisarja</a><br>Sibelius-museo</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">25.1.2012&#8211; 25.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>214</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7406">Speed of Darkness - valo ja tila</a><br>Aboa Vetus & Ars Nova museo</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">10.2.2012&#8211; 31.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>215</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=5906">Tonttuja!</a><br>Turun museokeskus, Turun linna ja Turun kaupungin historiallinen museo</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">21.10.2011&#8211; 23.9.2012</div></td>	
+	</tr><tr valign="top">
+	<td>216</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7844">Tuli on irti!</a><br>Turun museokeskus</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">17.1.2012&#8211; 29.7.2012</div></td>	
+	</tr><tr valign="top">
+	<td>217</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6308">Varvilla</a><br>Forum Marinum</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">1.12.2011&#8211; Joulukuu 2020</div></td>	
+	</tr><tr valign="top">
+	<td>218</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7159">Äärimmäisyyksien yhteinen tekijä</a><br>Wäinö Aaltosen museo</div></td>
+	<td>Turku </td>
+	<td><div style="width:70px; overflow:hidden">27.1.2012&#8211; 15.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>219</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7725">Martta Wendelinin croquis-piirustuksia </a><br>Taidekeskus Kasarmi, Tuusulan taidemuseo</div></td>
+	<td>Tuusula </td>
+	<td><div style="width:70px; overflow:hidden">8.2.2012&#8211; 20.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>220</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7722">Materialistit</a><br>Taidekeskus Kasarmi, Tuusulan taidemuseo</div></td>
+	<td>Tuusula </td>
+	<td><div style="width:70px; overflow:hidden">15.2.2012&#8211; 20.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>221</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7710">Sigrid Schauman Pekka Halosen vieraana</a><br>Tuusulan museot, Halosenniemi</div></td>
+	<td>Tuusula </td>
+	<td><div style="width:70px; overflow:hidden">25.1.2012&#8211; 25.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>222</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7717">Vappu Rossi - Kun mennyt on yö</a><br>Taidekeskus Kasarmi, Tuusulan taidemuseo</div></td>
+	<td>Tuusula </td>
+	<td><div style="width:70px; overflow:hidden">15.2.2012&#8211; 20.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>223</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7885">Merimieskoulua hiihtolomalla</a><br>Uudenkaupungin kaupungin museot</div></td>
+	<td>Uusikaupunki </td>
+	<td><div style="width:70px; overflow:hidden">20.2.2012&#8211; 24.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>224</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7670">Gerlesborgsskolan- Young Swedish Contemporaries </a><br>Vaasan taidehalli</div></td>
+	<td>Vaasa </td>
+	<td><div style="width:70px; overflow:hidden">11.2.2012&#8211; 4.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>225</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6248">MESTAREIDEN JÄLJILLÄ - Pohjalaisia 1600-luvun käsityöläismaalareita</a><br>Pohjanmaan museo ja Terranova Merenkurkun luontokeskus</div></td>
+	<td>Vaasa </td>
+	<td><div style="width:70px; overflow:hidden">16.12.2011&#8211; 1.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>226</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7536">Nándor Mikola 100-vuotisjuhlanäyttely</a><br>Tikanojan taidekoti</div></td>
+	<td>Vaasa </td>
+	<td><div style="width:70px; overflow:hidden">27.11.2011&#8211; 15.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>227</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7532">Rauha, rauhattomuus</a><br>Kuntsin modernin taiteen museo</div></td>
+	<td>Vaasa </td>
+	<td><div style="width:70px; overflow:hidden">18.2.2012&#8211; 29.4.2012</div></td>	
+	</tr><tr valign="top">
+	<td>228</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7488">Valkeakosken kuvataiteilijat ry. Vuosinäyttely</a><br>Myllysaaren museo</div></td>
+	<td>Valkeakoski </td>
+	<td><div style="width:70px; overflow:hidden">12.2.2012&#8211; 4.3.2012</div></td>	
+	</tr><tr valign="top">
+	<td>229</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7082">20X0 - Matka tulevaisuuteen</a><br>Heureka - Suomalainen Tiedekeskus</div></td>
+	<td>Vantaa </td>
+	<td><div style="width:70px; overflow:hidden">8.10.2011&#8211; 27.1.2013</div></td>	
+	</tr><tr valign="top">
+	<td>230</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=4249">Heureka-klassikot</a><br>Heureka - Suomalainen Tiedekeskus</div></td>
+	<td>Vantaa </td>
+	<td><div style="width:70px; overflow:hidden">4.4.2009&#8211; Joulukuu 2012</div></td>	
+	</tr><tr valign="top">
+	<td>231</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7288">Kauneus - 6 näytöstä</a><br>Vantaan taidemuseo</div></td>
+	<td>Vantaa </td>
+	<td><div style="width:70px; overflow:hidden">10.2.2012&#8211; 4.8.2012</div></td>	
+	</tr><tr valign="top">
+	<td>232</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7668">Klima X</a><br>Heureka - Suomalainen Tiedekeskus</div></td>
+	<td>Vantaa </td>
+	<td><div style="width:70px; overflow:hidden">18.2.2012&#8211; 27.1.2013</div></td>	
+	</tr><tr valign="top">
+	<td>233</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7009">Kolikon tie</a><br>Heureka - Suomalainen Tiedekeskus</div></td>
+	<td>Vantaa </td>
+	<td><div style="width:70px; overflow:hidden">Lokakuu 2010&#8211; Tammikuu 2013</div></td>	
+	</tr><tr valign="top">
+	<td>234</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6317">Leijat</a><br>Suomen Ilmailumuseo</div></td>
+	<td>Vantaa </td>
+	<td><div style="width:70px; overflow:hidden">30.11.2011&#8211; 27.5.2012</div></td>	
+	</tr><tr valign="top">
+	<td>235</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=1309">Säästävää kulutusta</a><br>Heureka - Suomalainen Tiedekeskus</div></td>
+	<td>Vantaa </td>
+	<td><div style="width:70px; overflow:hidden">29.5.2007&#8211; Joulukuu 2012</div></td>	
+	</tr><tr valign="top">
+	<td>236</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=4042">Tarinamme Helsingestä Vantaaksi</a><br>Vantaan kaupunginmuseo</div></td>
+	<td>Vantaa </td>
+	<td><div style="width:70px; overflow:hidden">15.5.2009&#8211; 12.8.2012</div></td>	
+	</tr><tr valign="top">
+	<td>237</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=951">Älykästä liikennettä</a><br>Heureka - Suomalainen Tiedekeskus</div></td>
+	<td>Vantaa </td>
+	<td><div style="width:70px; overflow:hidden">29.9.2006&#8211; Joulukuu 2012</div></td>	
+	</tr><tr valign="top">
+	<td>238</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=3149">Kerroksien kaupunki - Varkautelaisten rakennettu historia</a><br>Varkauden museo</div></td>
+	<td>Varkaus </td>
+	<td><div style="width:70px; overflow:hidden">13.3.2009&#8211; 30.11.2012</div></td>	
+	</tr><tr valign="top">
+	<td>239</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=5503">Tuomas von Boehm (1916-2000) Taidehallin piirustusilloissa 1970-1990-luvuilla</a><br>Varkauden taidemuseo</div></td>
+	<td>Varkaus </td>
+	<td><div style="width:70px; overflow:hidden">1.1.2010&#8211; 31.12.2020</div></td>	
+	</tr><tr valign="top">
+	<td>240</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=5442">Via Canalia</a><br>Taipaleen kanavamuseo</div></td>
+	<td>Varkaus </td>
+	<td><div style="width:70px; overflow:hidden">1.6.2006&#8211; 31.12.2015</div></td>	
+	</tr><tr valign="top">
+	<td>241</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=7881">Muotokuvia</a><br>Äänekosken taidemuseo</div></td>
+	<td>Äänekoski </td>
+	<td><div style="width:70px; overflow:hidden">24.1.2012&#8211; 26.2.2012</div></td>	
+	</tr><tr valign="top">
+	<td>242</td>
+	<td><div style="width:220px; overflow:hidden"><a class="normaali" href="/nayttelykalenteri/index.php?nayttely_id=6847">Uusittu perusnäyttely Toivo Parantaisen taidemuseosäätiön kokoelmasta</a><br>Äänekosken taidemuseo</div></td>
+	<td>Äänekoski </td>
+	<td><div style="width:70px; overflow:hidden">18.5.2011&#8211; 31.8.2013</div></td>	
+	</tr></table></div><a href="#sivun_alku"><img alt="Siirry sivun alkuun" src="kuvat/spacer.gif" width="1" height="1" border="0"></a>
+</div>
+<div id="oikea_reuna"><form name="form1" method="get" action="/nayttelykalenteri/index.php" style="display:inline">
+<h2 style="margin:0"><img src="/kuvat/hae-nayttelyita-ja-tapahtumia.gif" alt="Hae näyttelyitä ja tapahtumia"></h2>
+<div class="oikea_pad">
+<p style="margin-bottom:10px">
+
+
+<label for="x_hakulause2">Vapaa sanahaku</label><br>
+<input  class="hakuinput" name="x_hakulause"  id="x_hakulause2" type="text" style="width:150px" value="" size="18" maxlength="30">
+</p>
+
+<div style="margin-bottom:20px">
+<table width="150" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td colspan="2"><label for="pva">Ajankohta</label></td>
+</tr>
+<tr>
+<td><select id="pva" name="pva" style="width:38px"><option value="01" >1</option>
+<option value="02" >2</option>
+<option value="03" >3</option>
+<option value="04" >4</option>
+<option value="05" >5</option>
+<option value="06" >6</option>
+<option value="07" >7</option>
+<option value="08" >8</option>
+<option value="09" >9</option>
+<option value="10" >10</option>
+<option value="11" >11</option>
+<option value="12" >12</option>
+<option value="13" >13</option>
+<option value="14" >14</option>
+<option value="15" >15</option>
+<option value="16" >16</option>
+<option value="17" >17</option>
+<option value="18"  selected>18</option>
+<option value="19" >19</option>
+<option value="20" >20</option>
+<option value="21" >21</option>
+<option value="22" >22</option>
+<option value="23" >23</option>
+<option value="24" >24</option>
+<option value="25" >25</option>
+<option value="26" >26</option>
+<option value="27" >27</option>
+<option value="28" >28</option>
+<option value="29" >29</option>
+<option value="30" >30</option>
+<option value="31" >31</option>
+</select></td>
+<td align="right">
+<select id="vv_kk" name="vv_kk" style="width:110px">
+<option value="2012-02"  selected>Helmikuu 2012</option>
+<option value="2012-03" >Maaliskuu 2012</option>
+<option value="2012-04" >Huhtikuu 2012</option>
+<option value="2012-05" >Toukokuu 2012</option>
+<option value="2012-06" >Kesäkuu 2012</option>
+<option value="2012-07" >Heinäkuu 2012</option>
+<option value="2012-08" >Elokuu 2012</option>
+<option value="2012-09" >Syyskuu 2012</option>
+<option value="2012-10" >Lokakuu 2012</option>
+<option value="2012-11" >Marraskuu 2012</option>
+<option value="2012-12" >Joulukuu 2012</option>
+<option value="2013-01" >Tammikuu 2013</option>
+</select></td>
+</tr>
+</table>
+
+<select id="ajanjakso" name="ajanjakso" style="width:150px; margin-top:8px"><option value="0" selected>Valitse ajanjakso</option>
+<option value="1" >Ainoastaan valittu päivä</option>
+<option value="7" >Viikko eteenpäin</option>
+<option value="14" >Kaksi viikkoa eteenpäin</option>
+<option value="31" >Kuukausi eteenpäin</option>
+</select>	
+</div>
+
+<div>
+<script language="JavaScript" type="text/javascript">
+<!--
+
+function alue_select(thisform){ //v3.0
+	//if ( thisform!=1 ) document.forms[0].laani_id.selectedIndex=0;
+	if ( thisform!=2 ) document.forms[0].maakunta_id.selectedIndex=0;
+	if ( thisform!=3 ) document.forms[0].kunta_id.selectedIndex=0;
+
+}
+//-->
+</script>
+<div style="margin-bottom:10px">
+<label for="maakunta_id">Maakunta</label><br>
+<select style="width:150px" name="maakunta_id" id="maakunta_id"><option value="0">VALITSE</option><option value="0"> - - - - - - - </option><option  value="20" >Ahvenanmaa</option>
+<option  value="9" >Etelä-Karjala</option>
+<option  value="14" >Etelä-Pohjanmaa</option>
+<option  value="10" >Etelä-Savo</option>
+<option  value="3" >Itä-Uusimaa</option>
+<option  value="18" >Kainuu</option>
+<option  value="5" >Kanta-Häme</option>
+<option  value="16" >Keski-Pohjanmaa</option>
+<option  value="13" >Keski-Suomi</option>
+<option  value="8" >Kymenlaakso</option>
+<option  value="19" >Lappi</option>
+<option  value="6" >Pirkanmaa</option>
+<option  value="15" >Pohjanmaa</option>
+<option  value="12" >Pohjois-Karjala</option>
+<option  value="17" >Pohjois-Pohjanmaa</option>
+<option  value="11" >Pohjois-Savo</option>
+<option  value="7" >Päijät-Häme</option>
+<option  value="4" >Satakunta</option>
+<option  value="1" >Uusimaa</option>
+<option  value="2" >Varsinais-Suomi</option>
+</select></div>
+<div style="margin-bottom:10px">
+<label for="kunta_id">Kunta</label><br>
+<select style="width:150px" name="kunta_id" id="kunta_id"><option value="0">VALITSE</option><option value="0"> - - - - - - - </option><option  value="20" >Akaa</option>
+<option  value="5" >Alajärvi </option>
+<option  value="6" >Alastaro </option>
+<option  value="9" >Alavieska </option>
+<option  value="10" >Alavus </option>
+<option  value="15" >Artjärvi </option>
+<option  value="16" >Asikkala </option>
+<option  value="18" >Askola </option>
+<option  value="19" >Aura </option>
+<option  value="35" >Brändö </option>
+<option  value="43" >Eckerö </option>
+<option  value="46" >Enonkoski </option>
+<option  value="47" >Enontekiö </option>
+<option  value="49" >Espoo </option>
+<option  value="50" >Eura </option>
+<option  value="51" >Eurajoki </option>
+<option  value="52" >Evijärvi </option>
+<option  value="60" >Finström </option>
+<option  value="61" >Forssa </option>
+<option  value="62" >Föglö </option>
+<option  value="65" >Geta </option>
+<option  value="69" >Haapajärvi </option>
+<option  value="71" >Haapavesi </option>
+<option  value="72" >Hailuoto </option>
+<option  value="74" >Halsua </option>
+<option  value="75" >Hamina </option>
+<option  value="76" >Hammarland </option>
+<option  value="77" >Hankasalmi </option>
+<option  value="78" >Hanko </option>
+<option  value="79" >Harjavalta </option>
+<option  value="81" >Hartola </option>
+<option  value="82" >Hattula</option>
+<option  value="84" >Haukipudas </option>
+<option  value="86" >Hausjärvi </option>
+<option  value="111" >Heinola </option>
+<option  value="90" >Heinävesi </option>
+<option  value="91" >Helsinki </option>
+<option  value="95" >Himanka </option>
+<option  value="97" >Hirvensalmi </option>
+<option  value="98" >Hollola </option>
+<option  value="99" >Honkajoki </option>
+<option  value="102" >Huittinen </option>
+<option  value="103" >Humppila </option>
+<option  value="105" >Hyrynsalmi </option>
+<option  value="106" >Hyvinkää </option>
+<option  value="283" >Hämeenkoski </option>
+<option  value="108" >Hämeenkyrö </option>
+<option  value="109" >Hämeenlinna </option>
+<option  value="139" >Ii </option>
+<option  value="140" >Iisalmi </option>
+<option  value="142" >Iitti </option>
+<option  value="143" >Ikaalinen </option>
+<option  value="145" >Ilmajoki </option>
+<option  value="146" >Ilomantsi </option>
+<option  value="153" >Imatra </option>
+<option  value="148" >Inari </option>
+<option  value="149" >Inkoo </option>
+<option  value="151" >Isojoki </option>
+<option  value="152" >Isokyrö </option>
+<option  value="164" >Jalasjärvi </option>
+<option  value="165" >Janakkala </option>
+<option  value="167" >Joensuu </option>
+<option  value="169" >Jokioinen </option>
+<option  value="170" >Jomala </option>
+<option  value="171" >Joroinen </option>
+<option  value="172" >Joutsa </option>
+<option  value="174" >Juankoski </option>
+<option  value="176" >Juuka </option>
+<option  value="177" >Juupajoki </option>
+<option  value="178" >Juva </option>
+<option  value="179" >Jyväskylä </option>
+<option  value="181" >Jämijärvi </option>
+<option  value="182" >Jämsä </option>
+<option  value="186" >Järvenpää </option>
+<option  value="202" >Kaarina </option>
+<option  value="204" >Kaavi </option>
+<option  value="205" >Kajaani </option>
+<option  value="208" >Kalajoki </option>
+<option  value="211" >Kangasala </option>
+<option  value="213" >Kangasniemi </option>
+<option  value="214" >Kankaanpää </option>
+<option  value="216" >Kannonkoski </option>
+<option  value="217" >Kannus </option>
+<option  value="218" >Karijoki </option>
+<option  value="223" >Karjalohja </option>
+<option  value="224" >Karkkila </option>
+<option  value="226" >Karstula </option>
+<option  value="227" >Karttula </option>
+<option  value="230" >Karvia </option>
+<option  value="231" >Kaskinen </option>
+<option  value="232" >Kauhajoki </option>
+<option  value="233" >Kauhava </option>
+<option  value="235" >Kauniainen </option>
+<option  value="236" >Kaustinen </option>
+<option  value="239" >Keitele </option>
+<option  value="240" >Kemi </option>
+<option  value="320" >Kemijärvi </option>
+<option  value="241" >Keminmaa </option>
+<option  value="322" >Kemiönsaari</option>
+<option  value="244" >Kempele </option>
+<option  value="245" >Kerava </option>
+<option  value="246" >Kerimäki </option>
+<option  value="248" >Kesälahti </option>
+<option  value="249" >Keuruu </option>
+<option  value="250" >Kihniö </option>
+<option  value="254" >Kiikoinen </option>
+<option  value="255" >Kiiminki </option>
+<option  value="256" >Kinnula </option>
+<option  value="257" >Kirkkonummi </option>
+<option  value="260" >Kitee </option>
+<option  value="261" >Kittilä </option>
+<option  value="263" >Kiuruvesi </option>
+<option  value="265" >Kivijärvi </option>
+<option  value="271" >Kokemäki </option>
+<option  value="272" >Kokkola </option>
+<option  value="273" >Kolari </option>
+<option  value="275" >Konnevesi </option>
+<option  value="276" >Kontiolahti </option>
+<option  value="280" >Korsnäs </option>
+<option  value="284" >Koski Tl </option>
+<option  value="285" >Kotka </option>
+<option  value="286" >Kouvola </option>
+<option  value="287" >Kristiinankaupunki </option>
+<option  value="288" >Kruunupyy </option>
+<option  value="289" >Kuhmalahti </option>
+<option  value="290" >Kuhmo </option>
+<option  value="291" >Kuhmoinen </option>
+<option  value="295" >Kumlinge </option>
+<option  value="297" >Kuopio </option>
+<option  value="300" >Kuortane </option>
+<option  value="301" >Kurikka </option>
+<option  value="304" >Kustavi </option>
+<option  value="305" >Kuusamo </option>
+<option  value="310" >Kylmäkoski </option>
+<option  value="312" >Kyyjärvi </option>
+<option  value="316" >Kärkölä </option>
+<option  value="317" >Kärsämäki </option>
+<option  value="318" >Kökar </option>
+<option  value="319" >Köyliö </option>
+<option  value="398" >Lahti </option>
+<option  value="399" >Laihia </option>
+<option  value="400" >Laitila </option>
+<option  value="407" >Lapinjärvi </option>
+<option  value="402" >Lapinlahti </option>
+<option  value="403" >Lappajärvi </option>
+<option  value="405" >Lappeenranta </option>
+<option  value="408" >Lapua </option>
+<option  value="410" >Laukaa </option>
+<option  value="413" >Lavia </option>
+<option  value="416" >Lemi </option>
+<option  value="417" >Lemland </option>
+<option  value="418" >Lempäälä </option>
+<option  value="420" >Leppävirta </option>
+<option  value="421" >Lestijärvi </option>
+<option  value="422" >Lieksa </option>
+<option  value="423" >Lieto </option>
+<option  value="424" >Liljendal </option>
+<option  value="425" >Liminka </option>
+<option  value="426" >Liperi </option>
+<option  value="444" >Lohja </option>
+<option  value="430" >Loimaa </option>
+<option  value="433" >Loppi </option>
+<option  value="434" >Loviisa </option>
+<option  value="435" >Luhanka </option>
+<option  value="436" >Lumijoki </option>
+<option  value="438" >Lumparland </option>
+<option  value="440" >Luoto </option>
+<option  value="441" >Luumäki </option>
+<option  value="442" >Luvia </option>
+<option  value="445" >Länsi-Turunmaa</option>
+<option  value="475" >Maalahti </option>
+<option  value="476" >Maaninka </option>
+<option  value="478" >Maarianhamina </option>
+<option  value="480" >Marttila </option>
+<option  value="481" >Masku </option>
+<option  value="483" >Merijärvi </option>
+<option  value="484" >Merikarvia </option>
+<option  value="489" >Miehikkälä </option>
+<option  value="491" >Mikkeli </option>
+<option  value="494" >Muhos </option>
+<option  value="495" >Multia </option>
+<option  value="498" >Muonio </option>
+<option  value="499" >Mustasaari </option>
+<option  value="500" >Muurame </option>
+<option  value="503" >Mynämäki </option>
+<option  value="504" >Myrskylä </option>
+<option  value="505" >Mäntsälä </option>
+<option  value="508" >Mänttä-Vilppula</option>
+<option  value="507" >Mäntyharju </option>
+<option  value="529" >Naantali </option>
+<option  value="531" >Nakkila </option>
+<option  value="532" >Nastola </option>
+<option  value="534" >Nilsiä </option>
+<option  value="535" >Nivala </option>
+<option  value="536" >Nokia </option>
+<option  value="537" >Noormarkku </option>
+<option  value="538" >Nousiainen </option>
+<option  value="540" >Nummi-Pusula </option>
+<option  value="541" >Nurmes </option>
+<option  value="543" >Nurmijärvi </option>
+<option  value="545" >Närpiö </option>
+<option  value="559" >Oravainen </option>
+<option  value="560" >Orimattila </option>
+<option  value="561" >Oripää </option>
+<option  value="562" >Orivesi </option>
+<option  value="563" >Oulainen </option>
+<option  value="564" >Oulu </option>
+<option  value="567" >Oulunsalo </option>
+<option  value="309" >Outokumpu </option>
+<option  value="576" >Padasjoki </option>
+<option  value="577" >Paimio </option>
+<option  value="578" >Paltamo </option>
+<option  value="580" >Parikkala </option>
+<option  value="581" >Parkano </option>
+<option  value="599" >Pedersören kunta </option>
+<option  value="583" >Pelkosenniemi </option>
+<option  value="854" >Pello </option>
+<option  value="584" >Perho </option>
+<option  value="585" >Pernaja </option>
+<option  value="588" >Pertunmaa </option>
+<option  value="592" >Petäjävesi </option>
+<option  value="593" >Pieksämäki </option>
+<option  value="595" >Pielavesi </option>
+<option  value="598" >Pietarsaari </option>
+<option  value="601" >Pihtipudas </option>
+<option  value="604" >Pirkkala </option>
+<option  value="607" >Polvijärvi </option>
+<option  value="608" >Pomarkku </option>
+<option  value="609" >Pori </option>
+<option  value="611" >Pornainen </option>
+<option  value="638" >Porvoo </option>
+<option  value="614" >Posio </option>
+<option  value="615" >Pudasjärvi </option>
+<option  value="616" >Pukkila </option>
+<option  value="618" >Punkaharju </option>
+<option  value="619" >Punkalaidun </option>
+<option  value="620" >Puolanka </option>
+<option  value="623" >Puumala </option>
+<option  value="624" >Pyhtää </option>
+<option  value="625" >Pyhäjoki </option>
+<option  value="626" >Pyhäjärvi </option>
+<option  value="630" >Pyhäntä </option>
+<option  value="631" >Pyhäranta </option>
+<option  value="635" >Pälkäne </option>
+<option  value="636" >Pöytyä </option>
+<option  value="678" >Raahe </option>
+<option  value="710" >Raasepori</option>
+<option  value="680" >Raisio </option>
+<option  value="681" >Rantasalmi </option>
+<option  value="683" >Ranua </option>
+<option  value="684" >Rauma </option>
+<option  value="686" >Rautalampi </option>
+<option  value="687" >Rautavaara </option>
+<option  value="689" >Rautjärvi </option>
+<option  value="691" >Reisjärvi </option>
+<option  value="694" >Riihimäki </option>
+<option  value="696" >Ristiina </option>
+<option  value="697" >Ristijärvi </option>
+<option  value="698" >Rovaniemi </option>
+<option  value="700" >Ruokolahti </option>
+<option  value="701" >Ruotsinpyhtää </option>
+<option  value="702" >Ruovesi </option>
+<option  value="704" >Rusko </option>
+<option  value="707" >Rääkkylä </option>
+<option  value="729" >Saarijärvi </option>
+<option  value="732" >Salla </option>
+<option  value="734" >Salo </option>
+<option  value="736" >Saltvik </option>
+<option  value="790" >Sastamala</option>
+<option  value="738" >Sauvo </option>
+<option  value="739" >Savitaipale </option>
+<option  value="740" >Savonlinna </option>
+<option  value="742" >Savukoski </option>
+<option  value="743" >Seinäjoki </option>
+<option  value="746" >Sievi </option>
+<option  value="747" >Siikainen </option>
+<option  value="748" >Siikajoki </option>
+<option  value="791" >Siikalatva</option>
+<option  value="749" >Siilinjärvi </option>
+<option  value="751" >Simo </option>
+<option  value="753" >Sipoo </option>
+<option  value="755" >Siuntio </option>
+<option  value="758" >Sodankylä </option>
+<option  value="759" >Soini </option>
+<option  value="761" >Somero </option>
+<option  value="762" >Sonkajärvi </option>
+<option  value="765" >Sotkamo </option>
+<option  value="766" >Sottunga </option>
+<option  value="768" >Sulkava </option>
+<option  value="771" >Sund </option>
+<option  value="775" >Suomenniemi </option>
+<option  value="777" >Suomussalmi </option>
+<option  value="778" >Suonenjoki </option>
+<option  value="781" >Sysmä </option>
+<option  value="783" >Säkylä </option>
+<option  value="831" >Taipalsaari </option>
+<option  value="832" >Taivalkoski </option>
+<option  value="833" >Taivassalo </option>
+<option  value="834" >Tammela </option>
+<option  value="837" >Tampere </option>
+<option  value="838" >Tarvasjoki </option>
+<option  value="844" >Tervo </option>
+<option  value="845" >Tervola </option>
+<option  value="846" >Teuva </option>
+<option  value="848" >Tohmajärvi </option>
+<option  value="849" >Toholampi </option>
+<option  value="850" >Toivakka </option>
+<option  value="851" >Tornio </option>
+<option  value="853" >Turku </option>
+<option  value="857" >Tuusniemi </option>
+<option  value="858" >Tuusula </option>
+<option  value="859" >Tyrnävä </option>
+<option  value="863" >Töysä </option>
+<option  value="886" >Ulvila </option>
+<option  value="887" >Urjala </option>
+<option  value="889" >Utajärvi </option>
+<option  value="890" >Utsjoki </option>
+<option  value="892" >Uurainen </option>
+<option  value="893" >Uusikaarlepyy </option>
+<option  value="895" >Uusikaupunki </option>
+<option  value="785" >Vaala </option>
+<option  value="905" >Vaasa </option>
+<option  value="908" >Valkeakoski </option>
+<option  value="911" >Valtimo </option>
+<option  value="92" >Vantaa </option>
+<option  value="915" >Varkaus </option>
+<option  value="916" >Varpaisjärvi </option>
+<option  value="918" >Vehmaa </option>
+<option  value="921" >Vesanto </option>
+<option  value="922" >Vesilahti </option>
+<option  value="924" >Veteli </option>
+<option  value="925" >Vieremä </option>
+<option  value="926" >Vihanti </option>
+<option  value="927" >Vihti </option>
+<option  value="931" >Viitasaari </option>
+<option  value="934" >Vimpeli </option>
+<option  value="935" >Virolahti </option>
+<option  value="936" >Virrat </option>
+<option  value="941" >Vårdö </option>
+<option  value="942" >Vähäkyrö </option>
+<option  value="945" >Vöyri-Maksamaa</option>
+<option  value="972" >Yli-Ii </option>
+<option  value="976" >Ylitornio </option>
+<option  value="977" >Ylivieska </option>
+<option  value="978" >Ylämaa </option>
+<option  value="980" >Ylöjärvi </option>
+<option  value="981" >Ypäjä </option>
+<option  value="989" >Ähtäri </option>
+<option  value="992" >Äänekoski </option>
+</select></div>
+</div>
+<div>
+
+
+</div>
+
+<p>
+<input name="nayttelyhaku" type="hidden" id="nayttelyhaku" value="1" />
+</p>
+
+
+
+<p>
+<input name="submit" type="submit" value="HAE" />
+</p>
+</div>
+</form>
+
+<h2 style="margin:0 0 0 0"><img src="/kuvat/museoissa-nyt.gif" alt="Museoissa nyt" width="169" height="47" border="0"></h2>
+<div class="oikea_pad">
+<p><a href="http://www.museot.fi/nayttelykalenteri/index.php?tyyppi=tai">Taidenäyttelyt</a>  (273 kpl)</p>
+<p><a href="http://www.museot.fi/nayttelykalenteri/index.php?tyyppi=mus">Kulttuurihistorialliset, luonnontieteelliset ja erikoismuseoiden näyttelyt</a>  (236 kpl)</p>
+<p><a href="http://www.museot.fi/nayttelykalenteri/index.php?tyyppi=tap">Tapahtumat</a>  (192 kpl)</p>
+
+<div style="margin:0px 20px 10px 0px">
+
+</div></div>
+
+
+<div>
+<!--<h2><img src="../kuvat/suosituimmat-nayttelyt.gif" alt="Suosituimmat näyttelyt" width="169" height="47"></h2> -->
+</div>
+</div>
+<div class="clearboth">&nbsp;</div>
+</div>
+</div>
+
+</div>
+<!--/palsta_oikea -->
+<div class="clearboth"></div>
+<div id="tulostusversioon"><a rel="nofollow" href="/nayttelykalenteri/index.php?x_hakulause=&pva=18&vv_kk=2012-02&ajanjakso=7&maakunta_id=0&kunta_id=0&nayttelyhaku=1&submit=HAE&amp;tulosta=1&amp;paluu=%2Fnayttelykalenteri%2Findex.php%3Fx_hakulause%3D%26pva%3D18%26vv_kk%3D2012-02%26ajanjakso%3D7%26maakunta_id%3D0%26kunta_id%3D0%26nayttelyhaku%3D1%26submit%3DHAE">Tulostusversio</a></div></div><!--/contentarea -->
+<div id="palsta_oikea-f"></div>
+</div><!--/page -->
+
+<div id="footer">© 2009 Suomen museoliitto | Annankatu 16 B 50, 00120 Helsinki | <a class="naviurl_hnavi1"   href="http://www.museoliitto.fi">Museoliitto.fi</a> | <a class="naviurl_hnavi1"   href="/index.php?k=9060">Sivukartta</a> | <a class="naviurl_hnavi1"   href="/index.php?k=9057">Yhteystiedot</a>
+</div>
+</div>
+<p style="height:23px">&nbsp;</p>
+
+
+<div id="kalenterinosto-3"><div onmouseout="hidethis('banner_iso_teksti')" onmouseover="showthis('banner_iso_teksti')"><div><a href="http://www.museot.fi/nayttelykalenteri/index.php?nayttely_id=7358" title="Kultakauden klassikoita Gösta Serlachiuksen säätiön kokoelmasta"><img src="../uploadkuvat/thumb/nayttelykuvat__keno__berndtson_nelio_jpg154x154.jpg" height="154" width="154"  alt="" hspace="0" vspace="0" border="0"></a></div><div id="banner_iso_teksti"><div class="kolmiokuva"><img style="border:0" src="/kuvat/kolmio-pieni.png" alt="" width="6" height="21" border="0"></div><div style="padding:10px 10px 0px 10px;"><p>Poiminta Näyttelykalenterista</p><p><a  style="color:#DE5263;" href="http://www.museot.fi/nayttelykalenteri/index.php?nayttely_id=7358"><strong>Kultakauden klassikoita Gösta Serlachiuksen säätiön kokoelmasta</strong></a><br>14.9.2012-6.1.2013</p><p>Turun taidemuseo Varsinais-Suomen aluetaidemuseo<br>Aurakatu 26, 20100 Turku</p></div><div class="kuvan_infoteksti">Gunnar Berndtson, Taiteentuntijoita Louvressa, 1879. Öljy puulle, 33 x 24,5 cm, Gösta Serlachiuksen taidesäätiö.</div></div></div></div>
+<div id="kalenterinosto-4"><div onmouseout="hidethis('banner_pikku_teksti')" onmouseover="showthis('banner_pikku_teksti')"><div><a href="http://www.museot.fi/nayttelykalenteri/index.php?nayttely_id=6855" title="Jokilaaksojen valtiaat"><img src="../uploadkuvat/thumb/nayttelykuvat__keno__soturi_JPG99x99.jpg" height="99" width="99"  alt="" hspace="0" vspace="0" border="0"></a></div><div id="banner_pikku_teksti"><div class="kolmiokuva"><img style="border:0" src="/kuvat/kolmio-pieni.png" alt="" width="6" height="21" border="0"></div><div style="padding:10px 10px 0px 10px;"><p>Poiminta Näyttelykalenterista</p><p><a  style="color:#DE5263;" href="http://www.museot.fi/nayttelykalenteri/index.php?nayttely_id=6855"><strong>Jokilaaksojen valtiaat</strong></a><br>15.6.2011-31.12.2015</p><p>Porvoon museo, Vanha raatihuone<br>Vanha raatihuoneentori</p></div></div></div></div>
+
+</body>
+</html>
