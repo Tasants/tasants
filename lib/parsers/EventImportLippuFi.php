@@ -96,12 +96,17 @@ class EventImportLippuFi implements IEventParser {
             $place_x = trim(preg_replace('/.*<dl class="place location">(.*?)<\/dl>.*/ms', "$1", $data));
             $place = trim(preg_replace('/.*<dt>(.*?)<\/dt>.*/ms', "$1", $place_x));
             $city = trim(preg_replace('/.*<dd>(.*?)<\/dd>.*/ms', "$1", $place_x));
+
+            if (!$tools->Decode($place) || !$tools->Decode($name)) {
+                // @todo continue only if only both fails ->improve parsing
+                continue;
+            }
             $event_data = new EventData();
             $event_data->SetDate($date);
-            $event_data->SetName($tools->Decode($name));
             $event_data->SetDescription('');
             $event_data->SetCity($tools->Ucfirst($city));
             $event_data->SetPlace($tools->Decode($place));
+            $event_data->SetName($tools->Decode($name));
             $events[] = $event_data;
 
 

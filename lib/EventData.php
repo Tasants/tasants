@@ -4,6 +4,7 @@ class EventData {
     private $date;
     private $name;
     private $description;
+    private $country;
     private $city;
     private $place;
     private $address;
@@ -20,6 +21,11 @@ class EventData {
         return $this->name;
     }
     public function SetName($name) {
+        $name = trim($name);
+        if (mb_strlen($name) == 0) {
+            var_dump($this);
+            throw new Exception("Give name");
+        }
         if (mb_strlen($name) > 256) {
             throw new Exception("Name too long: " . mb_strlen($name) . ". Max length is 256: " . $name);
         }
@@ -37,6 +43,15 @@ class EventData {
         }
         $this->description = $description;
     }
+    public function Country() {
+        return $this->country;
+    }
+    public function SetCountry($country) {
+        if (mb_strlen($country) <> 2) {
+            throw new Exception("Country code must be exactly to characters, like FI, SV, ... You have: " . $country);
+        }
+        $this->country = $country;
+    }
     public function City() {
         return $this->city;
     }
@@ -50,6 +65,11 @@ class EventData {
         return $this->place;
     }
     public function SetPlace($place) {
+        $place = trim($place);
+        if (mb_strlen($place) == "") {
+            var_dump($this);
+            throw new Exception("Give place.");
+        }
         if (mb_strlen($place) > 128) {
             throw new Exception("Place too long: " . mb_strlen($place) . ". Max length is 128: " . $place);
         }
@@ -77,7 +97,7 @@ class EventData {
         $this->longitude = $latitude;
     }
     public function Tags() {
-        return $this->tags;
+        return $this->tags ?: array();
     }
     public function SetTags(array $tags) {
         $this->tags = $tags;

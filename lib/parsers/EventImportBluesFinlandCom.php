@@ -63,16 +63,23 @@ class EventImportBluesFinlandCom implements IEventParser {
                 }
 
                 //special cases
-                if (stristr($name, 'Oulu Spring Blues')) {
-                    $city = 'Oulu';
-                    $place = '';
-                }
                 if (stristr($city, 'Helsinki')) {
                     $city = 'Helsinki';
                 }
                 if (stristr($city, 'Käpygrilli')) {
                     $city = 'Helsinki';
                     $place = 'Käpygrilli';
+                }
+                $place_bindings = array(
+                    'Viapori Winter' => 'Suomenlinna',
+                    'Jeppis Blues' => 'Pietarsaaren Kaupunginhotelli',
+                    'Grand Blues Festival' => 'Lahden Seurahuone',
+                    'Oulu Spring Blues' => 'Radisson Blu'
+                );
+                foreach ($place_bindings as $k => $v) {
+                    if (stristr($name, $k)) {
+                        $place = $v;
+                    }
                 }
                 $name = strip_tags($tools->Decode($name));
                 $description = '';
@@ -84,6 +91,7 @@ class EventImportBluesFinlandCom implements IEventParser {
                 $event_data->SetDate($this->ResolveDate($year_month, $date));
                 $event_data->SetName($name);
                 $event_data->SetDescription($description);
+                $event_data->SetCountry("FI");
                 $event_data->SetCity($tools->Decode($city));
                 $event_data->SetPlace($tools->Decode($place));
                 $event_data->SetTags(array('blues'));
