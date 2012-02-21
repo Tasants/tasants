@@ -37,7 +37,7 @@ class EventImportNightClubFi implements IEventParser {
             $event_data->SetDate($date);
             $event_data->SetLink($this->Url());
             $event_data->SetName($tools->Decode(trim($name)));
-            $event_data->SetDescription('');
+            $event_data->SetDescription($description);
             $event_data->SetCountry("FI");
             $event_data->SetCity($tools->CityFix(trim($city)));
             $event_data->SetPlace($tools->Decode(trim($place)));
