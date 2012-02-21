@@ -1,0 +1,133 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="yökerho, yöklubi, ravintola, baari, disco, Turku, Turun yöelämä, Yöelämä, jatkopaikka, jatkot, Prima, Apollo, Armas, Aura, Forte, Bar, bileet, biletys, tanssiminen, yksityistilaisuus, yksityistilaisuudet, vip, paras, parhaat">
+<link href='http://fonts.googleapis.com/css?family=Paytone+One' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Candal' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
+
+  
+
+<script type="text/javascript" src="js/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="js/jquery.carousel.min.js"></script>
+<script type="text/javascript" src="js/swfobject.js"></script>
+<link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8" />
+<script src="js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" charset="utf-8">
+  $(document).ready(function(){
+    $("a[rel^='prettyPhoto']").prettyPhoto({
+			allow_resize: false, /* Resize the photos bigger than viewport. true/false */
+			deeplinking: false,
+	
+	});
+  });
+</script>
+<script type="text/javascript">
+$(function(){
+$("div#headerimages").carousel({ autoSlide: true, loop: true, autoSlideInterval: 5000});
+});
+</script>
+<title>Nightclub.fi | Tapahtumat - Turun yöelämä yhdessä osoitteessa</title>
+<link href="css/style_main.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22679746-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body>
+<div id="holder">
+<div id="valikko">
+<div id="menu">
+<ul>
+  <li><a href="/">RAVINTOLAT</a> 
+    <ul>
+            <li id="raflat"><a id="raflat" href="/ravintolat_prima" title="Prima">Prima</a></li>
+                <li id="raflat"><a id="raflat" href="/ravintolat_aura" title="Aura">Aura</a></li>
+                <li id="raflat"><a id="raflat" href="/ravintolat_apollo" title="Apollo">Apollo</a></li>
+                <li id="raflat"><a id="raflat" href="/ravintolat_armas" title="Armas">Armas</a></li>
+                <li id="raflat"><a id="raflat" href="/ravintolat_forte" title="Forte">Forte</a></li>
+            </ul>
+  </li>
+</ul>
+<ul>
+  <li><a href="/tapahtumat">TAPAHTUMAT </a>  </li>
+  </ul>
+  <ul>
+  <li>
+      <a href="/kuvat">KUVAT        </a>  </li>
+  </ul>
+  <ul>
+  <li>
+    <a href="/kanta-asiakas">KANTA-ASIAKAS    </a>    </li>
+    </ul>
+    <ul>
+    <li>
+    <a href="/loytotavarat">L&Ouml;YT&Ouml;TAVARAT   </a>    </li>
+    </ul>
+    <ul>
+    <li>
+    <a href="/yhteystiedot">YHTEYSTIEDOT</a>    </li>
+    </ul>
+    </div></div>
+<div id="header">
+  <img src="img/header_new.jpg" border="0" /></div>
+
+<div id="left_bar">
+<div id="nosto1">
+	 <div id="otsikko_left_bar">TULOSSA SEURAAVAKSI...</div>
+    <div id="teksti"><span class='smaller'>Pe 24.02.2012 @ Apollo</span><br><b>Rockbusters (SWE)!<br></b><span class='smaller'><i>Klo 22:00</i></span><br><br><span class='smaller'>Pe 24.02.2012 @ Prima</span><br><b>Perjantain Bileet!<br></b><br><span class='smaller'>La 25.02.2012 @ Apollo</span><br><b>Rockbusters (SWE)!<br></b><span class='smaller'><i>Klo 22:00</i></span><br><br><span class='smaller'>La 25.02.2012 @ Prima</span><br><b>Saturday Night Fever!<br></b><br><span class='smaller'>To 01.03.2012 @ Prima</span><br><b>Ideaalit Pileet!<br></b><br>  
+    <a href="/tapahtumat" class="linkki">Lisää tapahtumia</a>
+    </div>
+</div>
+<div id="nosto1">
+	<div id="otsikko_left_bar">AJANKOHTAISTA</div><div id="teksti">
+	<strong>.</strong><br />.<br><br><a href='/ajankohtaista_.' class='linkki'>Lue lisää</a><br><br>   </div>
+</div>
+</div>
+
+<div id="content">
+    <div id="breadcrumb">
+    Olet tässä: <b><a href="/" >nightclub.fi</a></b> > <a href='/tapahtumat'>Tapahtumat</a>    </div>
+<div id="content_text">
+<h1>Tapahtumat</h1><table width='430' cellpadding='0' cellspacing='0' border='0'><tr><td><b>Pe 24.02.2012 @ Prima</b><span class='tapahtumaotsikko'>Perjantain Bileet!</span>Perjantain bileiss&auml; jatkuu k&auml;sitt&auml;m&auml;t&ouml;n meininki... ;) Kaikille vapaa p&auml;&auml;sy klo 22-23, kantiskortilla klo 24 asti. Liput 6e.<br></td><td></td></tr></table><br><br><table width='430' cellpadding='0' cellspacing='0' border='0'><tr><td><b>Pe 24.02.2012 @ Apollo</b><span class='tapahtumaotsikko'>Rockbusters (SWE)!</span>Liput 6&euro;<br>Showtime 00.30<br>Ennen kello 23.00 sis&auml;&auml;n ilmaiseksi!<br><i>Klo 22:00</i></td><td></td></tr></table><br><br><table width='430' cellpadding='0' cellspacing='0' border='0'><tr><td><b>La 25.02.2012 @ Prima</b><span class='tapahtumaotsikko'>Saturday Night Fever!</span>Kaupungin parhaat bileet l&ouml;yd&auml;t Primasta. Kaikille vapaa p&auml;&auml;sy klo 22-23, kantiskortilla klo 24 asti. Liput 6e.<br></td><td></td></tr></table><br><br><table width='430' cellpadding='0' cellspacing='0' border='0'><tr><td><b>La 25.02.2012 @ Apollo</b><span class='tapahtumaotsikko'>Rockbusters (SWE)!</span>Liput 8&euro;<br>Showtime 00.30<br>Ennen kello 23.00 sis&auml;&auml;n ilmaiseksi!<br><i>Klo 22:00</i></td><td></td></tr></table><br><br><table width='430' cellpadding='0' cellspacing='0' border='0'><tr><td><b>To 01.03.2012 @ Prima</b><span class='tapahtumaotsikko'>Ideaalit Pileet!</span>L&ouml;yd&auml; sis&auml;inen lapsesi!<br>Asiantuntijaosuuskunta I-Deal kutsuu kaikki 1.3.2012 vuoden lapsellisimpiin opiskelijabileisiin Primaan, Aurakatu 14.<br>Olit sitten vaippaik&auml;inen taapertaja tai varhaisnuori teini, kaikki  ovat tervetulleita vauvasta vaariin. (k-18) Teeman mukainen pukeutuminen  suotavaa, mutta ei pakollista. Parhaat asut palkitaan!!!<br>Liput ennakkoon 2&euro;, ja ovelta 3&euro;. Kaikille ennakkolipun ostajille huikean hauska haalarimerkki + ovelta nopeimmille.<br><br><a href='http://opiskelijabileet.fi/tapahtuma/2012/03/ideaalit-pileet' target='_blank' >Katso lis&auml;&auml;</a><br></td><td></td></tr></table><br><br><table width='430' cellpadding='0' cellspacing='0' border='0'><tr><td><b>Pe 02.03.2012 @ Apollo</b><span class='tapahtumaotsikko'>APOLLO STAND UP CLUB!</span><strong>Jussi Simola,</strong><br><strong>Tomi Walamies</strong><br><strong>Toni Jyv&auml;l&auml;</strong><br><strong> </strong><br>Showtime klo. 20, ovet auki klo. 19.30<br>Liput: 15,-/13,-/12,-<br>Ennakkoon: Lippu.fi ja Tiketti<br><strong> </strong><br>&nbsp;<br>&nbsp;<br><i>Klo 20:00</i></td><td><td width='10'></td><td align='right'><a href="uploads/org/_26.jpg" rel="prettyPhoto[26]"><img src='uploads/small_26.jpg' /></a><br></td></tr></table><br><br><table width='430' cellpadding='0' cellspacing='0' border='0'><tr><td><b>Pe 09.03.2012 @ Apollo</b><span class='tapahtumaotsikko'>IMPROMATSIT@APOLLO</span>Improvis&auml;&auml;ti&ouml;n nauruhermoja venyttelev&auml;t Impromatsit, jossa n&auml;yttelij&auml;t kilpailevat yleis&ouml;n suosiosta improvisaatioteatterin keinoin.<br>Liput:&nbsp; 20/15&euro;<br>Ennakkoon: Lippu.fi<br><i>Klo 19:00</i></td><td><td width='10'></td><td align='right'><a href="uploads/org/_30.jpg" rel="prettyPhoto[30]"><img src='uploads/small_30.jpg' /></a><br></td></tr></table><br><br><table width='430' cellpadding='0' cellspacing='0' border='0'><tr><td><b>To 15.03.2012 @ Apollo</b><span class='tapahtumaotsikko'>TURKU JAZZ</span><strong>20.00 Kari Anttila Group</strong><br><strong>21.30 Aki Rissanen</strong><br>Ennakkomyynti: Lippupiste<br><i>Klo 19:00</i></td><td></td></tr></table><br><br><table width='430' cellpadding='0' cellspacing='0' border='0'><tr><td><b>Pe 16.03.2012 @ Apollo</b><span class='tapahtumaotsikko'>IMPROMATSIT@APOLLO</span><strong>Improvis&auml;&auml;ti&ouml;n nauruhermoja venyttelev&auml;t Impromatsit, jossa  n&auml;yttelij&auml;t kilpailevat yleis&ouml;n suosiosta improvisaatioteatterin  keinoin.</strong><br><strong>Liput 20/15&euro;</strong><br><strong>Ennakkoon Lippu.fi<br /></strong><br><i>Klo 19:00</i></td><td><td width='10'></td><td align='right'><a href="uploads/org/_32.jpg" rel="prettyPhoto[32]"><img src='uploads/small_32.jpg' /></a><br></td></tr></table><br><br><table width='430' cellpadding='0' cellspacing='0' border='0'><tr><td><b>Pe 16.03.2012 @ Apollo</b><span class='tapahtumaotsikko'>TURKU JAZZ</span><strong>22.00 Nar Newborn Big Time</strong><br>Liput ennakkoon: Lippupiste<br><i>Klo 22:00</i></td><td></td></tr></table><br><br><table width='430' cellpadding='0' cellspacing='0' border='0'><tr><td><b>La 17.03.2012 @ Apollo</b><span class='tapahtumaotsikko'>TURKU JAZZ</span><strong>21.00 Nina H&ouml;yn&auml;l&auml; Band</strong><br><strong>22.30 The Northern Governors</strong><br>Liput ennakkoon: Lippupiste<br><i>Klo 20:00</i></td><td></td></tr></table><br><br><table width='430' cellpadding='0' cellspacing='0' border='0'><tr><td><b>Pe 23.03.2012 @ Apollo</b><span class='tapahtumaotsikko'>IMPROMATSIT@APOLLO</span><strong>Improvis&auml;&auml;ti&ouml;n nauruhermoja venyttelev&auml;t Impromatsit,  jossa  n&auml;yttelij&auml;t kilpailevat yleis&ouml;n suosiosta improvisaatioteatterin   keinoin.</strong><br><strong>Liput: 20/15</strong><br><strong>Ennakkoon:Lippu.fi</strong><br>&nbsp;<br><i>Klo 19:00</i></td><td><td width='10'></td><td align='right'><a href="uploads/org/_33.jpg" rel="prettyPhoto[33]"><img src='uploads/small_33.jpg' /></a><br></td></tr></table><br><br><table width='430' cellpadding='0' cellspacing='0' border='0'><tr><td><b>Pe 30.03.2012 @ Apollo</b><span class='tapahtumaotsikko'>IMPROMATSIT@APOLLO</span><strong>Improvis&auml;&auml;ti&ouml;n nauruhermoja venyttelev&auml;t Impromatsit, jossa  n&auml;yttelij&auml;t kilpailevat yleis&ouml;n suosiosta improvisaatioteatterin  keinoin.</strong><br><strong>Liput: 20/15</strong><br><strong>Ennakkoon: Lippu.fi<br /></strong><br><i>Klo 19:00</i></td><td><td width='10'></td><td align='right'><a href="uploads/org/_34.jpg" rel="prettyPhoto[34]"><img src='uploads/small_34.jpg' /></a><br></td></tr></table><br><br><table width='430' cellpadding='0' cellspacing='0' border='0'><tr><td><b>Pe 13.04.2012 @ Apollo</b><span class='tapahtumaotsikko'>APOLLO STAND UP CLUB!</span><strong>Riku Sottinen,</strong><br><strong>JP Kangas</strong><br><strong>Heikki Vilja</strong><br>Showtime klo. 20, ovet auki klo. 19.30<br>Liput: 15,-/13,-/12,-<br>Ennakkoon: Lippu.fi ja Tiketti<br><i>Klo 20:00</i></td><td><td width='10'></td><td align='right'><a href="uploads/org/_27.jpg" rel="prettyPhoto[27]"><img src='uploads/small_27.jpg' /></a><br></td></tr></table><br><br><table width='430' cellpadding='0' cellspacing='0' border='0'><tr><td><b>Pe 11.05.2012 @ Apollo</b><span class='tapahtumaotsikko'>APOLLO STAND UP CLUB!</span><strong>SAMI HEDBERG,</strong><br><strong>Pete Kosonen,</strong><br><strong>Tomi Haustola</strong><br>Showtime klo. 20, ovet auki klo. 19<br>Liput: 15,-/13,-/12,-<br>Ennakkoon: Lippu.fi ja Tiketti<br><i>Klo 20:00</i></td><td><td width='10'></td><td align='right'><a href="uploads/org/_28.jpg" rel="prettyPhoto[28]"><img src='uploads/small_28.jpg' /></a><br></td></tr></table><br><br></div>
+<div id="content_footer">
+<div id="fb-like-example"></div>
+<script type="text/javascript" src="js/jquery.onefblikev1.0.js"></script>
+	<script type="text/javascript">  
+$(document).ready(function () {
+        $('#fb-like-example').oneFBLike({appID:'175592142494967'});
+    });
+	</script>
+</div>
+</div>
+<div id="right_bar">
+<div id="nosto1">
+<div id="otsikko_left_bar">Tuoreimmat kuvat</div>
+    <div id="teksti_right">
+<a href='galleria/org/21_98.jpg' rel='prettyPhoto[0]'><IMG SRC="galleria/small_98.jpg" border='0'  width="63"  height="63" vspace="3" hspace="3"></a><a href='galleria/org/24_97.jpg' rel='prettyPhoto[0]'><IMG SRC="galleria/small_97.jpg" border='0'  width="63"  height="63" vspace="3" hspace="3"></a><a href='galleria/org/24_96.jpg' rel='prettyPhoto[0]'><IMG SRC="galleria/small_96.jpg" border='0'  width="63"  height="63" vspace="3" hspace="3"></a><a href='galleria/org/24_95.jpg' rel='prettyPhoto[0]'><IMG SRC="galleria/small_95.jpg" border='0'  width="63"  height="63" vspace="3" hspace="3"></a><a href='galleria/org/24_94.jpg' rel='prettyPhoto[0]'><IMG SRC="galleria/small_94.jpg" border='0'  width="63"  height="63" vspace="3" hspace="3"></a><a href='galleria/org/24_93.jpg' rel='prettyPhoto[0]'><IMG SRC="galleria/small_93.jpg" border='0'  width="63"  height="63" vspace="3" hspace="3"></a><a href='galleria/org/24_92.jpg' rel='prettyPhoto[0]'><IMG SRC="galleria/small_92.jpg" border='0'  width="63"  height="63" vspace="3" hspace="3"></a><a href='galleria/org/24_91.jpg' rel='prettyPhoto[0]'><IMG SRC="galleria/small_91.jpg" border='0'  width="63"  height="63" vspace="3" hspace="3"></a><a href='galleria/org/17_90.jpg' rel='prettyPhoto[0]'><IMG SRC="galleria/small_90.jpg" border='0'  width="63"  height="63" vspace="3" hspace="3"></a><a class='linkki' href="/kuvat">Kaikki galleriat</a></div></div>
+<div id="nosto1">
+<!--<div id="otsikko_left_bar">Just now...</div>-->
+</div>
+</div>
+<div class="clearfix"></div>
+<div id="footer">
+<a href="/ravintolat_prima"><img src="img/footer_prima.jpg" alt="Prima" /></a><a href="/ravintolat_aura"><img src="img/footer_aura.jpg" alt="Aura" /></a><a href="/ravintolat_forte"><img src="img/footer_forte.jpg" alt="Forte" /></a><a href="/ravintolat_apollo"><img src="img/footer_apollo.jpg" alt="Apollo" /></a><a href="/ravintolat_armas"><img src="img/footer_armas.jpg" alt="Armas" /></a></div>
+</div>
+
+
+</body>
+</html>
+
