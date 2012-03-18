@@ -58,7 +58,7 @@ class EventImportMobilekustannus implements IEventParser {
                 $event->SetPlace($tools->Decode($this->PostReplace($place)));
                 $event->SetAddress($address);
                 $event->SetLatitude($latitude);
-                $event->SetLongitude($latitude);
+                $event->SetLongitude($longitude);
                 $event->SetTags(array($type));
                 $events[] = $event;
             }
