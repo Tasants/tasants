@@ -101,8 +101,8 @@ class EventData {
     public function Longitude() {
         return $this->longitude;
     }
-    public function SetLongitude($latitude) {
-        $this->longitude = $latitude;
+    public function SetLongitude($longitude) {
+        $this->longitude = $longitude;
     }
     public function Tags() {
         return $this->tags ?: array();
