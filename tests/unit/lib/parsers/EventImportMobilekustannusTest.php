@@ -4,20 +4,27 @@ class EventImportMobilekustannusTest extends TasantsTestCase {
     public function testParsing() {
         $service = new EventImportService();
         $events = $service->Parse(new EventImportMobilekustannus());
-        $this->assertEquals(182, sizeof($events));
+        $this->assertEquals(155, sizeof($events));
 
         $event = $events[54];
         /* @var $event EventData */
-        $this->assertEquals("Monk-spesiaali!", $event->Name());
-        $this->assertEquals("Monk", $event->Place());
-        $this->assertEquals("Humalistonkatu 3", $event->Address());
-        $this->assertEquals("60.449752", $event->Latitude());
-        $this->assertEquals("22.260343", $event->Longitude());
+        $this->assertEquals("Pianisti Olli Törmä", $event->Name());
+        $this->assertEquals("Bryssel", $event->Place());
+        $this->assertEquals("Linnankatu 18", $event->Address());
+        $this->assertEquals("60.448774", $event->Latitude());
+        $this->assertEquals("22.265983", $event->Longitude());
 
         $event = $events[56];
         /* @var $event EventData */
-        $this->assertEquals("Reggaematic - Jah Vice, Natural Marcus", $event->Name());
-        $this->assertEquals("Pikku-Torre", $event->Place());
-        $this->assertEquals("", $event->Address());
+        $this->assertEquals("DJ Urho Tulitukka", $event->Name());
+        $this->assertEquals("Dynamo", $event->Place());
+        $this->assertEquals("Linnankatu 7", $event->Address());
+        $event = $events[8];
+        /* @var $event EventData */
+/*
+        $this->assertEquals("DJ Urho Tulitukka", $event->Name());
+        $this->assertEquals("Dynamo", $event->Place());
+        $this->assertEquals("Linnankatu 7", $event->Address());
+*/
     }
 }
