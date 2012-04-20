@@ -32,14 +32,18 @@ class EventData {
         $name = trim($name);
         if (mb_strlen($name) == 0) {
             var_dump($this);
-            throw new Exception("Give name");
+            throw new EInvalidEventDataString("Give name");
         }
         if (mb_strlen($name) > 256) {
-            throw new Exception("Name too long: " . mb_strlen($name) . ". Max length is 256: " . $name);
+            throw new EInvalidEventDataString("Name too long: " . mb_strlen($name) . ". Max length is 256: " . $name);
         }
+
+        $name = str_replace('<3', '[x3]', $name);
         if ($name <> strip_tags($name)) {
-            throw new Exception("Name contains html: " . $name);
+            throw new EInvalidEventDataString("Name contains html: " . $name);
         }
+        $name = str_replace('[x3]', '<3', $name);
+
         $this->name = $name;
     }
     public function Description() {
@@ -47,7 +51,7 @@ class EventData {
     }
     public function SetDescription($description) {
         if (mb_strlen($description) > 3000) {
-            throw new Exception("Description too long: " . mb_strlen($description) . ". Max length is 3000: " . $description);
+            throw new EInvalidEventDataString("Description too long: " . mb_strlen($description) . ". Max length is 3000: " . $description);
         }
         $this->description = $description;
     }
@@ -56,7 +60,7 @@ class EventData {
     }
     public function SetCountry($country) {
         if (mb_strlen($country) <> 2) {
-            throw new Exception("Country code must be exactly to characters, like FI, SV, ... You have: " . $country);
+            throw new EInvalidEventDataString("Country code must be exactly to characters, like FI, SV, ... You have: " . $country);
         }
         $this->country = $country;
     }
@@ -65,7 +69,7 @@ class EventData {
     }
     public function SetCity($city) {
         if (mb_strlen($city) > 128) {
-            throw new Exception("City too long: " . mb_strlen($city) . ". Max length is 128: " . $city);
+            throw new EInvalidEventDataString("City too long: " . mb_strlen($city) . ". Max length is 128: " . $city);
         }
         $this->city = $city;
     }
@@ -76,10 +80,10 @@ class EventData {
         $place = trim($place);
         if (mb_strlen($place) == "") {
             var_dump($this);
-            throw new Exception("Give place.");
+            throw new EInvalidEventDataString("Give place.");
         }
         if (mb_strlen($place) > 128) {
-            throw new Exception("Place too long: " . mb_strlen($place) . ". Max length is 128: " . $place);
+            throw new EInvalidEventDataString("Place too long: " . mb_strlen($place) . ". Max length is 128: " . $place);
         }
         $this->place = $place;
     }
@@ -88,7 +92,7 @@ class EventData {
     }
     public function SetAddress($address) {
         if (mb_strlen($address) > 128) {
-            throw new Exception("Place too long: " . mb_strlen($address) . ". Max length is 128: " . $address);
+            throw new EInvalidEventDataString("Place too long: " . mb_strlen($address) . ". Max length is 128: " . $address);
         }
         $this->address = $address;
     }
@@ -117,3 +121,5 @@ class EventData {
         $this->link = $link;
     }
 }
+
+class EInvalidEventDataString extends Exception {}
