@@ -6,6 +6,13 @@ class EventImportMobilekustannusTest extends TasantsTestCase {
         $events = $service->Parse(new EventImportMobilekustannus());
         $this->assertEquals(155, sizeof($events));
 
+        $event = $events[8];
+        /* @var $event EventData */
+        $this->assertEquals("KOLO (1. krs): Carlings presents Friday Frenzy: dj Sammy", $event->Name());
+        $this->assertEquals("Klubi", $event->Place());
+        $this->assertEquals("Humalistonkatu 8 a", $event->Address());
+
+
         $event = $events[54];
         /* @var $event EventData */
         $this->assertEquals("Pianisti Olli Törmä", $event->Name());
@@ -19,12 +26,5 @@ class EventImportMobilekustannusTest extends TasantsTestCase {
         $this->assertEquals("DJ Urho Tulitukka", $event->Name());
         $this->assertEquals("Dynamo", $event->Place());
         $this->assertEquals("Linnankatu 7", $event->Address());
-        $event = $events[8];
-        /* @var $event EventData */
-/*
-        $this->assertEquals("DJ Urho Tulitukka", $event->Name());
-        $this->assertEquals("Dynamo", $event->Place());
-        $this->assertEquals("Linnankatu 7", $event->Address());
-*/
     }
 }
