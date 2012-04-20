@@ -8,8 +8,9 @@ interface ICache {
     public function FetchWithCache($url);
 }
 class EventImportService implements ICache {
+    private $identifier = '';
     public function FetchWithCache($url, $skip_enconding = false) {
-        $cache = DATA  . rawurlencode($url);
+        $cache = DATA  . rawurlencode($url) . $this->identifier;
         if (!is_file($cache)) {
             $data = file_get_contents($url);
             file_put_contents($cache, $data);
@@ -19,8 +20,15 @@ class EventImportService implements ICache {
         }
         return iconv("latin1", "utf-8", file_get_contents($cache));
     }
+    public function ParseWithIdentifier(IEventParser $parser, $identifier) {
+        $this->identifier = $identifier;
+        return $parser->Parse($this);
+    }
     public function Parse(IEventParser $parser) {
         $events = $parser->Parse($this);
+        return $this->Check($events);
+    }
+    private function Check($events) {
         foreach ($events as $event) {
             if (!$event instanceof EventData) {
                 throw new Exception("Excepting EventData");

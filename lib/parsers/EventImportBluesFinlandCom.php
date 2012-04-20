@@ -59,7 +59,7 @@ class EventImportBluesFinlandCom implements IEventParser {
                     $city = $city_matches[1];
                     $place = '';
                 } else {
-                    $place = trim($matches[2]);
+                    $place = trim(isset($matches[2]) ? $matches[2] : '');
                 }
 
                 //special cases
@@ -87,21 +87,34 @@ class EventImportBluesFinlandCom implements IEventParser {
                     $name = mb_substr($name, 0, 256);
                     $desctiption = $name;
                 }
-                $event_data = new EventData();
-                $event_data->SetDate($this->ResolveDate($year_month, $date));
-                $event_data->SetName($name);
-                $event_data->SetDescription($description);
-                $event_data->SetCountry("FI");
-                $event_data->SetCity($tools->Decode($city));
-                $event_data->SetPlace($tools->Decode($place));
-                $event_data->SetTags(array('blues'));
-                $events[] = $event_data;
+
+                if (!$place) {
+                    $place = $this->DesperateScan($token);
+                }
+
+                if ($place) {
+                    $event_data = new EventData();
+                    $event_data->SetDate($this->ResolveDate($year_month, $date));
+                    $event_data->SetName($name);
+                    $event_data->SetDescription($description);
+                    $event_data->SetCountry("FI");
+                    $event_data->SetCity($tools->Decode($city));
+                    $event_data->SetPlace($tools->Decode($place));
+                    $event_data->SetTags(array('blues'));
+                    $events[] = $event_data;
+                }
             }
         }
         return $events;
     }
     private function ResolveDate($year_month, $date) {
         return $date . preg_replace(',.*([0-9]{4}).*,', '$1', $year_month);
+    }
+    private function DesperateScan($text) {
+        if (stristr($text, 'Helsinki')) {
+            return 'Helsinki';
+        }
+        return '';
     }
 
 }

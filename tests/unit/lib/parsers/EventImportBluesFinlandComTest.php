@@ -39,4 +39,10 @@ class EventImportBluesFinlandComTest extends TasantsTestCase {
             throw new Exception("i: " . $i);
         }
     }
+
+    public function testNewerData() {
+        $service = new EventImportService();
+        $events = $service->ParseWithIdentifier(new EventImportBluesFinlandCom(), '20120421');
+        $this->assertEquals(47, sizeof($events));
+    }
 }
