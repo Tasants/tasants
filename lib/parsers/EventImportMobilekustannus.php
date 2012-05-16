@@ -51,8 +51,8 @@ class EventImportMobilekustannus implements IEventParser {
                 $city = 'Turku';
                 $event = new EventData();
                 $event->SetDate($date);
-                $event->SetName($tools->Decode($this->PostReplace($name)));
-                $event->SetDescription($tools->Decode($this->PostReplace($description)));
+                $event->SetName(strip_tags($tools->Decode($this->PostReplace($name))));
+                $event->SetDescription(strip_tags($tools->Decode($this->PostReplace($description))));
                 $event->SetCountry("FI");
                 $event->SetCity($city);
                 $event->SetPlace($tools->Decode($this->PostReplace($place)));
