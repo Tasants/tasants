@@ -17,3 +17,4 @@ require_once LIB . 'parsers/EventImportKlubiNet.php';
 require_once LIB . 'parsers/EventImportMuseotFi.php';
 require_once LIB . 'parsers/EventImportNightClubFi.php';
 require_once LIB . 'parsers/EventImportRockCafeCz.php';
+require_once LIB . 'parsers/EventImportKlub007StrahovCz.php';

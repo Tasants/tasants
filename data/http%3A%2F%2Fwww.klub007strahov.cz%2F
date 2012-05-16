@@ -1,0 +1,688 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+	<link rel="shortcut icon" href="favicon.ico">
+	<link rel="stylesheet" type="text/css" href="style.css">
+  <meta http-equiv="content-type" content="text/html; charset=windows-1250">
+ 	<meta name="description" content="hudební klub 007 strahov">
+	<meta name="keywords" content="007,klub,strahov,sedmička,hudební klub,koleje">
+	<meta name="author" content="ruda@skaweb.cz">
+    <title>klub 007 strahov</title>
+  </head>
+  <body>
+  	<script>
+		promenna = new Image();
+		promenna.src = "img/menu/program_b.gif";
+		promenna = new Image();
+		promenna.src = "img/menu/informace_b.gif";
+		promenna = new Image();
+		promenna.src = "img/menu/aktuality_b.gif";
+		promenna = new Image();
+		promenna.src = "img/menu/napojak_b.gif";
+		promenna = new Image();
+		promenna.src = "img/menu/odkazy_b.gif";
+		promenna = new Image();
+		promenna.src = "img/menu/fotos_b.gif";
+		promenna = new Image();
+		promenna.src = "img/menu/kontakt_b.gif";
+		promenna = new Image();
+		promenna.src = "img/menu/guestbook_b.gif";
+		promenna = new Image();
+		promenna.src = "img/01_Banner007.gif";
+		promenna = new Image();
+		promenna.src = "img/02_Banner007.gif";
+		promenna = new Image();
+		promenna.src = "img/03_Banner007.gif";
+		promenna = new Image();
+		promenna.src = "img/04_Banner007.gif";
+	</script>
+  <img src="img/bubble_1.gif" alt="" style="width:22px;height:114px;margin:0 0 0 -398;position:absolute;top:34px;left:50%">
+  <img src="img/bubble_2.gif" alt="" style="width:15px;height:35px;margin:0 0 0 377;position:absolute;top:51px;left:50%">
+  <img src="img/bubble_3.gif" alt="" style="width:33px;height:138px;margin:0 0 0 377;position:absolute;top:187px;left:50%">
+  <img src="img/bubble_4.gif" alt="" style="width:62px;height:448px;margin:0 0 0 377;position:absolute;top:488px;left:50%">
+  <img src="img/bubble_5.gif" alt="" style="width:16px;height:132px;margin:0 0 0 -392;position:absolute;top:800px;left:50%">
+  <img src="img/bubble_6.gif" alt="" style="width:18px;height:53xpx;margin:0 0 0 -394;position:absolute;top:453px;left:50%">
+  <img src="img/head_top.gif" alt="" style="width:753px;height:58px;margin:20 0 0 -376;position:absolute;top:0px;left:50%">
+  <img src="img/head_main.gif" alt="" style="width:753px;height:100px;margin:0 0 0 -376;position:absolute;top:78px;left:50%">
+  <img src="img/sub_img_lightline.gif" alt="" style="width:753px;height:84px;margin:0 0 0 -376;position:absolute;top:413px;left:50%">
+  <img src="img/head_mezanin.gif" alt="" style="width:753px;height:20px;margin:0 0 0 -376;position:absolute;top:178px;left:50%">
+  <img src="img/04_Banner007.gif" alt="" style="width:783px;height:283px;margin:0 0 0 -376;position:absolute;top:191px;left:50%">
+  <img src="img/head_genreline.gif" alt="" style="width:780px;height:32px;margin:0 0 0 -376;position:absolute;top:198px;left:50%">
+
+	<table cellpadding="0" cellspacing="0" class="menu_tab">
+	<tr>
+		<td colspan="2" style="height: 31px">&nbsp;</td>
+	</tr>
+	<tr>
+		<td class="menu_ro"><img src="img/menu/sipka_blue.gif" style="visibility: hidden"></td>
+		<td class="menu_se" onclick="window.location.href = 'aktuality.php'" onmouseover="document.getElementById('aktuality_img').src='img/menu/aktuality_b.gif'" onmouseout="document.getElementById('aktuality_img').src='img/menu/aktuality.gif'"><a href="aktuality.php"><img src="img/menu/aktuality.gif" class="menu_se_img" alt="" id="aktuality_img"></a></td>
+	</tr>
+	<tr>
+		<td class="menu_ro"><img src="img/menu/sipka_blue.gif" style="visibility: visible""></td>
+		<td class="menu_se" onclick="window.location.href = 'index.php'" style="background-color: #a6d0ec"><a href="index.php"><img src="img/menu/program_bold.gif" class="menu_se_img" alt="" id="program_img"></a></td>
+	</tr>
+	<tr>
+		<td class="menu_ro"><img src="img/menu/sipka_blue.gif" style="visibility: hidden"></td>
+		<td class="menu_se" onclick="window.location.href = 'informace.php'" onmouseover="document.getElementById('informace_img').src='img/menu/informace_b.gif'" onmouseout="document.getElementById('informace_img').src='img/menu/informace.gif'"><a href="informace.php"><img src="img/menu/informace.gif" class="menu_se_img" alt="" id="informace_img"></a></td>
+	</tr>
+	<tr>
+		<td class="menu_ro"><img src="img/menu/sipka_blue.gif" style="visibility: hidden"></td>
+		<td class="menu_se" onclick="window.location.href = 'napojak.php'" onmouseover="document.getElementById('napojak_img').src='img/menu/napojak_b.gif'" onmouseout="document.getElementById('napojak_img').src='img/menu/napojak.gif'"><a href="napojak.php"><img src="img/menu/napojak.gif" class="menu_se_img" alt="" id="napojak_img" style="height:14px"></a></td>
+	</tr>
+	<tr>
+		<td class="menu_ro"><img src="img/menu/sipka_blue.gif" style="visibility: hidden"></td>
+		<td class="menu_se" onclick="window.location.href = 'fotos.php'" onmouseover="document.getElementById('fotos_img').src='img/menu/fotos_b.gif'" onmouseout="document.getElementById('fotos_img').src='img/menu/fotos.gif'"><a href="fotos.php"><img src="img/menu/fotos.gif" class="menu_se_img" alt="" id="fotos_img"></a></td>
+	</tr>
+	<tr>
+		<td class="menu_ro"><img src="img/menu/sipka_blue.gif" style="visibility: hidden"></td>
+		<td class="menu_se" onclick="window.location.href = 'odkazy.php'" onmouseover="document.getElementById('odkazy_img').src='img/menu/odkazy_b.gif'" onmouseout="document.getElementById('odkazy_img').src='img/menu/odkazy.gif'"><a href="odkazy.php"><img src="img/menu/odkazy.gif" class="menu_se_img" alt="" id="odkazy_img"></a></td>
+	</tr>
+	<tr>
+		<td class="menu_ro"><img src="img/menu/sipka_blue.gif" style="visibility: hidden"></td>
+		<td class="menu_se" onclick="window.location.href = 'kontakt.php'" onmouseover="document.getElementById('kontakt_img').src='img/menu/kontakt_b.gif'" onmouseout="document.getElementById('kontakt_img').src='img/menu/kontakt.gif'"><a href="kontakt.php"><img src="img/menu/kontakt.gif" class="menu_se_img" alt="" id="kontakt_img"></a></td>
+	</tr>
+	<tr>
+		<td class="menu_ro"><img src="img/menu/sipka_blue.gif" style="visibility: hidden"></td>
+		<td class="menu_se" onclick="window.location.href = 'guestbook.php'" onmouseover="document.getElementById('guestbook_img').src='img/menu/guestbook_b.gif'" onmouseout="document.getElementById('guestbook_img').src='img/menu/guestbook.gif'"><a href="guestbook.php"><img src="img/menu/guestbook.gif" class="menu_se_img" alt="" id="guestbook_img"></a></td>
+	</tr>
+	<tr>
+		<td colspan="2" style="height:13px">&nbsp;</td>
+	</tr>
+	</table>
+
+	<img src="img/anketa_bg_a.png" alt="" class="anketa_top">
+	<div class="anketa">
+	<form action="mail_add.php" method="post" style="display:inline">
+	<input type="text" name="adresa" value="tvuj@mail.cz" class="inputtext" onclick="this.value='',document.getElementById('kontrolka_mail').value='ANO'" style="width:100px">
+	<p style="margin:0px;padding:0px;text-align:right"><input type="hidden" name="kontrolka_mail" id="kontrolka_mail" value="NE"><input type="image" src="img/button_mailinglist.gif" style="padding: 0px;margin: 6 0 0 0"></p>
+	</form>
+	<img src="img/anketa_line_gray.gif" alt="" width="115" style="margin:0px;padding:0px">
+	    <p style="margin:2 0 5 0;padding:0px;text-transform: uppercase">Na kterou akci se chystate?</p>
+        <form style="display:inline" action="anketa_hlasovat.php" method="post"><input type="hidden" name="anketaid" value="146">
+        	          <input type="radio" name="hlas" value="1112"           onclick="document.getElementById('kontrolka').value='ANO'" style="margin:0px;padding:0px"><span style='font-size:10px'> 17.5 HELL SHOVEL (can), WILD TIDES (cz) (2)</span><br>      <table cellpadding="0" cellspacing="0" class="anketa_tab_mozn">
+      <tr><td class="anketa_tab_mozn_left"><img src="img/anketa_mozn_bg_full.gif" alt="" style="height:14px;width:21.666666666667px;margin:2 0 2 0;"></td>
+      <td class="anketa_tab_mozn_right">25%<span style="color:#000000;font-style:italic">(2)</span></td></tr>
+      </table>
+          	          <input type="radio" name="hlas" value="1113"           onclick="document.getElementById('kontrolka').value='ANO'" style="margin:0px;padding:0px"><span style='font-size:10px'> 18.5 STREET NATION PRESENTS - SHAKE IT!  (0)</span><br>      <table cellpadding="0" cellspacing="0" class="anketa_tab_mozn">
+      <tr><td class="anketa_tab_mozn_left"><img src="img/anketa_mozn_bg_full.gif" alt="" style="height:14px;width:2px;margin:2 0 2 0;"></td>
+      <td class="anketa_tab_mozn_right">0%<span style="color:#000000;font-style:italic">(0)</span></td></tr>
+      </table>
+          	          <input type="radio" name="hlas" value="1114"           onclick="document.getElementById('kontrolka').value='ANO'" style="margin:0px;padding:0px"><span style='font-size:10px'> 19.5 ANALOGS (pl), CROSSCZECH (cz)  (6)</span><br>      <table cellpadding="0" cellspacing="0" class="anketa_tab_mozn">
+      <tr><td class="anketa_tab_mozn_left"><img src="img/anketa_mozn_bg_full.gif" alt="" style="height:14px;width:65px;margin:2 0 2 0;"></td>
+      <td class="anketa_tab_mozn_right">75%<span style="color:#000000;font-style:italic">(6)</span></td></tr>
+      </table>
+          <p style="margin:0px;padding:0px;text-align:right"><input type="hidden" name="kontrolka" id="kontrolka" value="NE"><input type="image" src="img/button_hlasovat.gif" style="padding: 0px;margin: 6 0 0 0"></p>    </form>
+	<img src="img/anketa_bg_c.png" alt="" style="position:relative;left:-20px;top:22px"></div>
+    <script type="text/javascript">
+    function rozbalit(cislo,vice,skryt) {
+            cesta = document.getElementById(cislo).style.display;
+            if(cesta == "none") {
+                document.getElementById(cislo).style.display = "block";
+                document.getElementById(vice).style.display = "none";
+                document.getElementById(skryt).style.display = "inline";
+                }
+            if(cesta == "block") {
+                document.getElementById(cislo).style.display = "none"
+                document.getElementById(vice).style.display = "inline";
+                document.getElementById(skryt).style.display = "none";
+                }
+      }
+    </script>
+
+  <table cellpadding="0" cellspacing="0" class="tab_telotext">
+  <tr>
+  	<td class="telotext" height="400px">
+  			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img138.imageshack.us/img138/2094/laotracina.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1757','vice1757','skryt1757')"></td>
+		<td>
+		<span style="font-size:13px">st 16<span class="yellowtext">.</span> 05<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>30</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">LA OTRACINA </span>(usa)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> KADAVAR </span>(de)</p>
+		<div style="display:none" id="prog1757">La Otracina (USA) + Kadavar (DE)<br>psychedelic rock, space rock, krautrock<br><br>Weby:<br>http://laotracina.tumblr.com/<br>http://www.reverbnation.com/kadavar<br><br>Videa:<br>http://www.youtube.com/watch?v=64cokIc7UjU<br>http://www.youtube.com/watch?v=1qzVabtxJ6g<br>http://www.youtube.com/watch?v=9oTVYXvG1nU <br><br><img src="http://img138.imageshack.us/img138/2094/laotracina.jpg"><br><br><br>Nenechte si ujít psychedelický heavy metal v Praze - současnou hudební vizi amerických LA OTRACINA (Holy Mountain). Je to hutný a majestátní vesmír, kde se mísí zašlá sláva proto-metalu a hardrocku s půvabnou složitostí kosmického prog-rocku a halucinogenního tajemství těžké psychedelie.<br><br>Skupinu LA OTRACINA (Holy Mountain) založil v roce 2003 v Brooklynu bubeník a zpěvák Adam Kriney. Kapela, která za ta léta prošla řadou personálních změn, dorazí ve složení Adam Kriney bicí zpěv, Alan Rigoletto kytara a Brian Murphey basa. Ďábělské trio předvede kousky ze svého bohatého repertoáru, který obsahuje skladby z jejich předchozích čtyř alb. Zvláště jejich poslední deska „Reality Has Got To Die“ je nabita čistou energií, která žene posluchače do neprobádaných hlubin psychedelie.<br><br>Jejich neúnavná pracovní morálka a dalekosáhlé hudební schopnosti, kapele získala oddané stoupence po celém světě. Pro nás to je určitě toužebně očekávané vystoupení.  Třepání řepou, paroháče ve vzduchu, čúrky potu versus „progressive hard rock, psychedelic improvisation, spaced-out acid-rock, and avant-proto-metal, with frequent forays into NWOBHM, electronic space music & sound-collage“.  <br><br>Jako předkapela bude sekundovat berlínská kapela KADAVAR (This Charming Man Records/Tee Pee Records). Dlouhé vlasy, minimálně jeden knír, mnoho kroužků na ruce, kožešinové límce, upnuté nohavice.<br><br>Trio Lindemann, Mammut a Tiger vás vezme na cestu zpět do minulosti. Jejich výtečná deska KADAVAR mně přesvědčila, že i kapela zařazená do ohavné škatulky Progressive / Psychedelic / Rock může znít výtečně. Satan, čarodějnice a hřbitovy. Nejsou to žádný ořezávátka jak by se zmohlo zdát. Takže přijď včas.<br><br>Sejdeme se v první řadě!<br><br>Dejf  / TJ Praha<br><br><p>		<p><b>Pořadatel:</b>
+		<br><a href="http://tjpraha.cz" target="_blank">http://tjpraha.cz</a>
+				<p><b>Cena:</b>
+        <b>200,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1757','vice1757','skryt1757')"><span id="vice1757">více</span><span id="skryt1757" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1757" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img823.imageshack.us/img823/8905/hellshovel.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1796','vice1796','skryt1796')"></td>
+		<td>
+		<span style="font-size:13px">čt 17<span class="yellowtext">.</span> 05<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>30</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">HELL SHOVEL </span>(can)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> WILD TIDES </span>(cz)</p>
+		<div style="display:none" id="prog1796"><img src="http://img692.imageshack.us/img692/7876/hellshovelh.jpg"><br><br>Hell Shovel<br>60s garage psychedelic rock/punk (Montreal, Canada)<br> <br>Tihle garážový harcovníci, kteří prokázali svůj talent už v kapelách jako Demon's Claw, Red Mass nebo Chocolate mají speciální vztah k Evropě, což dokazuje nejen fakt, že většinu turné odjeli právě na Starém kontinentu ale také skutečnost, že zde složili i většinu svého materiálu. Na jejich nahrávkách se také podíleli i takové veličiny jako Blood Shoot Bill a John Boy Adonis (známý z King Kahn a The Shrines). Pro zachování maximální autetičnosti tihle floutci své desky točí víceméně na jeden "take" a nechávají tam tak i menší chyby.<br>Sedmička tak bude mít možnost užít si show téhle nastupující garage senzace, tak jako tomu bylo před lety v případě dnes na západě tak zbožňovaných Black Lips.<br><br> <br>http://www.youtube.com/watch?v=u9WcPYokbTQ<br> <br>http://www.youtube.com/watch?v=bZj5UVw6eIY<br> <br>http://hellshovel1.bandcamp.com/<br> <br> <br>  <br> <br>Wild Tides<br>garage surf punk z Letný na Election Records<br> <br>Divoký přílivy hrajou sakra krátký, zásadní a upocený písničky o tom odzbrojujícím pocitu, kterej můžete zažít jedině v noci na opuštěný pláži, když skrz černý brejle nezůčastněně pozorujete, jak vám pěna příbojovejch vln omývá zlatý špičky kovbojskejch bot.<br>Nejen, že Wild Tides jsou v našich končinách NAPROSTO ojedinělým úkazem ale jsou také perfektní volbou pro rozjetí tohodle večírku.<br> <br>http://bandzone.cz/wildtides<br> <br>http://wildtides.bandcamp.com/<br><br><img src="http://img823.imageshack.us/img823/8905/hellshovel.jpg"><p>		<p><b>Pořadatel:</b>
+		<br><a href="" target="_blank"></a>
+				<p><b>Cena:</b>
+        <b>200,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1796','vice1796','skryt1796')"><span id="vice1796">více</span><span id="skryt1796" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1796" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img513.imageshack.us/img513/4480/korinek.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1758','vice1758','skryt1758')"></td>
+		<td>
+		<span style="font-size:13px">pá 18<span class="yellowtext">.</span> 05<span class="yellowtext">.</span> 12, 20<span class="yellowtext">.</span>00</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">STREET NATION PRESENTS: SHAKE IT! VOLUME 1</p>
+		<div style="display:none" id="prog1758">UK´s UNDERGROUND MUSIC - DJ PARTY !<br><br>Bashment / Hip Hop / UK Funk / UK Garage / Bassline<br><br>DJs: SCARFACE, CREW & KUŘE !!<br><br>Best dressed girl wins a tasty sparkling wine!<br><br>Vstup do 22.00 - 50 Kc.<br>Po 22.00 - 70 Kc.<br><br><img src="http://img513.imageshack.us/img513/4480/korinek.jpg"><p>		<p><b>Pořadatel:</b>
+		<br><a href="" target="_blank"></a>
+				<p><b>Cena:</b>
+        <b>50/70,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1758','vice1758','skryt1758')"><span id="vice1758">více</span><span id="skryt1758" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1758" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+					<tr><td>&nbsp;</td><td><a href="http://www.pilsentrojanscrew.cz" target="_blank"><img src=" http://nd05.jxs.cz/989/787/2cc2f20b61_83616348_o2.gif" alt="" style="border:0px;width:468px;height:60px;margin:0 0 10 0"></a></td></tr>
+					<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img46.imageshack.us/img46/2687/analogs.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1741','vice1741','skryt1741')"></td>
+		<td>
+		<span style="font-size:13px">so 19<span class="yellowtext">.</span> 05<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>30</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">ANALOGS </span>(pl)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> CROSSCZECH </span>(cz)
+</p>
+		<div style="display:none" id="prog1741"><img src="http://img192.imageshack.us/img192/5586/analogsn.jpg"><br> <br>Na jaře roku 1995 založili tři členové legendární polské ska kapely Dr. Cycos street punkovou skupinu The Analogs. V suterénu klubu [UTF-8?]â€žBronxâ€&#339; dali dohromady pár songů, které se nechali inspirovat především hudbou Cock Sparrer, The Clash nebo 4SKINS. Jejich inspirace a vliv je v jejich hudbě cítit dodnes, ale rozhodně se nejedná o nějaký revival band. The Analogs za dobu svého působení dokázali vytvořit vlastní surový zvuk a sami se stali inspirací pro mnoho začínajících skupin. Od počátku své existence se Analogs profiluje jako antifašistická a antirasistická skupina, což je ostatně logické, vzhledem k tomu, že zakládající členové pochází z původní ska kapely.<br><br>Kapela se za svou existenci poměrně činila. Obrážela nejrůznější kouty naší planety a vydávala alba jako na pásu. V důsledku toho má za 17 let existence na svém kontě 12 řadových alb. V současné době je ve výrobě další, které vyjde letos v únoru. <br><br>To je ostatně důvod, proč se The Analogs vydávají na tour. Jednou ze zastávek bude také Praha. Na legendární Sedmičce vystoupí legendární street punková kapela 19. května. A je rozhodně na co se těšit. Koncerty The Analogs jsou známé svojí energií a výbušností, která dostane do varu i největší suchary. Spolu s nimi zahraje osvědčená parta Crossczech.<br><br><br>http://www.myspace.com/theanalogs <br><br>http://bandzone.cz/crossczech <p>		<p><b>Pořadatel:</b>
+		<br><a href="http://www.pilsentrojanscrew.cz" target="_blank">http://www.pilsentrojanscrew.cz</a>
+				<p><b>Cena:</b>
+        <b>250,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1741','vice1741','skryt1741')"><span id="vice1741">více</span><span id="skryt1741" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1741" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img692.imageshack.us/img692/8359/nomsh.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1783','vice1783','skryt1783')"></td>
+		<td>
+		<span style="font-size:13px">ne 20<span class="yellowtext">.</span> 05<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>00</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">NOM </span>(rus)</p>
+		<div style="display:none" id="prog1783">www.nom.spb.ru<br><br><img src="http://img689.imageshack.us/img689/1808/nom25postersmall.jpg"><br><br>Skupina NOM je jedním z významných představitelů avantgardní rokové<br>scený Petrohradu 90. let, stejně jako pražanům dobře známý Teatr<br>Novogo Fronta. Hudební kritici mluví o skupině NOM jako o "poslední<br>pevností nemilosrdné ruské satiry". Během 25 let existence skupina<br>vydala 12 studijních alb a natočila 5 art house filmů. Probíhající<br>evropské turné je věnováno 25. výročí skupiny. <br><br><img src="http://img38.imageshack.us/img38/6670/nombaner.gif"><p>		<p><b>Pořadatel:</b>
+		<br><a href="" target="_blank"></a>
+				<p><b>Cena:</b>
+        <b>200,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1783','vice1783','skryt1783')"><span id="vice1783">více</span><span id="skryt1783" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1783" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img687.imageshack.us/img687/925/keepshellyinathens0191.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1792','vice1792','skryt1792')"></td>
+		<td>
+		<span style="font-size:13px">po 21<span class="yellowtext">.</span> 05<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>30</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">KEEP SHELLY IN ATHENS </span>(gr)</p>
+		<div style="display:none" id="prog1792">KEEP SHELLY IN ATHENS (GR) + support<br><br>Indie Shoegaze Electro Pop<br><br>http://keepshellyinathens.blogspot.com/<br><br>250 rezervace / 300 na místě <p>		<p><b>Pořadatel:</b>
+		<br><a href="http://www.am180.org" target="_blank">http://www.am180.org</a>
+				<p><b>Cena:</b>
+        <b>250,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1792','vice1792','skryt1792')"><span id="vice1792">více</span><span id="skryt1792" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1792" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img259.imageshack.us/img259/9455/obits.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1791','vice1791','skryt1791')"></td>
+		<td>
+		<span style="font-size:13px">st 23<span class="yellowtext">.</span> 05<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>30</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">OBITS </span>(usa)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> FETCH! </span>(cz)</p>
+		<div style="display:none" id="prog1791">OBITS (USA)<br>http://obitsurl.com/<br> <br>FETCH! (CZ)<br>http://fetchcz.bandcamp.com/<br><br><img src="http://img827.imageshack.us/img827/8182/obitsgate.jpg"><br><br>Obits? To je důkaz toho, že rokenrol může bejt i v roce 2012 živelnej, nakažlivě energickej a zároveň elegantní. Je sice paradoxní, že v podání Obits pokládají tenhle důkaz čtyřicátníci, ale na druhou stranu to dělají s takovým šarmem, že nelze odolat. Jedna z nejsympatičtějších kapel současnýho Sub Popu se 23. května vrací na 007 – a s aktuálním albem „Moody, Standard and Poor“ za pasem!<br><br>S první velkou deskou „I Blame You“ (Sub Pop, 2010) to měli Obits poměrně jednoduchý. Kdo by nebyl zvědavej na kapelu, kde se sešli Rick Froberg (ex – Hot Snakes, Drive Like Jehu, Pitchfork) a Sohrab Habibion (ex – Edsel)? Veteráni těch nejlepších časů nezávislý kytarový scény svým debutem víc než zabodovali, ale druhý album „Moody, Standard and Poor“ (Sub Pop, 2012) je ještě o chlup lepší. A pozor! Koncertní sestavu Obits momentálně doplňuje bubeník Alexis Fleisig (Girls Against Boys, Paramount Styles)!  <br><br>Obits ale nejsou jen sbírkou slavnejch „ex“. Samozřejmě že vlivy všech uvedenejch kapel v jejich zvuku najdete. Není proč je skrejvat a Froberg je natolik charismatickej a originální frontman, že by bylo hříchem potlačovat hlavní atributy, který dělají z Obits hotovej poklad. Nezaměnitelnej garážovej odér, suverénní skladby s odérem surfový kytary, podzemní arzenál plnej hitovejch zásahů – navrch je tu ovšem nevídaná, až jaksi radostná lehkost, s kterou kapela svoje esa tahá z rukávů. Za Obits skutečně není cejtit žádný úsilí: tenhle úžasně šlapající rock je jejich rodným jazykem. Je skvělý vidět veterány, který si prošli bez nadsázky legendárníma kapelama, jak se místo tučně honorovanejch reunionů vydávají vstříc novýmu muzikantskýmu dobrodružství. U Obits to platí minimálně trojnásob.<br><br>Před Obits budou na 007 (kam se mimochodem Obits těší skoro nejvíc ze všech klubů jejich evropskýho turné) hrát Fetch! Trio vydalo loni album „Parfum Et Koteka“ na Silver Rocket.<br><br> <br><br>Obits: http://www.obitsurl.com/<br><br>Fetch!: http://fetchcz.bandcamp.com/<br><br>Silver Rocket: www.silver-rocket.org<br><br>Scrape Sound: http://www.scrapesound.org/<br><br> <p>		<p><b>Pořadatel:</b>
+		<br><a href="http://www.silver-rocket.org" target="_blank">http://www.silver-rocket.org</a>
+				<p><b>Cena:</b>
+        <b>250,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1791','vice1791','skryt1791')"><span id="vice1791">více</span><span id="skryt1791" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1791" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img829.imageshack.us/img829/4203/lowerdensjana.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1793','vice1793','skryt1793')"></td>
+		<td>
+		<span style="font-size:13px">čt 24<span class="yellowtext">.</span> 05<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>30</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">LOWER DENS + JANA HUNTER </span>(usa)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> JASON URICK </span>(usa)</p>
+		<div style="display:none" id="prog1793"><img src="http://img24.imageshack.us/img24/3904/lowerdens.jpg"><br><br>AM180 uvádí/presents <br><br>LOWER DENS (US, Ribbon Music) <br>JASON URICK (US, Thrill Jockey) <br><br>Město Baltimore má v pop-kultuře svoje místo natrvalo jistý nejen díky zásadovejm zločincům a hřešícím strážcům zákona z The Wire. Místní nezávislá scéna je v zámoří jedna z nejpestřejších a nejsympatičtějších. Geografická blízkost, fakticky ale bezpečná vzdálenost od New Yorku jako by jí dávala potřebnej nadhled nad “seriozním“ děním v tavícím kotli kulturní metropole světa. Kromě Dana Deacona, Beach House nebo Future Islands patří ke zdejším aktuálně nejvzývanějším jménům kytarová kapela LOWER DENS s postavou drobnou, hlasem ale ohromující zpěvačkou Janou Hunter. Minimalista JASON URICK pak patří k ikonám, na který se mladší generace muzikantů s nevnuceným respektem odvolávají. A právě Lower Dens vyrážejí na evropský turné společně s Jasonem Urickem. Zastávka v Praze je v plánu na čtvrtek 24.května. <br><br>JANA HUNTER je vedle CocoRosie a Devendry Banharta počítaná k zakládajícím jménům dneska už minulosti patřícímu freak-folku. Zatímco ale od sester Cassadiových a Devendry při vší úctě už nikdo nic moc objevnýho nečeká, protože tak trochu uvízly v mantinelech, který si samy před lety vytýčily, Jana se před pár lety rozhodla k odvážnýmu úkroku stranou z divnopísničkářský pasti. Společně s parťáky z baltimorský scény zformovala kytarovej band Lower Dens, jehož debutová deska Twin-hand Movement představila hutnej temnej post-lo-fi materiál na podobný vlně jako pozdní Smog/Bill Callahan nebo Cat Power. Psychedelickej opar ve skladbách jako Tea Lights nebo I Get Nervous je tak omamnej a melodie tak silný, že už teď má tahle deska svoje místo mezi nejlepšíma indie albama posledních let. Kapela byla od tý doby byla prakticky na nepřetržitým turné, a maximální sehranost tohohle kvartetu dokládá i čestvá nahrávka Nootropics (vydala odnož Domino Records nazvaná Ribbon Music). Na mnoha místech kytary vystřídaly klávesy, minimalistický robotický rytmy souzněj s tim, co Jana tvrdí v rozhovorech: při nahrávání desky, který trvalo skoro měsíc, kdy se kapela zavřela do studia a téměř nevycházela, poslouchali společně hlavně krautrockový alba, od Kraftwerk, přes Briana Ena po Davida Bowieho. Nepřekvapí, že hlavím tématem nahrávky pak učinili vztah člověka a technologií - Jana o tom dokáže v interview mluvit zábavně i chytře, na tomhle místě se ale nebudem pokoušet o interpretace. Pořád jsou to na prvním místě silný songy, z nichž dominujou singly “Brains“ a “Propagation“, oba doprovozený skvělýma videoklipama. Budoucnost Lower Dens je otevřená, ale docela určitě světlá. <br><br>web: http://lowerdens.com/<br><br>video Propagation: <br>http://www.youtube.com/watch?feature=player_embedded&v=GafB7NQvQWg<br><br>video Brains: <br>http://www.youtube.com/watch?v=OyxzjF8IjE8&ob=av2e<br><br>live Deer Knives & Tea Lights: <br>http://www.youtube.com/watch?v=3SkpG_Y4Dg4 <br><br>Jak už byl řečeno, JASON URICK není žádnej nováček na poli experimentální hudby, jeho předchozí projekty Themoonstealingproject nebo Wzt Hearts maj značný renomé. Jeho zatím poslední solový album, který zaštítili fajnšmekři z Thrill Jockey (což je samo o sobě zárukou kvality) se jmenuje I Love You. Inspirací k němu byl Jasonovi, nacházejícímu se zrovna v určitý ne úplně šťastný životní fázi, film o chlapíkovi, kterej se zamiluje do přívěsku na klíče… Album nabízí mnohdy vnitřně neklidný zvukový ambientní koláže, postavený na analogovým zvuku. Jason je evidentně složitej chlapík a současně sympaťák, kterej svoje emoce dává najevo prostřednictvím hudby a sdílí je s těma, co jsou otevřený naslouchat. Přejeme mu, abych jich ve čtvrtek 24.května byla plná Sedmička. <br><br>web: http://jasonurick.com/<br><br>video Syndromes: <br>http://vimeo.com/41902637<br><br>video Fussing Fighting: <br>http://vimeo.com/10558228<br><br>video: Ageless Isms: <br>http://vimeo.com/34966136<br><br>Rezervace přes tickets@am180.org za 250,- nebo na místě za 300,- ///// reservations via: tickets@am180.org 250 czk / at the door 300 czk <br><br><img src="http://img546.imageshack.us/img546/3756/jasonurick.jpg"><p>		<p><b>Pořadatel:</b>
+		<br><a href="http://www.am180.org" target="_blank">http://www.am180.org</a>
+				<p><b>Cena:</b>
+        <b>250,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1793','vice1793','skryt1793')"><span id="vice1793">více</span><span id="skryt1793" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1793" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+					<tr><td>&nbsp;</td><td><a href="http://www.ladrogang.cz" target="_blank"><img src="http://kidsandheroes.com/images/kah_BannersModuleBanners/1762-image-dag.gif" alt="" style="border:0px;width:468px;height:60px;margin:0 0 10 0"></a></td></tr>
+					<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img27.imageshack.us/img27/4955/dementoq.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1736','vice1736','skryt1736')"></td>
+		<td>
+		<span style="font-size:13px">so 26<span class="yellowtext">.</span> 05<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>30</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">DEMENTED ARE GO </span>(uk)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> GREEN MONSTER </span>(cz)</p>
+		<div style="display:none" id="prog1736">DEMENTED ARE GO (uk)<br><br>www.myspace.com/officialdementedarego<br>www.facebook.com/Official.DementedareGo<br><br>Vloni na jaře to Demented Are Go do Prahy nakonec nezvládli, letos se chystají napravit si reputaci a českému publiku to všechno pořádně vynahradit. Naprostá klasika pravověrného psychobilly nepotřebuje velké představování. Už neuvěřitelné 3 dekády hrnou svůj nezaměnitelný tvrdý rock´n´rollový sound do hladových posluchačů. Mají dokonale zvládnutou vizuální stránku show, šílené kostýmy a masky přesně podtrhují zombie-horror atmosféru, jenž jejich odvážný mix rockabilly a punku vyvolává. Kapele, a vlastně snad celé psychobilly scéně, kraluje divoký Sparky a jeho proslavený pohřební chraplák. Po 7 dlouhých letech přichází nové studiové album Welcome Back To Insanity Hall na People Like You Records a je to monstrum!<br><br><img src="http://img819.imageshack.us/img819/2126/dage.jpg"><br><br>GREEN MONSTER (cz)<br>http://greenmonster.psychobilly.cz<br>http://www.facebook.com/pages/Green-Monster/155505277803082<br><br>A když už je řeč o monstrech, je snad jasné, kdo bude krve-žíznivou květnovou sobotu na Strahově rozjíždět! Nové album je u Green Monster taky naspadnutí a není pochyb, že v tuzemském psychobilly podsvětí nemají tihle čtyři borci konkurenci, psycho-rock´n´roll melodický, přísný a vtipný a hlavně, po čertech geniální!<br><br><br><img src="http://img815.imageshack.us/img815/2397/monstermq.jpg"><br><br><br><br><br>Předprodej: <br><br>Klub 007 & Lucky Hazzard Shop, Italská 28 – 250 Kč<br><br>Ticketstream.cz – 275 Kč<br><br>Na místě - 300 Kč<br><br><img src="http://img821.imageshack.us/img821/4269/dagflier.jpg"><br><br>AFTER PARTY - <br>Monster Dj - Psychobilly Attack !!<p>		<p><b>Pořadatel:</b>
+		<br><a href="http://www.ladrogang.cz" target="_blank">http://www.ladrogang.cz</a>
+				<p><b>Cena:</b>
+        <b>250,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1736','vice1736','skryt1736')"><span id="vice1736">více</span><span id="skryt1736" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1736" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img641.imageshack.us/img641/7603/burninghell.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1785','vice1785','skryt1785')"></td>
+		<td>
+		<span style="font-size:13px">čt 31<span class="yellowtext">.</span> 05<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>30</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">BURNING HELL </span>(can)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> NICK FERRIO & HIS FEELINGS </span>(can)</p>
+		<div style="display:none" id="prog1785">Burning Hell (can)<br><br>Nick Ferrio & His Feelings (can)<br><br>Nenechte se zmást metalovým názvem kapely – The Burning Hell jsou folk jak noha. Byť netradiční, s podkladem v popových melodiích, množstvím experimentálních prvků, výrazným ukulele a vtipnými texty s nadhledem (nejčastějšími tématy jsou smrt, stárnutí, děti, tanec, věci a konference). Nestálá parta hudebníků kolem Kanaďana Matthiase Koma si vysloužila pozornost hlavně díky živým a zábavným koncertům, které jsou popisovány jako „elegantní cirkus, spíš než levný pohřeb“. Občas se jich na podiu objeví čtrnáct. Nemůžete si dovolit Arcade Fire? Zkuste Burning Hell! První deska Tick Tock vyšla v roce 2006, na kontě dnes mají pět velkých nahrávek (nejnovější Flux Capacitor vyšla vloni), nebrání se splitkům ani – dnes už raritním – kazetám. Většinu tvorby lze poslechnout zdarma na portálu theburninghell.bandcamp.com. Jako support zahraje Nick Ferrio & His Feelings, hudebník doprovodné Matthiasovy kapely a jeho vlastní, akusticky laděný projekt na ukulele.<br><br> <br><br>www.wearetheburninghell.com<br><br>http://theburninghell.bandcamp.com<br><br>http://nickferrio.bandcamp.com<p>		<p><b>Pořadatel:</b>
+		<br><a href="http://www.kyeo.net" target="_blank">http://www.kyeo.net</a>
+				<p><b>Cena:</b>
+        <b>150,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1785','vice1785','skryt1785')"><span id="vice1785">více</span><span id="skryt1785" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1785" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img840.imageshack.us/img840/3636/houpaci.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1803','vice1803','skryt1803')"></td>
+		<td>
+		<span style="font-size:13px">pá 01<span class="yellowtext">.</span> 06<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>30</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">HOUPACÍ KONĚ </span>(cz)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> NAUZEA ORCHESTRA </span>(cz)</p>
+		<div style="display:none" id="prog1803"><img src="http://img840.imageshack.us/img840/3636/houpaci.jpg"><br><br><img src="http://img684.imageshack.us/img684/2086/nauzea.jpg"><br><br>Houpací koně - indie rock, Usti nad Labem, www.houpacikone.cz<br><br>Nauzea Orchestra - indie electronika, Usti nad Labem, bandzone.cz/nauzeaorchestra<br><br><img src="http://img812.imageshack.us/img812/3636/houpaci.jpg"><br><br><p>		<p><b>Pořadatel:</b>
+		<br><a href="http://www.houpacikone.cz" target="_blank">http://www.houpacikone.cz</a>
+				<p><b>Cena:</b>
+        <b>100,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1803','vice1803','skryt1803')"><span id="vice1803">více</span><span id="skryt1803" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1803" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img100.imageshack.us/img100/5894/gumblesfinal.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1804','vice1804','skryt1804')"></td>
+		<td>
+		<span style="font-size:13px">so 02<span class="yellowtext">.</span> 06<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>30</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">THE GUMBLES </span>(de)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> MUERTI </span>(cz)</p>
+		<div style="display:none" id="prog1804"><img src="http://img100.imageshack.us/img100/5894/gumblesfinal.jpg"><br><br>http://bandzone.cz/muerti<br>http://www.myspace.com/diegumbles <p>		<p><b>Pořadatel:</b>
+		<br><a href="" target="_blank"></a>
+				<p><b>Cena:</b>
+        <b>150,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1804','vice1804','skryt1804')"><span id="vice1804">více</span><span id="skryt1804" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1804" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img864.imageshack.us/img864/4195/twitching.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1812','vice1812','skryt1812')"></td>
+		<td>
+		<span style="font-size:13px">po 04<span class="yellowtext">.</span> 06<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>00</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">TWITCHING TONGUES </span>(usa)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> FRUSTRATION </span>(irl)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> THIS NIGHT DRAWS THE END </span>(cz)</p>
+		<div style="display:none" id="prog1812">TWITCHING TONGUES (USA, i scream records)<br>-------------------------------------------------------<br>Tahle kapela, složená z bejvalejch či současnejch členů Ruckus, Creatures a Alpha & Omega, je na současný hardcore scéně naprosto ojedinělym úkazem. Mezi svoje vlivy zařazují například Type O Negative, Section 8, Black Sabbath nebo třeba Sam Black Church a hned po poslechu první skladby začnete tušit, že se nejedná o laciný plácání do větru. Naprosto výborný skloubení temný metalový hudby se svěží hardcore energií. Riffy, který vám roztrhaj vnitřnosti na kusy. Tyhle sráči vylezou na podium v roztrhanejch trikách Sepultura a bez nějakejch zbytečnejch póz do vás naperou takovou nálož, že domů polezete po čtyrech.<br><br>http://www.facebook.com/twitchingtongues<br><br>FRUSTRATION (IR)<br>-----------------------<br>Nervy drásající, pekelně podladěnej hardcore z irskýho Dublinu. Dneska většina kapel hledí na to, aby jim skinny jeans pěkně rýsovaly zadek a triko jejich oblíbený kapely končilo těsně nad páskem. Frustration všechny tyhle vaše pózy rozkopou a ještě na ně posměšně plivnou.<br><br>http://frustration.bandcamp.com/<br><br>THIS NIGHT DRAWS THE END(CZ)<br>----------------------------------------<br>Na český metalový scéně ja strašně málo kapel, ke kterejm bych se rád vrátil víc, než jednou. Plzeňský drozdi jsou určitě jednou z nich, i když sám neumim přesně popsat, z čeho tahle slabost vychází. Sám sem zvědavej na jejich výkon v nový sestavě, ale mám tak nějak tušení, že to budej ještě lepěí, než dřív.<br><br>http://bandzone.cz/thisnightdrawstheend<br><br>##################################################<br><br>Jako obvykle koncert nekuřácký.<br><br><br><img src="http://img405.imageshack.us/img405/4195/twitching.jpg"><p>		<p><b>Pořadatel:</b>
+		<br><a href="http://www.starttoday.cz" target="_blank">http://www.starttoday.cz</a>
+				<p><b>Cena:</b>
+        <b>200,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1812','vice1812','skryt1812')"><span id="vice1812">více</span><span id="skryt1812" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1812" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img688.imageshack.us/img688/2989/thou.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1797','vice1797','skryt1797')"></td>
+		<td>
+		<span style="font-size:13px">pá 08<span class="yellowtext">.</span> 06<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>00</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">THOU </span>(usa)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> RESURRECTIONISTS </span>(de)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> HEXIS </span>(den)
+</p>
+		<div style="display:none" id="prog1797">Thou se vracejí po roce na místo činu. Jejich koncert na Sedmičce vloni v létě byl jedním z nejsilnějších zážitků roku 2011 a je dost velký předpoklad, že tentokrát tomu nebude jinak, už jen díky tomu, že si to všechno zřejmě zase postaví pod podium přímo mezi lidi a začne totální zlo. Tahle parta psychopatů z Baton Rouge totiž dokázala geniálně zkloubit metalovou surovost, nihilistickou sludge atmosféru a punkový přístup bez toho aby čemukoliv ubrala na síle a autentičnosti a tak vznikla kapela, která nemá v současné scéně obdoby. Ve své podstatě hrajou Thou extrémně brutální, pomalý metal, který je poháněn punkovou nasraností a jasným politckým postojem. Zpěvák Brian se pak při koncertě mění v nebezpečnou bestii mimo kontrolu disponující absolutně vržedným vokálem, který s hlasitou a nekompromisní kapelou za zády rozdrtí všechno na kaši. To, s čím přišli Corrupted, Grief, Burning Witch, Khanate, Noothgrush nebo Dystopia posouvají Thou zase o kousek dál a nebojím se tvrdit, sledujeme zcela vyjímečnou a vizionářskou kapelu, která si navíc přes svou extrémní produktivitu udržuje rostoucí kvalitu svých nahrávek. Svědčí o tom jak poslední samostatné album "The Archer and the Owle", které vyšlo na Robotic Empire (a obsahuje geniální cover od Nirvany), tak i zatím poslední split s Hell.<br>Partnery na celém turné, jsou tentokráte Resurrectionists. Relativně provařená kapela sdružená kolem jednoho ze<br>základních diy screamo labelů React With Protest. Aby taky ne, když Lars a Sabine co za labelem stojí zároveň fungují jako jádro Resurrectionists. Za sebou mají splity s Lich, Battle of Wolf nebo Merkit, takže je jasný odkud na to jdou hudebně. Brutální rychlej hardcore trochu načichlej emoviolence, v tomhle případě ale s brutálně nabuzeným metal zvukem. Nečekej žádný šumění ubrečenejch děcek, spíš řezničinu podobnou legendární Bremen škole devadesátých let - přirovnání? Acrid, Acme, Systral nebo třeba Monster X. Dva uřvaný vokály, smrtící rifáž a politická lyrika.<br>Koncert otevřou dánští Hexis, kteří hrají hrubý, black metalem načíchlý hard core.<br><br>Celá akce je benefiční na aktivity Michala Kolesára, který se dlouhodobě zabývá problematikou ochrany zvířat, včetně přímých akcí.<br><br>http://noladiy.org/thou/<br>http://leichenraeuber.blogspot.com/<br>http://hexisband.bandcamp.com/<br>http://michalkolesar.net/ <p>		<p><b>Pořadatel:</b>
+		<br><a href="http://www.silver-rocket.org" target="_blank">http://www.silver-rocket.org</a>
+				<p><b>Cena:</b>
+        <b>200,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1797','vice1797','skryt1797')"><span id="vice1797">více</span><span id="skryt1797" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1797" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img405.imageshack.us/img405/1668/vtmlogo.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1806','vice1806','skryt1806')"></td>
+		<td>
+		<span style="font-size:13px">so 09<span class="yellowtext">.</span> 06<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>30</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">V.T. MARVIN </span>(cz)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> SEX DEVIANTS </span>(cz)</p>
+		<div style="display:none" id="prog1806">VT Marvin (punk Praha) http://bandzone.cz/vtmarvin<br><br>Sex Deviants (punk Strašice) http://bandzone.cz/sexdeviants<br><br><br>Tuplovaná narozeninová party, slavit bude Kuláč z Márvinů a Štěpán z Deviantů.<br><br><p>		<p><b>Pořadatel:</b>
+		<br><a href="" target="_blank"></a>
+				<p><b>Cena:</b>
+        <b>100,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1806','vice1806','skryt1806')"><span id="vice1806">více</span><span id="skryt1806" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1806" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img59.imageshack.us/img59/3042/integrity.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1798','vice1798','skryt1798')"></td>
+		<td>
+		<span style="font-size:13px">po 11<span class="yellowtext">.</span> 06<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>00</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">INTEGRITY </span>(usa)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> ABHORRENCE </span>(sk)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> FLOWERS FOR WHORES </span>(cz)</p>
+		<div style="display:none" id="prog1798"><p>		<p><b>Pořadatel:</b>
+		<br><a href="http://http://www.facebook.com/TwoShovelsEvents" target="_blank">http://http://www.facebook.com/TwoShovelsEvents</a>
+				<p><b>Cena:</b>
+        <b>250,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1798','vice1798','skryt1798')"><span id="vice1798">více</span><span id="skryt1798" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1798" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img215.imageshack.us/img215/5710/gangnails.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1811','vice1811','skryt1811')"></td>
+		<td>
+		<span style="font-size:13px">pá 15<span class="yellowtext">.</span> 06<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>30</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">THE GANGNAILS </span>(cz)</p>
+		<div style="display:none" id="prog1811">http://bandzone.cz/thegangnails<br>www.gangnails.com<br><br>10 LET VÝROČÍ GANGNAILS!<br><br>Afterparty - DJ TCHITCHIMAN!<p>		<p><b>Pořadatel:</b>
+		<br><a href="http://www.facebook.com/pages/Topper-Harley-Booking/11960333" target="_blank">http://www.facebook.com/pages/Topper-Harley-Booking/11960333</a>
+				<p><b>Cena:</b>
+        <b>120,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1811','vice1811','skryt1811')"><span id="vice1811">více</span><span id="skryt1811" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1811" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img440.imageshack.us/img440/3294/palidromes.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1808','vice1808','skryt1808')"></td>
+		<td>
+		<span style="font-size:13px">so 16<span class="yellowtext">.</span> 06<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>00</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">PALINDROMES </span>(cz/fr)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> CAFE </span>(cz)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> V KRUHU </span>(cz)</p>
+		<div style="display:none" id="prog1808"><img src="http://img440.imageshack.us/img440/3294/palidromes.jpg"><br><br>Palindromes<br>Indie-alternative bandzone.cz/palindromes<br><br>Cafe<br>Grungecore <br>bandzone.cz/cafe, cafesite.wz.cz, <br><br>V Kruhu<br>indie <br>bandzone.cz/vkruhu<p>		<p><b>Pořadatel:</b>
+		<br><a href="http://www.facebook.com/pages/CaFe/119162931429219" target="_blank">http://www.facebook.com/pages/CaFe/119162931429219</a>
+				<p><b>Cena:</b>
+        <b>100,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1808','vice1808','skryt1808')"><span id="vice1808">více</span><span id="skryt1808" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1808" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img338.imageshack.us/img338/5688/oscillation.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1805','vice1805','skryt1805')"></td>
+		<td>
+		<span style="font-size:13px">ne 17<span class="yellowtext">.</span> 06<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>30</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">THE OSCILLATION </span>(uk)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> STEVIE BRUFEN </span>(cz)</p>
+		<div style="display:none" id="prog1805">http://www.myspace.com/theoscillations<br> <br><p>		<p><b>Pořadatel:</b>
+		<br><a href="http://www.silver-rocket.org" target="_blank">http://www.silver-rocket.org</a>
+				<p><b>Cena:</b>
+        <b>200,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1805','vice1805','skryt1805')"><span id="vice1805">více</span><span id="skryt1805" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1805" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img641.imageshack.us/img641/2697/xxlla.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1809','vice1809','skryt1809')"></td>
+		<td>
+		<span style="font-size:13px">po 18<span class="yellowtext">.</span> 06<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>30</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">XXL </span>(usa)</p>
+		<div style="display:none" id="prog1809">XXL (XIU XIU + LARSEN, Tin Angel Recs)<br><br>S rezervací 250,- Kč<br>Bez rezervace 300,- Kč<br><br><p>		<p><b>Pořadatel:</b>
+		<br><a href="http://www.am180.org" target="_blank">http://www.am180.org</a>
+				<p><b>Cena:</b>
+        <b>250/300,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1809','vice1809','skryt1809')"><span id="vice1809">více</span><span id="skryt1809" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1809" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img854.imageshack.us/img854/453/earlyman.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1799','vice1799','skryt1799')"></td>
+		<td>
+		<span style="font-size:13px">čt 21<span class="yellowtext">.</span> 06<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>30</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">EARLY MAN </span>(usa)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> MUST DESTROY </span>(uk)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> EXORCIZOPHOBIA </span>(cz)</p>
+		<div style="display:none" id="prog1799"><p>		<p><b>Pořadatel:</b>
+		<br><a href="http://http://www.facebook.com/TwoShovelsEvents" target="_blank">http://http://www.facebook.com/TwoShovelsEvents</a>
+				<p><b>Cena:</b>
+        <b>180,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1799','vice1799','skryt1799')"><span id="vice1799">více</span><span id="skryt1799" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1799" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img689.imageshack.us/img689/8991/phlegmatic.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1817','vice1817','skryt1817')"></td>
+		<td>
+		<span style="font-size:13px">pá 22<span class="yellowtext">.</span> 06<span class="yellowtext">.</span> 12, 20<span class="yellowtext">.</span>00</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">URVI STROP – DUBSTEP SESSION</p>
+		<div style="display:none" id="prog1817">DJ Phlegmatic, Stifler & Ponyk<br>-------------------------------<br><br>DJ Phlegmatic is a multi-genre DJ based in Prague. He has been spinning since 2001 and has performed at many club scenes around Czech Republic, particularly in its capital – Prague. He has also played at several parties abroad, including a performance in Europe’s largest hip-hop festival, „Splash!“. He has appeared on stage and shared the decks with many big names from both home and foreign scenes (e.g. Rytmus, Yarah Bravo, and DJ Vadim). He has also taken part in few music bands. In 2010, he was the official Czech Republic DJ for End Of The Weak (EOW) – the global hip-hop movement / freestyle rap competition.<br><br>Music genres:<br>- Hiphop<br>- Dubstep<br>- Breakbeat<br>- Liquid Drum&Bass<br><br><br>http://www.facebook.com/djphlegmatic<br><br>Do 22h vstupné 50 Kč.<br>Po 22h vstupné 70 Kč.<br><br><img src="http://img689.imageshack.us/img689/8991/phlegmatic.jpg"><p>		<p><b>Pořadatel:</b>
+		<br><a href="" target="_blank"></a>
+				<p><b>Cena:</b>
+        <b>50/70,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1817','vice1817','skryt1817')"><span id="vice1817">více</span><span id="skryt1817" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1817" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img534.imageshack.us/img534/6429/kolowrat.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1810','vice1810','skryt1810')"></td>
+		<td>
+		<span style="font-size:13px">so 23<span class="yellowtext">.</span> 06<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>30</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">KOLOWRAT </span>(sk)</p>
+		<div style="display:none" id="prog1810">KOLOWRAT (SK, Slnko Recs) + support<br><br>150,- Kč s rezervací<br>200,- Kč bez rezervace <br><br><p>		<p><b>Pořadatel:</b>
+		<br><a href="http://www.am180.org" target="_blank">http://www.am180.org</a>
+				<p><b>Cena:</b>
+        <b>150/200,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1810','vice1810','skryt1810')"><span id="vice1810">více</span><span id="skryt1810" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1810" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img254.imageshack.us/img254/8563/sedlon.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1816','vice1816','skryt1816')"></td>
+		<td>
+		<span style="font-size:13px">čt 28<span class="yellowtext">.</span> 06<span class="yellowtext">.</span> 12, 20<span class="yellowtext">.</span>00</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">JOSEF SEDLOŇ </span>(cz)</p>
+		<div style="display:none" id="prog1816"> + special guest DJ PAVEL KRACÍK (cz)<br><br>Klasické pátky let devadesátých na Sedmičce s Josefem Sedloněm jsou zpět a v plné síle!!<br><br>Classis Hits! EBM, Hip Hop, Indie Rock, Rave, Gothic, Crossover, Industrial, Shoegaze ad.!<br><br><br><p>		<p><b>Pořadatel:</b>
+		<br><a href="http://www.myspace.com/josefsedlon" target="_blank">http://www.myspace.com/josefsedlon</a>
+				<p><b>Cena:</b>
+        <b>50,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1816','vice1816','skryt1816')"><span id="vice1816">více</span><span id="skryt1816" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1816" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img824.imageshack.us/img824/4549/roxor.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1768','vice1768','skryt1768')"></td>
+		<td>
+		<span style="font-size:13px">pá 29<span class="yellowtext">.</span> 06<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>00</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">ROXOR </span>(sk)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> FESTA DESPERATO </span>(cz)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> PRŮMYSLOVÁ SMRT </span>(cz)</p>
+		<div style="display:none" id="prog1768">ROXOR  (sk)                  d-beat / raw punk                  <br><br>www.myspace.com/roxorraw<br><br><br>FESTA DESPERATO       <br>d-beat / metal                            <br><br>www.festadesperato.com<br><br>PRŮMYSLOVÁ SMRT     fast/grind                        www.prumyslovasmrt.cz<br><br>+ afterparty  dj Postman  (punk ) <br><br><img src="http://img195.imageshack.us/img195/4549/roxor.jpg"><p>		<p><b>Pořadatel:</b>
+		<br><a href="" target="_blank"></a>
+				<p><b>Cena:</b>
+        <b>150,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1768','vice1768','skryt1768')"><span id="vice1768">více</span><span id="skryt1768" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1768" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img20.imageshack.us/img20/9954/inertia.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1820','vice1820','skryt1820')"></td>
+		<td>
+		<span style="font-size:13px">so 30<span class="yellowtext">.</span> 06<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>30</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">INERTIA </span>(uk)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> TEAR </span>(cz)</p>
+		<div style="display:none" id="prog1820"><img src="http://img20.imageshack.us/img20/9954/inertia.jpg"><br><br>INERTIA is the Electro-Industrial-Rock project of KILLING JOKE keyboard player, Reza Udhin.<br>The band are currently celebrating their 20th anniversary and are touring to support their current album DEWORLDED.<br>INERTIA also features, ex Killing Joke bassist KNEILL X.<br><br>www.inertia.gs<br><br><br>TEAR (CZ)<br>www.tear.eu<p>		<p><b>Pořadatel:</b>
+		<br><a href="http://www.sanctuary.cz " target="_blank">http://www.sanctuary.cz </a>
+				<p><b>Cena:</b>
+        <b>200,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1820','vice1820','skryt1820')"><span id="vice1820">více</span><span id="skryt1820" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1820" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img841.imageshack.us/img841/5828/rosettaq.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1814','vice1814','skryt1814')"></td>
+		<td>
+		<span style="font-size:13px">po 09<span class="yellowtext">.</span> 07<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>30</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">ROSETTA </span>(usa)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> KINGS DESTROY </span>(usa)</p>
+		<div style="display:none" id="prog1814">ROSETTA (Philadelphia, USA - Translation Loss)<br><br>www.rosettaband.com<br>www.facebook.com/rosettaband<br>www.myspace.com/rosetta<br>www.translationloss.com<br><br>KINGS DESTROY (New York, USA - Maple Forum Records)<br>ex Electric Frankenstein, Uppercut, Killing Time<br><br>www.myspace.com/kingsdestroynyc<br>www.facebook.com/KingsDestroy<br>http://theobelisk.net/obelisk/mapleforum<p>		<p><b>Pořadatel:</b>
+		<br><a href="http://http://www.facebook.com/TwoShovelsEvents" target="_blank">http://http://www.facebook.com/TwoShovelsEvents</a>
+				<p><b>Cena:</b>
+        <b>180,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1814','vice1814','skryt1814')"><span id="vice1814">více</span><span id="skryt1814" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1814" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img829.imageshack.us/img829/7594/demonical.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1815','vice1815','skryt1815')"></td>
+		<td>
+		<span style="font-size:13px">so 21<span class="yellowtext">.</span> 07<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>00</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">DEMONICAL </span>(swe)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> BRUTALLY DECEASED </span>(cz)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> MÖRKHIMMEL </span>(cz)</p>
+		<div style="display:none" id="prog1815">DEMONICAL (old-school death metal / Sweden)<br>Label: Cyclone Empire (Europe) / Metal Blade (north-America)<br>MySpace : www.myspace.com/thedemonicalhorde<br>Web : www.demonical.net<br><br>BRUTALLY DECEASED (old-school death metal / Czech Republic)<br>Label: Lavadome Productions<br>Mysapce: myspace.com/brutallydeceasedband<br>Web : bandzone.cz/brutallydeceased<br><br>MÖRKHIMMEL (metal - punk / Czech Republic)<br>Label: Insane Society<br>Web: http://bandzone.cz/morkhimmel<br><br><img src="http://img829.imageshack.us/img829/7594/demonical.jpg"><p>		<p><b>Pořadatel:</b>
+		<br><a href="http://www.obscure.cz" target="_blank">http://www.obscure.cz</a>
+				<p><b>Cena:</b>
+        <b>200,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1815','vice1815','skryt1815')"><span id="vice1815">více</span><span id="skryt1815" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1815" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img38.imageshack.us/img38/6973/turbokrieg.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1822','vice1822','skryt1822')"></td>
+		<td>
+		<span style="font-size:13px">ne 29<span class="yellowtext">.</span> 07<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>00</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">TURBOKRIEG </span>(usa)<br><span class='yellowtext' style='text-transform:uppercase;font-weight:bold'> GRIDE </span>(cz)
+</p>
+		<div style="display:none" id="prog1822"><img src="http://img38.imageshack.us/img38/6973/turbokrieg.jpg"><p>		<p><b>Pořadatel:</b>
+		<br><a href="" target="_blank"></a>
+				<p><b>Cena:</b>
+        <b>,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1822','vice1822','skryt1822')"><span id="vice1822">více</span><span id="skryt1822" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1822" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+			<table cellpadding="0" cellspacing="0" style="width:700px">
+				<tr>
+		<td style="width:100px" rowspan="2"><img src="http://img824.imageshack.us/img824/2332/baroness.jpg" alt="" style="border:0px;width:85px"  onclick="rozbalit('prog1807','vice1807','skryt1807')"></td>
+		<td>
+		<span style="font-size:13px">pá 03<span class="yellowtext">.</span> 08<span class="yellowtext">.</span> 12, 19<span class="yellowtext">.</span>30</span>
+		<p><span class="yellowtext" style="text-transform:uppercase;font-weight:bold">BARONESS </span>(usa)</p>
+		<div style="display:none" id="prog1807"><img src="http://img824.imageshack.us/img824/2332/baroness.jpg"><br><br>Metaloví Baroness obsadí Sedmičku krátce po vydání nového alba<br>Baroness jsou kapela z města Savannah v Georgii,jejíž členové spolu vyrostli v Lexingtonu ve Virginii. Ve své hudbě kombinují  sludge metal, progressive metal a punk . Výsledkem je zvuk podobný kapelám Mastodon a  Kylesa, přesto si zachovávají hudební originalitu.<br>Vznikli v polovině roku 2003, založili je původní členové punkmetalové kapely Johnny Welfare and the Paychecks.  Zpěvák  John Baizley je autorem výtvarné podoby všech alb Baroness , maloval i obaly dalších kapel  a labelů jako Darkest Hour, The Red Chord, Vitamin X,  Skeletonwitch, Sounds of the Underground, Kylesa, Kvelertak, Black Tusk, Daughters, Torche, Pig D  estroyer  a  Magrudergrind/Shitstorm  grindcore CD na Robotic Empire. <br>Od roku 2004 do 2007 Baroness nahráli a vydali tři EPs - First, Second a A Grey Sigh in a Flower Husk (aka Third), třetím je společné album s Unpersons.<br>Své první album začali Baroness nahrávat v březnu 2007. The Red Album  vyšlo 4. září 2007 a setkalo se s velice pozitivní reakcí. Metalový časopis Revolver  jej zvolil Albem roku. 1.prosince 2007 Baroness vystoupili v newyorském Bowery Ballroom. V září 2008 kapela přes  MySpace oznámila, že  Brian Blickle odchází a je nahrazen novým kytaristou Peterem Adamsem z další kapely z Virginie jménem  Valkyrie.<br>V letech 2007–9, Baroness jeli turné a vystupovali s mnoha dalšími kapelami jako Converge, The Red Chord, High on Fire, Opeth, Coheed and Cambria, Coliseum, Mastodon, Minsk a Clutch.<br>18.května 2009 Baroness začali ve studiu  The Track Studio v Plan v Texasu nahrávat svoje druhé album  Blue Record, které produkoval John Congleton (The Roots, Explosions in the Sky, Black Mountain, The Polyphonic Spree). Album vyšlo na Relapse Records 13. října 2009.<br>Rok 2010 byl plný koncertování. V únoru a březnu hráli na australském Soundwave Festival, společně s kapelami jako  Clutch, Isis, Meshuggah, Janes Addiction a Faith No More a jeli turné po Japonsku.  Byli také předkapelou  Mastodon a Deftones na jejich turné po USA a jako jedna ze dvou předkapel (druhá byla Lamb of God)  Metallicy na jejich turné po Austrálii a Novém Zélandě. V témže roce hráli Baroness také na festivalech Coachella a Bonnaroo .<br>23.května 2011 kapela spustila své oficiální webové stránky a informovala o natáčení nového alba opět v produkci Johna Congletona. To vyjde pod názvem Yellow & Green 17.července 2012 na labelu Relapse a 3.srpna vystoupí Baroness v pražském klubu 007 na Strahově.<br><br>Vstupenky za 210,- Kč + poplatky budou k zakoupení v síti Ticketpro, na místě pak za 250,- Kč.<br><br>Více info na:<br>www.baronessmusic.com <br>www.facebook.com/YourBaroness<br>www.dsmacku.com<br>www.facebook.com/dsmackupromotion<br><p>		<p><b>Pořadatel:</b>
+		<br><a href="http://www.dsmacku.com" target="_blank">http://www.dsmacku.com</a>
+				<p><b>Cena:</b>
+        <b>250,-</b><br>		</div>
+		</td></tr>
+		<tr>
+		<td style="text-align:right;height:13px"><img src="img/program_punkt.gif" alt=""> <span style="cursor: pointer;cursor: hand" onclick="rozbalit('prog1807','vice1807','skryt1807')"><span id="vice1807">více</span><span id="skryt1807" style="display:none">skrýt</span> info</span> <span class="yellowtext">.</span>
+		<a href="index.php?subsect=rez1&pid=1807" class="gbooklink">rezervace</a></td>
+		</tr>
+		</table>
+		<img src="img/body_line.gif" alt="" style="margin:10 0 10 4">
+	<p align="right">&nbsp;<span class='yellowtext'><b>|</b></span>&nbsp;1&nbsp;<span class='yellowtext'><b>|</b></span>&nbsp;<a href="index.php?subsect=view&amp;co=bude&amp;str=1&amp;lot=30" class="gbooklink">2</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  	
+  	</td>
+  </tr>
+  <tr>
+  	<td><img src="img/foot.gif" alt="" style="width:753px;height:31px;margin:0px;border:0px" usemap="#footlinks">
+  <map name="footlinks">
+  <area href="http://www.ladrogang.cz" shape="rect" coords="20,8,77,26" alt="" target="_blank">
+  <area href="http://www.skaweb.cz" shape="rect" coords="87,8,128,26" alt="" target="_blank">
+  <area href="http://www.silver-rocket.org" shape="rect" coords="138,8,218,26" alt="" target="_blank">
+  <area href="http://www.dayafter.cz/" shape="rect" coords="226,8,285,26" alt="" target="_blank">
+  <area href="http://www.maximum.cz" shape="rect" coords="295,8,416,26" alt="" target="_blank">
+  <area href="http://www.mightysounds.cz" shape="rect" coords="427,8,510,26" alt="" target="_blank">
+  <area href="http://www.conspiracy.cz" shape="rect" coords="521,8,582,26" alt="" target="_blank">
+  <area href="http://www.rockabilly.cz" shape="rect" coords="592,8,669,26" alt="" target="_blank">
+  <area href="http://www.czechcore.cz" shape="rect" coords="681,8,737,26" alt="" target="_blank">
+  </map>
+  	</td>
+  </tr>
+  </table>
+	
+  
+  </body>
+</html>
