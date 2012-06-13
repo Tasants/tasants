@@ -4,13 +4,13 @@ class EventImportMuseotFiTest extends TasantsTestCase {
     public function testParsing() {
         $service = new EventImportService();
         $events = $service->Parse(new EventImportMuseotFi());
-        $this->assertEquals(242, sizeof($events));
+        $this->assertEquals(271, sizeof($events));
 
         $event = $events[0];
         /* @var $event EventData */
-        $this->assertEquals("Keskitalven uni (15.1. - 26.2.2012)", $event->Name());
+        $this->assertEquals("Kyllikki Haavisto: Found - Founded - Disappeared (20.6. - 2.9.2012)", $event->Name());
         $this->assertEquals("Nelimarkka-museo, Etelä-Pohjanmaan aluetaidemuseo ja Nelimarkka-residenssi", $event->Place());
         $this->assertEquals("Alajärvi", $event->City());
-        $this->assertEquals("15.1.2012", $event->Date());
+        $this->assertEquals("20.6.2012", $event->Date());
     }
 }
